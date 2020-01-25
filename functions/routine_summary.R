@@ -1,3 +1,7 @@
+###################################################################
+### Code to process recreated line lists to produce githb outputs #
+###################################################################
+
 #Unique source compiler
 
 #expects a dataset formatted as per ncov_hubei.csv with x$source
