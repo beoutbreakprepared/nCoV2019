@@ -36,6 +36,7 @@ We first want to thank all those individuals and organizations across the world 
 
 # Contributions
 ## Sources
+[Current sources used](/source_list.csv) Last updated 25th January
 
 ## Specific Contributors
 
