@@ -7,6 +7,7 @@ We first want to thank all those individuals and organizations across the world 
 
 # Reconstructed line lists
 [Hubei cases](/ncov_hubei.csv) Last updated: 1900 GMT 25th January 2020
+
 [Outside Hubei cases](/ncov_outside_hubei.csv) Last updated: 1900 GMT 25th January 2020
 
 
