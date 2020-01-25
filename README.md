@@ -11,7 +11,8 @@ We first want to thank all those individuals and organizations across the world 
 [Outside Hubei cases](/ncov_outside_hubei.csv) Last updated: 1900 GMT 25th January 2020
 
 # Basic summary stats
-![Sex](/outputs/sex_summary.png)
+## Sex
+![alt_text](/outputs/sex_summary.png)
 
 
 
