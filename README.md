@@ -12,7 +12,7 @@ We first want to thank all those individuals and organizations across the world 
 
 # Basic summary stats
 ## Sex
-![alt_text](/outputs/sex_summary.png)
+![alt_text](outputs/sex_summary.png)
 
 
 
