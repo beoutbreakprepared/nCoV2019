@@ -12,7 +12,7 @@ We first want to thank all those individuals and organizations across the world 
 
 # Basic summary stats
 ## Countries reporting cases
-![alt_text](outputs/country_counts.csv)
+![alt_text](outputs/country_summary.png)
 ## Sex
 ![alt_text](outputs/sex_summary.png)
 
