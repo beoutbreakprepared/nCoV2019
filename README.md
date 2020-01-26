@@ -46,13 +46,13 @@ We first want to thank all those individuals and organizations across the world 
 Name | Email | Twitter | Github
 -----|-------|---------|-------
 Bernardo Gutierrez | | |
-Sarah Hill | | |
-Moritz Kraemer | | |
-Alyssa Loskill | | |
-Sumiko Mekaru | | |
-David Pigott | | |
-Sam Scarpino | | |
-Kara Sewalk | | |
-Jessie Wu | | |
-Bo Xu | | |
+Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
+Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
+Alyssa Loskill | aloskill@bu.edu | |
+Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
+David Pigott | pigottdm@uw.edu | @davidmpigott |
+Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
+Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
+Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu
+Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 |
 
