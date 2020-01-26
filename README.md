@@ -45,7 +45,7 @@ We first want to thank all those individuals and organizations across the world 
 
 Name | Email | Twitter | Github
 -----|-------|---------|-------
-Bernardo Gutierrez | | |
+Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
 Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
 Alyssa Loskill | aloskill@bu.edu | |
