@@ -6,12 +6,12 @@ We first want to thank all those individuals and organizations across the world 
 
 
 # Reconstructed line lists
-[Hubei cases](/ncov_hubei.csv) Last updated: 0000 GMT 28th January 2020
+[Hubei cases](/ncov_hubei.csv) Last updated: 1911 GMT 30th January 2020
 
-[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated: 0000 GMT 28th January 2020
+[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated: 1911 GMT 30th January 2020
 
 # Basic summary stats
-## Sex
+## Sex (updated 25th Jan 2020)
 ![alt_text](outputs/sex_summary.png)
 
 
