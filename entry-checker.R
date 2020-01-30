@@ -1,5 +1,67 @@
 #!/usr/bin/env Rscript
 
+#' -----------------------------------------------------------------------------
+#' entry-checker.R
+#'
+#' A tool to perform basic checks on a CSV containing data about the ongoing
+#' coronavirus outbreak.
+#' -----------------------------------------------------------------------------
+#' USAGE
+#'
+#' $ ./entry-checker.R
+#'
+#' -----------------------------------------------------------------------------
+#' CHANGELOG
+#'
+#' - 29-01-2020
+#'   + Include some sensible tests suggested by Erin Frame.
+#'
+#' - 28-01-2020
+#'   + Basic test to check some entries match regexes
+#' -----------------------------------------------------------------------------
+
+
+#' We want the dates to parse to something that is not in the future and not before January 2019. Since there are multiple ways the data can be expressed, we need to be careful to check that they all make sense.
+
+.is_plausible_date_string <- function(date_string) {
+  .as_date <- function(ds) {
+    as.Date(ds, format = "%d.%m.%Y")
+  }
+
+  .is_plausible <- function(x) {
+    (x <= Sys.Date()) & (x > as.Date("01.01.2019", format = "%d.%m.%Y"))
+  }
+
+  if (grepl(pattern = "^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$", x = date_string)) {
+    .is_plausible(.as_date(date_string))
+  } else if (grepl(pattern = "^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$", x = date_string)) {
+    two_dates <- lapply(unlist(strsplit(x = date_string, split = "-")), .as_date)
+    all(sapply(two_dates, .is_plausible)) & (two_dates[[1]] < two_dates[[2]])
+  } else if (grepl(pattern = "(-[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}-$)", x = date_string)) {
+    .is_plausible(.as_date(gsub(x = date_string, pattern = "-", replacement = "")))
+  } else {
+    FALSE
+  }
+}
+
+dates_parse_to_plausible_values <- list(
+  is_good = function(df) {
+    all_date_strings <- c(
+      df$date_onset_symptoms,
+      df$date_admission_hospital,
+      df$date_confirmation
+    )
+    non_empty_mask <- all_date_strings != ""
+    non_empty_date_strings <- all_date_strings[non_empty_mask]
+    all(sapply(non_empty_date_strings, .is_plausible_date_string))
+  },
+  success_message = "all dates can be parsed and are plausible.\n",
+  error_message = function(df) {
+    "look at the dates_parse_to_plausible_values test for details.\n"
+  }
+)
+
+
 #' We want the dates to match either the empty string (missing date), a single
 #' date in form \code{dd.mm.yyyy} or a pair of these values separated by a
 #' hyphen. If one of the hyphen-separated values is the empty string we assume a
@@ -13,9 +75,9 @@ sensible_dates <- list(
       .date_regex_check(df$date_confirmation)
     ))
   },
-  success_message = "all dates match regex\n",
+  success_message = "all dates match regex for dd.mm.yyyy or a range of these.\n",
   error_message = function(df) {
-    "at least one date string does not look right.\n"
+    "look at the sensible_dates test for details.\n"
   }
 )
 
@@ -28,7 +90,7 @@ sensible_ages <- list(
   },
   success_message = "all ages match regex\n",
   error_message = function(df) {
-    "at least one age entry does not look right.\n"
+    "look at the sensible_ages test for details.\n"
   }
 )
 
@@ -47,7 +109,12 @@ main <- function() {
   data_file <- "ncov_hubei.csv"
   cat("\t", sprintf("Checking file: %s\n", data_file))
   df <- read.csv(data_file, stringsAsFactors = FALSE)
-  tests <- list(sensible_dates, sensible_ages, distinct_ids)
+  tests <- list(
+    sensible_dates,
+    dates_parse_to_plausible_values,
+    sensible_ages,
+    distinct_ids
+  )
   for (test in tests) {
     if (test$is_good(df)) {
       cat("\t\t", test$success_message)
