@@ -65,7 +65,7 @@ As the data are updated regularly, please update the retrieval date in the `howp
 
 ```{bibtex}
 @misc{kraemer2020epidemiological,
-  author =       {nCoV-2019 Working Group},
+  author =       {nCoV-2019 Data Working Group},
   title =        {{Epidemiological Data from the nCoV-2019 Outbreak: Early
                   Descriptions from Publicly Available Data}},
   howpublished = {Accessed on yyyy-mm-dd from
