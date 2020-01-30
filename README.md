@@ -65,10 +65,7 @@ As the data are updated regularly, please update the retrieval date in the `howp
 
 ```{bibtex}
 @misc{kraemer2020epidemiological,
-  author =       {Xu, Bo and Gutierrez, Bernardo and Hill, Sarah and Scarpino,
-                  Samuel and Loskill, Alyssa and Wu, Jessie and Sewalk, Kara and
-                  Mekaru, Sumiko and Zarebski, Alexander and Pybus, Oliver and
-                  Pigott, David and Kraemer, Moritz},
+  author =       {nCoV-2019 Working Group},
   title =        {{Epidemiological Data from the nCoV-2019 Outbreak: Early
                   Descriptions from Publicly Available Data}},
   howpublished = {Accessed on yyyy-mm-dd from
