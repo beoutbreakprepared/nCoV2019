@@ -85,6 +85,19 @@ sensible_dates <- list(
   },
   success_message = "all dates match regex for dd.mm.yyyy or a range of these.\n",
   error_message = function(df) {
+
+      mask <- function(x) {
+          grepl(pattern = "(^$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}-[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|-[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}-$)", x = x)
+      }
+
+      print("=======================================")
+      print("The errors in sensible date test apply to IDs ...")
+      print(df$ID[!mask(df$date_onset_symptoms)])
+      print(df$ID[!mask(df$date_admission_hospital)])
+      print(df$ID[!mask(df$date_confirmation)])
+      print("but there may be others...")
+      print("=======================================")
+
     "look at the sensible_dates test for details.\n"
   }
 )
