@@ -8,10 +8,18 @@
 #' -----------------------------------------------------------------------------
 #' USAGE
 #'
-#' $ ./entry-checker.R
+#'  $ ./entry-checker.R
+#'
+#' It will also work from an interactive session:
+#'
+#'  > source("entry-checker.R")
+#'  > main()
 #'
 #' -----------------------------------------------------------------------------
 #' CHANGELOG
+#'
+#' - 31-01-2020
+#'   + Report any IDs that have been duplicated.
 #'
 #' - 29-01-2020
 #'   + Include some sensible tests suggested by Erin Frame.
@@ -96,17 +104,27 @@ sensible_ages <- list(
 
 distinct_ids <- list(
   is_good = function(df) {
-    nrow(df) == length(unique(df$ID))
+      length(df$ID) == length(unique(df$ID))
   },
   success_message = "all identifiers are distinct\n",
   error_message = function(df) {
-    "the number of rows does not equal the number of unique ID values.\n"
+
+      f <- function(x) x[table(x) > 1]
+      print("=======================================")
+      print("The following IDs appear to be duplicated...")
+      print(f(df$ID))
+      if (any(is.na(df$ID))) {
+          print("There may be missing IDs...")
+      }
+      print("=======================================")
+
+      "the number of rows does not equal the number of unique ID values.\n"
   }
 )
 
 main <- function() {
   cat("Entry checker\n")
-  data_file <- "ncov_hubei.csv"
+  data_file <- "provisional-Hubei.csv"
   cat("\t", sprintf("Checking file: %s\n", data_file))
   df <- read.csv(data_file, stringsAsFactors = FALSE)
   tests <- list(
