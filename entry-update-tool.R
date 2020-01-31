@@ -7,14 +7,18 @@
 #' ------------------------------------------------------------------------------
 #' Usage
 #'
-#'  ./entry-update-tool.R <KEY>
+#'  $ ./entry-update-tool.R <KEY>
 #'
-#' where the KEY is the key for the google sheet.
+#' where the KEY is the key for the google sheet. This file can also be sourced and used in an interactive R session:
+#'
+#'  > source("entry-update-tool.R")
+#'  > main(<KEY>)
 #'
 #' ------------------------------------------------------------------------------
 #' CHANGELOG
 #'
 #' - 31-01-2020
+#'   + Adjust how the key for the sheet is introduced.
 #'   + Use the R package httr instead.
 #'   + Any use of curl is removed.
 #'   + Any use of git is removed.
