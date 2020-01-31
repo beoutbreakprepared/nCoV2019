@@ -37,10 +37,10 @@ IO.get_sheet_as_csv <- function(key, sheet_name) {
     url <- sprintf("https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet=%s", key, sheet_name)
     output_filename <- sprintf("provisional-%s.csv", sheet_name)
 
-    did_work <- 0 == system2("curl", args = c("-o", output_file, url), wait = TRUE)
-
+    httr::GET(url, httr::write_disk(output_file, overwrite=TRUE))
     Sys.sleep(4)
-    if (did_work) {
+
+    if (IO.is_filename(output_filename)) {
         output_file
     } else {
         NA
@@ -59,14 +59,12 @@ IO.is_filename <- function(maybe_filename) {
     }
 }
 
-main <- function() {
+main <- function(key) {
     #' Check that the required packages are available without loading them.
     if (!IO.are_installed(c("httr"))) {
         stop("There appear to be missing packages!")
     }
 
-    #' Maybe don't include this for security purposes...
-    key <- commandArgs(trailingOnly = T)[1]
 
     sheet_names <- c("Hubei")
 
@@ -81,5 +79,7 @@ main <- function() {
 }
 
 if (!interactive()) {
-    main()
+    #' Maybe don't include this for security purposes...
+    key <- commandArgs(trailingOnly = T)[1]
+    main(key)
 }
