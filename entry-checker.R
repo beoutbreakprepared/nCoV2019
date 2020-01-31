@@ -65,7 +65,23 @@ dates_parse_to_plausible_values <- list(
   },
   success_message = "all dates can be parsed and are plausible.\n",
   error_message = function(df) {
-    "look at the dates_parse_to_plausible_values test for details.\n"
+
+      all_date_strings <- c(
+          df$date_onset_symptoms,
+          df$date_admission_hospital,
+          df$date_confirmation
+      )
+      non_empty_mask <- all_date_strings != ""
+      non_empty_date_strings <- all_date_strings[non_empty_mask]
+      mask <- sapply(non_empty_date_strings, .is_plausible_date_string)
+
+      print("=======================================")
+      print("The errors in sensible date test apply to IDs ...")
+      print(df$ID[!mask])
+      print("but there may be others...")
+      print("=======================================")
+
+      "look at the dates_parse_to_plausible_values test for details.\n"
   }
 )
 
