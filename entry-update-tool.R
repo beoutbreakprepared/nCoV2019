@@ -9,7 +9,8 @@
 #'
 #'  $ ./entry-update-tool.R <KEY>
 #'
-#' where the KEY is the key for the google sheet. This file can also be sourced and used in an interactive R session:
+#' where the KEY is the key for the google sheet. This file can also be sourced
+#' and used in an interactive R session:
 #'
 #'  > source("entry-update-tool.R")
 #'  > main(<KEY>)
@@ -32,23 +33,23 @@
 #' @param pkgNames a character vector of package names
 #'
 IO.are_installed <- function(pkgNames) {
-    installed_packages <- installed.packages()[,"Package"]
-    all(sapply(pkgNames, function(pn) pn %in% installed_packages))
+  installed_packages <- installed.packages()[, "Package"]
+  all(sapply(pkgNames, function(pn) pn %in% installed_packages))
 }
 
 #' Need to sleep because \code{system2} does not appear to wait properly.
 IO.get_sheet_as_csv <- function(key, sheet_name) {
-    url <- sprintf("https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet=%s", key, sheet_name)
-    output_filename <- sprintf("provisional-%s.csv", sheet_name)
+  url <- sprintf("https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet=%s", key, sheet_name)
+  output_filename <- sprintf("provisional-%s.csv", sheet_name)
 
-    httr::GET(url, httr::write_disk(output_filename, overwrite=TRUE))
-    Sys.sleep(4)
+  httr::GET(url, httr::write_disk(output_filename, overwrite = TRUE))
+  Sys.sleep(4)
 
-    if (IO.is_filename(output_filename)) {
-        output_filename
-    } else {
-        NA
-    }
+  if (IO.is_filename(output_filename)) {
+    output_filename
+  } else {
+    NA
+  }
 }
 
 #' Predicate for whether something is a valid filename or a \code{NA}
@@ -56,34 +57,34 @@ IO.get_sheet_as_csv <- function(key, sheet_name) {
 #' @param maybe_filename either \code{NA} or a filename
 #'
 IO.is_filename <- function(maybe_filename) {
-    if (!is.na(maybe_filename)) {
-        file.exists(maybe_filename)
-    } else {
-        FALSE
-    }
+  if (!is.na(maybe_filename)) {
+    file.exists(maybe_filename)
+  } else {
+    FALSE
+  }
 }
 
 main <- function(key) {
-    #' Check that the required packages are available without loading them.
-    if (!IO.are_installed(c("httr"))) {
-        stop("There appear to be missing packages!")
+  #' Check that the required packages are available without loading them.
+  if (!IO.are_installed(c("httr"))) {
+    stop("There appear to be missing packages!")
+  }
+
+
+  sheet_names <- c("Hubei", "outside_Hubei")
+
+  cat("\nGetting the CSV files from Google...\n")
+  for (sheet_name in sheet_names) {
+    cat("\t", sheet_name, "\n")
+    maybe_filename <- IO.get_sheet_as_csv(key, sheet_name)
+    if (!IO.is_filename(maybe_filename)) {
+      warning(sprintf("Failed to get: %s", sheet_name))
     }
-
-
-    sheet_names <- c("Hubei", "outside_Hubei")
-
-    cat("\nGetting the CSV files from Google...\n")
-    for (sheet_name in sheet_names) {
-        cat("\t", sheet_name, "\n")
-        maybe_filename <- IO.get_sheet_as_csv(key, sheet_name)
-        if (!IO.is_filename(maybe_filename)) {
-            warning(sprintf("Failed to get: %s", sheet_name))
-        }
-    }
+  }
 }
 
 if (!interactive()) {
-    #' Maybe don't include this for security purposes...
-    key <- commandArgs(trailingOnly = T)[1]
-    main(key)
+  #' Maybe don't include this for security purposes...
+  key <- commandArgs(trailingOnly = T)[1]
+  main(key)
 }
