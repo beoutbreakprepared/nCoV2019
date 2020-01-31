@@ -37,11 +37,11 @@ IO.get_sheet_as_csv <- function(key, sheet_name) {
     url <- sprintf("https://docs.google.com/spreadsheets/d/%s/gviz/tq?tqx=out:csv&sheet=%s", key, sheet_name)
     output_filename <- sprintf("provisional-%s.csv", sheet_name)
 
-    httr::GET(url, httr::write_disk(output_file, overwrite=TRUE))
+    httr::GET(url, httr::write_disk(output_filename, overwrite=TRUE))
     Sys.sleep(4)
 
     if (IO.is_filename(output_filename)) {
-        output_file
+        output_filename
     } else {
         NA
     }
@@ -66,7 +66,7 @@ main <- function(key) {
     }
 
 
-    sheet_names <- c("Hubei")
+    sheet_names <- c("Hubei", "outside_Hubei")
 
     cat("\nGetting the CSV files from Google...\n")
     for (sheet_name in sheet_names) {
