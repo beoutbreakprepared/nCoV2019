@@ -98,10 +98,23 @@ sensible_ages <- list(
   },
   success_message = "all ages match regex\n",
   error_message = function(df) {
+
+      mask <- function(x) {
+          grepl(pattern = "(^$|^[0-9]+$|^[0-9]+-[0-9]+)", x = x)
+      }
+
+      print("=======================================")
+      print("The errors in sensible age test apply to IDs ...")
+      print(df$ID[!mask(df$age)])
+      print("but there may be others...")
+      print("=======================================")
+
     "look at the sensible_ages test for details.\n"
   }
 )
 
+#' We want each ID to be a unique positive integer so this checks that is
+#' approximately correct.
 distinct_ids <- list(
   is_good = function(df) {
       length(df$ID) == length(unique(df$ID))
