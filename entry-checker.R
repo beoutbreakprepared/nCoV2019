@@ -8,10 +8,18 @@
 #' -----------------------------------------------------------------------------
 #' USAGE
 #'
-#' $ ./entry-checker.R
+#'  $ ./entry-checker.R
+#'
+#' It will also work from an interactive session:
+#'
+#'  > source("entry-checker.R")
+#'  > main()
 #'
 #' -----------------------------------------------------------------------------
 #' CHANGELOG
+#'
+#' - 31-01-2020
+#'   + Report the IDs that appear to have failed the tests.
 #'
 #' - 29-01-2020
 #'   + Include some sensible tests suggested by Erin Frame.
@@ -57,6 +65,21 @@ dates_parse_to_plausible_values <- list(
   },
   success_message = "all dates can be parsed and are plausible.\n",
   error_message = function(df) {
+    all_date_strings <- c(
+      df$date_onset_symptoms,
+      df$date_admission_hospital,
+      df$date_confirmation
+    )
+    non_empty_mask <- all_date_strings != ""
+    non_empty_date_strings <- all_date_strings[non_empty_mask]
+    mask <- sapply(non_empty_date_strings, .is_plausible_date_string)
+
+    print("=======================================")
+    print("The errors in sensible date test apply to IDs ...")
+    print(df$ID[!mask])
+    print("but there may be others...")
+    print("=======================================")
+
     "look at the dates_parse_to_plausible_values test for details.\n"
   }
 )
@@ -77,6 +100,18 @@ sensible_dates <- list(
   },
   success_message = "all dates match regex for dd.mm.yyyy or a range of these.\n",
   error_message = function(df) {
+    mask <- function(x) {
+      grepl(pattern = "(^$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}-[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|-[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}$|^[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}-$)", x = x)
+    }
+
+    print("=======================================")
+    print("The errors in sensible date test apply to IDs ...")
+    print(df$ID[!mask(df$date_onset_symptoms)])
+    print(df$ID[!mask(df$date_admission_hospital)])
+    print(df$ID[!mask(df$date_confirmation)])
+    print("but there may be others...")
+    print("=======================================")
+
     "look at the sensible_dates test for details.\n"
   }
 )
@@ -90,23 +125,44 @@ sensible_ages <- list(
   },
   success_message = "all ages match regex\n",
   error_message = function(df) {
+    mask <- function(x) {
+      grepl(pattern = "(^$|^[0-9]+$|^[0-9]+-[0-9]+)", x = x)
+    }
+
+    print("=======================================")
+    print("The errors in sensible age test apply to IDs ...")
+    print(df$ID[!mask(df$age)])
+    print("but there may be others...")
+    print("=======================================")
+
     "look at the sensible_ages test for details.\n"
   }
 )
 
+#' We want each ID to be a unique positive integer so this checks that is
+#' approximately correct.
 distinct_ids <- list(
   is_good = function(df) {
-    nrow(df) == length(unique(df$ID))
+    length(df$ID) == length(unique(df$ID))
   },
   success_message = "all identifiers are distinct\n",
   error_message = function(df) {
+    f <- function(x) x[table(x) > 1]
+    print("=======================================")
+    print("The following IDs appear to be duplicated...")
+    print(f(df$ID))
+    if (any(is.na(df$ID))) {
+      print("There may be missing IDs...")
+    }
+    print("=======================================")
+
     "the number of rows does not equal the number of unique ID values.\n"
   }
 )
 
 main <- function() {
   cat("Entry checker\n")
-  data_file <- "ncov_hubei.csv"
+  data_file <- "provisional-Hubei.csv"
   cat("\t", sprintf("Checking file: %s\n", data_file))
   df <- read.csv(data_file, stringsAsFactors = FALSE)
   tests <- list(
