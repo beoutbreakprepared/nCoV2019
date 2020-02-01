@@ -6,9 +6,12 @@ We first want to thank all those individuals and organizations across the world 
 
 
 # Reconstructed line lists
-[Hubei cases](/ncov_hubei.csv) Last updated: 1911 GMT 30th January 2020
 
-[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated: 1911 GMT 30th January 2020
+Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
+
+[Hubei cases](/ncov_hubei.csv) Last updated to public sheet: 1930 GMT 1st February 2020
+
+[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 1930 GMT 1st February 2020
 
 # Basic summary stats
 ## Sex (updated 25th Jan 2020)
@@ -48,13 +51,13 @@ Name | Email | Twitter | Github
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
 Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
-Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli | 
+Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
 Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
 David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
 Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
-Lin Wang | lin.wang@pasteur.fr | @fdlwang | 
+Lin Wang | lin.wang@pasteur.fr | @fdlwang |
 Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu
 Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 | @BoXu123
 Alexander Zabreski | | |
