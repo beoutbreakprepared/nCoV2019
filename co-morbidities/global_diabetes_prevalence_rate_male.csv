@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Global,2017,0-6 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,7-27 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,28-364 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,1-4 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",6.201690107,3.57252052,9.909402838
+Global,2017,5-9 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",71.79339555,51.12997516,97.86231162
+Global,2017,10-14 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",325.0894408,245.779794,407.902873
+Global,2017,15-19 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",1009.945419,762.2657934,1303.093989
+Global,2017,20-24 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",2119.803417,1636.995621,2631.428997
+Global,2017,25-29 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",3456.048678,2738.90004,4229.685481
+Global,2017,30-34 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",4775.719335,3970.149607,5736.815767
+Global,2017,35-39 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",6406.477916,5444.271014,7459.635282
+Global,2017,40-44 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",8393.07856,7127.57434,9738.902263
+Global,2017,45-49 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",10556.0927,9179.901617,12187.87879
+Global,2017,50-54 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12897.74154,11357.90531,14679.4297
+Global,2017,55-59 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",15666.57582,13982.22198,17653.44429
+Global,2017,60-64 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",17896.06783,16043.56969,19950.32161
+Global,2017,65-69 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",19927.27728,17833.8817,22232.52638
+Global,2017,70-74 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",21615.6633,19351.643,24048.38358
+Global,2017,75-79 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",22969.94206,20577.80444,25379.7596
+Global,2017,80-84,Male,Diabetes mellitus,"Prevalent cases per 100,000",24198.66226,21847.8167,26792.61457
+Global,2017,85-89,Male,Diabetes mellitus,"Prevalent cases per 100,000",24687.62143,22301.81798,27411.69585
+Global,2017,90-94,Male,Diabetes mellitus,"Prevalent cases per 100,000",24200.09306,21856.80413,26902.39957
+Global,2017,95+ years,Male,Diabetes mellitus,"Prevalent cases per 100,000",22939.79604,20607.10142,25610.03007

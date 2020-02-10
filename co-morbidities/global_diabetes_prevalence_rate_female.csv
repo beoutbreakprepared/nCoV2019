@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Global,2017,0-6 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,7-27 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,28-364 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+Global,2017,1-4 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",6.768785964,3.906236065,10.67749857
+Global,2017,5-9 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",75.85841675,55.19115262,104.1314631
+Global,2017,10-14 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",336.5246563,258.2879942,419.2114059
+Global,2017,15-19 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",999.9285829,756.4342219,1282.021825
+Global,2017,20-24 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",1949.616888,1506.651939,2397.497894
+Global,2017,25-29 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",2965.899399,2359.394512,3594.803407
+Global,2017,30-34 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",3971.405393,3309.799227,4738.361727
+Global,2017,35-39 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",5284.768684,4482.270407,6201.766812
+Global,2017,40-44 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",6840.504302,5810.91564,8011.965836
+Global,2017,45-49 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",8797.893174,7675.432725,10223.34242
+Global,2017,50-54 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",11180.8684,9791.413792,12829.14815
+Global,2017,55-59 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",13940.17769,12340.12354,15801.86727
+Global,2017,60-64 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",16322.85219,14494.3415,18321.34075
+Global,2017,65-69 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",18260.65295,16226.06021,20478.51575
+Global,2017,70-74 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",19902.71351,17707.14077,22204.06146
+Global,2017,75-79 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",21482.3575,19160.31337,23793.38801
+Global,2017,80-84,Female,Diabetes mellitus,"Prevalent cases per 100,000",22725.02621,20435.72312,25272.33422
+Global,2017,85-89,Female,Diabetes mellitus,"Prevalent cases per 100,000",22879.02918,20613.71696,25505.86966
+Global,2017,90-94,Female,Diabetes mellitus,"Prevalent cases per 100,000",21835.5156,19612.99614,24396.322
+Global,2017,95+ years,Female,Diabetes mellitus,"Prevalent cases per 100,000",20070.37623,17943.36731,22534.87148

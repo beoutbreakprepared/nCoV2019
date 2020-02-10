@@ -1,0 +1,20 @@
+Mordibity data provenance
+
+Global Burden of Disease Study 2017. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.
+Available from http://vizhub.healthdata.org/gbd-compare/
+For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions
+
+Diabetes mellitus (B.8.1 within GBD hierarchy)
+Combined prevalence of type 1 and type 2 diabetes (B.8.1.1 and B.8.1.2)
+
+Provisional formatting (last updated on 10th February 2020)
+
+Location: Reference of Global Burden of Disease hierarchy; character field
+Year: Year of estimate; numeric field
+Age: Age group distinction; character field
+Sex: Sex of estimate; character field Male Female
+Measure: Health measure reported; character field "Prevalent cases per 100,000"
+Value: Mean estimated value in Measure reported; numeric field
+Lower bound: Lower bound of estimate of Measure reported; numeric field
+Upper bound: Upper bound of estimate of Measure reported; numeric field
+

@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+China,2017,0-6 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+China,2017,7-27 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+China,2017,28-364 days,Female,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
+China,2017,1-4 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",0.734255109,0.346461501,1.231528751
+China,2017,5-9 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",7.561124412,4.491865744,11.66232045
+China,2017,10-14 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",41.63461566,26.67783314,60.73546412
+China,2017,15-19 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",484.2450063,348.5579164,625.8431609
+China,2017,20-24 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",1987.741798,1450.718881,2536.548809
+China,2017,25-29 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",3041.061521,2335.714399,3758.754395
+China,2017,30-34 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",3713.537167,2974.290803,4540.515444
+China,2017,35-39 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",4428.388863,3664.051046,5306.156413
+China,2017,40-44 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",5354.193944,4504.638038,6368.417024
+China,2017,45-49 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",6963.985093,6012.19233,8094.06508
+China,2017,50-54 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",9109.745727,7917.513807,10525.20241
+China,2017,55-59 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",11155.23674,9835.641617,12753.28226
+China,2017,60-64 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",12781.73768,11336.26159,14444.59597
+China,2017,65-69 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",13843.41565,12265.01675,15630.41839
+China,2017,70-74 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",14294.46691,12731.66957,16150.78892
+China,2017,75-79 years,Female,Diabetes mellitus,"Prevalent cases per 100,000",14403.89138,12799.4426,16247.6517
+China,2017,80-84,Female,Diabetes mellitus,"Prevalent cases per 100,000",14245.05294,12685.00898,16084.21492
+China,2017,85-89,Female,Diabetes mellitus,"Prevalent cases per 100,000",13685.15529,12166.53093,15507.25711
+China,2017,90-94,Female,Diabetes mellitus,"Prevalent cases per 100,000",12818.65059,11342.17834,14567.59306
+China,2017,95+ years,Female,Diabetes mellitus,"Prevalent cases per 100,000",11791.17665,10386.45954,13465.26736
