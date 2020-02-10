@@ -1,0 +1,28 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Sub-Saharan Africa,2017,0-6 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Sub-Saharan Africa,2017,7-27 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Sub-Saharan Africa,2017,28-364 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Sub-Saharan Africa,2017,1-4 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",42.6055951675,26.7410229689,53.6399858515
+Sub-Saharan Africa,2017,5-9 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",106.815499911,74.548289949,132.47563651
+Sub-Saharan Africa,2017,10-14 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",192.795011899,141.462482409,233.77940414799997
+Sub-Saharan Africa,2017,15-19 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",350.062400026,270.103579496,433.756387107
+Sub-Saharan Africa,2017,20-24 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",589.376924072,435.987991407,753.6703532500001
+Sub-Saharan Africa,2017,25-29 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",901.013623443,692.541858868,1128.71810277
+Sub-Saharan Africa,2017,30-34 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1296.53858488,1028.38134554,1631.5742587500001
+Sub-Saharan Africa,2017,35-39 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1880.13622593,1522.47106248,2310.52820283
+Sub-Saharan Africa,2017,40-44 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",2853.15608554,2292.73193458,3500.58281903
+Sub-Saharan Africa,2017,45-49 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",4249.82896269,3504.9495477600003,5160.02807375
+Sub-Saharan Africa,2017,50-54 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",5988.254820810001,4928.8195287300005,7243.3080743400005
+Sub-Saharan Africa,2017,55-59 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",7995.26555393,6626.3241533499995,9488.833059550001
+Sub-Saharan Africa,2017,60-64 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",10070.8621945,8341.946136769999,11950.3940091
+Sub-Saharan Africa,2017,65-69 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",12235.855564200001,10134.5707452,14388.992358
+Sub-Saharan Africa,2017,70-74 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",14496.631337499999,12208.6377727,17142.048764799998
+Sub-Saharan Africa,2017,75-79 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",16769.0984653,14131.175270400001,19953.4832006
+Sub-Saharan Africa,2017,80-84,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",18850.6176275,16017.4641206,22608.8244429
+Sub-Saharan Africa,2017,85-89,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",20930.8008522,17599.3389991,24933.641929200003
+Sub-Saharan Africa,2017,90-94,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",22205.6070782,18394.514731799998,26813.985910600004
+Sub-Saharan Africa,2017,95+ years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",22577.18034,17542.4631558,28176.051391599998
+
+"Global Burden of Disease Study 2017. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018."
+"Available from http://vizhub.healthdata.org/gbd-compare/"
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
