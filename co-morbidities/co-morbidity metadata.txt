@@ -7,6 +7,12 @@ For terms and conditions of use, please visit http://www.healthdata.org/about/te
 Diabetes mellitus (B.8.1 within GBD hierarchy)
 Combined prevalence of type 1 and type 2 diabetes (B.8.1.1 and B.8.1.2)
 
+Cardiovascular diseases (B.2 within GBD hierarchy)
+Combined prevalence of Rheumatic heart disease (B.2.1), Ischemic heart disease (B.2.2), Stroke (B.2.3),
+Hypertensive heart disease (B.2.4), Non-rheumatic valvular heart disease (B.2.5), Cardiomyopathy and myocarditis (B.2.6),
+Atrial fibrilation and flutter (B.2.7), Aortic aneurysm (B.2.8), Peripheral artery disease (B.2.9),
+Endocarditis (B.2.10), Other cardiovascular and circulatory disases (B.2.11)
+
 Provisional formatting (last updated on 10th February 2020)
 
 Location: Reference of Global Burden of Disease hierarchy; character field

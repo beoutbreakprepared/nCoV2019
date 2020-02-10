@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+China,2017,0-6 days,Male,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,7-27 days,Male,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,28-364 days,Male,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,1-4 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",97.22490326,72.69673116,127.5264036
+China,2017,5-9 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",370.359839,309.1864106,443.4978162
+China,2017,10-14 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",566.6744484,501.1488334,648.687975
+China,2017,15-19 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",780.6022871,710.5943287,855.7853031
+China,2017,20-24 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",904.3667026,835.11942,983.6631178
+China,2017,25-29 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",1175.043373,1090.117973,1272.133591
+China,2017,30-34 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",1499.62883,1405.202458,1591.264163
+China,2017,35-39 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",2137.786279,1978.429774,2307.918093
+China,2017,40-44 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",4066.650251,3743.862839,4417.956902
+China,2017,45-49 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",6078.334876,5668.532766,6570.84216
+China,2017,50-54 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",8980.642006,8304.082575,9734.743895
+China,2017,55-59 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",12842.47964,12001.21592,13845.19062
+China,2017,60-64 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",17568.66403,16427.49195,18842.05379
+China,2017,65-69 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",23014.51631,21557.83146,24541.61639
+China,2017,70-74 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",28921.33596,27012.71795,30897.64323
+China,2017,75-79 years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",34717.58556,32542.65619,36866.04352
+China,2017,80-84,Male,Cardiovascular diseases,"Prevalent cases per 100,000",39389.22569,36959.19164,41855.06184
+China,2017,85-89,Male,Cardiovascular diseases,"Prevalent cases per 100,000",41419.27557,38830.22213,44133.96464
+China,2017,90-94,Male,Cardiovascular diseases,"Prevalent cases per 100,000",41398.46049,38484.65882,44455.99684
+China,2017,95+ years,Male,Cardiovascular diseases,"Prevalent cases per 100,000",40398.07922,36961.98708,44026.97875

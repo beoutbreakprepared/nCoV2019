@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+China,2017,0-6 days,Female,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,7-27 days,Female,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,28-364 days,Female,Cardiovascular diseases,"Prevalent cases per 100,000",0,0,0
+China,2017,1-4 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",77.2997946,60.63264732,111.0419969
+China,2017,5-9 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",324.4121468,293.8606765,355.3977413
+China,2017,10-14 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",767.5802503,688.3571305,874.6691598
+China,2017,15-19 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",1105.919718,1002.694568,1234.557237
+China,2017,20-24 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",1165.390882,1080.78524,1255.461704
+China,2017,25-29 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",1432.520488,1342.345402,1524.432773
+China,2017,30-34 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",1788.213234,1683.538725,1888.40494
+China,2017,35-39 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",2418.954316,2257.680843,2587.500183
+China,2017,40-44 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",4788.098497,4362.164205,5267.297836
+China,2017,45-49 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",6888.507736,6414.927684,7481.864139
+China,2017,50-54 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",9793.319711,9009.164691,10629.3135
+China,2017,55-59 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",13737.79559,12800.09967,14805.79664
+China,2017,60-64 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",18626.00874,17368.6137,19971.40631
+China,2017,65-69 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",24278.21066,22757.5332,25890.39909
+China,2017,70-74 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",30061.75401,28067.04006,32071.64461
+China,2017,75-79 years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",35767.61561,33645.30433,37948.35163
+China,2017,80-84,Female,Cardiovascular diseases,"Prevalent cases per 100,000",40454.88601,38011.31924,43020.59604
+China,2017,85-89,Female,Cardiovascular diseases,"Prevalent cases per 100,000",43223.2112,40581.56354,45984.67408
+China,2017,90-94,Female,Cardiovascular diseases,"Prevalent cases per 100,000",44182.09539,41036.69861,47298.01426
+China,2017,95+ years,Female,Cardiovascular diseases,"Prevalent cases per 100,000",44242.93757,40323.24278,48188.14996
