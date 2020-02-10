@@ -13,6 +13,10 @@ Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1it
 
 [Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 0000 GMT 7th February 2020
 
+# Co-morbidity estimates to aid CFR modelling
+
+Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus
+
 # Basic summary stats
 ## Sex (updated 25th Jan 2020)
 ![alt_text](outputs/sex_summary.png)
