@@ -17,7 +17,7 @@ Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1it
 
 Co-morbidity data may facilitate CFR estimation processes
 
-Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus. For more information on these estimates please see [metadata](/co-morbidities/co-morbidity metadata.txt) and https://vizhub.healthdata.org/gbd-compare/
+Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus. For more information on these estimates please see [metadata](/co-morbidities/co-morbidity_metadata.txt) and https://vizhub.healthdata.org/gbd-compare/
 
 ![alt_text](co-morbidities/graphics/china_diabetes_prevalence_rate_male.png)
 ![alt_text](co-morbidities/graphics/china_diabetes_prevalence_rate_female.png)
