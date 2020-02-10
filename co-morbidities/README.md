@@ -3,8 +3,8 @@ Location for estimates of potential co-morbid conditions of relevance to 2019-nC
 
 Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus. For more information on these estimates please see [metadata](/co-morbidity metadata.txt)
 
-![alt_text](china_diabetes_prevalence_rate_male.png)
-![alt_text](china_diabetes_prevalence_rate_female.png)
+![alt_text](/graphics/china_diabetes_prevalence_rate_male.png)
+![alt_text](/graphics/china_diabetes_prevalence_rate_female.png)
 
 
 # Acknowledgements
