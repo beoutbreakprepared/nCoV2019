@@ -9,9 +9,9 @@ We first want to thank all those individuals and organizations across the world 
 
 Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
 
-[Hubei cases](/ncov_hubei.csv) Last updated to public sheet: 1930 GMT 1st February 2020
+[Hubei cases](/ncov_hubei.csv) Last updated to public sheet: 0000 GMT 7th February 2020
 
-[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 1930 GMT 1st February 2020
+[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 0000 GMT 7th February 2020
 
 # Basic summary stats
 ## Sex (updated 25th Jan 2020)
