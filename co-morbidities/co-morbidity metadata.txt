@@ -30,3 +30,9 @@ Value: Mean estimated value in Measure reported; numeric field
 Lower bound: Lower bound of estimate of Measure reported; numeric field
 Upper bound: Upper bound of estimate of Measure reported; numeric field
 
+Defintion of "Sub-Saharan Africa"
+The following countries constitute GBD definition of Sub-Saharan Africa
+Central Sub-Saharan Africa: Angola, Central African Republic, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon
+Eastern Sub-Saharan Africa: Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Rwanda, South Sudan, Tanzania, Uganda, Zambia
+Southern Sub-Saharan Africa: Botswana, Lesotho, Namibia, South Africa, Swaziland, Zimbabwe
+Western Sub-Saharan Africa: Benin, Burkina Faso, Cameroon, Cape Verde, Chad, Cote d'Ivoire, The gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Sao Tome and Principe, Senegal, Sierra Leone, Togo
