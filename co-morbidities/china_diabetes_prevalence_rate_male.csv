@@ -2,27 +2,23 @@ Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper b
 China,2017,0-6 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
 China,2017,7-27 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
 China,2017,28-364 days,Male,Diabetes mellitus,"Prevalent cases per 100,000",0,0,0
-China,2017,1-4 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",0.959734539064,0.461288215939,1.62761652387
-China,2017,5-9 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",11.7877628181,6.83042158018,18.2575077703
-China,2017,10-14 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",78.695944289,47.813594247400005,116.724206723
-China,2017,15-19 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",786.9346828989999,566.7087109930001,1024.40958169
-China,2017,20-24 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",2931.1131323299996,2126.40015231,3793.4429351500003
-China,2017,25-29 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",4750.73366074,3625.7151491100003,6002.13205764
-China,2017,30-34 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",5977.27102233,4863.4451517200005,7388.05839709
-China,2017,35-39 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",7122.27143352,5967.63684148,8495.00721047
-China,2017,40-44 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",8279.37116615,6982.28194843,9614.14306864
-China,2017,45-49 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",9497.28057005,8169.25549821,10977.6639785
-China,2017,50-54 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",10641.187353700001,9335.07057739,12120.627364
-China,2017,55-59 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",11593.792943800001,10342.7056218,13149.634822199998
-China,2017,60-64 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12106.5560326,10829.2844798,13638.25055
-China,2017,65-69 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12447.3656134,11109.8126225,13981.721102
-China,2017,70-74 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12613.6742724,11233.3389617,14186.8922978
-China,2017,75-79 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12654.726942299998,11290.2613214,14263.452685600001
-China,2017,80-84,Male,Diabetes mellitus,"Prevalent cases per 100,000",12551.582392399998,11191.025491499999,14146.5433122
-China,2017,85-89,Male,Diabetes mellitus,"Prevalent cases per 100,000",12047.8271767,10704.8754504,13684.406731000001
-China,2017,90-94,Male,Diabetes mellitus,"Prevalent cases per 100,000",11152.6304291,9847.631140349999,12697.7563353
-China,2017,95+ years,Male,Diabetes mellitus,"Prevalent cases per 100,000",9980.71763636,8703.52451391,11509.274496999999
-
-"Global Burden of Disease Study 2017. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018."
-"Available from http://vizhub.healthdata.org/gbd-compare/"
-"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
+China,2017,1-4 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",0.959734539,0.461288216,1.627616524
+China,2017,5-9 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",11.78776282,6.83042158,18.25750777
+China,2017,10-14 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",78.69594429,47.81359425,116.7242067
+China,2017,15-19 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",786.9346829,566.708711,1024.409582
+China,2017,20-24 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",2931.113132,2126.400152,3793.442935
+China,2017,25-29 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",4750.733661,3625.715149,6002.132058
+China,2017,30-34 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",5977.271022,4863.445152,7388.058397
+China,2017,35-39 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",7122.271434,5967.636841,8495.00721
+China,2017,40-44 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",8279.371166,6982.281948,9614.143069
+China,2017,45-49 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",9497.28057,8169.255498,10977.66398
+China,2017,50-54 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",10641.18735,9335.070577,12120.62736
+China,2017,55-59 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",11593.79294,10342.70562,13149.63482
+China,2017,60-64 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12106.55603,10829.28448,13638.25055
+China,2017,65-69 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12447.36561,11109.81262,13981.7211
+China,2017,70-74 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12613.67427,11233.33896,14186.8923
+China,2017,75-79 years,Male,Diabetes mellitus,"Prevalent cases per 100,000",12654.72694,11290.26132,14263.45269
+China,2017,80-84,Male,Diabetes mellitus,"Prevalent cases per 100,000",12551.58239,11191.02549,14146.54331
+China,2017,85-89,Male,Diabetes mellitus,"Prevalent cases per 100,000",12047.82718,10704.87545,13684.40673
+China,2017,90-94,Male,Diabetes mellitus,"Prevalent cases per 100,000",11152.63043,9847.63114,12697.75634
+China,2017,95+ years,Male,Diabetes mellitus,"Prevalent cases per 100,000",9980.717636,8703.524514,11509.2745
