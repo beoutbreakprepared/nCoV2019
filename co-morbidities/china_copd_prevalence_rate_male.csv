@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+China,2017,0-6 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+China,2017,7-27 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+China,2017,28-364 days,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+China,2017,1-4 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",30.05639104,18.25905978,44.15577977
+China,2017,5-9 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",73.99856393,46.94614609,103.3407037
+China,2017,10-14 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",139.2783204,95.2603327,184.2688814
+China,2017,15-19 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",284.7631744,217.7844879,356.437509
+China,2017,20-24 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",532.0617803,404.7750353,668.39719
+China,2017,25-29 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",821.6076576,652.388326,1009.214344
+China,2017,30-34 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1177.889655,942.9333768,1449.014463
+China,2017,35-39 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1639.642568,1374.290564,1955.660613
+China,2017,40-44 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",2306.495391,1930.71232,2740.860008
+China,2017,45-49 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",3283.076714,2778.549051,3882.168071
+China,2017,50-54 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",4743.624177,3994.125061,5590.163985
+China,2017,55-59 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",6892.653751,5813.351163,8064.397927
+China,2017,60-64 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",10049.64789,8433.34703,11921.7086
+China,2017,65-69 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",14243.70447,11914.19647,16823.41162
+China,2017,70-74 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",19245.26912,16214.83907,22681.29888
+China,2017,75-79 years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",24447.24197,20701.5953,29093.32208
+China,2017,80-84,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",28619.19412,24765.91123,33915.13566
+China,2017,85-89,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",31548.93348,26894.42654,36914.40245
+China,2017,90-94,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",33820.02233,28161.64652,40928.41968
+China,2017,95+ years,Male,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",35572.70569,27882.82881,44019.60856
