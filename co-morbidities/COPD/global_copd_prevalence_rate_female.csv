@@ -1,0 +1,24 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Global,2017,0-6 days,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Global,2017,7-27 days,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Global,2017,28-364 days,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",0,0,0
+Global,2017,1-4 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",48.62101851,36.66948041,55.7605002
+Global,2017,5-9 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",122.2970859,98.47031586,138.7166024
+Global,2017,10-14 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",234.8237254,195.6943087,263.0853943
+Global,2017,15-19 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",498.574322,407.337384,597.8492456
+Global,2017,20-24 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",920.514234,707.6365922,1149.020656
+Global,2017,25-29 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1398.650057,1120.030107,1727.859994
+Global,2017,30-34 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",1871.003358,1519.824827,2291.641131
+Global,2017,35-39 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",2477.827307,2085.767242,2963.919073
+Global,2017,40-44 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",3426.265449,2848.585157,4078.081607
+Global,2017,45-49 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",4680.493279,3957.883386,5511.104376
+Global,2017,50-54 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",6302.42198,5369.896176,7443.750096
+Global,2017,55-59 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",8508.559928,7195.865775,9950.016214
+Global,2017,60-64 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",11242.30536,9451.321198,13241.73326
+Global,2017,65-69 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",14745.8522,12342.77916,17153.08895
+Global,2017,70-74 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",18534.56165,15800.26382,21529.17663
+Global,2017,75-79 years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",21968.3906,18886.66198,25744.37864
+Global,2017,80-84,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",24379.41479,21032.90428,28716.6344
+Global,2017,85-89,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",26343.31492,22648.69374,30661.22221
+Global,2017,90-94,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",29111.34018,24954.50796,34118.70681
+Global,2017,95+ years,Female,Chronic obstructive pulmonary disease,"Prevalent cases per 100,000",33957.21274,28512.52994,40910.76592
