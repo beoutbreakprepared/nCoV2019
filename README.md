@@ -13,9 +13,15 @@ Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1it
 
 [Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 0000 GMT 7th February 2020
 
-# Co-morbidity estimates to aid CFR modelling
+# Co-morbidity estimates
 
-Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus
+Co-morbidity data may facilitate CFR estimation processes
+
+Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus. For more information on these estimates please see [metadata](/co-morbidities/co-morbidity metadata.txt) and https://vizhub.healthdata.org/gbd-compare/
+
+![alt_text](co-morbidities/china_diabetes_prevalence_rate_male.png)
+![alt_text](co-morbidities/china_diabetes_prevalence_rate_female.png)
+
 
 # Basic summary stats
 ## Sex (updated 25th Jan 2020)
