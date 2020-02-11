@@ -19,6 +19,7 @@
 #' CHANGELOG
 #'
 #' - 11-02-2020
+#'   + Compute summary statistics regarding sources used
 #'   + Renamed: entry-update-tool.R --> update-tool.R
 #'
 #' - 31-01-2020
@@ -30,6 +31,13 @@
 #' - 30-01-2020
 #'   + Prototype which requires manual entry of credentials.
 #' ------------------------------------------------------------------------------
+#' Dependencies
+#'
+#' - httr
+#' - xtable
+#' - dplyr
+#' - reshape2
+#'
 
 #' Predicate for whether the packages are installed.
 #'
@@ -67,12 +75,42 @@ IO.is_filename <- function(maybe_filename) {
   }
 }
 
+#' Write an xtable to an HTML file
+#'
+#' @param xtab xtable of the summary
+#' @param filename file to write table to
+#'
+IO.write_summary_table <- function(xtab, filename) {
+    xtable::print.xtable(xtab)
+}
+
+#' Return a data frame listing the sources and their frequency of use.
+#'
+#' @param df data.frame of data.
+#'
+source_summary <- function(df) {
+    source_count <- as.data.frame(table(sapply(strsplit(df$source, split = "/"), function(x) do.call(paste0, c(list(x[1:3]), list(collapse = "/"))))))
+    source_count <- source_count[sort.int(source_count$Freq, index.return=TRUE, decreasing = TRUE)$ix,]
+    names(source_count) <- c("source", "frequency")
+    return(source_count)
+}
+
+#' Write the unique sources to the lines of a text file.
+#'
+#' @param df data.frame of data
+#' @param filename character describing the target file
+#'
+IO.write_all_sources <- function(df, filename) {
+    urls <- unique(df$source)
+    writeLines(urls, con = filename)
+}
+
+
 main <- function(key) {
   #' Check that the required packages are available without loading them.
-  if (!IO.are_installed(c("httr"))) {
+  if (!IO.are_installed(c("httr", "xtable", "dplyr", "reshape2"))) {
     stop("There appear to be missing packages!")
   }
-
 
   sheet_names <- c("Hubei", "outside_Hubei")
 
@@ -82,6 +120,13 @@ main <- function(key) {
     maybe_filename <- IO.get_sheet_as_csv(key, sheet_name)
     if (!IO.is_filename(maybe_filename)) {
       warning(sprintf("Failed to get: %s", sheet_name))
+    } else {
+        cat("\t", "Writting summary tables...", "\n")
+        df <- read.csv(maybe_filename, stringsAsFactors = FALSE)
+        IO.write_all_sources(df, sprintf("provisional-all-sources-%s.txt", sheet_name))
+        print(source_summary(df))
+        ## IO.write_summary_table(source_summary(df), sprintf("provisional-source-summary-%s.html", sheet_name)) #
+        ## IO.write_summary_table(completeness_summary(df), sprintf("provisional-completeness-summary-%s.html", sheet_name))
     }
   }
 }
