@@ -2,9 +2,11 @@
 Secondary bacterial infections can be associated with severe disease and increased morbidity and mortality after infection with many respiratory viruses, though it is not yet clear to what extent bacterial may occur with 2019-nCoV. Spatiotemporally varying estimates of pneumococcal or Hib conjugate vaccine coverage may therefore be of interest to nCoV modelers. To this end, we have spatio-temporal varying estimates of PCV coverage that may facilitate ongoing modeling of this dimension of the outbreak.
 
 ## National-level coverage
+
+<img align="right" src="img/pcv3_cov_provisional_sle_1980_2019_national_sm.png?raw=true" width="400px" alt="Provisional estimates of national-level PCV3 coverage for SLE, 1980-2019"/>
+
 IHME produces annual estimates of vaccine coverage at the national level (and at the first administrative level for select countries) as part of the Global Burden of Disease Study using spatiotemporal Gaussian process regression (ST-GPR; see for instance [Lozano *et al*, Lancet (2018)](http://dx.doi.org/10.1016/S0140-6736(18)32281-5)). For GBD 2019, we have produced preliminary updated estimates of vaccine coverage including PCV3 and Hib3 in 204 countries at the national level (and at the first administrative level for 22 countires) for 1980-2019. These estimates of routine childhood immunization incorporate both survey and bias-adjusted administrative data and are accompanied by uncertainty.
 
-<img align="right" src="img/pcv3_cov_provisional_sle_1980_2019_national_sm.png?raw=true" width="250px" alt="Provisional estimates of national-level PCV3 coverage for SLE, 1980-2019"/>
 
 ## Subnational coverage
 In addition, we have produced preliminary estimates of PCV3 and Hib3 coverage in 100 low- and middle-income countries at 5x5 km and first and second administrative levels, from 2000-2018. In their current form, these estimates are produced by first estimating DTP3 coverage using methods outlined in [Mosser *et al*, Lancet (2019)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30226-0/fulltext), then adjusting the posterior distribution of DTP3 coverage such that the national-level mean coverage estimate corresponds to  GBD-estimated PCV3 coverage. 
