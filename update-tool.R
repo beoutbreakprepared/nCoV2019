@@ -1,22 +1,25 @@
 #!/usr/bin/env Rscript
 
 #' ------------------------------------------------------------------------------
-#' entry-update-tool.R
+#' update-tool.R
 #'
 #' A tool to download the spreadsheet as a CSV.
 #' ------------------------------------------------------------------------------
 #' Usage
 #'
-#'  $ ./entry-update-tool.R <KEY>
+#'  $ ./update-tool.R <KEY>
 #'
 #' where the KEY is the key for the google sheet. This file can also be sourced
 #' and used in an interactive R session:
 #'
-#'  > source("entry-update-tool.R")
+#'  > source("update-tool.R")
 #'  > main(<KEY>)
 #'
 #' ------------------------------------------------------------------------------
 #' CHANGELOG
+#'
+#' - 11-02-2020
+#'   + Renamed: entry-update-tool.R --> update-tool.R
 #'
 #' - 31-01-2020
 #'   + Adjust how the key for the sheet is introduced.
