@@ -19,6 +19,7 @@
 #' CHANGELOG
 #'
 #' - 11-02-2020
+#'   + Compute summary statistics about data completeness for "age".
 #'   + Compute summary statistics regarding sources used
 #'   + Renamed: entry-update-tool.R --> update-tool.R
 #'
@@ -95,6 +96,29 @@ source_summary <- function(df) {
     return(source_count)
 }
 
+
+.age_summary_func <- function(df) {
+    ages <- df$age
+    age_regex <- "^[0-9]+$"
+    num_missing <- sum(is.na(ages))
+    num_valid <- sum(grepl(pattern = age_regex, x = ages))
+    data.frame(field = "age", num_missing = num_missing, num_valid = num_valid, num_broken = nrow(df) - (num_valid + num_missing))
+}
+
+#' Return a data frame describing the completeness of the data.
+#'
+#' @param df data.frame of data.
+#'
+#' @details The functions in the \code{summary_funcs} list are used to check the
+#' completeness of particular columns since this is hard to do in general. These
+#' functions should have names which match a suitable pattern:
+#' \code{"\.[a-z]*_summary_func"}.
+#'
+completeness_summary <- function(df) {
+    summary_funcs <- list(.age_summary_func)
+    do.call(rbind, lapply(summary_funcs, function(f) f(df)))
+}
+
 #' Write the unique sources to the lines of a text file.
 #'
 #' @param df data.frame of data
@@ -125,6 +149,7 @@ main <- function(key) {
         df <- read.csv(maybe_filename, stringsAsFactors = FALSE)
         IO.write_all_sources(df, sprintf("provisional-all-sources-%s.txt", sheet_name))
         print(source_summary(df))
+        print(completeness_summary(df))
         ## IO.write_summary_table(source_summary(df), sprintf("provisional-source-summary-%s.html", sheet_name)) #
         ## IO.write_summary_table(completeness_summary(df), sprintf("provisional-completeness-summary-%s.html", sheet_name))
     }
