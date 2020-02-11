@@ -19,7 +19,8 @@
 #' CHANGELOG
 #'
 #' - 11-02-2020
-#'   + Compute summary statistics about data completeness for "age".
+#'   + Compute summary statistics about data completeness for "age", "ID", "sex"
+#'     and "city".
 #'   + Compute summary statistics regarding sources used
 #'   + Renamed: entry-update-tool.R --> update-tool.R
 #'
@@ -96,14 +97,16 @@ source_summary <- function(df) {
     return(source_count)
 }
 
-
-.age_summary_func <- function(df) {
-    ages <- df$age
-    age_regex <- "^[0-9]+$"
-    num_missing <- sum(is.na(ages))
-    num_valid <- sum(grepl(pattern = age_regex, x = ages))
-    data.frame(field = "age", num_missing = num_missing, num_valid = num_valid, num_broken = nrow(df) - (num_valid + num_missing))
+.regex_summary_func <- function(colname, regex, missing_regex) {
+    function(df) {
+        xs <- df[,colname]
+        x_regex <- regex
+        num_missing <- sum(grepl(pattern = missing_regex, x = xs, perl = TRUE))
+        num_valid <- sum(grepl(pattern = x_regex, x = xs, perl = TRUE))
+        data.frame(field = colname, num_missing = num_missing, num_valid = num_valid, num_broken = nrow(df) - (num_valid + num_missing))
+    }
 }
+
 
 #' Return a data frame describing the completeness of the data.
 #'
@@ -115,7 +118,14 @@ source_summary <- function(df) {
 #' \code{"\.[a-z]*_summary_func"}.
 #'
 completeness_summary <- function(df) {
-    summary_funcs <- list(.age_summary_func)
+    .id_summary_func <- .regex_summary_func("ID", "^[0-9]+$", "^$")
+    .age_summary_func <- .regex_summary_func("age", "^[0-9]+$", "N/A")
+    .sex_summary_func <- .regex_summary_func("sex", "^(male|female)$", "N/A")
+    .city_summary_func <- .regex_summary_func("city", "^[a-zA-Z,'\\s]+$", "^$")
+    summary_funcs <- list(.id_summary_func,
+                          .age_summary_func,
+                          .sex_summary_func,
+                          .city_summary_func)
     do.call(rbind, lapply(summary_funcs, function(f) f(df)))
 }
 
@@ -146,7 +156,7 @@ main <- function(key) {
       warning(sprintf("Failed to get: %s", sheet_name))
     } else {
         cat("\t", "Writting summary tables...", "\n")
-        df <- read.csv(maybe_filename, stringsAsFactors = FALSE)
+        df <- read.csv(maybe_filename, stringsAsFactors = FALSE, na.strings = "bogus-string")
         IO.write_all_sources(df, sprintf("provisional-all-sources-%s.txt", sheet_name))
         print(source_summary(df))
         print(completeness_summary(df))
