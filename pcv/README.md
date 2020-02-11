@@ -1,5 +1,5 @@
 # PCV and Hib coverage estimates
-Secondary bacterial infections can be associated with severe disease and increased morbidity and mortality after infection with many respiratory viruses, though it is not yet clear to what extent bacterial may occur with 2019-nCoV. Spatiotemporally varying estimates of pneumococcal or Hib conjugate vaccine coverage may therefore be of interest to nCoV modelers. To this end, we have spatio-temporal varying estimates of PCV coverage that may facilitate ongoing modeling of this dimension of the outbreak.
+Secondary bacterial infections are associated with severe disease and increased morbidity and mortality after infection with many respiratory viruses, though it is not yet clear to what extent bacterial superinfections may occur with 2019-nCoV. Spatiotemporally varying estimates of pneumococcal or Hib conjugate vaccine coverage may therefore be of interest to nCoV modelers. To this end, we have spatio-temporal varying estimates of PCV coverage that may facilitate ongoing modeling of this dimension of the outbreak.
 
 ## National-level coverage
 
