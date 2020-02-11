@@ -3,7 +3,7 @@ Secondary bacterial infections can be associated with severe disease and increas
 
 ## National-level coverage
 
-<img align="right" src="img/pcv3_cov_provisional_sle_1980_2019_national_sm.png?raw=true" width="400px" alt="Provisional estimates of national-level PCV3 coverage for SLE, 1980-2019"/>
+<img align="right" src="img/pcv3_cov_provisional_sle_1980_2019_national_sm.png?raw=true" width="375px" alt="Provisional estimates of national-level PCV3 coverage for SLE, 1980-2019"/>
 
 IHME produces annual estimates of vaccine coverage at the national level (and at the first administrative level for select countries) as part of the Global Burden of Disease Study using spatiotemporal Gaussian process regression (ST-GPR; see for instance [Lozano *et al*, Lancet (2018)](http://dx.doi.org/10.1016/S0140-6736(18)32281-5)). For GBD 2019, we have produced preliminary updated estimates of vaccine coverage including PCV3 and Hib3 in 204 countries at the national level (and at the first administrative level for 22 countires) for 1980-2019. These estimates of routine childhood immunization incorporate both survey and bias-adjusted administrative data and are accompanied by uncertainty.
 
