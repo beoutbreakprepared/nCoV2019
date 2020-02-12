@@ -18,6 +18,10 @@
 #' ------------------------------------------------------------------------------
 #' CHANGELOG
 #'
+#' - 12-02-2020
+#'   + Implement digit and date regular expressions
+#'   + Further document the regular expressions used to check the data
+#'
 #' - 11-02-2020
 #'   + Compute summary statistics about data completeness for "age", "ID", "sex"
 #'     and "city".
@@ -32,6 +36,30 @@
 #'
 #' - 30-01-2020
 #'   + Prototype which requires manual entry of credentials.
+#' ------------------------------------------------------------------------------
+#' Data format
+#'
+#' The following table contains a list of regular expressions for valid values in
+#' the database and missing values.
+#'
+#' | Column name               | Valid regex                | Missing value  |
+#' |                           |                            | regex          |
+#' |---------------------------+----------------------------+----------------|
+#' | =ID=                      | =^[1-9]+[0-9]*$=           | ???            |
+#' | =age=                     | =^[0-9]+(-[0-9]+)?$=       | =^N\/A$=       |
+#' | =sex=                     | =^male|female$=            | =^N\/A$=       |
+#' | =city=                    | =^[a-zA-Z,' ]+$=           | =^N\/A$=       |
+#' | =province=                | ???                        | =^N\/A$=       |
+#' | =country=                 | =^[a-zA-Z ]+$=             | =^N\/A$=       |
+#' | =wuhan(0)_not_wuhan(1)=   | =^0|1$=                    | =^N\/A$=       |
+#' | =latitude=                | =^[0-9]+(\.[0-9]+)?$=      | =^N\/A$=       |
+#' | =longitude=               | =^[0-9]+(\.[0-9]+)?$=      | =^N\/A$=       |
+#' | =date_onset_symptoms=     | *                          | =^N\/A$=       |
+#' | =date_admission_hospital= | *                          | =^N\/A$=       |
+#' | =date_confirmation=       | *                          | =^N\/A$=       |
+#'
+#' * =^(- )?[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}( -)?( [0-9]{2}\\.[0-9]{2}\\.[0-9]{4})?$=
+#'
 #' ------------------------------------------------------------------------------
 #' Dependencies
 #'
@@ -107,6 +135,10 @@ source_summary <- function(df) {
     }
 }
 
+.regex_date_summary_func <- function(colname) {
+    date_regex <- "^(- )?[0-9]{2}\\.[0-9]{2}\\.[0-9]{4}( -)?( [0-9]{2}\\.[0-9]{2}\\.[0-9]{4})?$"
+    .regex_summary_func(colname, date_regex, "^N/A$")
+}
 
 #' Return a data frame describing the completeness of the data.
 #'
@@ -115,17 +147,34 @@ source_summary <- function(df) {
 #' @details The functions in the \code{summary_funcs} list are used to check the
 #' completeness of particular columns since this is hard to do in general. These
 #' functions should have names which match a suitable pattern:
-#' \code{"\.[a-z]*_summary_func"}.
+#' \code{"\.[a-z]*_summary_func"}. The specification of the regex is the same as
+#' in the table above.
 #'
 completeness_summary <- function(df) {
-    .id_summary_func <- .regex_summary_func("ID", "^[0-9]+$", "^$")
-    .age_summary_func <- .regex_summary_func("age", "^[0-9]+$", "N/A")
-    .sex_summary_func <- .regex_summary_func("sex", "^(male|female)$", "N/A")
-    .city_summary_func <- .regex_summary_func("city", "^[a-zA-Z,'\\s]+$", "^$")
+    na_regex <- "^N/A$"
+    .id_summary_func <- .regex_summary_func("ID", "^[1-9]+[0-9]*$", "^$")
+    .age_summary_func <- .regex_summary_func("age", "^[0-9]+(-[0-9]+)?$", na_regex)
+    .sex_summary_func <- .regex_summary_func("sex", "^male|female$", na_regex)
+    .city_summary_func <- .regex_summary_func("city", "^[a-zA-Z,' ]+$", na_regex)
+    ## .province_summary_func <- ...
+    .country_summary_func <- .regex_summary_func("country", "^[a-zA-Z ]+$", na_regex)
+    ## .wuhan01_summary_func <- ...
+    .latitude_summary_func <- .regex_summary_func("latitude", "^[0-9]+(\\.[0-9]+)?$", na_regex)
+    .longitude_summary_func <- .regex_summary_func("longitude", "^[0-9]+(\\.[0-9]+)?$", na_regex)
+    ## .geo_resolution_summary_func <- ...
+    .date1_summary_func <- .regex_date_summary_func("date_onset_symptoms")
+    .date2_summary_func <- .regex_date_summary_func("date_admission_hospital")
+    .date3_summary_func <- .regex_date_summary_func("date_confirmation")
     summary_funcs <- list(.id_summary_func,
                           .age_summary_func,
                           .sex_summary_func,
-                          .city_summary_func)
+                          .city_summary_func,
+                          .country_summary_func,
+                          .latitude_summary_func,
+                          .longitude_summary_func,
+                          .date1_summary_func,
+                          .date2_summary_func,
+                          .date3_summary_func)
     do.call(rbind, lapply(summary_funcs, function(f) f(df)))
 }
 
