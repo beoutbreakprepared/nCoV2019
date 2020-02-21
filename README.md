@@ -66,6 +66,7 @@ Liz Hurley | elizabeth.hurley@childrens.harvard.edu | |
 Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
 Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
+Julia Morgan | | |
 David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
 Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
