@@ -61,6 +61,8 @@ Name | Email | Twitter | Github
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
 Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
+Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
+Liz Hurley | elizabeth.hurley@childrens.harvard.edu | |
 Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
 Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
