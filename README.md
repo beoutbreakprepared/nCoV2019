@@ -58,11 +58,13 @@ Datasets derived from Global Burden of Disease on prevalence rates of known co-m
 
 Name | Email | Twitter | Github
 -----|-------|---------|-------
+Isha Berry | isha.berry@mail.utoronto.ca | @ishaberry2 |
+Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
-Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
-Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
 Liz Hurley | elizabeth.hurley@childrens.harvard.edu | |
+Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
+Anastasia Lambrou | anastasia.lambrou@jhu.edu | @anasophlambrou |
 Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
 Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
