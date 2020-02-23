@@ -67,7 +67,7 @@ Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
 Anastasia Lambrou | anastasia.lambrou@jhu.edu | @anasophlambrou |
 Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
-Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
+Sumiko Mekaru | Sumiko.Mekaru@childrens.harvard.edu | @Sumiko_Mekaru |
 Julia Morgan | | |
 David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
