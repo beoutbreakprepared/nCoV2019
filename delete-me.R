@@ -50,7 +50,7 @@ rgx_geo_resolution <- anchor_wrap(boolean_or(.rgx_geo_res_values, .rgx_na_value)
 rgx_date <- anchor_wrap(boolean_or(.rgx_date, .rgx_date_range, .rgx_left_date_range, .rgx_right_date_range, .rgx_na_value))
 
 
-
+rgx_lives_in_wuhan <- anchor_wrap(boolean_or("yes", "no", .rgx_na_value))
 
 
 #' -----------------------------------------------------------------------------
@@ -60,6 +60,7 @@ rgx_date <- anchor_wrap(boolean_or(.rgx_date, .rgx_date_range, .rgx_left_date_ra
 data_file <- "outside_hubei_20200301.csv"
 x <- read.csv(data_file, stringsAsFactors = FALSE)
 y <- x
+
 
 #' -----------------------------------------------------------------------------
 #' Fix the missing identifiers such that every record has a unique value.
@@ -355,7 +356,55 @@ y$date_death_or_discharge[tmp_mask] <- na_string
 rm(tmp_mask)
 
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for symptoms is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$symptoms == ""
+y$symptoms[tmp_mask] <- na_string
+rm(tmp_mask)
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for lives_in_wuhan is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$lives_in_wuhan == ""
+y$lives_in_wuhan[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' Correct some mis-codings for lives_in_wuhan
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$lives_in_wuhan == "No"
+y$lives_in_wuhan[tmp_mask] <- "no"
+rm(tmp_mask)
+tmp_mask <- y$lives_in_wuhan == "Yes"
+y$lives_in_wuhan[tmp_mask] <- "yes"
+rm(tmp_mask)
+tmp_mask <- y$lives_in_wuhan == "1"
+y$lives_in_wuhan[tmp_mask] <- "yes"
+rm(tmp_mask)
+tmp_mask <- y$lives_in_wuhan == "0"
+y$lives_in_wuhan[tmp_mask] <- "no"
+rm(tmp_mask)
+#' Perhaps these should be recorded elsewhere...
+tmp_mask <- y$lives_in_wuhan %in% c("business trip", "medical trip", "study trip", "return from Wuhan")
+y$lives_in_wuhan[tmp_mask] <- "no"
+rm(tmp_mask)
+tmp_others <- c("travel"
+ ,"N/A"
+ ,"work in Wuhan"
+ ,"lived in Wuhan for two months and then went back to Cangzhou"
+ ,"used to be"
+ ,"work in Wuhan"
+ ,"Xiantao City resident"
+ ,"no, work in Wuhan"
+ ,"shanghai resident, travel history"
+ ,"tourism"
+ ,"thai national"
+ ,"Chinese"
+ ,"live in Hangzhou")
+tmp_mask <- y$lives_in_wuhan %in% tmp_others
+y$lives_in_wuhan[tmp_mask] <- "no"
+rm(tmp_mask,tmp_others)
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_age, x = y$age), c("id", "age")]
@@ -389,3 +438,6 @@ y[!grepl(pattern = rgx_date, x = y$travel_history_dates), c("id", "travel_histor
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death_or_discharge")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_wuhan")]
