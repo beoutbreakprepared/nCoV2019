@@ -36,6 +36,12 @@ rgx_country <- anchor_wrap(boolean_or(.rgx_country, .rgx_na_value))
 
 rgx_latlong <- anchor_wrap(boolean_or(.rgx_latlong, .rgx_na_value))
 
+.rgx_geo_res_values <- c("point", "admin[0123]{1}")
+
+rgx_geo_resolution <- anchor_wrap(boolean_or(.rgx_geo_res_values, .rgx_na_value))
+
+
+
 #' -----------------------------------------------------------------------------
 #' Start the data cleaning.
 #' -----------------------------------------------------------------------------
@@ -159,6 +165,38 @@ tmp_mask <- y$longitude == "#N/A"
 y$longitude[tmp_mask] <- na_string
 rm(tmp_mask)
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for geo_resolution is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$geo_resolution == ""
+y$geo_resolution[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for geo_resolution is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$geo_resolution == "#N/A"
+y$geo_resolution[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for geo_resolution is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$geo_resolution == "admin"
+y$geo_resolution[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' Administrative levels should be formatted correctly.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$geo_resolution == "admin 1"
+y$geo_resolution[tmp_mask] <- "admin1"
+rm(tmp_mask)
+
+
+
+
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_age, x = y$age), c("id", "age")]
@@ -174,3 +212,6 @@ y[!grepl(pattern = rgx_latlong, x = y$latitude), c("id", "latitude")]
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_latlong, x = y$longitude), c("id", "longitude")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_geo_resolution, x = y$geo_resolution), c("id", "geo_resolution")]
