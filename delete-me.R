@@ -32,8 +32,9 @@ expect_true(all(!grepl(pattern = anchor_wrap(.rgx_country), x = c("china", "", "
 
 rgx_country <- anchor_wrap(boolean_or(.rgx_country, .rgx_na_value))
 
+.rgx_latlong <- "-?[0-9]+(\\.[0-9]+)?"
 
-
+rgx_latlong <- anchor_wrap(boolean_or(.rgx_latlong, .rgx_na_value))
 
 #' -----------------------------------------------------------------------------
 #' Start the data cleaning.
@@ -131,6 +132,34 @@ y$country[tmp_mask] <- "China"
 rm(tmp_mask)
 
 
+#' -----------------------------------------------------------------------------
+#' By virtue of appearing in this table they should have 1 as the value for the
+#' not_wuhan column.
+#' -----------------------------------------------------------------------------
+y$not_wuhan <- 1
+
+
+#' -----------------------------------------------------------------------------
+#' Latitude and longitude should have the correct missing value.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$latitude == ""
+y$latitude[tmp_mask] <- na_string
+rm(tmp_mask)
+tmp_mask <- y$longitude == ""
+y$longitude[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' Latitude and longitude should have the correct missing value.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$latitude == "#N/A"
+y$latitude[tmp_mask] <- na_string
+rm(tmp_mask)
+tmp_mask <- y$longitude == "#N/A"
+y$longitude[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_age, x = y$age), c("id", "age")]
 
@@ -139,3 +168,9 @@ y[!grepl(pattern = rgx_sex, x = y$sex), c("id", "sex")]
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_country, x = y$country), c("id", "country")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_latlong, x = y$latitude), c("id", "latitude")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_latlong, x = y$longitude), c("id", "longitude")]
