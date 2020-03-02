@@ -40,6 +40,17 @@ rgx_latlong <- anchor_wrap(boolean_or(.rgx_latlong, .rgx_na_value))
 
 rgx_geo_resolution <- anchor_wrap(boolean_or(.rgx_geo_res_values, .rgx_na_value))
 
+.rgx_date <- "[0-9]{2}\\.[0-9]{2}\\.20(19|20)"
+
+.rgx_date_range <- sprintf("%s - %s", .rgx_date, .rgx_date)
+
+.rgx_left_date_range <- sprintf("- %s", .rgx_date)
+.rgx_right_date_range <- sprintf("%s -", .rgx_date)
+
+rgx_date <- anchor_wrap(boolean_or(.rgx_date, .rgx_date_range, .rgx_left_date_range, .rgx_right_date_range, .rgx_na_value))
+
+
+
 
 
 #' -----------------------------------------------------------------------------
@@ -195,6 +206,154 @@ y$geo_resolution[tmp_mask] <- "admin1"
 rm(tmp_mask)
 
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_onset_symptoms is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_onset_symptoms == ""
+y$date_onset_symptoms[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_onset_symptoms is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_onset_symptoms %in% c("N/A", "none", "end of December 2019", "-25.02.2020")
+y$date_onset_symptoms[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' There are some obvious typographical errors in the date_onset_symptoms
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_onset_symptoms == "20.02.220"
+y$date_onset_symptoms[tmp_mask] <- "20.02.2020"
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_admission_hospital is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_admission_hospital == ""
+y$date_admission_hospital[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' There are some obvious typographical errors in the date_onset_symptoms
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_admission_hospital == "24.02.2929"
+y$date_admission_hospital[tmp_mask] <- "24.02.2020"
+rm(tmp_mask)
+tmp_mask <- y$date_admission_hospital == "9.01.2020"
+y$date_admission_hospital[tmp_mask] <- "09.01.2020"
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_confirmation is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_confirmation == ""
+y$date_confirmation[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The range for date_confirmation needs a whitespace for consistency.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_confirmation == "25.02.2020-26.02.2020"
+y$date_confirmation[tmp_mask] <- "25.02.2020 - 26.02.2020"
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for travel_history_dates is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$travel_history_dates == ""
+y$travel_history_dates[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for travel_history_dates is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- is.na(y$travel_history_dates)
+y$travel_history_dates[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' Some of the travel history dates need correction.
+#' -----------------------------------------------------------------------------
+## 13.01.2020 -15.01.2020
+tmp_mask <- y$travel_history_dates == "13.01.2020 -15.01.2020"
+y$travel_history_dates[tmp_mask] <- "13.01.2020 - 15.01.2020"
+rm(tmp_mask)
+## 20.12.2019 - 09.01. 2020
+tmp_mask <- y$travel_history_dates == "20.12.2019 - 09.01. 2020"
+y$travel_history_dates[tmp_mask] <- "20.12.2019 - 09.01.2020"
+rm(tmp_mask)
+## from a foreign country
+tmp_mask <- y$travel_history_dates == "from a foreign country"
+y$travel_history_dates[tmp_mask] <- na_string
+rm(tmp_mask)
+## 16.01.2020-22.01.2020
+tmp_mask <- y$travel_history_dates == "16.01.2020-22.01.2020"
+y$travel_history_dates[tmp_mask] <- "16.01.2020 - 22.01.2020"
+rm(tmp_mask)
+## came from abroad
+tmp_mask <- y$travel_history_dates == "came from abroad"
+y$travel_history_dates[tmp_mask] <- na_string
+rm(tmp_mask)
+## 21.01.2020-25.01.2020
+tmp_mask <- y$travel_history_dates == "21.01.2020-25.01.2020"
+y$travel_history_dates[tmp_mask] <- "21.01.2020 - 25.01.2020"
+rm(tmp_mask)
+## 15.01.2020-27.01.2020
+tmp_mask <- y$travel_history_dates == "15.01.2020-27.01.2020"
+y$travel_history_dates[tmp_mask] <- "15.01.2020 - 27.01.2020"
+rm(tmp_mask)
+## 15.01.2020-28.01.2020
+tmp_mask <- y$travel_history_dates == "15.01.2020-28.01.2020"
+y$travel_history_dates[tmp_mask] <- "15.01.2020 - 28.01.2020"
+rm(tmp_mask)
+## 20,01,2020
+tmp_mask <- y$travel_history_dates == "20,01,2020"
+y$travel_history_dates[tmp_mask] <- "20.01.2020"
+rm(tmp_mask)
+## December; 17.01.2020 - 02.02.2020
+tmp_mask <- y$travel_history_dates == "December; 17.01.2020 - 02.02.2020"
+y$travel_history_dates[tmp_mask] <- "01.12.2019 - 02.02.2020"
+rm(tmp_mask)
+## 06.01.2020, 11.01.2020, 17.01.2020
+tmp_mask <- y$travel_history_dates == "06.01.2020, 11.01.2020, 17.01.2020"
+y$travel_history_dates[tmp_mask] <- "06.01.2020 - 17.01.2020"
+rm(tmp_mask)
+## 21.01.2020 - 23.012020
+tmp_mask <- y$travel_history_dates == "21.01.2020 - 23.012020"
+y$travel_history_dates[tmp_mask] <- "21.01.2020 - 23.01.2020"
+rm(tmp_mask)
+## 1.16.2020
+tmp_mask <- y$travel_history_dates == "1.16.2020"
+y$travel_history_dates[tmp_mask] <- "16.01.2020"
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_death_or_discharge is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_death_or_discharge == ""
+y$date_death_or_discharge[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' Missing values for date_death_or_discharge due to typos
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_death_or_discharge == "discharge"
+y$date_death_or_discharge[tmp_mask] <- na_string
+rm(tmp_mask)
+tmp_mask <- y$date_death_or_discharge == "02.02.2021"
+y$date_death_or_discharge[tmp_mask] <- na_string
+rm(tmp_mask)
+tmp_mask <- y$date_death_or_discharge == "02.02.2022"
+y$date_death_or_discharge[tmp_mask] <- na_string
+rm(tmp_mask)
+
 
 
 
@@ -215,3 +374,18 @@ y[!grepl(pattern = rgx_latlong, x = y$longitude), c("id", "longitude")]
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_geo_resolution, x = y$geo_resolution), c("id", "geo_resolution")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_date, x = y$date_onset_symptoms), c("id", "date_onset_symptoms")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_date, x = y$date_admission_hospital), c("id", "date_admission_hospital")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_date, x = y$date_confirmation), c("id", "date_confirmation")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_date, x = y$travel_history_dates), c("id", "travel_history_dates")]
+
+#' This data frame should be empty!
+y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death_or_discharge")]
