@@ -110,7 +110,9 @@ strpdate <- function(date_strings) {
     range_mask <- grepl(pattern = anchor_wrap(.rgx_date_range), x = date_strings)
     single_mask <- grepl(pattern = anchor_wrap(.rgx_date), x = date_strings)
     left_mask <- grepl(pattern = anchor_wrap(.rgx_left_date_range), x = date_strings)
-    stopifnot(all(na_mask | range_mask | single_mask | left_mask))
+    if (!all(na_mask | range_mask | single_mask | left_mask)) {
+        browser()
+    }
     ## construct result
     maybe_dates <- rep(NA, length(date_strings))
     maybe_dates[na_mask] <- NA
