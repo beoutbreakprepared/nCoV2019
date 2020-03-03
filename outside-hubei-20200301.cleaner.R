@@ -10,10 +10,10 @@ y <- x
 
 
 #' -----------------------------------------------------------------------------
-#' Fix the missing identifiers such that every record has a unique value.
+#' Fix the missing identifiers such that every record has a unique value without
+#' ever overwriting an existing identifier.
 #' -----------------------------------------------------------------------------
-y$id <- 1:nrow(x)
-
+y$id <- extended_ids(x$id)
 
 #' -----------------------------------------------------------------------------
 #' When the age is given as the empty string, replace it with "NA".
