@@ -15,7 +15,6 @@ source("outside-hubei-20200301.cleaner.R")
     return(result)
 }
 
-chosen_theme <- theme_classic() + theme(text = element_text(size = 20))
 
 
 .mesh <- function(max_age, age_string) {
@@ -33,35 +32,44 @@ chosen_theme <- theme_classic() + theme(text = element_text(size = 20))
     }
 }
 
-
-tmp_df <- .completeness_data_frame(y$age)
-
+.bin_strings <- function(n, m) unlist(lapply(0:(n-1) * m, function(ix) rep(sprintf("%d-%d", ix, ix + m - 1), each = m)))
 
 
-max_age <- 100
-acc <- rep(0,max_age + 1)
-for (ix in 1:nrow(tmp_df)) {
-    age_string <- tmp_df[ix, "value"]
-    string_freq <- tmp_df[ix, "frequency"]
-    acc <- acc + string_freq * .mesh(max_age, age_string)
+
+histogram_date_strings <- function(age_df) {
+    df <- .completeness_data_frame(age_df)
+    max_age <- 99
+    acc <- rep(0,max_age + 1)
+    for (ix in 1:nrow(df)) {
+        age_string <- df[ix, "value"]
+        string_freq <- df[ix, "frequency"]
+        acc <- acc + string_freq * .mesh(max_age, age_string)
+    }
+    tmp <- data.frame(acc = acc, bin = bin_strings(10,10))
+    tmp %>% group_by(bin) %>% summarise(sum_acc = sum(acc))
 }
 
-bin_strings <- function(n, m) unlist(lapply(0:(n-1) * m, function(ix) rep(sprintf("%d-%d", ix, ix + m - 1), each = m)))
+
+female_plot_df <- y %>% filter(sex == "female") %>% select(age) %>% histogram_date_strings() %>% mutate(sex = "female")
+male_plot_df <- y %>% filter(sex == "male") %>% select(age) %>% histogram_date_strings()  %>% mutate(sex = "male")
+plot_df <- bind_rows(female_plot_df, male_plot_df)
+
+y %>% filter(sex != "NA") %>% filter(age != "NA") %>% select(age, sex)
+tmp1 <- y %>% filter(sex != "NA") %>% filter(age != "NA") %>% nrow
+tmp2 <- sum(plot_df$sum_acc)
+stopifnot(tmp1 == tmp2)
+rm(tmp1)
+rm(tmp2)
+
+chosen_theme <- theme_classic() + theme(text = element_text(size = 20), axis.text.x = element_text(angle = -30))
 
 
-
-plot_df <- data.frame(acc = head(acc, -1), bin = bin_strings(10,10)) %>% group_by(bin) %>% summarise(sum_acc = sum(acc)) %>% as.data.frame
-
-
-## sex_plots <- function(df) {
-##     pdf1 <- .completeness_data_frame(df$sex)
-##     plot1 <- ggplot(data = pdf1[pdf1$value != "NA",], mapping = aes(x = value, y = frequency)) +
-##         geom_bar(stat = "identity", fill = "white", colour = "black") +
-##         annotate("text", x = 1, y = 50, label = sprintf("Proportion missing:\n%f", .prop_na_string(df$sex)), size = 7) +
-##         labs(x = "Sex", y = "Frequency") +
-##         chosen_theme
-##     return(list(plot1))
-## }
-
+sex_age_plot <- ggplot(plot_df, aes(x = bin, y = sum_acc, colour = sex)) +
+    ## geom_line(mapping = aes(group = sex))
+    geom_bar(stat = "identity", position = "dodge", fill = "white", size = 1) +
+    annotate("text", x = 2, y = 0.8 * max(plot_df$sum_acc), label = sprintf("Proportion missing:\n%.2f", 1 - sum(plot_df$sum_acc) / nrow(y)), size = 6) +
+    labs(x = "Age", y = "Frequency", colour = "Sex") +
+    ggtitle("Sex stratified age distribution from XXX") +
+    chosen_theme
 
 
