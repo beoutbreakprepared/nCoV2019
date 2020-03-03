@@ -10,8 +10,13 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
-#' - 03-03-20: Documentation and \code{extended_ids} function added.
-#' - 02-03-20: Initial draft.
+#' - 03-03-20
+#'   + \code{is.na_or_true} to avoid issues with NA values.
+#'   + \code{strpdate} for filtering dates.
+#'   + \code{extended_ids} for including new ids where these are missing.
+#'   + Documentation.
+#'
+#' - 02-03-20 Initial draft.
 #'
 #' -----------------------------------------------------------------------------
 
@@ -94,3 +99,49 @@ expect_true(all(c(1,4,3) == extended_ids(c(1,NA,3))))
 expect_true(all(c(1,3,2) == extended_ids(c(1,NA,2))))
 expect_true(all(c(1,2,3) == extended_ids(c(1,2,3))))
 expect_true(all(c(1,2,6,7) == extended_ids(c(1,2,6,NA))))
+
+strpdate <- function(date_strings) {
+    ## strpdate :: String -> Maybe Date
+    .strpdate <- function(strings) {
+        as.Date(strings, format = "%d.%m.%Y", origin = "01.01.1970")
+    }
+    ## validate input.
+    na_mask <- date_strings == "NA"
+    range_mask <- grepl(pattern = anchor_wrap(.rgx_date_range), x = date_strings)
+    single_mask <- grepl(pattern = anchor_wrap(.rgx_date), x = date_strings)
+    left_mask <- grepl(pattern = anchor_wrap(.rgx_left_date_range), x = date_strings)
+    stopifnot(all(na_mask | range_mask | single_mask | left_mask))
+    ## construct result
+    maybe_dates <- rep(NA, length(date_strings))
+    maybe_dates[na_mask] <- NA
+    maybe_dates[range_mask] <- vapply(strsplit(x = date_strings[range_mask], split = " - "), function(x) .strpdate(x[2]), FUN.VALUE = numeric(1))
+    maybe_dates[single_mask] <- vapply(date_strings[single_mask], .strpdate, FUN.VALUE = numeric(1))
+    if (any(left_mask)) {
+        maybe_dates[left_mask] <- vapply(date_strings[left_mask], function(x) .strpdate(gsub(pattern = "- ", replacement = "", x = x)), FUN.VALUE = numeric(1))
+    }
+    return(maybe_dates)
+}
+
+expect_true(as.Date("20.01.2020", format = "%d.%m.%Y") == strpdate("20.01.2020"))
+expect_true(as.Date("20.01.2020", format = "%d.%m.%Y") == strpdate("- 20.01.2020"))
+expect_true(as.Date("20.01.2020", format = "%d.%m.%Y") == strpdate("19.12.2019 - 20.01.2020"))
+expect_true(is.na(strpdate("NA")))
+expect_true({
+    tmp1 <- as.Date(c("19.01.2020",NA,"20.01.2020"), format = "%d.%m.%Y");
+    tmp2 <- strpdate(c("19.12.2019 - 19.01.2020", "NA", "20.01.2020"));
+    all(c(tmp1[1] == tmp2[1],
+          is.na(tmp2[2]),
+          tmp1[3] == tmp2[3]))
+})
+
+is.na_or_true <- function(xs) {
+
+    .f <- function(x) if (is.na(x)) {TRUE} else {x}
+
+    vapply(X = xs, FUN = .f, FUN.VALUE = logical(1))
+}
+
+expect_true(is.na_or_true(NA))
+expect_true(is.na_or_true(TRUE))
+expect_true(!is.na_or_true(FALSE))
+expect_true(all(c(TRUE,FALSE,TRUE) == is.na_or_true(c(T,F,NA))))
