@@ -9,6 +9,7 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
+#' - 03-03-20: Fix the id values and filter for not after 05-02-20.
 #' - 02-03-20: Initial draft.
 #'
 #' -----------------------------------------------------------------------------
@@ -28,7 +29,34 @@ y <- x
 #' Fix the missing identifiers such that every record has a unique value without
 #' ever overwriting an existing identifier.
 #' -----------------------------------------------------------------------------
-y$id <- extended_ids(x$id)
+tmp_ids <- extended_ids(x$id)
+stopifnot(!any(is.na(tmp_ids)))
+y$id <- tmp_ids
+stopifnot(!any(is.na(y$id)))
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for date_confirmation is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_confirmation == ""
+y$date_confirmation[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+#' -----------------------------------------------------------------------------
+#' The range for date_confirmation needs a whitespace for consistency.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_confirmation == "25.02.2020-26.02.2020"
+y$date_confirmation[tmp_mask] <- "25.02.2020 - 26.02.2020"
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' Filter for only values where the confirmation date is not after 5th Feb 2020.
+#' -----------------------------------------------------------------------------
+tmp_mask <- is.na_or_true(strpdate(y$date_confirmation) <= as.Date("05.02.2020", format = "%d.%m.%Y", origin = "01.01.1970"))
+y <- y[tmp_mask,]
+stopifnot(!any(is.na(y$id)))
+rm(tmp_mask)
+
 
 #' -----------------------------------------------------------------------------
 #' When the age is given as the empty string, replace it with "NA".
@@ -210,21 +238,6 @@ y$date_admission_hospital[tmp_mask] <- "09.01.2020"
 rm(tmp_mask)
 
 
-#' -----------------------------------------------------------------------------
-#' The valid missing value for date_confirmation is not the empty string.
-#' -----------------------------------------------------------------------------
-tmp_mask <- y$date_confirmation == ""
-y$date_confirmation[tmp_mask] <- na_string
-rm(tmp_mask)
-
-
-#' -----------------------------------------------------------------------------
-#' The range for date_confirmation needs a whitespace for consistency.
-#' -----------------------------------------------------------------------------
-tmp_mask <- y$date_confirmation == "25.02.2020-26.02.2020"
-y$date_confirmation[tmp_mask] <- "25.02.2020 - 26.02.2020"
-rm(tmp_mask)
-
 
 #' -----------------------------------------------------------------------------
 #' The valid missing value for travel_history_dates is not the empty string.
@@ -368,6 +381,7 @@ tmp_mask <- y$lives_in_wuhan %in% tmp_others
 y$lives_in_wuhan[tmp_mask] <- "no"
 rm(tmp_mask,tmp_others)
 
+stopifnot(!any(is.na(y$id)))
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_age, x = y$age), c("id", "age")]
 
