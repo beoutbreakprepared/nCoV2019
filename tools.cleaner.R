@@ -76,3 +76,20 @@ rgx_lives_in_wuhan <- anchor_wrap(boolean_or("yes", "no", .rgx_na_value))
 #' -----------------------------------------------------------------------------
 #' Miscellaneous tools
 #' -----------------------------------------------------------------------------
+
+extended_ids <- function(maybe_ids) {
+    ## type Id = Integer
+    ## extended_ids :: [Maybe Id] -> [Id]
+    na_mask <- is.na(maybe_ids)
+    num_nas <- sum(na_mask)
+    existing_ids <- maybe_ids[!na_mask]
+    fresh_ids <- 1:num_nas + max(existing_ids)
+    ids <- maybe_ids
+    ids[na_mask] <- fresh_ids
+    return(ids)
+}
+
+expect_true(all(c(1,4,3) == extended_ids(c(1,NA,3))))
+expect_true(all(c(1,3,2) == extended_ids(c(1,NA,2))))
+expect_true(all(c(1,2,3) == extended_ids(c(1,2,3))))
+expect_true(all(c(1,2,6,7) == extended_ids(c(1,2,6,NA))))
