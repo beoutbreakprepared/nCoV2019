@@ -9,8 +9,16 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
-#' - 03-03-20: Fix the id values and filter for not after 05-02-20.
-#' - 02-03-20: Initial draft.
+#' - 04-03-20
+#'   + Remove data moderator initials column.
+#'   + Write the result to file "cleaned-outside-hubei-20200301.csv".
+#'   + Finish including missing value codes in the remaining columns.
+#'
+#' - 03-03-20
+#'   + Fix the id values and filter for not after 05-02-20.
+#'
+#' - 02-03-20
+#'   + Initial draft.
 #'
 #' -----------------------------------------------------------------------------
 
@@ -21,7 +29,7 @@ source("tools.cleaner.R")
 #' -----------------------------------------------------------------------------
 
 data_file <- "outside_hubei_20200301.csv"
-x <- read.csv(data_file, stringsAsFactors = FALSE)
+x <- subset(read.csv(data_file, stringsAsFactors = FALSE), select = -not_wuhan)
 y <- x
 
 
@@ -138,13 +146,6 @@ rm(tmp_mask)
 tmp_mask <- y$country == "china"
 y$country[tmp_mask] <- "China"
 rm(tmp_mask)
-
-
-#' -----------------------------------------------------------------------------
-#' By virtue of appearing in this table they should have 1 as the value for the
-#' not_wuhan column.
-#' -----------------------------------------------------------------------------
-y$not_wuhan <- 1
 
 
 #' -----------------------------------------------------------------------------
@@ -381,6 +382,93 @@ tmp_mask <- y$lives_in_wuhan %in% tmp_others
 y$lives_in_wuhan[tmp_mask] <- "no"
 rm(tmp_mask,tmp_others)
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for reported_market_exposure is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$reported_market_exposure == ""
+y$reported_market_exposure[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for additional_information is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$additional_information == ""
+y$additional_information[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for chronic_disease_binary is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$chronic_disease_binary == ""
+y$chronic_disease_binary[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for chronic_disease is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$chronic_disease == ""
+y$chronic_disease[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for source is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$source == ""
+y$source[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for sequence_available is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$sequence_available == ""
+y$sequence_available[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for outcome is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$outcome == ""
+y$outcome[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for notes_for_discussion is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$notes_for_discussion == ""
+y$notes_for_discussion[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for location is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$location == ""
+y$location[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for admin3 is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$admin3 == ""
+y$admin3[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for admin2 is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$admin2 == ""
+y$admin2[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for admin1 is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$admin1 == ""
+y$admin1[tmp_mask] <- na_string
+rm(tmp_mask)
+
+
+
+
 stopifnot(!any(is.na(y$id)))
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_age, x = y$age), c("id", "age")]
@@ -417,3 +505,7 @@ y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death
 
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_wuhan")]
+
+y <- subset(y, select = -data_moderator_initials)
+
+write.csv(y,"cleaned-outside-hubei-20200301.csv")

@@ -260,4 +260,4 @@ y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_wuhan")]
 
-write.csv(y,"cleaned-hubei20200301.csv")
+write.csv(y,"cleaned-hubei-20200301.csv")
