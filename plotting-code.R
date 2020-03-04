@@ -15,8 +15,6 @@ source("outside-hubei-20200301.cleaner.R")
     return(result)
 }
 
-
-
 .mesh <- function(max_age, age_string) {
     if (age_string == na_string) {
         rep(0, max_age + 1)
@@ -32,9 +30,9 @@ source("outside-hubei-20200301.cleaner.R")
     }
 }
 
-.bin_strings <- function(n, m) unlist(lapply(0:(n-1) * m, function(ix) rep(sprintf("%d-%d", ix, ix + m - 1), each = m)))
-
-
+.bin_strings <- function(n, m) {
+    unlist(lapply(0:(n-1) * m, function(ix) rep(sprintf("%d-%d", ix, ix + m - 1), each = m)))
+}
 
 histogram_date_strings <- function(age_df) {
     df <- .completeness_data_frame(age_df)
@@ -45,7 +43,7 @@ histogram_date_strings <- function(age_df) {
         string_freq <- df[ix, "frequency"]
         acc <- acc + string_freq * .mesh(max_age, age_string)
     }
-    tmp <- data.frame(acc = acc, bin = bin_strings(10,10))
+    tmp <- data.frame(acc = acc, bin = .bin_strings(10,10))
     tmp %>% group_by(bin) %>% summarise(sum_acc = sum(acc))
 }
 
@@ -73,3 +71,63 @@ sex_age_plot <- ggplot(plot_df, aes(x = bin, y = sum_acc, colour = sex)) +
     chosen_theme
 
 
+
+
+## tmp1 <- y %>% select(country, date_confirmation)
+## mask <- grepl(pattern = na_string, x = tmp1$date_confirmation)
+## tmp2 <- tmp1[!mask,]
+## mask <- is.na(tmp2$country)
+## tmp2 <- tmp2[!mask,]
+## tmp2$date <- strpdate(tmp2$date_confirmation)
+## total_cases <- tmp2 %>% group_by(country) %>% summarise(num_cases = length(date))
+## ten_case_countries <- total_cases %>% filter(num_cases >= 10) %>% as.data.frame()
+## mask <- sapply(tmp2$country, function(x) x %in% ten_case_countries$country)
+## tmp3 <- tmp2[mask,]
+## tmp4 <- tmp3 %>% group_by(country) %>% summarise(first_case = min(date))
+## tmp5 <- tmp4 %>% select(first_case) %>% unlist() %>% sort.int(index.return = TRUE) %>% `$`("ix")
+## tmp6 <- tmp4$country[tmp5]
+
+## plot_df <- tmp3 %>% filter(!is.na(country)) %>% filter(country != "NA") %>% mutate(sorted_country = factor(country, levels = tmp6)) %>% left_join(total_cases)
+
+## cases_through_time <- ggplot(plot_df, aes(x = date, y = sorted_country, fill = log10(num_cases))) +
+##     geom_density_ridges(bandwidth=2,
+##                         jittered_points = TRUE,
+##                         position = position_points_jitter(width = 0.5, height = 0),
+##                         point_shape = '|',
+##                         point_size = 3,
+##                         point_alpha = 1,
+##                         alpha = 0.7,) +
+##     scale_fill_gradient2() +
+##     labs(x = "Date", y = "Country", fill = "Log10 cases") +
+##     ggtitle("Confirmed cases in ten countries with most confirmed cases through time")
+
+
+
+
+## tmp1 <- y %>% select(country, date_onset_symptoms)
+## mask <- grepl(pattern = na_string, x = tmp1$date_onset_symptoms)
+## tmp2 <- tmp1[!mask,]
+## mask <- is.na(tmp2$country)
+## tmp2 <- tmp2[!mask,]
+## tmp2$date <- strpdate(tmp2$date_onset_symptoms)
+## total_cases <- tmp2 %>% group_by(country) %>% summarise(num_cases = length(date))
+## ten_case_countries <- total_cases %>% filter(num_cases >= 3) %>% as.data.frame()
+## mask <- sapply(tmp2$country, function(x) x %in% ten_case_countries$country)
+## tmp3 <- tmp2[mask,]
+## tmp4 <- tmp3 %>% group_by(country) %>% summarise(first_case = min(date))
+## tmp5 <- tmp4 %>% select(first_case) %>% unlist() %>% sort.int(index.return = TRUE) %>% `$`("ix")
+## tmp6 <- tmp4$country[tmp5]
+
+## plot_df <- tmp3 %>% filter(!is.na(country)) %>% filter(country != "NA") %>% mutate(sorted_country = factor(country, levels = tmp6)) %>% left_join(total_cases)
+
+## cases_through_time <- ggplot(plot_df, aes(x = date, y = sorted_country, fill = log10(num_cases))) +
+##     geom_density_ridges(bandwidth=2,
+##                         jittered_points = TRUE,
+##                         position = position_points_jitter(width = 0.5, height = 0),
+##                         point_shape = '|',
+##                         point_size = 3,
+##                         point_alpha = 1,
+##                         alpha = 0.7,) +
+##     scale_fill_gradient2() +
+##     labs(x = "Date", y = "Country", fill = "Log10 cases") +
+##     ggtitle("Onset of symptoms in three countries with most confirmed cases through time")
