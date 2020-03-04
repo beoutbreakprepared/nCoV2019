@@ -62,6 +62,8 @@ rm(tmp2)
 chosen_theme <- theme_classic() + theme(text = element_text(size = 20), axis.text.x = element_text(angle = -30))
 
 
+#' Plot showing the age distribution of cases stratified by sex.
+
 sex_age_plot <- ggplot(plot_df, aes(x = bin, y = sum_acc, colour = sex)) +
     ## geom_line(mapping = aes(group = sex))
     geom_bar(stat = "identity", position = "dodge", fill = "white", size = 1) +
@@ -70,33 +72,33 @@ sex_age_plot <- ggplot(plot_df, aes(x = bin, y = sum_acc, colour = sex)) +
     ggtitle("Sex stratified age distribution from XXX") +
     chosen_theme
 
+
+
+#' Plot showing how the delay between onset of symptoms and hospitalisation has changed over time.
+
+onset_dates <- strpdate(y$date_onset_symptoms)
+hosp_dates <- strpdate(y$date_admission_hospital)
+plot_df <- data.frame(onset_date = onset_dates, delay = hosp_dates - onset_dates) %>% filter(!is.na(delay))
+
+delay_hosp_plot <- ggplot(plot_df, aes(x = as.Date(onset_date, origin = "1970-01-01"), y = delay)) +
+    geom_jitter(width = 0.5, height = 0.5) +
+    labs(x = "Date of symptom onset", y = "Days after symptom onset until hospitalisation") +
+    ggtitle("Delay from symptom onset to hospital admission XXX") +
+    chosen_theme +
+    theme(axis.text.x = element_text(angle = 0))
+
+
+
+
+#' Plot showing how the delay between onset of symptoms and confirmation has changed over time.
+
 onset_dates <- strpdate(y$date_onset_symptoms)
 conf_dates <- strpdate(y$date_confirmation)
 plot_df <- data.frame(onset_date = onset_dates, delay = conf_dates - onset_dates) %>% filter(!is.na(delay))
 
-delay_plot <- ggplot(plot_df, aes(x = as.Date(onset_date, origin = "1970-01-01"), y = delay)) +
+delay_conf_plot <- ggplot(plot_df, aes(x = as.Date(onset_date, origin = "1970-01-01"), y = delay)) +
     geom_jitter(width = 0.5, height = 0.5) +
     labs(x = "Date of symptom onset", y = "Days after symptom onset for confirmation") +
     ggtitle("Delay from symptom onset to confirmation XXX") +
     chosen_theme +
     theme(axis.text.x = element_text(angle = 0))
-
-
-## > summary(lm(delay ~ onset_date, plot_df))
-## Call:
-##     lm(formula = delay ~ onset_date, data = plot_df)
-
-## Residuals:
-##     Min     1Q Median     3Q    Max
-## -5.647 -2.316 -0.411  1.979 10.668
-
-## Coefficients:
-##     Estimate Std. Error t value Pr(>|t|)
-## (Intercept) 7060.69653  439.12005   16.08   <2e-16 ***
-## onset_date    -0.38586    0.02402  -16.07   <2e-16 ***
-## ---
-##     Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-## Residual standard error: 3.13 on 476 degrees of freedom
-## Multiple R-squared:  0.3516,	Adjusted R-squared:  0.3502
-## F-statistic: 258.1 on 1 and 476 DF,  p-value: < 2.2e-16
