@@ -1,0 +1,225 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "Epidemiological Data from the nCoV-2019 Outbreak: Early Descriptions from Publicly Available Data",
+  "creator": [
+    {
+      "type": "Person",
+      "id": "0000-0003-1824-7653",
+      "givenName": "Alexander Eugene",
+      "familyName": "Zarebski",
+      "email": "alexander.zarebski@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    }
+  ],
+  "description": "Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.",
+  "datePublished": "2020-03-04",
+  "keywords": "coronavirus,wuhan",
+  "funder": null,
+  "temporalCoverage": "NA/NA",
+  "license": null,
+  "spatialCoverage": {
+    "type": "Place",
+    "name": null,
+    "geo": {
+      "type": "GeoShape",
+      "box": "NA NA NA NA"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "id",
+      "description": "Unique identifier of case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "age",
+      "description": "Age or age range of case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sex",
+      "description": "Sex of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "city",
+      "description": "City of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "province",
+      "description": "Province of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "country",
+      "description": "Country of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "latitude",
+      "description": "The latitude of the location of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "longitude",
+      "description": "The longitude of the location of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "geo_resolution",
+      "description": "The resolution to which the location of the case is known"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_onset_symptoms",
+      "description": "The date when the patient started to experience symptoms"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_admission_hospital",
+      "description": "The date when the patient was admitted to hospital"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_confirmation",
+      "description": "The date at which infection with SARS-COV-2 was confirmed"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "symptoms",
+      "description": "Symptoms of the patient"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "lives_in_wuhan",
+      "description": "Whether the individual lives in Wuhan"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "travel_history_dates",
+      "description": "Dates at which the individual was travelling"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "travel_history_location",
+      "description": "Locations the individual traveled to"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "reported_market_exposure",
+      "description": "Whether the individual was known to have been exposed at the seafood market"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "additional_information",
+      "description": "Additional information data curators have found"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "chronic_disease_binary",
+      "description": "Whether the patient had a preexisting chronic disease"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "chronic_disease",
+      "description": "The nature of a preexisting chronic disease"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "source",
+      "description": "The source where the information was obtained"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sequence_available",
+      "description": "Whether a sequence of the virus is available"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "outcome",
+      "description": "How the infection resolved in the patient"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_death_or_discharge",
+      "description": "Whether the patient was discharged or died"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "notes_for_discussion",
+      "description": "Further free form notes"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "location",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin3",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin2",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin1",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "country_new",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin_id",
+      "description": "additional location data"
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "hubei-20200301",
+      "contentUrl": null,
+      "fileFormat": "csv"
+    }
+  ]
+}
