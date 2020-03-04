@@ -72,6 +72,7 @@ Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
 Alyssa Loskill | aloskill@bu.edu | |
 Sumiko Mekaru | Sumiko.Mekaru@childrens.harvard.edu | @Sumiko_Mekaru |
 Julia Morgan | | |
+Sang Woo Park | swp2@princeton.edu | @sang_woo_park | @parksw3
 David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
 Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
