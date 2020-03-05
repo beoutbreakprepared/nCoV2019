@@ -26,9 +26,6 @@ Datasets derived from Global Burden of Disease on prevalence rates of known co-m
 
 Global demographics, with age and sex structure are provided. These are mirrors of estimates from the Global Burden of Disease 2017, publically available here - http://ghdx.healthdata.org/record/ihme-data/gbd-2017-population-estimates-1950-2017. For further information please consult https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32278-5/fulltext
 
-# Basic summary stats
-## Sex (updated 25th Jan 2020)
-![alt_text](outputs/sex_summary.png)
 
 
 
