@@ -4,9 +4,6 @@ source("tools.cleaner.R")
 source("outside-hubei-20200301.cleaner.R")
 
 
-.prop_na_string <- function(x) {
-    sum(x == na_string) / length(x)
-}
 
 .completeness_data_frame <- function(x) {
     result <- as.data.frame(table(x))

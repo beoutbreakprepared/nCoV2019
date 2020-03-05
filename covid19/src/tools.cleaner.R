@@ -10,6 +10,9 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
+#' - 05-03-20
+#'   + \code{.prop_na_string} to assist in reporting completeness.
+#'
 #' - 03-03-20
 #'   + \code{is.na_or_true} to avoid issues with NA values.
 #'   + \code{strpdate} for filtering dates.
@@ -147,3 +150,12 @@ expect_true(is.na_or_true(NA))
 expect_true(is.na_or_true(TRUE))
 expect_true(!is.na_or_true(FALSE))
 expect_true(all(c(TRUE,FALSE,TRUE) == is.na_or_true(c(T,F,NA))))
+
+
+.prop_na_string <- function(x) {
+    sum(x == na_string) / length(x)
+}
+
+.prop_literal_na <- function(x) {
+    sum(is.na(x)) / length(x)
+}
