@@ -5,10 +5,178 @@
   "creator": [
     {
       "type": "Person",
+      "id": null,
+      "givenName": "Bo",
+      "familyName": "Xu",
+      "email": "xu-b15@mails.tsinghua.edu.cn",
+      "affiliation": "Tsinghua University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Bernardo",
+      "familyName": "Gutierrez",
+      "email": "bernardo.gutierrez@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Sumiko",
+      "familyName": "Mekaru",
+      "email": "srmekaru@gmail.com",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Kara",
+      "familyName": "Sewalk",
+      "email": "Kara.Sewalk@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Lauren",
+      "familyName": "Goodwin",
+      "email": "Lauren.Goodwin@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Alyssa",
+      "familyName": "Loskill",
+      "email": "aloskill@bu.edu",
+      "affiliation": "Boston University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Emily",
+      "familyName": "Cohn",
+      "email": "Emily.Cohn@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Yulin",
+      "familyName": "Hswen",
+      "email": "yuh958@mail.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-2995-2596",
+      "givenName": "Sarah C.",
+      "familyName": "Hill",
+      "email": "sarah.hill@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Maria M.",
+      "familyName": "Cobo",
+      "email": "maria.cobo@oriel.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
       "id": "0000-0003-1824-7653",
-      "givenName": "Alexander Eugene",
+      "givenName": "Alexander E.",
       "familyName": "Zarebski",
       "email": "alexander.zarebski@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Sabrina",
+      "familyName": "Li",
+      "email": "sabrina.li@ouce.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Chieh-His",
+      "familyName": "Wu",
+      "email": "chiehhsi.wu@gmail.com",
+      "affiliation": "University of Southampton"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Erin",
+      "familyName": "Hulland",
+      "email": "ehulland@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Julia",
+      "familyName": "Morgan",
+      "email": "morgaj5@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Lin",
+      "familyName": "Wang",
+      "email": "lin.wang@pasteur.fr",
+      "affiliation": "Institut Pasteur"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Katelynn",
+      "familyName": "O'Brien",
+      "email": "Katelynn.OBrien@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Samuel V.",
+      "familyName": "Scarpino",
+      "email": "s.scarpino@northeastern.edu",
+      "affiliation": "Northeastern University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "John S.",
+      "familyName": "Brownstein",
+      "email": "John.Brownstein@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-8797-2667",
+      "givenName": "Oliver G.",
+      "familyName": "Pybus",
+      "email": "oliver.pybus@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-6731-4034",
+      "givenName": "David M.",
+      "familyName": "Pigott",
+      "email": "pigottdm@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0001-8838-7147",
+      "givenName": "Moritz U.G.",
+      "familyName": "Kraemer",
+      "email": "moritz.kraemer@zoo.ox.ac.uk",
       "affiliation": "University of Oxford"
     }
   ],
