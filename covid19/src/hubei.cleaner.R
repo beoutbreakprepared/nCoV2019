@@ -4,12 +4,13 @@
 #' -----------------------------------------------------------------------------
 #' Usage:
 #'
-#' $ Rscript hubei-20200301.cleaner.R
+#' $ Rscript hubei.cleaner.R
 #'
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
 #' - 05-03-20
+#'   + Rename this file and input/output files.
 #'   + Remove any empty strings in country and province.
 #'
 #' - 04-03-20
@@ -33,7 +34,7 @@ source("src/tools.cleaner.R")
 #' Start the data cleaning.
 #' -----------------------------------------------------------------------------
 
-data_file <- "raw-data/hubei_20200301.csv"
+data_file <- "raw-data/hubei.csv"
 x <- read.csv(data_file, stringsAsFactors = FALSE)
 y <- subset(x, select = -not_wuhan)
 
@@ -277,4 +278,4 @@ y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_wuhan")]
 
-write.csv(y,"data/hubei-20200301.csv", row.names = FALSE)
+write.csv(y,"data/clean-hubei.csv", row.names = FALSE)

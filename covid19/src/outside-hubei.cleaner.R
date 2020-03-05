@@ -4,12 +4,14 @@
 #' -----------------------------------------------------------------------------
 #' Usage:
 #'
-#' $ Rscript hubei-20200301.cleaner.R
+#' $ Rscript outside-hubei.cleaner.R
 #'
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
 #' - 05-03-20
+#'   + Rename this file and input/output files.
+#'   + Remove some confirmation dates from the future.
 #'   + Fix broken missing value in chronic_disease_binary.
 #'   + Remove any empty strings in country and province.
 #'
@@ -32,7 +34,7 @@ source("src/tools.cleaner.R")
 #' Start the data cleaning.
 #' -----------------------------------------------------------------------------
 
-data_file <- "raw-data/outside_hubei_20200301.csv"
+data_file <- "raw-data/outside-hubei.csv"
 x <- subset(read.csv(data_file, stringsAsFactors = FALSE), select = -not_wuhan)
 y <- x
 
@@ -62,13 +64,23 @@ y$date_confirmation[tmp_mask] <- "25.02.2020 - 26.02.2020"
 rm(tmp_mask)
 
 #' -----------------------------------------------------------------------------
+#' We can't have confirmation dates in the future.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$date_confirmation %in% c("02.03.2021",
+                                       "02.03.2022",
+                                       "02.03.2023",
+                                       "02.03.2024",
+                                       "02.03.2025")
+y$date_confirmation[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
 #' Filter for only values where the confirmation date is not after 5th Feb 2020.
 #' -----------------------------------------------------------------------------
 tmp_mask <- is.na_or_true(strpdate(y$date_confirmation) <= as.Date("05.02.2020", format = "%d.%m.%Y", origin = "01.01.1970"))
 y <- y[tmp_mask,]
 stopifnot(!any(is.na(y$id)))
 rm(tmp_mask)
-
 
 #' -----------------------------------------------------------------------------
 #' When the age is given as the empty string, replace it with "NA".
@@ -525,4 +537,4 @@ y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_
 
 y <- subset(y, select = -data_moderator_initials)
 
-write.csv(y,"data/outside-hubei-20200301.csv", row.names = FALSE)
+write.csv(y,"data/clean-outside-hubei.csv", row.names = FALSE)

@@ -24,19 +24,23 @@ prop_complete_func <- function(x) {
     }
 }
 
-dataset_1_name <- "data/hubei-20200301.csv"
+dataset_1_name <- "data/clean-hubei.csv"
 d1 <- read.csv(dataset_1_name)
 d1$dataset <- dataset_1_name
 prop_complete_d1 <- prop_complete_func(d1)
 
-dataset_2_name <- "data/outside-hubei-20200301.csv"
+dataset_2_name <- "data/clean-outside-hubei.csv"
 d2 <- read.csv(dataset_2_name)
 d2$dataset <- dataset_2_name
 prop_complete_d2 <- prop_complete_func(d2)
 
 
 var_names <- names(d1)
-stopifnot(all(names(d1) == names(d2)))
+if (!all(names(d1) == names(d2))) {
+    print(setdiff(names(d1), names(d2)))
+    print(setdiff(names(d2), names(d1)))
+    stop()
+}
 
 cat("| Variable | Proportion Complete | Dataset |\n")
 cat("|----------|---------------------|---------|\n")
