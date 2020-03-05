@@ -77,3 +77,72 @@
 | Value | Meaning            |
 |-------|--------------------|
 | NA    | Data not available |
+
+## Data Completeness
+
+| Variable                   | Proportion Complete | Dataset                           |
+|----------------------------|---------------------|-----------------------------------|
+| `id`                       |            1.000000 | `data/hubei-20200301.csv`         |
+| `id`                       |            1.000000 | `data/outside-hubei-20200301.csv` |
+| `age`                      |            0.023187 | `data/hubei-20200301.csv`         |
+| `age`                      |            0.094852 | `data/outside-hubei-20200301.csv` |
+| `sex`                      |            0.009768 | `data/hubei-20200301.csv`         |
+| `sex`                      |            0.088418 | `data/outside-hubei-20200301.csv` |
+| `city`                     |            1.000000 | `data/hubei-20200301.csv`         |
+| `city`                     |            1.000000 | `data/outside-hubei-20200301.csv` |
+| `province`                 |            1.000000 | `data/hubei-20200301.csv`         |
+| `province`                 |            0.991182 | `data/outside-hubei-20200301.csv` |
+| `country`                  |            1.000000 | `data/hubei-20200301.csv`         |
+| `country`                  |            0.998570 | `data/outside-hubei-20200301.csv` |
+| `latitude`                 |            1.000000 | `data/hubei-20200301.csv`         |
+| `latitude`                 |            0.975572 | `data/outside-hubei-20200301.csv` |
+| `longitude`                |            1.000000 | `data/hubei-20200301.csv`         |
+| `longitude`                |            0.975572 | `data/outside-hubei-20200301.csv` |
+| `geo_resolution`           |            1.000000 | `data/hubei-20200301.csv`         |
+| `geo_resolution`           |            0.975572 | `data/outside-hubei-20200301.csv` |
+| `date_onset_symptoms`      |            0.009373 | `data/hubei-20200301.csv`         |
+| `date_onset_symptoms`      |            0.057078 | `data/outside-hubei-20200301.csv` |
+| `date_admission_hospital`  |            0.004045 | `data/hubei-20200301.csv`         |
+| `date_admission_hospital`  |            0.062798 | `data/outside-hubei-20200301.csv` |
+| `date_confirmation`        |            0.918204 | `data/hubei-20200301.csv`         |
+| `date_confirmation`        |            0.989990 | `data/outside-hubei-20200301.csv` |
+| `symptoms`                 |            0.003848 | `data/hubei-20200301.csv`         |
+| `symptoms`                 |            0.037059 | `data/outside-hubei-20200301.csv` |
+| `lives_in_wuhan`           |            0.003848 | `data/hubei-20200301.csv`         |
+| `lives_in_wuhan`           |            0.053980 | `data/outside-hubei-20200301.csv` |
+| `travel_history_dates`     |            0.000000 | `data/hubei-20200301.csv`         |
+| `travel_history_dates`     |            0.046711 | `data/outside-hubei-20200301.csv` |
+| `travel_history_location`  |            0.000000 | `data/hubei-20200301.csv`         |
+| `travel_history_location`  |            1.000000 | `data/outside-hubei-20200301.csv` |
+| `reported_market_exposure` |            0.000099 | `data/hubei-20200301.csv`         |
+| `reported_market_exposure` |            0.008937 | `data/outside-hubei-20200301.csv` |
+| `additional_information`   |            0.002171 | `data/hubei-20200301.csv`         |
+| `additional_information`   |            0.067803 | `data/outside-hubei-20200301.csv` |
+| `chronic_disease_binary`   |            0.002171 | `data/hubei-20200301.csv`         |
+| `chronic_disease_binary`   |            0.001787 | `data/outside-hubei-20200301.csv` |
+| `chronic_disease`          |            0.002072 | `data/hubei-20200301.csv`         |
+| `chronic_disease`          |            0.002026 | `data/outside-hubei-20200301.csv` |
+| `source`                   |            1.000000 | `data/hubei-20200301.csv`         |
+| `source`                   |            0.991778 | `data/outside-hubei-20200301.csv` |
+| `sequence_available`       |            0.000197 | `data/hubei-20200301.csv`         |
+| `sequence_available`       |            0.000119 | `data/outside-hubei-20200301.csv` |
+| `outcome`                  |            0.004144 | `data/hubei-20200301.csv`         |
+| `outcome`                  |            0.009295 | `data/outside-hubei-20200301.csv` |
+| `date_death_or_discharge`  |            0.004045 | `data/hubei-20200301.csv`         |
+| `date_death_or_discharge`  |            0.006316 | `data/outside-hubei-20200301.csv` |
+| `notes_for_discussion`     |            0.000000 | `data/hubei-20200301.csv`         |
+| `notes_for_discussion`     |            0.010129 | `data/outside-hubei-20200301.csv` |
+| `location`                 |            0.000000 | `data/hubei-20200301.csv`         |
+| `location`                 |            0.020138 | `data/outside-hubei-20200301.csv` |
+| `admin3`                   |            0.025555 | `data/hubei-20200301.csv`         |
+| `admin3`                   |            0.110582 | `data/outside-hubei-20200301.csv` |
+| `admin2`                   |            0.974544 | `data/hubei-20200301.csv`         |
+| `admin2`                   |            0.814228 | `data/outside-hubei-20200301.csv` |
+| `admin1`                   |            1.000000 | `data/hubei-20200301.csv`         |
+| `admin1`                   |            0.968065 | `data/outside-hubei-20200301.csv` |
+| `country_new`              |            1.000000 | `data/hubei-20200301.csv`         |
+| `country_new`              |            1.000000 | `data/outside-hubei-20200301.csv` |
+| `admin_id`                 |            1.000000 | `data/hubei-20200301.csv`         |
+| `admin_id`                 |            1.000000 | `data/outside-hubei-20200301.csv` |
+| `dataset`                  |            1.000000 | `data/hubei-20200301.csv`         |
+| `dataset`                  |            1.000000 | `data/outside-hubei-20200301.csv` |
