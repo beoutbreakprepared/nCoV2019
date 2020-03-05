@@ -38,25 +38,23 @@
 
 ## Variable Coding
 
-### `hubei-20200301.csv`
-
 | Variable                   | Code                                                                           |
 |----------------------------|--------------------------------------------------------------------------------|
 | `id`                       | Integer                                                                        |
 | `age`                      | String: `AGE` or `AGE-AGE` where `AGE` matches `[0-9]{1,2}`                    |
 | `sex`                      | String: either `male` or `female`                                              |
 | `city`                     | String                                                                         |
-| `province`                 | String: `Hubei`                                                                |
-| `country`                  | String: `China`                                                                |
+| `province`                 | String                                                                         |
+| `country`                  | String                                                                         |
 | `latitude`                 | Double                                                                         |
 | `longitude`                | Double                                                                         |
-| `geo_resolution`           | String: `point`                                                                |
+| `geo_resolution`           | String: `point` or matches `admin[0123]{1}`                                    |
 | `date_onset_symptoms`      | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
 | `date_admission_hospital`  | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
 | `date_confirmation`        | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
 | `symptoms`                 | String                                                                         |
 | `lives_in_wuhan`           | String: `yes` or `no`                                                          |
-| `travel_history_dates`     | String                                                                         |
+| `travel_history_dates`     | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
 | `travel_history_location`  | String                                                                         |
 | `reported_market_exposure` | String                                                                         |
 | `additional_information`   | String                                                                         |

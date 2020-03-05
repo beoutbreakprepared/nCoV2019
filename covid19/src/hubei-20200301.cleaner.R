@@ -9,6 +9,9 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
+#' - 05-03-20
+#'   + Remove any empty strings in country and province.
+#'
 #' - 04-03-20
 #'   + Write the result to file "cleaned-hubei-20200301.csv".
 #'   + Finish including missing value codes in the remaining columns.
@@ -85,6 +88,20 @@ rm(tmp_mask)
 #' -----------------------------------------------------------------------------
 tmp_mask <- y$sex == ""
 y$sex[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for province is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$province == ""
+y$province[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for country is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$country == ""
+y$country[tmp_mask] <- na_string
 rm(tmp_mask)
 
 #' -----------------------------------------------------------------------------

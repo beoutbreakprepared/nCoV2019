@@ -9,6 +9,10 @@
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
 #'
+#' - 05-03-20
+#'   + Fix broken missing value in chronic_disease_binary.
+#'   + Remove any empty strings in country and province.
+#'
 #' - 04-03-20
 #'   + Remove data moderator initials column.
 #'   + Write the result to file "cleaned-outside-hubei-20200301.csv".
@@ -22,13 +26,13 @@
 #'
 #' -----------------------------------------------------------------------------
 
-source("tools.cleaner.R")
+source("src/tools.cleaner.R")
 
 #' -----------------------------------------------------------------------------
 #' Start the data cleaning.
 #' -----------------------------------------------------------------------------
 
-data_file <- "outside_hubei_20200301.csv"
+data_file <- "raw-data/outside_hubei_20200301.csv"
 x <- subset(read.csv(data_file, stringsAsFactors = FALSE), select = -not_wuhan)
 y <- x
 
@@ -132,6 +136,12 @@ tmp_mask <- y$sex == "Male"
 y$sex[tmp_mask] <- "male"
 rm(tmp_mask)
 
+#' -----------------------------------------------------------------------------
+#' The valid missing value for province is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$province == ""
+y$province[tmp_mask] <- na_string
+rm(tmp_mask)
 
 #' -----------------------------------------------------------------------------
 #' The valid missing value for country is not the empty string.
@@ -404,6 +414,13 @@ y$chronic_disease_binary[tmp_mask] <- na_string
 rm(tmp_mask)
 
 #' -----------------------------------------------------------------------------
+#' The valid missing value for chronic_disease_binary is not "N/A".
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$chronic_disease_binary == "N/A"
+y$chronic_disease_binary[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
 #' The valid missing value for chronic_disease is not the empty string.
 #' -----------------------------------------------------------------------------
 tmp_mask <- y$chronic_disease == ""
@@ -508,4 +525,4 @@ y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_
 
 y <- subset(y, select = -data_moderator_initials)
 
-write.csv(y,"cleaned-outside-hubei-20200301.csv")
+write.csv(y,"data/outside-hubei-20200301.csv", row.names = FALSE)
