@@ -38,12 +38,44 @@
 
 ## Variable Coding
 
-| Variable | Code |
-|----------|------|
-|          |      |
+### `hubei-20200301.csv`
+
+| Variable                   | Code                                                                           |
+|----------------------------|--------------------------------------------------------------------------------|
+| `id`                       | Integer                                                                        |
+| `age`                      | String: `AGE` or `AGE-AGE` where `AGE` matches `[0-9]{1,2}`                    |
+| `sex`                      | String: either `male` or `female`                                              |
+| `city`                     | String                                                                         |
+| `province`                 | String: `Hubei`                                                                |
+| `country`                  | String: `China`                                                                |
+| `latitude`                 | Double                                                                         |
+| `longitude`                | Double                                                                         |
+| `geo_resolution`           | String: `point`                                                                |
+| `date_onset_symptoms`      | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
+| `date_admission_hospital`  | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
+| `date_confirmation`        | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
+| `symptoms`                 | String                                                                         |
+| `lives_in_wuhan`           | String: `yes` or `no`                                                          |
+| `travel_history_dates`     | String                                                                         |
+| `travel_history_location`  | String                                                                         |
+| `reported_market_exposure` | String                                                                         |
+| `additional_information`   | String                                                                         |
+| `chronic_disease_binary`   | Integer: `0` or `1`                                                            |
+| `chronic_disease`          | String                                                                         |
+| `source`                   | String: URL                                                                    |
+| `sequence_available`       | String: `yes` or `no`                                                          |
+| `outcome`                  | String: `discharged` or `died`                                                 |
+| `date_death_or_discharge`  | String: `DATE` or `DATE - DATE*` or `- DATE` where `DATE` matches `DD.MM.YYYY` |
+| `notes_for_discussion`     | String                                                                         |
+| `location`                 |                                                                                |
+| `admin3`                   |                                                                                |
+| `admin2`                   |                                                                                |
+| `admin1`                   |                                                                                |
+| `country_new`              |                                                                                |
+| `admin_id`                 |                                                                                |
 
 ## Missing Codes
 
-| Value | Meaning |
-|-------|---------|
-|       |         |
+| Value | Meaning            |
+|-------|--------------------|
+| NA    | Data not available |
