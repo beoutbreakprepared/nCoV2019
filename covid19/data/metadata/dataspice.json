@@ -1,0 +1,393 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "Epidemiological Data from the nCoV-2019 Outbreak: Early Descriptions from Publicly Available Data",
+  "creator": [
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Bo",
+      "familyName": "Xu",
+      "email": "xu-b15@mails.tsinghua.edu.cn",
+      "affiliation": "Tsinghua University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Bernardo",
+      "familyName": "Gutierrez",
+      "email": "bernardo.gutierrez@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Sumiko",
+      "familyName": "Mekaru",
+      "email": "srmekaru@gmail.com",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Kara",
+      "familyName": "Sewalk",
+      "email": "Kara.Sewalk@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Lauren",
+      "familyName": "Goodwin",
+      "email": "Lauren.Goodwin@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Alyssa",
+      "familyName": "Loskill",
+      "email": "aloskill@bu.edu",
+      "affiliation": "Boston University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Emily",
+      "familyName": "Cohn",
+      "email": "Emily.Cohn@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Yulin",
+      "familyName": "Hswen",
+      "email": "yuh958@mail.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-2995-2596",
+      "givenName": "Sarah C.",
+      "familyName": "Hill",
+      "email": "sarah.hill@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Maria M.",
+      "familyName": "Cobo",
+      "email": "maria.cobo@oriel.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0003-1824-7653",
+      "givenName": "Alexander E.",
+      "familyName": "Zarebski",
+      "email": "alexander.zarebski@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Sabrina",
+      "familyName": "Li",
+      "email": "sabrina.li@ouce.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Chieh-His",
+      "familyName": "Wu",
+      "email": "chiehhsi.wu@gmail.com",
+      "affiliation": "University of Southampton"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Erin",
+      "familyName": "Hulland",
+      "email": "ehulland@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Julia",
+      "familyName": "Morgan",
+      "email": "morgaj5@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Lin",
+      "familyName": "Wang",
+      "email": "lin.wang@pasteur.fr",
+      "affiliation": "Institut Pasteur"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Katelynn",
+      "familyName": "O'Brien",
+      "email": "Katelynn.OBrien@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "Samuel V.",
+      "familyName": "Scarpino",
+      "email": "s.scarpino@northeastern.edu",
+      "affiliation": "Northeastern University"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "givenName": "John S.",
+      "familyName": "Brownstein",
+      "email": "John.Brownstein@childrens.harvard.edu",
+      "affiliation": "Boston Children's Hospital"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-8797-2667",
+      "givenName": "Oliver G.",
+      "familyName": "Pybus",
+      "email": "oliver.pybus@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0002-6731-4034",
+      "givenName": "David M.",
+      "familyName": "Pigott",
+      "email": "pigottdm@uw.edu",
+      "affiliation": "University of Washington"
+    },
+    {
+      "type": "Person",
+      "id": "0000-0001-8838-7147",
+      "givenName": "Moritz U.G.",
+      "familyName": "Kraemer",
+      "email": "moritz.kraemer@zoo.ox.ac.uk",
+      "affiliation": "University of Oxford"
+    }
+  ],
+  "description": "Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.",
+  "datePublished": "2020-03-04",
+  "keywords": "coronavirus,wuhan",
+  "funder": null,
+  "temporalCoverage": "NA/NA",
+  "license": null,
+  "spatialCoverage": {
+    "type": "Place",
+    "name": null,
+    "geo": {
+      "type": "GeoShape",
+      "box": "NA NA NA NA"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "id",
+      "description": "Unique identifier of case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "age",
+      "description": "Age or age range of case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sex",
+      "description": "Sex of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "city",
+      "description": "City of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "province",
+      "description": "Province of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "country",
+      "description": "Country of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "latitude",
+      "description": "The latitude of the location of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "longitude",
+      "description": "The longitude of the location of the case"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "geo_resolution",
+      "description": "The resolution to which the location of the case is known"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_onset_symptoms",
+      "description": "The date when the patient started to experience symptoms"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_admission_hospital",
+      "description": "The date when the patient was admitted to hospital"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_confirmation",
+      "description": "The date at which infection with SARS-COV-2 was confirmed"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "symptoms",
+      "description": "Symptoms of the patient"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "lives_in_wuhan",
+      "description": "Whether the individual lives in Wuhan"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "travel_history_dates",
+      "description": "Dates at which the individual was travelling"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "travel_history_location",
+      "description": "Locations the individual traveled to"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "reported_market_exposure",
+      "description": "Whether the individual was known to have been exposed at the seafood market"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "additional_information",
+      "description": "Additional information data curators have found"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "chronic_disease_binary",
+      "description": "Whether the patient had a preexisting chronic disease"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "chronic_disease",
+      "description": "The nature of a preexisting chronic disease"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "source",
+      "description": "The source where the information was obtained"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "sequence_available",
+      "description": "Whether a sequence of the virus is available"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "outcome",
+      "description": "How the infection resolved in the patient"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "date_death_or_discharge",
+      "description": "Whether the patient was discharged or died"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "notes_for_discussion",
+      "description": "Further free form notes"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "location",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin3",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin2",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin1",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "country_new",
+      "description": "additional location data"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "admin_id",
+      "description": "additional location data"
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "hubei-20200301",
+      "contentUrl": null,
+      "fileFormat": "csv"
+    }
+  ]
+}

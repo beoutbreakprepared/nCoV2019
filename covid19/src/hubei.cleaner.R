@@ -4,10 +4,14 @@
 #' -----------------------------------------------------------------------------
 #' Usage:
 #'
-#' $ Rscript hubei-20200301.cleaner.R
+#' $ Rscript hubei.cleaner.R
 #'
 #' -----------------------------------------------------------------------------
 #' ChangeLog:
+#'
+#' - 05-03-20
+#'   + Rename this file and input/output files.
+#'   + Remove any empty strings in country and province.
 #'
 #' - 04-03-20
 #'   + Write the result to file "cleaned-hubei-20200301.csv".
@@ -23,14 +27,14 @@
 #'
 #' -----------------------------------------------------------------------------
 
-source("tools.cleaner.R")
+source("src/tools.cleaner.R")
 
 
 #' -----------------------------------------------------------------------------
 #' Start the data cleaning.
 #' -----------------------------------------------------------------------------
 
-data_file <- "hubei_20200301.csv"
+data_file <- "raw-data/hubei.csv"
 x <- read.csv(data_file, stringsAsFactors = FALSE)
 y <- subset(x, select = -not_wuhan)
 
@@ -85,6 +89,20 @@ rm(tmp_mask)
 #' -----------------------------------------------------------------------------
 tmp_mask <- y$sex == ""
 y$sex[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for province is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$province == ""
+y$province[tmp_mask] <- na_string
+rm(tmp_mask)
+
+#' -----------------------------------------------------------------------------
+#' The valid missing value for country is not the empty string.
+#' -----------------------------------------------------------------------------
+tmp_mask <- y$country == ""
+y$country[tmp_mask] <- na_string
 rm(tmp_mask)
 
 #' -----------------------------------------------------------------------------
@@ -260,4 +278,4 @@ y[!grepl(pattern = rgx_date, x = y$date_death_or_discharge), c("id", "date_death
 #' This data frame should be empty!
 y[!grepl(pattern = rgx_lives_in_wuhan, x = y$lives_in_wuhan), c("id", "lives_in_wuhan")]
 
-write.csv(y,"cleaned-hubei-20200301.csv")
+write.csv(y,"data/clean-hubei.csv", row.names = FALSE)

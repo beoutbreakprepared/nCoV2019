@@ -1,0 +1,32 @@
+fileName,variableName,description,unitText
+hubei-20200301.csv,id,Unique identifier of case,
+hubei-20200301.csv,age,Age or age range of case,
+hubei-20200301.csv,sex,Sex of the case,
+hubei-20200301.csv,city,City of the case,
+hubei-20200301.csv,province,Province of the case,
+hubei-20200301.csv,country,Country of the case,NA
+hubei-20200301.csv,latitude,The latitude of the location of the case,NA
+hubei-20200301.csv,longitude,The longitude of the location of the case,NA
+hubei-20200301.csv,geo_resolution,The resolution to which the location of the case is known,NA
+hubei-20200301.csv,date_onset_symptoms,The date when the patient started to experience symptoms,NA
+hubei-20200301.csv,date_admission_hospital,The date when the patient was admitted to hospital,NA
+hubei-20200301.csv,date_confirmation,The date at which infection with SARS-COV-2 was confirmed,NA
+hubei-20200301.csv,symptoms,Symptoms of the patient,NA
+hubei-20200301.csv,lives_in_wuhan,Whether the individual lives in Wuhan,NA
+hubei-20200301.csv,travel_history_dates,Dates at which the individual was travelling,NA
+hubei-20200301.csv,travel_history_location,Locations the individual traveled to,NA
+hubei-20200301.csv,reported_market_exposure,Whether the individual was known to have been exposed at the seafood market,NA
+hubei-20200301.csv,additional_information,Additional information data curators have found,NA
+hubei-20200301.csv,chronic_disease_binary,Whether the patient had a preexisting chronic disease,NA
+hubei-20200301.csv,chronic_disease,The nature of a preexisting chronic disease,NA
+hubei-20200301.csv,source,The source where the information was obtained,NA
+hubei-20200301.csv,sequence_available,Whether a sequence of the virus is available,NA
+hubei-20200301.csv,outcome,How the infection resolved in the patient,NA
+hubei-20200301.csv,date_death_or_discharge,Whether the patient was discharged or died,NA
+hubei-20200301.csv,notes_for_discussion,Further free form notes,NA
+hubei-20200301.csv,location,additional location data,NA
+hubei-20200301.csv,admin3,additional location data,NA
+hubei-20200301.csv,admin2,additional location data,NA
+hubei-20200301.csv,admin1,additional location data,NA
+hubei-20200301.csv,country_new,additional location data,NA
+hubei-20200301.csv,admin_id,additional location data,NA
