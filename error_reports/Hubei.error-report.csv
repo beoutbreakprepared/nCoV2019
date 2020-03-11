@@ -1,0 +1,104 @@
+row,ID,value,column
+10,9,pre 18.01.2020,date_onset_symptoms
+11,10,pre 18.01.2020,date_onset_symptoms
+12,11,pre 18.01.2020,date_onset_symptoms
+13,12,pre 18.01.2020,date_onset_symptoms
+14,13,pre 18.01.2020,date_onset_symptoms
+15,14,pre 18.01.2020,date_onset_symptoms
+15284,15283,#N/A,latitude
+15284,15283,#N/A,longitude
+15284,15283,#N/A,geo_resolution
+15285,15284,#N/A,geo_resolution
+15285,15284,#N/A,latitude
+15285,15284,#N/A,longitude
+15286,15285,#N/A,longitude
+15286,15285,#N/A,latitude
+15286,15285,#N/A,geo_resolution
+15287,15286,#N/A,latitude
+15287,15286,#N/A,geo_resolution
+15287,15286,#N/A,longitude
+15288,15287,#N/A,latitude
+15288,15287,#N/A,longitude
+15288,15287,#N/A,geo_resolution
+15289,15288,#N/A,latitude
+15289,15288,#N/A,longitude
+15289,15288,#N/A,geo_resolution
+15290,15289,#N/A,latitude
+15290,15289,#N/A,longitude
+15290,15289,#N/A,geo_resolution
+15291,15290,#N/A,geo_resolution
+15291,15290,#N/A,longitude
+15291,15290,#N/A,latitude
+15292,15291,#N/A,latitude
+15292,15291,#N/A,longitude
+15292,15291,#N/A,geo_resolution
+15293,15292,#N/A,longitude
+15293,15292,#N/A,latitude
+15293,15292,#N/A,geo_resolution
+15294,15293,#N/A,latitude
+15294,15293,#N/A,longitude
+15294,15293,#N/A,geo_resolution
+15295,15294,#N/A,longitude
+15295,15294,#N/A,latitude
+15295,15294,#N/A,geo_resolution
+15296,15295,#N/A,longitude
+15296,15295,#N/A,latitude
+15296,15295,#N/A,geo_resolution
+15297,15296,#N/A,longitude
+15297,15296,#N/A,geo_resolution
+15297,15296,#N/A,latitude
+15298,15297,#N/A,geo_resolution
+15298,15297,#N/A,latitude
+15298,15297,#N/A,longitude
+16,15,pre 18.01.2020,date_onset_symptoms
+17,16,pre 18.01.2020,date_onset_symptoms
+18,17,pre 18.01.2020,date_onset_symptoms
+19,18,pre 18.01.2020,date_onset_symptoms
+2,1,pre 18.01.2020,date_onset_symptoms
+20,19,pre 18.01.2020,date_onset_symptoms
+21,20,pre 18.01.2020,date_onset_symptoms
+22,21,pre 18.01.2020,date_onset_symptoms
+23,22,pre 18.01.2020,date_onset_symptoms
+24,23,pre 18.01.2020,date_onset_symptoms
+25,24,pre 18.01.2020,date_onset_symptoms
+26,25,pre 18.01.2020,date_onset_symptoms
+27,26,pre 18.01.2020,date_onset_symptoms
+28,27,pre 18.01.2020,date_onset_symptoms
+29,28,pre 18.01.2020,date_onset_symptoms
+3,2,pre 18.01.2020,date_onset_symptoms
+30,29,pre 18.01.2020,date_onset_symptoms
+31,30,pre 18.01.2020,date_onset_symptoms
+32,31,pre 18.01.2020,date_onset_symptoms
+33,32,pre 18.01.2020,date_onset_symptoms
+36,35,pre 18.01.2020,date_onset_symptoms
+37,36,pre 18.01.2020,date_onset_symptoms
+38,37,pre 18.01.2020,date_onset_symptoms
+39,38,pre 18.01.2020,date_onset_symptoms
+4,3,pre 18.01.2020,date_onset_symptoms
+40,39,pre 18.01.2020,date_onset_symptoms
+41,40,pre 18.01.2020,date_onset_symptoms
+42,41,pre 18.01.2020,date_onset_symptoms
+43,42,pre 18.01.2020,date_onset_symptoms
+44,43,pre 18.01.2020,date_onset_symptoms
+45,44,pre 18.01.2020,date_onset_symptoms
+46,45,pre 18.01.2020,date_onset_symptoms
+47,46,pre 18.01.2020,date_onset_symptoms
+48,47,pre 18.01.2020,date_onset_symptoms
+49,48,pre 18.01.2020,date_onset_symptoms
+5,4,pre 18.01.2020,date_onset_symptoms
+50,49,pre 18.01.2020,date_onset_symptoms
+51,50,pre 18.01.2020,date_onset_symptoms
+52,51,pre 18.01.2020,date_onset_symptoms
+53,52,pre 18.01.2020,date_onset_symptoms
+54,53,pre 18.01.2020,date_onset_symptoms
+55,54,pre 18.01.2020,date_onset_symptoms
+56,55,pre 18.01.2020,date_onset_symptoms
+57,56,pre 18.01.2020,date_onset_symptoms
+58,57,pre 18.01.2020,date_onset_symptoms
+59,58,pre 18.01.2020,date_onset_symptoms
+6,5,pre 18.01.2020,date_onset_symptoms
+60,59,pre 18.01.2020,date_onset_symptoms
+7,6,pre 18.01.2020,date_onset_symptoms
+75,74,early january,date_onset_symptoms
+8,7,pre 18.01.2020,date_onset_symptoms
+9,8,pre 18.01.2020,date_onset_symptoms
