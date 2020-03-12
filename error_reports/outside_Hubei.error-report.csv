@@ -1,104 +1,109 @@
 row,ID,value,column
-10,9,pre 18.01.2020,date_onset_symptoms
-11,10,pre 18.01.2020,date_onset_symptoms
-12,11,pre 18.01.2020,date_onset_symptoms
-13,12,pre 18.01.2020,date_onset_symptoms
-14,13,pre 18.01.2020,date_onset_symptoms
-15,14,pre 18.01.2020,date_onset_symptoms
-15284,15283,#N/A,latitude
-15284,15283,#N/A,longitude
-15284,15283,#N/A,geo_resolution
-15285,15284,#N/A,geo_resolution
-15285,15284,#N/A,latitude
-15285,15284,#N/A,longitude
-15286,15285,#N/A,longitude
-15286,15285,#N/A,latitude
-15286,15285,#N/A,geo_resolution
-15287,15286,#N/A,latitude
-15287,15286,#N/A,geo_resolution
-15287,15286,#N/A,longitude
-15288,15287,#N/A,latitude
-15288,15287,#N/A,longitude
-15288,15287,#N/A,geo_resolution
-15289,15288,#N/A,latitude
-15289,15288,#N/A,longitude
-15289,15288,#N/A,geo_resolution
-15290,15289,#N/A,latitude
-15290,15289,#N/A,longitude
-15290,15289,#N/A,geo_resolution
-15291,15290,#N/A,geo_resolution
-15291,15290,#N/A,longitude
-15291,15290,#N/A,latitude
-15292,15291,#N/A,latitude
-15292,15291,#N/A,longitude
-15292,15291,#N/A,geo_resolution
-15293,15292,#N/A,longitude
-15293,15292,#N/A,latitude
-15293,15292,#N/A,geo_resolution
-15294,15293,#N/A,latitude
-15294,15293,#N/A,longitude
-15294,15293,#N/A,geo_resolution
-15295,15294,#N/A,longitude
-15295,15294,#N/A,latitude
-15295,15294,#N/A,geo_resolution
-15296,15295,#N/A,longitude
-15296,15295,#N/A,latitude
-15296,15295,#N/A,geo_resolution
-15297,15296,#N/A,longitude
-15297,15296,#N/A,geo_resolution
-15297,15296,#N/A,latitude
-15298,15297,#N/A,geo_resolution
-15298,15297,#N/A,latitude
-15298,15297,#N/A,longitude
-16,15,pre 18.01.2020,date_onset_symptoms
-17,16,pre 18.01.2020,date_onset_symptoms
-18,17,pre 18.01.2020,date_onset_symptoms
-19,18,pre 18.01.2020,date_onset_symptoms
-2,1,pre 18.01.2020,date_onset_symptoms
-20,19,pre 18.01.2020,date_onset_symptoms
-21,20,pre 18.01.2020,date_onset_symptoms
-22,21,pre 18.01.2020,date_onset_symptoms
-23,22,pre 18.01.2020,date_onset_symptoms
-24,23,pre 18.01.2020,date_onset_symptoms
-25,24,pre 18.01.2020,date_onset_symptoms
-26,25,pre 18.01.2020,date_onset_symptoms
-27,26,pre 18.01.2020,date_onset_symptoms
-28,27,pre 18.01.2020,date_onset_symptoms
-29,28,pre 18.01.2020,date_onset_symptoms
-3,2,pre 18.01.2020,date_onset_symptoms
-30,29,pre 18.01.2020,date_onset_symptoms
-31,30,pre 18.01.2020,date_onset_symptoms
-32,31,pre 18.01.2020,date_onset_symptoms
-33,32,pre 18.01.2020,date_onset_symptoms
-36,35,pre 18.01.2020,date_onset_symptoms
-37,36,pre 18.01.2020,date_onset_symptoms
-38,37,pre 18.01.2020,date_onset_symptoms
-39,38,pre 18.01.2020,date_onset_symptoms
-4,3,pre 18.01.2020,date_onset_symptoms
-40,39,pre 18.01.2020,date_onset_symptoms
-41,40,pre 18.01.2020,date_onset_symptoms
-42,41,pre 18.01.2020,date_onset_symptoms
-43,42,pre 18.01.2020,date_onset_symptoms
-44,43,pre 18.01.2020,date_onset_symptoms
-45,44,pre 18.01.2020,date_onset_symptoms
-46,45,pre 18.01.2020,date_onset_symptoms
-47,46,pre 18.01.2020,date_onset_symptoms
-48,47,pre 18.01.2020,date_onset_symptoms
-49,48,pre 18.01.2020,date_onset_symptoms
-5,4,pre 18.01.2020,date_onset_symptoms
-50,49,pre 18.01.2020,date_onset_symptoms
-51,50,pre 18.01.2020,date_onset_symptoms
-52,51,pre 18.01.2020,date_onset_symptoms
-53,52,pre 18.01.2020,date_onset_symptoms
-54,53,pre 18.01.2020,date_onset_symptoms
-55,54,pre 18.01.2020,date_onset_symptoms
-56,55,pre 18.01.2020,date_onset_symptoms
-57,56,pre 18.01.2020,date_onset_symptoms
-58,57,pre 18.01.2020,date_onset_symptoms
-59,58,pre 18.01.2020,date_onset_symptoms
-6,5,pre 18.01.2020,date_onset_symptoms
-60,59,pre 18.01.2020,date_onset_symptoms
-7,6,pre 18.01.2020,date_onset_symptoms
-75,74,early january,date_onset_symptoms
-8,7,pre 18.01.2020,date_onset_symptoms
-9,8,pre 18.01.2020,date_onset_symptoms
+103,102,none,date_onset_symptoms
+10602,10900,JBSA-Lackland,city
+10956,11254,KK Women’s and Children’s Hospital,city
+11026,11330,KK Women’s and Children’s Hospital,city
+12250,12571,20.02.220,date_onset_symptoms
+1292,1297,live in Hangzhou,lives_in_Wuhan
+13112,13433,KK Women's and Children's Hospital,city
+13160,13481,24.02.2929,date_admission_hospital
+1381,1396,end of December 2019,date_onset_symptoms
+14632,14966,Osaka Travel History from Feb15 to Feb 16,travel_history_dates
+14633,14967,Osaka Travel History from Feb15 to Feb 16,travel_history_dates
+14636,14970,"Travel to Los Angeles, USA with his wife from Feb 20th to 26th, and return to Japan on 27th",travel_history_dates
+14638,14972,Osaka Travel History from Feb15th to Feb 16th,travel_history_dates
+14639,14973,Osaka Travel History from Feb15th to Feb 16th,travel_history_dates
+14671,15005,none,travel_history_dates
+14672,15006,none,travel_history_dates
+14673,15007,none,travel_history_dates
+14719,15053,#N/A,geo_resolution
+14719,15053,#N/A,longitude
+14719,15053,#N/A,latitude
+14725,15059,none,travel_history_dates
+173,174,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
+181,186,used to be,lives_in_Wuhan
+18503,18841,early March,travel_history_dates
+19008,19346,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19009,19347,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19010,19348,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19011,19349,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19012,19350,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19013,19351,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19014,19352,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19015,19353,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19016,19354,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19017,19355,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19018,19356,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19032,19370,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19033,19371,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19034,19372,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19035,19373,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19037,19375,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19107,19445,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19108,19446,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19109,19447,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19122,19460,18.2.2020,date_confirmation
+19199,19537,Italy,travel_history_dates
+19203,19541,"France, Italy",travel_history_dates
+19348,19686,#N/A,latitude
+19348,19686,#N/A,longitude
+19348,19686,#N/A,geo_resolution
+19360,19698,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19361,19699,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19362,19700,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19363,19701,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19364,19702,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19365,19703,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19366,19704,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19367,19705,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19368,19706,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19369,19707,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19370,19708,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19371,19709,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19372,19710,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19373,19711,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19374,19712,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19375,19713,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19376,19714,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19377,19715,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19378,19716,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19379,19717,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19380,19718,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19381,19719,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19386,19724,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19387,19725,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19388,19726,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19389,19727,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19390,19728,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+22,21,business trip,lives_in_Wuhan
+23,22,business trip,lives_in_Wuhan
+24,23,travel,lives_in_Wuhan
+227,232,work in Wuhan,lives_in_Wuhan
+248,253,Xiantao City resident,lives_in_Wuhan
+27,26,study trip,lives_in_Wuhan
+255,260,medical trip,lives_in_Wuhan
+256,261,business trip,lives_in_Wuhan
+257,262,business trip,lives_in_Wuhan
+28,27,business trip,lives_in_Wuhan
+276,281,"shanghai resident, travel history",lives_in_Wuhan
+304,309,tourism,lives_in_Wuhan
+305,310,business trip,lives_in_Wuhan
+311,316,study trip,lives_in_Wuhan
+5076,5144,02.02.2021,date_death_or_discharge
+5077,5145,02.02.2022,date_death_or_discharge
+5231,5299,from a foreign country,travel_history_dates
+5925,6201,came from abroad,travel_history_dates
+654,659,discharge,date_death_or_discharge
+658,663,thai national,lives_in_Wuhan
+659,664,Chinese,lives_in_Wuhan
+6623,6899,KK Women’s and Children’s Hospital,city
+6831,7107,discharge,date_death_or_discharge
+7427,7703,"20,01,2020",travel_history_dates
+7534,7812,ROK Capital Hospital,city
+7620,7899,December;17.01.2020 - 02.02.2020,travel_history_dates
+85,84,return from Wuhan,lives_in_Wuhan
+86,85,return from Wuhan,lives_in_Wuhan
+87,86,return from Wuhan,lives_in_Wuhan
+88,87,return from Wuhan,lives_in_Wuhan
+89,88,return from Wuhan,lives_in_Wuhan
+91,90,work in Wuhan,lives_in_Wuhan
