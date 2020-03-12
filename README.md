@@ -9,9 +9,7 @@ We first want to thank all those individuals and organizations across the world 
 
 Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
 
-[Hubei cases](/ncov_hubei.csv) Last updated to public sheet: 4th March 2020
-
-[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 4th March 2020
+Daily updates on the line list are posted in the dataset_archive folder.
 
 # Co-morbidity estimates
 
