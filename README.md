@@ -57,6 +57,8 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 Name | Email | Twitter | Github
 -----|-------|---------|-------
 Isha Berry | isha.berry@mail.utoronto.ca | @ishaberry2 |
+Darlan Candido | darlan.dasilvacandido@merton.ox.ac.uk | @candido_darlan |
+Nuno Faria | nuno.faria@zoo.ox.ac.uk | @nmrfaria |
 Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
