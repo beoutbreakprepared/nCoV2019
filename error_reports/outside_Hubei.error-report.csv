@@ -4,6 +4,9 @@ row,ID,value,column
 10956,11254,KK Women’s and Children’s Hospital,city
 11026,11330,KK Women’s and Children’s Hospital,city
 12250,12571,20.02.220,date_onset_symptoms
+12332,12653,#N/A,geo_resolution
+12332,12653,#N/A,longitude
+12332,12653,#N/A,latitude
 1292,1297,live in Hangzhou,lives_in_Wuhan
 13112,13433,KK Women's and Children's Hospital,city
 13160,13481,24.02.2929,date_admission_hospital
@@ -16,65 +19,155 @@ row,ID,value,column
 14671,15005,none,travel_history_dates
 14672,15006,none,travel_history_dates
 14673,15007,none,travel_history_dates
-14719,15053,#N/A,geo_resolution
 14719,15053,#N/A,longitude
 14719,15053,#N/A,latitude
+14719,15053,#N/A,geo_resolution
 14725,15059,none,travel_history_dates
 173,174,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
 181,186,used to be,lives_in_Wuhan
-18503,18841,early March,travel_history_dates
-19008,19346,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19009,19347,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19010,19348,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19011,19349,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19012,19350,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19013,19351,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19014,19352,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19015,19353,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19016,19354,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19017,19355,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19018,19356,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19032,19370,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19033,19371,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19034,19372,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19035,19373,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19037,19375,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
-19107,19445,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19108,19446,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19109,19447,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19122,19460,18.2.2020,date_confirmation
-19199,19537,Italy,travel_history_dates
-19203,19541,"France, Italy",travel_history_dates
-19348,19686,#N/A,latitude
-19348,19686,#N/A,longitude
-19348,19686,#N/A,geo_resolution
-19360,19698,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19361,19699,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19362,19700,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19363,19701,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19364,19702,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19365,19703,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19366,19704,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19367,19705,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19368,19706,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19369,19707,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19370,19708,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19371,19709,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19372,19710,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19373,19711,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19374,19712,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19375,19713,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19376,19714,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19377,19715,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19378,19716,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19379,19717,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19380,19718,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19381,19719,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19386,19724,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19387,19725,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19388,19726,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19389,19727,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
-19390,19728,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+18502,18841,early March,travel_history_dates
+19007,19346,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19008,19347,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19009,19348,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19010,19349,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19011,19350,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19012,19351,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19013,19352,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19014,19353,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19015,19354,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19016,19355,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19017,19356,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19031,19370,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19032,19371,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19033,19372,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19034,19373,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19036,19375,https://www.kingcounty.gov/depts/health/news/2020/March/5-slowing-the-impact.aspx,date_death_or_discharge
+19106,19445,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19107,19446,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19108,19447,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19121,19460,18.2.2020,date_confirmation
+19198,19537,Italy,travel_history_dates
+19202,19541,"France, Italy",travel_history_dates
+19359,19698,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19360,19699,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19361,19700,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19362,19701,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19363,19702,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19364,19703,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19365,19704,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19366,19705,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19367,19706,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19368,19707,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19369,19708,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19370,19709,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19371,19710,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19372,19711,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19373,19712,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19374,19713,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19375,19714,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19376,19715,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19377,19716,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19378,19717,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19379,19718,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19380,19719,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19385,19724,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19386,19725,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19387,19726,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19388,19727,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19389,19728,https://www.kingcounty.gov/depts/health/news/2020/March/9-covid-case-updates.aspx,date_death_or_discharge
+19928,20267,Egypt,travel_history_dates
+20063,20402,Indian Tours,travel_history_dates
+20064,20403,Join the same Indian tour group from January 31 to February 24,travel_history_dates
+20067,20406,Cathay Pacific CX542 from Hong Kong to Tokyo on February 19 and Cathay Pacific CX505 from Tokyo via Hong Kong on February 21;,travel_history_dates
+20068,20407,"With three daughters, they took the Cathay Pacific CX225 from Hong Kong to Glasgow via London on February 22 and returned to Hong Kong from Glasgow via London on February 28.",travel_history_dates
+20081,20420,KK Women's and Children's Hospital,city
+20142,20481,#N/A,latitude
+20142,20481,#N/A,longitude
+20142,20481,#N/A,geo_resolution
+20261,20600,#N/A,longitude
+20261,20600,#N/A,latitude
+20261,20600,#N/A,geo_resolution
+20262,20601,#N/A,longitude
+20262,20601,#N/A,latitude
+20262,20601,#N/A,geo_resolution
+20263,20602,#N/A,geo_resolution
+20263,20602,#N/A,longitude
+20263,20602,#N/A,latitude
+20265,20604,#N/A,geo_resolution
+20265,20604,#N/A,longitude
+20265,20604,#N/A,latitude
+20266,20605,#N/A,longitude
+20266,20605,#N/A,latitude
+20266,20605,#N/A,geo_resolution
+20267,20606,#N/A,latitude
+20267,20606,#N/A,geo_resolution
+20267,20606,#N/A,longitude
+20268,20607,#N/A,latitude
+20268,20607,#N/A,longitude
+20268,20607,#N/A,geo_resolution
+20269,20608,#N/A,geo_resolution
+20269,20608,#N/A,longitude
+20269,20608,#N/A,latitude
+20270,20609,#N/A,geo_resolution
+20270,20609,#N/A,longitude
+20270,20609,#N/A,latitude
+20271,20610,#N/A,longitude
+20271,20610,#N/A,geo_resolution
+20271,20610,#N/A,latitude
+20272,20611,#N/A,longitude
+20272,20611,#N/A,geo_resolution
+20272,20611,#N/A,latitude
+20273,20612,#N/A,geo_resolution
+20273,20612,#N/A,longitude
+20273,20612,#N/A,latitude
+20274,20613,#N/A,geo_resolution
+20274,20613,#N/A,longitude
+20274,20613,#N/A,latitude
+20275,20614,#N/A,geo_resolution
+20275,20614,#N/A,longitude
+20275,20614,#N/A,latitude
+20276,20615,#N/A,latitude
+20276,20615,#N/A,longitude
+20276,20615,#N/A,geo_resolution
+20277,20616,#N/A,geo_resolution
+20277,20616,#N/A,longitude
+20277,20616,#N/A,latitude
+20278,20617,#N/A,latitude
+20278,20617,#N/A,geo_resolution
+20278,20617,#N/A,longitude
+20279,20618,#N/A,geo_resolution
+20279,20618,#N/A,longitude
+20279,20618,#N/A,latitude
+20280,20619,#N/A,latitude
+20280,20619,#N/A,longitude
+20280,20619,#N/A,geo_resolution
+20281,20620,#N/A,longitude
+20281,20620,#N/A,geo_resolution
+20281,20620,#N/A,latitude
+20282,20621,#N/A,latitude
+20282,20621,#N/A,longitude
+20282,20621,#N/A,geo_resolution
+20283,20622,#N/A,latitude
+20283,20622,#N/A,geo_resolution
+20283,20622,#N/A,longitude
+20284,20623,#N/A,latitude
+20284,20623,#N/A,geo_resolution
+20284,20623,#N/A,longitude
+20285,20624,#N/A,longitude
+20285,20624,#N/A,geo_resolution
+20285,20624,#N/A,latitude
+20286,20625,#N/A,geo_resolution
+20286,20625,#N/A,longitude
+20286,20625,#N/A,latitude
+20287,20626,#N/A,longitude
+20287,20626,#N/A,geo_resolution
+20287,20626,#N/A,latitude
+20288,20627,#N/A,geo_resolution
+20288,20627,#N/A,latitude
+20288,20627,#N/A,longitude
+20289,20628,#N/A,latitude
+20289,20628,#N/A,geo_resolution
+20289,20628,#N/A,longitude
 22,21,business trip,lives_in_Wuhan
 23,22,business trip,lives_in_Wuhan
 24,23,travel,lives_in_Wuhan
@@ -92,8 +185,10 @@ row,ID,value,column
 5076,5144,02.02.2021,date_death_or_discharge
 5077,5145,02.02.2022,date_death_or_discharge
 5231,5299,from a foreign country,travel_history_dates
+5858,6134,#N/A,longitude
+5858,6134,#N/A,latitude
+5858,6134,#N/A,geo_resolution
 5925,6201,came from abroad,travel_history_dates
-654,659,discharge,date_death_or_discharge
 658,663,thai national,lives_in_Wuhan
 659,664,Chinese,lives_in_Wuhan
 6623,6899,KK Women’s and Children’s Hospital,city
