@@ -9,9 +9,7 @@ We first want to thank all those individuals and organizations across the world 
 
 Line lists also posted and updated at https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
 
-[Hubei cases](/ncov_hubei.csv) Last updated to public sheet: 4th March 2020
-
-[Outside Hubei cases](/ncov_outside_hubei.csv) Last updated to public sheet: 4th March 2020
+Daily updates on the line list are posted in the dataset_archive folder.
 
 # Co-morbidity estimates
 
@@ -59,6 +57,8 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 Name | Email | Twitter | Github
 -----|-------|---------|-------
 Isha Berry | isha.berry@mail.utoronto.ca | @ishaberry2 |
+Darlan Candido | darlan.dasilvacandido@merton.ox.ac.uk | @candido_darlan |
+Nuno Faria | nuno.faria@zoo.ox.ac.uk | @nmrfaria |
 Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
 Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
