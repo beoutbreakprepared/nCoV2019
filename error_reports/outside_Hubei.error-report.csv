@@ -39,6 +39,10 @@ row,ID,value,column
 20338,20678,<1,age
 22,21,business trip,lives_in_Wuhan
 20736,21076,<60,age
+20826,21166,#N/A,latitude
+20826,21166,#N/A,geo_resolution
+20826,21166,#N/A,longitude
+20909,21249,Austria,travel_history_dates
 23,22,business trip,lives_in_Wuhan
 24,23,travel,lives_in_Wuhan
 227,232,work in Wuhan,lives_in_Wuhan
