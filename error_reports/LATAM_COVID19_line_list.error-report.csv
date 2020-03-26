@@ -1,35 +1,136 @@
 row,ID,value,column
-1281,004-1044,#N/A,geo_resolution
-1281,004-1044,#N/A,longitude
-1281,004-1044,#N/A,latitude
-1287,004-1050,returned Belen 14.03.2020,travel_history_dates
-1303,004-1066,21.03202,date_confirmation
-1348,004-1111,21.03..2020,date_confirmation
-1517,004-1280,na,age
-1518,004-1281,na,age
-1519,004-1282,na,age
-1520,004-1283,na,age
-1521,004-1284,na,age
-1522,004-1285,na,age
-1523,004-1286,na,age
-401,004-164,25.02-02.03,travel_history_dates
-404,004-167,Carnival,travel_history_dates
-433,004-196,no,travel_history_dates
-434,004-197,no,travel_history_dates
-524,004-287,no,travel_history_dates
-622,004-385,na,sex
-777,004-540,no,travel_history_dates
-783,004-546,no,travel_history_dates
-799,004-562,return to Brazil in 08.03.2020,travel_history_dates
-949,004-712,Lives in Rio de Janeiro,travel_history_dates
-951,004-714,Rio de Janeiro,travel_history_dates
-952,004-715,Contato RS29,travel_history_dates
-1012,004-775,na,sex
-1013,004-776,na,sex
-1014,004-777,na,sex
-1055,004-818,Lives in Rio de Janeiro,travel_history_dates
-1057,004-820,Rio de Janeiro,travel_history_dates
-1058,004-821,Contato RS29,travel_history_dates
-1155,004-918,January 14 and 15,travel_history_dates
-1156,004-919,na,age
-1157,004-920,na,age
+1147,004-1146,Lives in Rio de Janeiro,travel_history_dates
+1149,004-1148,Rio de Janeiro,travel_history_dates
+1150,004-1149,Contato RS29,travel_history_dates
+116,004-115,no,travel_history_dates
+117,004-116,no,travel_history_dates
+1210,004-1209,na,sex
+1211,004-1210,na,sex
+1212,004-1211,na,sex
+1251,004-1250,Lives in Rio de Janeiro,travel_history_dates
+1253,004-1252,Rio de Janeiro,travel_history_dates
+1254,004-1253,Contato RS29,travel_history_dates
+1534,004-1533,January 14 and 15,travel_history_dates
+1535,004-1534,na,age
+1536,004-1535,na,age
+1646,004-1645,21.03..2020,date_confirmation
+1655,004-1654,na,age
+1656,004-1655,na,age
+1657,004-1656,na,age
+1658,004-1657,na,age
+1659,004-1658,na,age
+1660,004-1659,na,age
+1661,004-1660,na,age
+2031,004-2030,6.03.2020,date_confirmation
+2032,004-2031,9.03.2020,date_confirmation
+2033,004-2032,9.03.2020,date_confirmation
+2035,004-2034,returned Belen 14.03.2020,travel_history_dates
+2287,004-2286,19/03/2020,date_onset_symptoms
+2288,004-2287,15/03/2020,date_onset_symptoms
+2289,004-2288,24/03/2020,date_onset_symptoms
+2290,004-2289,21/03/2020,date_onset_symptoms
+2291,004-2290,22/03/2020,date_onset_symptoms
+2291,004-2290,14/03/2020,travel_history_dates
+2292,004-2291,06/03/2020,travel_history_dates
+2292,004-2291,20/03/2020,date_onset_symptoms
+2293,004-2292,18/03/2020,date_onset_symptoms
+2293,004-2292,15/03/2020,travel_history_dates
+2294,004-2293,22/03/2020,date_onset_symptoms
+2294,004-2293,13/03/2020,travel_history_dates
+2295,004-2294,22/03/2020,date_onset_symptoms
+2295,004-2294,14/03/2020,travel_history_dates
+2296,004-2295,23/03/2020,date_onset_symptoms
+2296,004-2295,23/03/2020,travel_history_dates
+2297,004-2296,14/03/2020,travel_history_dates
+2297,004-2296,18/03/2020,date_onset_symptoms
+2298,004-2297,12/03/2020,travel_history_dates
+2298,004-2297,20/03/2020,date_onset_symptoms
+2299,004-2298,12/03/2020,date_onset_symptoms
+2300,004-2299,23/03/2020,date_onset_symptoms
+2301,004-2300,21/03/2020,date_onset_symptoms
+2301,004-2300,20/03/2020,travel_history_dates
+2302,004-2301,18/03/2020,date_onset_symptoms
+2303,004-2302,23/03/2020,travel_history_dates
+2303,004-2302,23/03/2020,date_onset_symptoms
+2304,004-2303,19/03/2020,date_onset_symptoms
+2305,004-2304,14/03/2020,travel_history_dates
+2305,004-2304,16/03/2020,date_onset_symptoms
+2306,004-2305,16/03/2020,date_onset_symptoms
+2306,004-2305,21/03/2020,travel_history_dates
+2307,004-2306,13/03/2020,date_onset_symptoms
+2308,004-2307,03/03/2020,travel_history_dates
+2308,004-2307,16/03/2020,date_onset_symptoms
+2309,004-2308,21/03/2020,date_onset_symptoms
+2310,004-2309,21/03/2020,date_onset_symptoms
+2311,004-2310,22/03/2020,date_onset_symptoms
+2312,004-2311,16/03/2020,date_onset_symptoms
+2312,004-2311,09/03/2020,travel_history_dates
+2313,004-2312,16/03/2020,date_onset_symptoms
+2313,004-2312,15/03/2020,travel_history_dates
+2314,004-2313,16/03/2020,date_onset_symptoms
+2315,004-2314,17/03/2020,date_onset_symptoms
+2315,004-2314,16/03/2020,travel_history_dates
+2316,004-2315,14/03/2020,travel_history_dates
+2316,004-2315,10/03/2020,date_onset_symptoms
+2317,004-2316,02/03/2020,date_onset_symptoms
+2317,004-2316,15/03/2020,travel_history_dates
+2318,004-2317,14/03/2020,date_onset_symptoms
+2319,004-2318,15/03/2020,date_onset_symptoms
+2319,004-2318,19/03/2020,travel_history_dates
+2320,004-2319,18/03/2020,date_onset_symptoms
+2320,004-2319,16/03/2020,travel_history_dates
+2321,004-2320,16/03/2020,date_onset_symptoms
+2321,004-2320,16/03/2020,travel_history_dates
+2322,004-2321,16/03/2020,date_onset_symptoms
+2322,004-2321,17/03/2020,travel_history_dates
+2323,004-2322,20/03/2020,date_onset_symptoms
+2323,004-2322,14/03/2020,travel_history_dates
+2324,004-2323,16/03/2020,travel_history_dates
+2324,004-2323,17/03/2020,date_onset_symptoms
+2325,004-2324,17/03/2020,travel_history_dates
+2325,004-2324,16/03/2020,date_onset_symptoms
+2326,004-2325,20/03/2020,date_onset_symptoms
+2327,004-2326,19/03/2020,travel_history_dates
+2327,004-2326,10/03/2020,date_onset_symptoms
+2328,004-2327,16/03/2020,travel_history_dates
+2328,004-2327,18/03/2020,date_onset_symptoms
+2329,004-2328,12/03/2020,date_onset_symptoms
+2330,004-2329,13/03/2020,date_onset_symptoms
+2330,004-2329,15/03/2020,travel_history_dates
+2331,004-2330,19/03/2020,date_onset_symptoms
+2332,004-2331,23/03/2020,date_onset_symptoms
+2332,004-2331,13/03/2020,travel_history_dates
+2333,004-2332,19/03/2020,date_onset_symptoms
+2334,004-2333,20/03/2020,date_onset_symptoms
+2335,004-2334,18/03/2020,travel_history_dates
+2335,004-2334,18/03/2020,date_onset_symptoms
+2336,004-2335,16/03/2020,date_onset_symptoms
+2337,004-2336,13/03/2020,date_onset_symptoms
+2338,004-2337,17/03/2020,date_onset_symptoms
+2339,004-2338,13/03/2020,date_onset_symptoms
+2340,004-2339,12/03/2020,travel_history_dates
+2340,004-2339,19/03/2020,date_onset_symptoms
+2341,004-2340,18/03/2020,travel_history_dates
+2341,004-2340,21/03/2020,date_onset_symptoms
+2342,004-2341,21/03/2020,date_onset_symptoms
+2343,004-2342,11/03/2020,travel_history_dates
+2343,004-2342,15/03/2020,date_onset_symptoms
+2344,004-2343,15/03/2020,travel_history_dates
+2344,004-2343,11/03/2020,date_onset_symptoms
+2345,004-2344,10/03/2020,date_onset_symptoms
+2346,004-2345,18/03/2020,date_onset_symptoms
+2347,004-2346,18/03/2020,date_onset_symptoms
+2348,004-2347,14/03/2020,date_onset_symptoms
+2349,004-2348,18/03/2020,travel_history_dates
+2349,004-2348,19/03/2020,date_onset_symptoms
+2350,004-2349,15/03/2020,travel_history_dates
+2350,004-2349,19/03/2020,date_onset_symptoms
+2351,004-2350,20/03/2020,date_onset_symptoms
+2352,004-2352,13/03/2020,date_onset_symptoms
+343,004-342,na,sex
+394,004-393,no,travel_history_dates
+43,004-42,25.02-02.03,travel_history_dates
+46,004-45,Carnival,travel_history_dates
+496,004-495,no,travel_history_dates
+749,004-748,no,travel_history_dates
+750,004-749,return to Brazil in 08.03.2020,travel_history_dates

@@ -6,51 +6,6 @@ row,ID,value,column
 14,13,pre 18.01.2020,date_onset_symptoms
 15,14,pre 18.01.2020,date_onset_symptoms
 16,15,pre 18.01.2020,date_onset_symptoms
-15284,15283,#N/A,geo_resolution
-15284,15283,#N/A,longitude
-15284,15283,#N/A,latitude
-15285,15284,#N/A,latitude
-15285,15284,#N/A,geo_resolution
-15285,15284,#N/A,longitude
-15286,15285,#N/A,latitude
-15286,15285,#N/A,geo_resolution
-15286,15285,#N/A,longitude
-15287,15286,#N/A,geo_resolution
-15287,15286,#N/A,longitude
-15287,15286,#N/A,latitude
-15288,15287,#N/A,longitude
-15288,15287,#N/A,latitude
-15288,15287,#N/A,geo_resolution
-15289,15288,#N/A,latitude
-15289,15288,#N/A,geo_resolution
-15289,15288,#N/A,longitude
-15290,15289,#N/A,longitude
-15290,15289,#N/A,geo_resolution
-15290,15289,#N/A,latitude
-15291,15290,#N/A,longitude
-15291,15290,#N/A,geo_resolution
-15291,15290,#N/A,latitude
-15292,15291,#N/A,geo_resolution
-15292,15291,#N/A,latitude
-15292,15291,#N/A,longitude
-15293,15292,#N/A,geo_resolution
-15293,15292,#N/A,longitude
-15293,15292,#N/A,latitude
-15294,15293,#N/A,geo_resolution
-15294,15293,#N/A,latitude
-15294,15293,#N/A,longitude
-15295,15294,#N/A,geo_resolution
-15295,15294,#N/A,latitude
-15295,15294,#N/A,longitude
-15296,15295,#N/A,latitude
-15296,15295,#N/A,geo_resolution
-15296,15295,#N/A,longitude
-15297,15296,#N/A,geo_resolution
-15297,15296,#N/A,latitude
-15297,15296,#N/A,longitude
-15298,15297,#N/A,longitude
-15298,15297,#N/A,latitude
-15298,15297,#N/A,geo_resolution
 17,16,pre 18.01.2020,date_onset_symptoms
 18,17,pre 18.01.2020,date_onset_symptoms
 19,18,pre 18.01.2020,date_onset_symptoms
