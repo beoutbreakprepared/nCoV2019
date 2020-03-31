@@ -87,19 +87,19 @@ row,ID,value,column
 47033,003-47035,M,sex
 47034,003-47036,F,sex
 47034,003-47036,;Trentino;Italy-Rome;Lazio;Italy,travel_history_dates
-47037,003-47039,;;Italy,travel_history_dates
 47037,003-47039,F,sex
+47037,003-47039,;;Italy,travel_history_dates
 47038,003-47040,;;Italy,travel_history_dates
 47038,003-47040,M,sex
 47039,003-47041,;;Belgium,travel_history_dates
 47039,003-47041,M,sex
 47040,003-47042,Berlin;Berlin;Germany-Amsterdam;North Holland;Netherlands,travel_history_dates
 47040,003-47042,F,sex
-47046,003-47048,M,sex
 47046,003-47048,Dublin;Dublin;Ireland,travel_history_dates
-47047,003-47049,M,sex
+47046,003-47048,M,sex
 47047,003-47049,Barcelona;Catalonia;Spain,travel_history_dates
 47047,003-47049,13.03.20,date_onset_symptoms
+47047,003-47049,M,sex
 47048,003-47050,M,sex
 47048,003-47050,Madrid;Comunidad de Madrid;Spain,travel_history_dates
 47049,003-47051,F,sex
@@ -118,21 +118,21 @@ row,ID,value,column
 47079,003-47081,M,sex
 47080,003-47082,M,sex
 47080,003-47082,Madrid;Comunidad de Madrid;Spain,travel_history_dates
-47081,003-47083,;Brussels;Belgium,travel_history_dates
 47081,003-47083,M,sex
+47081,003-47083,;Brussels;Belgium,travel_history_dates
 47082,003-47084,;;United Kingdom,travel_history_dates
 47082,003-47084,M,sex
 47083,003-47085,M,sex
 47084,003-47086,;;Italy,travel_history_dates
 47084,003-47086,M,sex
-47085,003-47087,Istanbul;Marmara;Turkey,travel_history_dates
 47085,003-47087,M,sex
+47085,003-47087,Istanbul;Marmara;Turkey,travel_history_dates
 47086,003-47088,F,sex
 47087,003-47089,M,sex
 47088,003-47090,F,sex
 47089,003-47091,F,sex
-47090,003-47092,M,sex
 47090,003-47092,Madrid;Comunidad de Madrid;Spain,travel_history_dates
+47090,003-47092,M,sex
 47091,003-47093,M,sex
 47092,003-47094,M,sex
 47093,003-47095,F,sex
@@ -142,11 +142,30 @@ row,ID,value,column
 47096,003-47098,;Brussels;Belgium,travel_history_dates
 47097,003-47099,M,sex
 47098,003-47100,M,sex
-47099,003-47101,F,sex
 47099,003-47101,;;United Kingdon,travel_history_dates
+47099,003-47101,F,sex
 47100,003-47102,F,sex
 47100,003-47102,;;Australia-London;England;United Kingdom,travel_history_dates
 47101,003-47103,F,sex
 47102,003-47104,M,sex
-47103,003-47108,M,sex
 47103,003-47108,London;England;United Kingdom,travel_history_dates
+47103,003-47108,M,sex
+55642,003-55651,s-Gravenhage,city
+55643,003-55652,s-Gravenhage,city
+55644,003-55653,s-Gravenhage,city
+55645,003-55654,s-Gravenhage,city
+55646,003-55655,s-Gravenhage,city
+55647,003-55656,s-Gravenhage,city
+55648,003-55657,s-Gravenhage,city
+55649,003-55658,s-Gravenhage,city
+55650,003-55659,s-Gravenhage,city
+55651,003-55660,s-Gravenhage,city
+55652,003-55661,s-Hertogenbosch,city
+55653,003-55662,s-Hertogenbosch,city
+55654,003-55663,s-Hertogenbosch,city
+55655,003-55664,s-Hertogenbosch,city
+55656,003-55665,s-Hertogenbosch,city
+55657,003-55666,s-Hertogenbosch,city
+55658,003-55667,s-Hertogenbosch,city
+56100,003-56109,IJsselstein,city
+56101,003-56110,IJsselstein,city
