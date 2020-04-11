@@ -1,1 +1,74 @@
 row,ID,value,column
+111,002-110,return from Wuhan,lives_in_Wuhan
+112,002-111,return from Wuhan,lives_in_Wuhan
+113,002-112,return from Wuhan,lives_in_Wuhan
+114,002-113,return from Wuhan,lives_in_Wuhan
+11356,002-11355,KK Women’s and Children’s Hospital,city
+115,002-114,return from Wuhan,lives_in_Wuhan
+11420,002-11419,KK Women’s and Children’s Hospital,city
+117,002-116,work in Wuhan,lives_in_Wuhan
+12522,002-12571,20.02.220,date_onset_symptoms
+129,002-128,none,date_onset_symptoms
+12838,002-13433,KK Women's and Children's Hospital,city
+1491,002-1490,live in Hangzhou,lives_in_Wuhan
+14034,002-14993,none,travel_history_dates
+14035,002-14994,none,travel_history_dates
+14036,002-14995,none,travel_history_dates
+1580,002-1579,end of December 2019,date_onset_symptoms
+1698,002-1697,24-02-2020,date_onset_symptoms
+1741,002-1740,02.03.3030,date_confirmation
+1743,002-1742,02.03.3030,date_confirmation
+1745,002-1744,02.03.3030,date_confirmation
+1746,002-1745,02.03.3030,date_confirmation
+1749,002-1748,02.03.3030,date_confirmation
+1751,002-1750,02.03.3030,date_confirmation
+1752,002-1751,02.03.3030,date_confirmation
+1754,002-1753,01.03.3030,date_confirmation
+1756,002-1755,02.03.3030,date_confirmation
+1758,002-1757,02.03.3030,date_confirmation
+1760,002-1759,02.03.3030,date_confirmation
+1763,002-1762,02.03.3030,date_confirmation
+1764,002-1763,02.03.3030,date_confirmation
+1766,002-1765,02.03.3030,date_confirmation
+1801,002-1800,09-21 Feb,travel_history_dates
+1833,002-1832,02.03.3030,date_onset_symptoms
+1933,002-1932,27.0.2020,date_onset_symptoms
+199,002-198,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
+207,002-206,used to be,lives_in_Wuhan
+22,002-21,business trip,lives_in_Wuhan
+23,002-22,business trip,lives_in_Wuhan
+24,002-23,travel,lives_in_Wuhan
+253,002-252,work in Wuhan,lives_in_Wuhan
+27,002-26,study trip,lives_in_Wuhan
+28,002-27,business trip,lives_in_Wuhan
+274,002-273,Xiantao City resident,lives_in_Wuhan
+281,002-280,medical trip,lives_in_Wuhan
+282,002-281,business trip,lives_in_Wuhan
+283,002-282,business trip,lives_in_Wuhan
+307,002-306,"shanghai resident, travel history",lives_in_Wuhan
+336,002-335,discharge,date_death_or_discharge
+355,002-354,KK Women's and Children's Hospital,city
+358,002-357,tourism,lives_in_Wuhan
+359,002-358,business trip,lives_in_Wuhan
+365,002-364,study trip,lives_in_Wuhan
+519,002-518,discharge,date_death_or_discharge
+53,002-52,discharge,date_death_or_discharge
+5501,002-5500,02.02.2021,date_death_or_discharge
+5502,002-5501,02.02.2022,date_death_or_discharge
+5656,002-5655,from a foreign country,travel_history_dates
+58,002-57,discharge,date_death_or_discharge
+6345,002-6344,came from abroad,travel_history_dates
+663,002-662,discharge,date_death_or_discharge
+667,002-666,discharge,date_death_or_discharge
+670,002-669,discharge,date_death_or_discharge
+7043,002-7042,KK Women’s and Children’s Hospital,city
+711,002-710,discharge,date_death_or_discharge
+713,002-712,discharge,date_death_or_discharge
+717,002-716,discharge,date_death_or_discharge
+7250,002-7249,discharge,date_death_or_discharge
+7844,002-7843,"20,01,2020",travel_history_dates
+7951,002-7950,ROK Capital Hospital,city
+8036,002-8035,December;17.01.2020 - 02.02.2020,travel_history_dates
+829,002-828,thai national,lives_in_Wuhan
+831,002-830,Chinese,lives_in_Wuhan
+99,002-98,discharge,date_death_or_discharge
