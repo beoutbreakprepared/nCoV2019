@@ -7,13 +7,13 @@ row,ID,value,column
 115,002-114,return from Wuhan,lives_in_Wuhan
 11420,002-11419,KK Women’s and Children’s Hospital,city
 117,002-116,work in Wuhan,lives_in_Wuhan
-12522,002-12571,20.02.220,date_onset_symptoms
+12522,002-12521,20.02.220,date_onset_symptoms
 129,002-128,none,date_onset_symptoms
-12838,002-13433,KK Women's and Children's Hospital,city
+12838,002-12837,KK Women's and Children's Hospital,city
+14034,002-14033,none,travel_history_dates
+14035,002-14034,none,travel_history_dates
+14036,002-14035,none,travel_history_dates
 1491,002-1490,live in Hangzhou,lives_in_Wuhan
-14034,002-14993,none,travel_history_dates
-14035,002-14994,none,travel_history_dates
-14036,002-14995,none,travel_history_dates
 1580,002-1579,end of December 2019,date_onset_symptoms
 1698,002-1697,24-02-2020,date_onset_symptoms
 1741,002-1740,02.03.3030,date_confirmation

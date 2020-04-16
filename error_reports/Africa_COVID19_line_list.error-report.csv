@@ -5,20 +5,20 @@ row,ID,value,column
 1454,001-1453,not specified,sex
 1458,001-1457,not specified,sex
 1624,001-1623,UNK,province
-2745,001-2745,1,travel_history_dates
-2753,001-2753,1,travel_history_dates
-2754,001-2754,1,travel_history_dates
-2755,001-2755,1,travel_history_dates
-2756,001-2756,1,travel_history_dates
-2757,001-2757,1,travel_history_dates
-2758,001-2758,1,travel_history_dates
-2759,001-2759,1,travel_history_dates
-2760,001-2760,1,travel_history_dates
-2761,001-2761,1,travel_history_dates
-2762,001-2762,1,travel_history_dates
-3369,001-3301,M'sila,province
-3369,001-3301,M'sila,city
-4222,001-4154,M'sila,province
-4222,001-4154,M'sila,city
-4735,001-4667,1,travel_history_dates
-4736,001-4668,1,travel_history_dates
+2745,001-2744,1,travel_history_dates
+2753,001-2752,1,travel_history_dates
+2754,001-2753,1,travel_history_dates
+2755,001-2754,1,travel_history_dates
+2756,001-2755,1,travel_history_dates
+2757,001-2756,1,travel_history_dates
+2758,001-2757,1,travel_history_dates
+2759,001-2758,1,travel_history_dates
+2760,001-2759,1,travel_history_dates
+2761,001-2760,1,travel_history_dates
+2762,001-2761,1,travel_history_dates
+3369,001-3368,M'sila,province
+3369,001-3368,M'sila,city
+4222,001-4221,M'sila,province
+4222,001-4221,M'sila,city
+4735,001-4734,1,travel_history_dates
+4736,001-4735,1,travel_history_dates

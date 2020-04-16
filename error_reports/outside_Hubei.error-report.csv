@@ -1,153 +1,153 @@
 row,ID,value,column
-366,102,none,date_onset_symptoms
-88,11254,KK Women’s and Children’s Hospital,city
-111,11330,KK Women’s and Children’s Hospital,city
-12259,12571,20.02.220,date_onset_symptoms
-1534,1297,live in Hangzhou,lives_in_Wuhan
-123,13433,KK Women's and Children's Hospital,city
-1623,1396,end of December 2019,date_onset_symptoms
-19848,144,Death,date_death_or_discharge
-14633,14993,none,travel_history_dates
-14634,14994,none,travel_history_dates
-14635,14995,none,travel_history_dates
-14687,15047,none,travel_history_dates
-21226,1522,24-02-2020,date_onset_symptoms
-21247,1543,02.03.3030,date_confirmation
-21248,1544,02.03.3030,date_confirmation
-21249,1545,02.03.3030,date_confirmation
-21250,1546,02.03.3030,date_confirmation
-21251,1547,02.03.3030,date_confirmation
-21252,1548,02.03.3030,date_confirmation
-21253,1549,02.03.3030,date_confirmation
-21254,1550,01.03.3030,date_confirmation
-21255,1551,02.03.3030,date_confirmation
-21256,1552,02.03.3030,date_confirmation
-21257,1553,02.03.3030,date_confirmation
-21258,1554,02.03.3030,date_confirmation
-21259,1555,02.03.3030,date_confirmation
-21260,1556,02.03.3030,date_confirmation
-21277,1573,09-21 Feb,travel_history_dates
-21293,1589,02.03.3030,date_onset_symptoms
-21344,1640,27.0.2020,date_onset_symptoms
-435,174,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
-442,186,used to be,lives_in_Wuhan
-18457,18840,early March,travel_history_dates
-19058,19441,18.2.2020,date_confirmation
-19135,19518,Italy,travel_history_dates
-19139,19522,"France, Italy",travel_history_dates
-286,21,business trip,lives_in_Wuhan
-287,22,business trip,lives_in_Wuhan
-288,23,travel,lives_in_Wuhan
-487,232,work in Wuhan,lives_in_Wuhan
-24790,25194,- .02.03.2020,travel_history_dates
-508,253,Xiantao City resident,lives_in_Wuhan
-291,26,study trip,lives_in_Wuhan
-515,260,medical trip,lives_in_Wuhan
-516,261,business trip,lives_in_Wuhan
-517,262,business trip,lives_in_Wuhan
-26051,26455,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-26052,26456,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-26158,26562,<10,age
-26189,26593,14.03.3030,date_confirmation
-26190,26594,14.03.3030,date_confirmation
-26191,26595,14.03.3030,date_confirmation
-26192,26596,14.03.3030,date_confirmation
-26193,26597,14.03.3030,date_confirmation
-26194,26598,14.03.3030,date_confirmation
-26195,26599,14.03.3030,date_confirmation
-26196,26600,14.03.3030,date_confirmation
-26197,26601,14.03.3030,date_confirmation
-26198,26602,14.03.3030,date_confirmation
-292,27,business trip,lives_in_Wuhan
-536,281,"shanghai resident, travel history",lives_in_Wuhan
-20001,297,discharge,date_death_or_discharge
-40052,30095,woman,sex
-20010,306,KK Women's and Children's Hospital,city
-30311,30715,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30312,30716,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30313,30717,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30314,30718,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30315,30719,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30316,30720,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30317,30721,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30318,30722,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30319,30723,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30320,30724,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30321,30725,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30322,30726,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30323,30727,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30324,30728,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30325,30729,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30326,30730,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30327,30731,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30328,30732,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30329,30733,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30330,30734,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30331,30735,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30332,30736,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30333,30737,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30334,30738,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30335,30739,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30336,30740,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30337,30741,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-30338,30742,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
-564,309,tourism,lives_in_Wuhan
-565,310,business trip,lives_in_Wuhan
-571,316,study trip,lives_in_Wuhan
-19744,40,died,date_death_or_discharge
-41030,41245,25.02-02.03,travel_history_dates
-41033,41248,Carnival,travel_history_dates
-41062,41277,no,travel_history_dates
-41063,41278,no,travel_history_dates
-41153,41368,no,travel_history_dates
-41251,41466,na,sex
-41406,41621,no,travel_history_dates
-41412,41627,no,travel_history_dates
-41428,41643,return to Brazil in 08.03.2020,travel_history_dates
-41578,41793,Lives in Rio de Janeiro,travel_history_dates
-41580,41795,Rio de Janeiro,travel_history_dates
-41581,41796,Contato RS29,travel_history_dates
-41641,41856,na,sex
-41642,41857,na,sex
-41643,41858,na,sex
-42172,42387,16,city
-42191,42406,18+,city
-42238,42453,26,city
-42239,42454,43,city
-42240,42455,55,city
-42241,42456,17-47,city
-42242,42457,17-47,city
-42243,42458,17-47,city
-42511,42726,21,city
-42512,42727,21,city
-42513,42728,58,city
-20166,462,discharge,date_death_or_discharge
-19754,50,discharge,date_death_or_discharge
-155,5144,02.02.2021,date_death_or_discharge
-156,5145,02.02.2022,date_death_or_discharge
-19756,52,discharge,date_death_or_discharge
-5410,5299,from a foreign country,travel_history_dates
-20238,534,discharge,date_death_or_discharge
-20240,536,discharge,date_death_or_discharge
-20241,537,discharge,date_death_or_discharge
-20260,556,<18,age
-20268,564,<1,age
-20277,573,discharge,date_death_or_discharge
-20278,574,discharge,date_death_or_discharge
-20280,576,discharge,date_death_or_discharge
-6083,6201,came from abroad,travel_history_dates
-909,663,thai national,lives_in_Wuhan
-910,664,Chinese,lives_in_Wuhan
-160,6899,KK Women’s and Children’s Hospital,city
-6981,7107,discharge,date_death_or_discharge
-19777,73,discharge,date_death_or_discharge
-7574,7703,"20,01,2020",travel_history_dates
-7681,7812,ROK Capital Hospital,city
-7766,7899,December;17.01.2020 - 02.02.2020,travel_history_dates
-348,84,return from Wuhan,lives_in_Wuhan
-349,85,return from Wuhan,lives_in_Wuhan
-350,86,return from Wuhan,lives_in_Wuhan
-351,87,return from Wuhan,lives_in_Wuhan
-352,88,return from Wuhan,lives_in_Wuhan
-354,90,work in Wuhan,lives_in_Wuhan
-20666,962,<60,age
+111,000-1-110,KK Women’s and Children’s Hospital,city
+123,000-1-122,KK Women's and Children's Hospital,city
+12259,000-1-12258,20.02.220,date_onset_symptoms
+14633,000-1-14632,none,travel_history_dates
+14634,000-1-14633,none,travel_history_dates
+14635,000-1-14634,none,travel_history_dates
+14687,000-1-14686,none,travel_history_dates
+1534,000-1-1533,live in Hangzhou,lives_in_Wuhan
+155,000-1-154,02.02.2021,date_death_or_discharge
+156,000-1-155,02.02.2022,date_death_or_discharge
+160,000-1-159,KK Women’s and Children’s Hospital,city
+1623,000-1-1622,end of December 2019,date_onset_symptoms
+18457,000-1-18456,early March,travel_history_dates
+19058,000-1-19057,18.2.2020,date_confirmation
+19135,000-1-19134,Italy,travel_history_dates
+19139,000-1-19138,"France, Italy",travel_history_dates
+19744,000-1-19743,died,date_death_or_discharge
+19754,000-1-19753,discharge,date_death_or_discharge
+19756,000-1-19755,discharge,date_death_or_discharge
+19777,000-1-19776,discharge,date_death_or_discharge
+19848,000-1-19847,Death,date_death_or_discharge
+20001,000-1-20000,discharge,date_death_or_discharge
+20010,000-1-20009,KK Women's and Children's Hospital,city
+20166,000-1-20165,discharge,date_death_or_discharge
+20238,000-1-20237,discharge,date_death_or_discharge
+20240,000-1-20239,discharge,date_death_or_discharge
+20241,000-1-20240,discharge,date_death_or_discharge
+20260,000-1-20259,<18,age
+20268,000-1-20267,<1,age
+20277,000-1-20276,discharge,date_death_or_discharge
+20278,000-1-20277,discharge,date_death_or_discharge
+20280,000-1-20279,discharge,date_death_or_discharge
+20666,000-1-20665,<60,age
+21226,000-1-21225,24-02-2020,date_onset_symptoms
+21247,000-1-21246,02.03.3030,date_confirmation
+21248,000-1-21247,02.03.3030,date_confirmation
+21249,000-1-21248,02.03.3030,date_confirmation
+21250,000-1-21249,02.03.3030,date_confirmation
+21251,000-1-21250,02.03.3030,date_confirmation
+21252,000-1-21251,02.03.3030,date_confirmation
+21253,000-1-21252,02.03.3030,date_confirmation
+21254,000-1-21253,01.03.3030,date_confirmation
+21255,000-1-21254,02.03.3030,date_confirmation
+21256,000-1-21255,02.03.3030,date_confirmation
+21257,000-1-21256,02.03.3030,date_confirmation
+21258,000-1-21257,02.03.3030,date_confirmation
+21259,000-1-21258,02.03.3030,date_confirmation
+21260,000-1-21259,02.03.3030,date_confirmation
+21277,000-1-21276,09-21 Feb,travel_history_dates
+21293,000-1-21292,02.03.3030,date_onset_symptoms
+21344,000-1-21343,27.0.2020,date_onset_symptoms
+24790,000-1-24789,- .02.03.2020,travel_history_dates
+26051,000-1-26050,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+26052,000-1-26051,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+26158,000-1-26157,<10,age
+26189,000-1-26188,14.03.3030,date_confirmation
+26190,000-1-26189,14.03.3030,date_confirmation
+26191,000-1-26190,14.03.3030,date_confirmation
+26192,000-1-26191,14.03.3030,date_confirmation
+26193,000-1-26192,14.03.3030,date_confirmation
+26194,000-1-26193,14.03.3030,date_confirmation
+26195,000-1-26194,14.03.3030,date_confirmation
+26196,000-1-26195,14.03.3030,date_confirmation
+26197,000-1-26196,14.03.3030,date_confirmation
+26198,000-1-26197,14.03.3030,date_confirmation
+286,000-1-285,business trip,lives_in_Wuhan
+287,000-1-286,business trip,lives_in_Wuhan
+288,000-1-287,travel,lives_in_Wuhan
+291,000-1-290,study trip,lives_in_Wuhan
+292,000-1-291,business trip,lives_in_Wuhan
+30311,000-1-30310,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30312,000-1-30311,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30313,000-1-30312,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30314,000-1-30313,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30315,000-1-30314,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30316,000-1-30315,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30317,000-1-30316,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30318,000-1-30317,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30319,000-1-30318,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30320,000-1-30319,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30321,000-1-30320,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30322,000-1-30321,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30323,000-1-30322,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30324,000-1-30323,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30325,000-1-30324,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30326,000-1-30325,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30327,000-1-30326,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30328,000-1-30327,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30329,000-1-30328,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30330,000-1-30329,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30331,000-1-30330,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30332,000-1-30331,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30333,000-1-30332,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30334,000-1-30333,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30335,000-1-30334,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30336,000-1-30335,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30337,000-1-30336,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+30338,000-1-30337,https://www.outtherecolorado.com/a-breakdown-of-the-180-covid-19-cases-in-colorado/,date_death_or_discharge
+348,000-1-347,return from Wuhan,lives_in_Wuhan
+349,000-1-348,return from Wuhan,lives_in_Wuhan
+350,000-1-349,return from Wuhan,lives_in_Wuhan
+351,000-1-350,return from Wuhan,lives_in_Wuhan
+352,000-1-351,return from Wuhan,lives_in_Wuhan
+354,000-1-353,work in Wuhan,lives_in_Wuhan
+366,000-1-365,none,date_onset_symptoms
+40052,000-1-40051,woman,sex
+41030,000-1-41029,25.02-02.03,travel_history_dates
+41033,000-1-41032,Carnival,travel_history_dates
+41062,000-1-41061,no,travel_history_dates
+41063,000-1-41062,no,travel_history_dates
+41153,000-1-41152,no,travel_history_dates
+41251,000-1-41250,na,sex
+41406,000-1-41405,no,travel_history_dates
+41412,000-1-41411,no,travel_history_dates
+41428,000-1-41427,return to Brazil in 08.03.2020,travel_history_dates
+41578,000-1-41577,Lives in Rio de Janeiro,travel_history_dates
+41580,000-1-41579,Rio de Janeiro,travel_history_dates
+41581,000-1-41580,Contato RS29,travel_history_dates
+41641,000-1-41640,na,sex
+41642,000-1-41641,na,sex
+41643,000-1-41642,na,sex
+42172,000-1-42171,16,city
+42191,000-1-42190,18+,city
+42238,000-1-42237,26,city
+42239,000-1-42238,43,city
+42240,000-1-42239,55,city
+42241,000-1-42240,17-47,city
+42242,000-1-42241,17-47,city
+42243,000-1-42242,17-47,city
+42511,000-1-42510,21,city
+42512,000-1-42511,21,city
+42513,000-1-42512,58,city
+435,000-1-434,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
+442,000-1-441,used to be,lives_in_Wuhan
+487,000-1-486,work in Wuhan,lives_in_Wuhan
+508,000-1-507,Xiantao City resident,lives_in_Wuhan
+515,000-1-514,medical trip,lives_in_Wuhan
+516,000-1-515,business trip,lives_in_Wuhan
+517,000-1-516,business trip,lives_in_Wuhan
+536,000-1-535,"shanghai resident, travel history",lives_in_Wuhan
+5410,000-1-5409,from a foreign country,travel_history_dates
+564,000-1-563,tourism,lives_in_Wuhan
+565,000-1-564,business trip,lives_in_Wuhan
+571,000-1-570,study trip,lives_in_Wuhan
+6083,000-1-6082,came from abroad,travel_history_dates
+6981,000-1-6980,discharge,date_death_or_discharge
+7574,000-1-7573,"20,01,2020",travel_history_dates
+7681,000-1-7680,ROK Capital Hospital,city
+7766,000-1-7765,December;17.01.2020 - 02.02.2020,travel_history_dates
+88,000-1-87,KK Women’s and Children’s Hospital,city
+909,000-1-908,thai national,lives_in_Wuhan
+910,000-1-909,Chinese,lives_in_Wuhan
