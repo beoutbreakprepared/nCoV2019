@@ -1,6 +1,4 @@
 row,ID,value,column
-111,000-1-110,KK Women’s and Children’s Hospital,city
-123,000-1-122,KK Women's and Children's Hospital,city
 12259,000-1-12258,20.02.220,date_onset_symptoms
 14633,000-1-14632,none,travel_history_dates
 14634,000-1-14633,none,travel_history_dates
@@ -9,7 +7,6 @@ row,ID,value,column
 1534,000-1-1533,live in Hangzhou,lives_in_Wuhan
 155,000-1-154,02.02.2021,date_death_or_discharge
 156,000-1-155,02.02.2022,date_death_or_discharge
-160,000-1-159,KK Women’s and Children’s Hospital,city
 1623,000-1-1622,end of December 2019,date_onset_symptoms
 18457,000-1-18456,early March,travel_history_dates
 19058,000-1-19057,18.2.2020,date_confirmation
@@ -21,7 +18,6 @@ row,ID,value,column
 19777,000-1-19776,discharge,date_death_or_discharge
 19848,000-1-19847,Death,date_death_or_discharge
 20001,000-1-20000,discharge,date_death_or_discharge
-20010,000-1-20009,KK Women's and Children's Hospital,city
 20166,000-1-20165,discharge,date_death_or_discharge
 20238,000-1-20237,discharge,date_death_or_discharge
 20240,000-1-20239,discharge,date_death_or_discharge
@@ -120,17 +116,6 @@ row,ID,value,column
 41641,000-1-41640,na,sex
 41642,000-1-41641,na,sex
 41643,000-1-41642,na,sex
-42172,000-1-42171,16,city
-42191,000-1-42190,18+,city
-42238,000-1-42237,26,city
-42239,000-1-42238,43,city
-42240,000-1-42239,55,city
-42241,000-1-42240,17-47,city
-42242,000-1-42241,17-47,city
-42243,000-1-42242,17-47,city
-42511,000-1-42510,21,city
-42512,000-1-42511,21,city
-42513,000-1-42512,58,city
 435,000-1-434,lived in Wuhan for two months and then went back to Cangzhou,lives_in_Wuhan
 442,000-1-441,used to be,lives_in_Wuhan
 487,000-1-486,work in Wuhan,lives_in_Wuhan
@@ -146,8 +131,6 @@ row,ID,value,column
 6083,000-1-6082,came from abroad,travel_history_dates
 6981,000-1-6980,discharge,date_death_or_discharge
 7574,000-1-7573,"20,01,2020",travel_history_dates
-7681,000-1-7680,ROK Capital Hospital,city
 7766,000-1-7765,December;17.01.2020 - 02.02.2020,travel_history_dates
-88,000-1-87,KK Women’s and Children’s Hospital,city
 909,000-1-908,thai national,lives_in_Wuhan
 910,000-1-909,Chinese,lives_in_Wuhan
