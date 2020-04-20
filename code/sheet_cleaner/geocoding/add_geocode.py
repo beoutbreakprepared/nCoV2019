@@ -40,8 +40,6 @@ def main():
         args.lng = g.lng
         geo_resolution = "point"
 
-    num_lines = sum(1 for line in open(tsv_path, encoding="utf-8"))
-
     with open(tsv_path, "a") as f:
         writer = csv.writer(f, delimiter="\t")
         writer.writerow([
@@ -54,7 +52,6 @@ def main():
             args.admin2 if args.admin2 else "",
             args.admin1 if args.admin1 else "",
             args.country if args.country else "",
-            num_lines + 1,
         ])
     print("Done")
 
