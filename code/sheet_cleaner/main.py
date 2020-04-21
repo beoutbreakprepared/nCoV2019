@@ -7,6 +7,7 @@ testing = False
 
 import argparse
 import configparser
+import geocoder
 import logging
 import os
 import shutil
@@ -14,7 +15,7 @@ import time
 from datetime import datetime
 
 import pandas as pd
-
+from geocoder import arcgis
 from geocoding import csv_geocoder
 from functions import get_GoogleSheets, values2dataframe, generate_error_tables, duplicate_rows_per_column, trim_df, fix_sex, fix_na
 
@@ -39,7 +40,9 @@ def main():
     for_github = []
 
     # Load geocoder early so that invalid tsv paths errors are caught early on.
-    geocoder = csv_geocoder.CSVGeocoder(config['GEOCODING'].get('TSV_PATH'))
+    geocoder = csv_geocoder.CSVGeocoder(
+        config['GEOCODING'].get('TSV_PATH'),
+        arcgis)
     for s in sheets:
         logging.info("Processing sheet %s", s.name)
 
@@ -106,7 +109,7 @@ def main():
     # Fill geo columns.
     geocode_matched = 0
     for i, row in all_data.iterrows():
-        geocode = geocoder.Geocode(row.city, row.province, row.country)
+        geocode = geocoder.geocode(row.city, row.province, row.country)
         if not geocode:
             continue
         geocode_matched += 1
@@ -122,8 +125,13 @@ def main():
     logging.info("Geocode matched %d/%d", geocode_matched, len(all_data))
     logging.info("Top 10 geocode misses: %s",geocoder.misses.most_common(10))
     with open("geocode_misses.csv", "w") as f:
-        geocoder.WriteMissesToFile(f)
+        geocoder.write_misses_to_csv(f)
         logging.info("Wrote all geocode misses to geocode_misses.csv")
+    if len(geocoder.new_geocodes) > 0:
+        logging.info("Appending new geocodes to geo_admin.tsv")
+        with open(config['GEOCODING'].get('TSV_PATH'), "a") as f:
+            geocoder.append_new_geocodes_to_init_file(f)
+        for_github.append(config['GEOCODING'].get('TSV_PATH'))
     # Reorganize csv columns so that they are in the same order as when we
     # used to have those geolocation within the spreadsheet.
     # This is to avoid breaking latestdata.csv consumers.
