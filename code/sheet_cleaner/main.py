@@ -7,6 +7,7 @@ testing = False
 
 import argparse
 import configparser
+import geocoder
 import logging
 import os
 import shutil
@@ -39,7 +40,9 @@ def main():
     for_github = []
 
     # Load geocoder early so that invalid tsv paths errors are caught early on.
-    geocoder = csv_geocoder.CSVGeocoder(config['GEOCODING'].get('TSV_PATH'))
+    geocoder = csv_geocoder.CSVGeocoder(
+        config['GEOCODING'].get('TSV_PATH'),
+        geocoder.arcgis)
     for s in sheets:
         logging.info("Processing sheet %s", s.name)
 
