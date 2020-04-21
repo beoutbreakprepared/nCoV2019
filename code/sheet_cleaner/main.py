@@ -137,11 +137,20 @@ def main():
     # This is to avoid breaking latestdata.csv consumers.
     all_data = all_data[["ID","age","sex","city","province","country","latitude","longitude","geo_resolution","date_onset_symptoms","date_admission_hospital","date_confirmation","symptoms","lives_in_Wuhan","travel_history_dates","travel_history_location","reported_market_exposure","additional_information","chronic_disease_binary","chronic_disease","source","sequence_available","outcome","date_death_or_discharge","notes_for_discussion","location","admin3","admin2","admin1","country_new","admin_id","data_moderator_initials","travel_history_binary"]]
 
+    # ensure new data is >= than the last one. 
+    latest_name = os.path.join(config['FILES']['LATEST'], 'latestdata.csv')
+
+    line_diff = len(all_data) - len(pd.read_csv(latest_name))
+    if line_diff >= 0:
+        logging.info(f"Line check passed, {line_diff} new lines")
+    else:
+        logging.info("Line check failed")
+        return 
+
     # save
     logging.info("Saving files to disk")
     dt = datetime.now().strftime('%Y-%m-%dT%H%M%S')
     file_name   = config['FILES']['DATA'].replace('TIMESTAMP', dt)
-    latest_name = os.path.join(config['FILES']['LATEST'], 'latestdata.csv')
     all_data.to_csv(file_name, index=False, encoding="utf-8")
     all_data.to_csv(latest_name, index=False, encoding="utf-8")
     logging.info("Wrote %s, %s", file_name, latest_name)
