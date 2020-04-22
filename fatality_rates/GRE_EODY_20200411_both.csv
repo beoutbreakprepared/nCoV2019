@@ -1,0 +1,5 @@
+age_start,age_end,cases,deaths
+0,17,69,0
+18,39,615,1
+40,64,892,25
+65,MAX,426,67
