@@ -28,8 +28,8 @@ def main():
     email = config['TEMPLATE'].get('EMAILTO')
 
     # Create new sheet
-    TEMPLATE = Template(temp_sid, token, credentials, is_service_account)
-    response = TEMPLATE.copy(args.name, args.worksheet, email)
+    template = Template(temp_sid, token, credentials, is_service_account)
+    response = template.copy(args.name, args.worksheet, email)
 
     # Update Config file 
     sheet_sections = []

@@ -82,26 +82,6 @@ def values2dataframe(values: list) -> pd.DataFrame:
     # added the strip due to white space getting inputed somehow. 
     return data.rename({c : c.strip() for c in data.columns}, axis=1)
 
-def index2A1(num: int) -> str:
-    '''
-    Converts column index to A1 notation. 
-
-    Args: 
-        num (int) : column index
-    Returns :
-        A1 notation (str)
-
-    TODO: expand this for any number of columns (recursive function?)
-    '''
-    if 0 <= num <= 25:
-        return ascii_uppercase[num]
-    elif 26 <= num <= 51:
-        return 'A{}'.format(ascii_uppercase[num%26])
-    elif 52 <= num <= 77:
-        return 'B{}'.format(ascii_uppercase[num%26])
-    else:
-        raise ValueError('Could not convert index "{}" to A1 notation'.format(num))
-
 def get_NA_errors(data: pd.DataFrame) -> pd.DataFrame:
     '''
     Generate error table for mispelled NA values.  
