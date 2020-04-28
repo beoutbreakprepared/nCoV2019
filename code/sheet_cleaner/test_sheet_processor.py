@@ -1,13 +1,21 @@
-import unittest
 import configparser
-import tempfile
-import pathlib
 import os
+import pathlib
+import tempfile
+import unittest
+from collections import defaultdict
+from typing import NamedTuple
+from unittest.mock import MagicMock, patch
 
 from geocoding import csv_geocoder
 from sheet_processor import SheetProcessor
-from unittest.mock import MagicMock, patch
 from spreadsheet import GoogleSheet
+
+
+class FakeResult(NamedTuple):
+    ok: bool
+    lat: float
+    lng: float
 
 class TestSheetProcessor(unittest.TestCase):
 
@@ -25,8 +33,10 @@ class TestSheetProcessor(unittest.TestCase):
             config = configparser.ConfigParser()
             config.read_string(txt_config)
 
+            mapping = defaultdict(FakeResult)
+
             cur_dir = pathlib.Path(__file__).parent.absolute()
-            geocoder = csv_geocoder.CSVGeocoder(os.path.join(cur_dir, "geocoding", "geo_admin.tsv"))
+            geocoder = csv_geocoder.CSVGeocoder(os.path.join(cur_dir, "geocoding", "geo_admin.tsv"), mapping.get)
             
             mock_sheet.name = "sheet-name"
             mock_sheet.base_id = "000"
