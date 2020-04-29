@@ -1,54 +1,54 @@
 row,ID,value,column
-11338,004-11337,24.3.2020,date_onset_symptoms
-11468,004-11467,13.03.020,date_onset_symptoms
-12049,004-12048,25.02-02.03,travel_history_dates
-12052,004-12051,Carnival,travel_history_dates
-12059,004-12058,-  03.03.2020,travel_history_dates
-12082,004-12081,no,travel_history_dates
-12083,004-12082,no,travel_history_dates
-12111,004-12110,Rio de Janeiro,travel_history_dates
-12135,004-12134,Contato RS29,travel_history_dates
-12173,004-12172,no,travel_history_dates
-12180,004-12179,na,sex
-12181,004-12180,na,sex
-12182,004-12181,na,sex
-12183,004-12182,na,sex
-12184,004-12183,na,sex
-12185,004-12184,na,sex
-12426,004-12425,no,travel_history_dates
-12431,004-12430,no,travel_history_dates
-12447,004-12446,return to Brazil in 08.03.2020,travel_history_dates
-12598,004-12597,Lives in Rio de Janeiro,travel_history_dates
-12698,004-12697,January 14 and 15,travel_history_dates
-12830,004-12829,returned Belen 14.03.2020,travel_history_dates
-14718,004-14717,baby,age
-15847,004-15846,22.02.3030,travel_history_dates
-15900,004-15899,no,travel_history_dates
-15901,004-15900,no,travel_history_dates
-15904,004-15903,Returns to Guatemala in 18.03.2020,travel_history_dates
-15906,004-15905,no,travel_history_dates
-15907,004-15906,Returns to Guatemala in 10.03.2020,travel_history_dates
-15908,004-15907,no,travel_history_dates
-15909,004-15908,no,travel_history_dates
-15910,004-15909,no,travel_history_dates
-15911,004-15910,no,travel_history_dates
-15912,004-15911,no,travel_history_dates
-15913,004-15912,Comes to Guatemala in 11.03.2020,travel_history_dates
-15915,004-15914,25.03.3030,date_confirmation
-15915,004-15914,no,travel_history_dates
-15916,004-15915,Returns to Guatemala in 19.03.2020,travel_history_dates
-15917,004-15916,Returns to Guatemala in 19.03.2020,travel_history_dates
-15919,004-15918,Returns to Guatemala in 14.03.2020,travel_history_dates
-15920,004-15919,Returns to Guatemala in 14.03.2020,travel_history_dates
-15921,004-15920,no,travel_history_dates
-15922,004-15921,Returns to Guatemala in 26.03.2020,travel_history_dates
-15923,004-15922,Returns to Guatemala in 26.03.2020,travel_history_dates
-15924,004-15923,Returns to Guatemala in 26.03.2020,travel_history_dates
-15925,004-15924,no,travel_history_dates
-15926,004-15925,no,travel_history_dates
-15927,004-15926,no,travel_history_dates
-15928,004-15927,no,travel_history_dates
-15929,004-15928,Returns to Guatemala 26.03.2020,travel_history_dates
+11405,004-11404,24.3.2020,date_onset_symptoms
+11535,004-11534,13.03.020,date_onset_symptoms
+12116,004-12115,25.02-02.03,travel_history_dates
+12119,004-12118,Carnival,travel_history_dates
+12126,004-12125,-  03.03.2020,travel_history_dates
+12149,004-12148,no,travel_history_dates
+12150,004-12149,no,travel_history_dates
+12178,004-12177,Rio de Janeiro,travel_history_dates
+12202,004-12201,Contato RS29,travel_history_dates
+12240,004-12239,no,travel_history_dates
+12247,004-12246,na,sex
+12248,004-12247,na,sex
+12249,004-12248,na,sex
+12250,004-12249,na,sex
+12251,004-12250,na,sex
+12252,004-12251,na,sex
+12493,004-12492,no,travel_history_dates
+12498,004-12497,no,travel_history_dates
+12514,004-12513,return to Brazil in 08.03.2020,travel_history_dates
+12665,004-12664,Lives in Rio de Janeiro,travel_history_dates
+12765,004-12764,January 14 and 15,travel_history_dates
+12897,004-12896,returned Belen 14.03.2020,travel_history_dates
+14785,004-14784,baby,age
+15914,004-15913,22.02.3030,travel_history_dates
+15967,004-15966,no,travel_history_dates
+15968,004-15967,no,travel_history_dates
+15971,004-15970,Returns to Guatemala in 18.03.2020,travel_history_dates
+15973,004-15972,no,travel_history_dates
+15974,004-15973,Returns to Guatemala in 10.03.2020,travel_history_dates
+15975,004-15974,no,travel_history_dates
+15976,004-15975,no,travel_history_dates
+15977,004-15976,no,travel_history_dates
+15978,004-15977,no,travel_history_dates
+15979,004-15978,no,travel_history_dates
+15980,004-15979,Comes to Guatemala in 11.03.2020,travel_history_dates
+15982,004-15981,25.03.3030,date_confirmation
+15982,004-15981,no,travel_history_dates
+15983,004-15982,Returns to Guatemala in 19.03.2020,travel_history_dates
+15984,004-15983,Returns to Guatemala in 19.03.2020,travel_history_dates
+15986,004-15985,Returns to Guatemala in 14.03.2020,travel_history_dates
+15987,004-15986,Returns to Guatemala in 14.03.2020,travel_history_dates
+15988,004-15987,no,travel_history_dates
+15989,004-15988,Returns to Guatemala in 26.03.2020,travel_history_dates
+15990,004-15989,Returns to Guatemala in 26.03.2020,travel_history_dates
+15991,004-15990,Returns to Guatemala in 26.03.2020,travel_history_dates
+15992,004-15991,no,travel_history_dates
+15993,004-15992,no,travel_history_dates
+15994,004-15993,no,travel_history_dates
+15995,004-15994,no,travel_history_dates
+15996,004-15995,Returns to Guatemala 26.03.2020,travel_history_dates
 2731,004-2730,27.3.2020,date_onset_symptoms
 2769,004-2768,31.3.2020,date_onset_symptoms
 2906,004-2905,.04.04.2020,date_confirmation
@@ -1321,6 +1321,6 @@ row,ID,value,column
 5691,004-5690,17.04.020,date_confirmation
 5692,004-5691,17.04.020,date_confirmation
 5693,004-5692,17.04.020,date_confirmation
-9411,004-9410,6.03.2020,date_confirmation
-9412,004-9411,9.03.2020,date_confirmation
-9413,004-9412,9.03.2020,date_confirmation
+9478,004-9477,6.03.2020,date_confirmation
+9479,004-9478,9.03.2020,date_confirmation
+9480,004-9479,9.03.2020,date_confirmation
