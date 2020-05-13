@@ -2,7 +2,7 @@
 Location for summaries and analyses of data related to COVID-19.
 
 # Acknowledgements
-We first want to thank all those individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources (which are listed below). A number of individuals have contributed to the specific data added here and their names and details are listed below along with a citation.
+We first want to thank all those individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources. Each entry in our database has an associatd source. A number of individuals have contributed to the specific data added here and their names and details are listed below along with a citation.
 
 
 # Reconstructed line lists and data descriptor
@@ -11,7 +11,7 @@ Daily updates on the line list are posted in the dataset_archive folder.
 
 A full description of the methodology used for this study can be found here: Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
 
-And a short summary of the data can be found here: Xu B, Kraemer MUG; Open COVID-19 Data Curation Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 2020;20(5):534. doi:10.1016/S1473-3099(20)30119-5
+And a short summary of the data can be found here: Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 2020;20(5):534. doi:10.1016/S1473-3099(20)30119-5
 
 # Co-morbidity estimates
 
