@@ -29,6 +29,9 @@ class TestSheetProcessor(unittest.TestCase):
             DATA = {tmpdirname}/covid-19.data.prod.TIMESTAMP.csv
             ERRORS = {tmpdirname}
             LATEST = {tmpdirname}
+
+            [GIT]
+            REPO = {tmpdirname}
             """
             config = configparser.ConfigParser()
             config.read_string(txt_config)
