@@ -7,7 +7,7 @@ We first want to thank all those individuals and organizations across the world 
 
 # Reconstructed line lists and data descriptor
 
-Daily updates on the line list are posted in the dataset_archive folder.
+Daily updates are usually processed by 10pm PT (1am EST, 6am GMT) and can be found the [latest data folder](/latest_data).
 
 A full description of the methodology used for this study can be found here: Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
 
