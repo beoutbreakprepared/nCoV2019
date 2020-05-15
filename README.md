@@ -59,8 +59,8 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 Name | Twitter | Github | Email
 -----|-------|---------|-------
 
-Abdullahi Kawu	|	|abdullahikawu	
-Albert Doughan	| |adoughan1	
+Abdullahi Kawu||abdullahikawu|
+Albert Doughan||adoughan1|
 Alexander Zabreski	|||		aezarebski@gmail.com
 Alyssa Loskill		|||	aloskill@bu.edu
 Amanuel Getachew	||	amanbk12	
