@@ -6,6 +6,8 @@ We first want to thank all those individuals and organizations across the world 
 
 Please get in touch should you want to contribute line list data, have any questions or just want to say hi: pigottdm@uw.edu and/or moritz.kraemer@zoo.ox.ac.uk
 
+We promote open collaboration among researchers and encourage users of this data to make best efforts to collaborate with representatives of the groups that generate the data and involve them in their analyses where appropriate. Please get in touch should you require more information.
+
 # Reconstructed line lists and data descriptor
 
 Daily updates are usually processed by 10pm PT (1am EST, 6am GMT) and can be found the [latest data folder](/latest_data).
@@ -158,7 +160,7 @@ Zakia Salod	||	ZakiaSalod
 Zamasomi Luvuno			
 Zoë Willis		|||	znw23@hotmail.co.uk
 
-## Citing "Open COVID-19 Data Working Group" as a reference in a publication
+## Citation
 
 In order to cite the current version of the dataset please use the citation below. As the data are updated regularly, please update the retrieval date in the `howpublished` field.
 
@@ -189,3 +191,4 @@ In order to cite the original dataset and methodology of how it was collected pl
 }
 
 ```
+
