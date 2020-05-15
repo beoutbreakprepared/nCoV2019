@@ -70,7 +70,9 @@ Name | Twitter | Github | Email
 -----|-------|---------|-------
 Abdullahi Kawu||abdullahikawu
 Albert Doughan||adoughan1
+Alex Benjamin||axmb|alexbenjamin@google.com 
 Alexander Zabreski|||aezarebski@gmail.com
+Allyson Pemberton ||allysonjp715|allysonjp@google.com
 Alyssa Loskill|||aloskill@bu.edu
 Amanuel Getachew||amanbk12
 Anastasia Lambrou|@anasophlambrou||anastasia.lambrou@jhu.edu
@@ -110,8 +112,11 @@ Kamorudeen Amuda	||	akindele2012
 Kara Sewalk	|@kara_sewalk		|| Kara.Sewalk@childrens.harvard.edu
 Karen Santiago	| @itzelmardesiche	||	santiagomardesichekaren@gmail.com
 Kazeem Hakeem	||	hakymulla	
+Kelly Moran | | khmoran|khmoran@google.com
+Kernie Obimakinde||dakrownie|kernie@google.com
 Kundai Gwatidzo	||	epicpewpew	
 Lauren Goodwin		|||	lauren.goodwin@childrens.harvard.edu
+Leslie Leland||leslieleland|lesliele@google.com
 Lin Wang |	@fdlwang	||	lin.wang@pasteur.fr
 Liz Hurley		|||	elizabeth.hurley@childrens.harvard.edu
 Lizel Greyling	||	lizelgreyling	
@@ -119,6 +124,7 @@ Lucy Matkin		|||	lucy.matkin@zoo.ox.ac.uk
 Mahamat Hamdan	||	axmat	
 Mahlet Konjit-Solomon		|||	mahlet.nigatu@gmail.com
 Manoli Heyneke	||	hey-mano	
+Manu Cornet ||Imanul|manucomet@google.com
 Manuel Muvhango	 ||	ManuelMuvhango	
 Marcos			
 Marcos Antonio Escurra		|||	marcos1996escurra@gmail.com
@@ -146,10 +152,12 @@ Sarah Hill	| @Hill_SarahC	||	sarah.hill@zoo.ox.ac.uk
 Sheriffo Ceesay	||	sneceesay77	
 Shingirai Pfumayaramba	||	shingiraip	
 Shivanand Guness	||	shivam11	
+Stephen Radcliffe||sratcliffe118|sratcliffe@google.com
 Sumiko Mekaru	| @Sumiko_Mekaru	||	Sumiko.Mekaru@childrens.harvard.edu
 Tahir	||	tahirlanre	
 Thomas Brewer		|||	Thomas.Brewer@childrens.harvard.edu
 Thomas Rawson		|||	thomas.rawson@pmb.ox.ac.uk
+Timothé Faudot ||attwad|timothe@google.com
 Tsige Gebreslasse			
 Veincent Pepito		|||	vpepito@ateneo.edu
 Vongani Maluleke	||	Von31	
