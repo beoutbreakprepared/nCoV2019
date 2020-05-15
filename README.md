@@ -159,7 +159,7 @@ Zoë Willis		|||	znw23@hotmail.co.uk
 
 ## Citation
 
-As the data are updated regularly, please update the retrieval date in the `howpublished` field.
+In order to cite the current version of the dataset please use the citation below. As the data are updated regularly, please update the retrieval date in the `howpublished` field.
 
 ```{bibtex}
 @misc{kraemer2020epidemiological,
@@ -169,4 +169,20 @@ As the data are updated regularly, please update the retrieval date in the `howp
                   \url{http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337}},
   year =         2020
 }
+
+```
+
+In order to cite the original dataset and methodology of how it was collected please cite:
+
+```{bibtex}
+@article{xu2020Epidemiological,
+author = {Xu, Bo and Gutierrez, Bernardo and Mekaru, Sumiko and Sewalk, Kara and Goodwin, Lauren and Loskill, Alyssa and Cohn, Emily and Hswen, Yulin and Hill, Sarah C. and Cobo, Maria M and Zarebski, Alexander and Li, Sabrina and Wu, Chieh-Hsi and Hulland, Erin and Morgan, Julia and Wang, Lin and O'Brien, Katelynn and Scarpino, Samuel V. and Brownstein, John S. and Pybus, Oliver G. and Pigott, David M. and Kraemer, Moritz U. G.},
+doi = {doi.org/10.1038/s41597-020-0448-0},
+journal = {Scientific Data},
+number = {106},
+title = {{Epidemiological data from the COVID-19 outbreak, real-time case information}},
+volume = {7},
+year = {2020}
+}
+
 ```
