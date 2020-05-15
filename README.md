@@ -13,6 +13,8 @@ A full description of the methodology used for this study can be found here: Xu,
 
 And a short summary of the data can be found here: Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 2020;20(5):534. doi:10.1016/S1473-3099(20)30119-5
 
+A dashboard showing the data can be viewed here: https://www.healthmap.org/covid-19/
+
 # Co-morbidity estimates
 
 Co-morbidity data may facilitate CFR estimation processes
