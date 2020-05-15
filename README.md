@@ -52,33 +52,104 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 
 # Contributions
 ## Sources
-[Current sources used](/sources_list.txt)
+[Current sources used](/source_list.csv)
 
 ## Specific Contributors
 
-Name | Email | Twitter | Github
+Name | Twitter | Github | Email
 -----|-------|---------|-------
-Isha Berry | isha.berry@mail.utoronto.ca | @ishaberry2 |
-Darlan Candido | darlan.dasilvacandido@merton.ox.ac.uk | @candido_darlan |
-Nuno Faria | nuno.faria@zoo.ox.ac.uk | @nmrfaria |
-Lauren Goodwin | lauren.goodwin@childrens.harvard.edu | |
-Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
-Sarah Hill | sarah.hill@zoo.ox.ac.uk | @Hill_SarahC |
-Liz Hurley | elizabeth.hurley@childrens.harvard.edu | |
-Moritz Kraemer | moritz.kraemer@zoo.ox.ac.uk | @mougk | @mougk
-Anastasia Lambrou | anastasia.lambrou@jhu.edu | @anasophlambrou |
-Sabrina Li | sabrina.li@ouce.ox.ac.uk | @sabrinalyli |
-Alyssa Loskill | aloskill@bu.edu | |
-Sumiko Mekaru | Sumiko.Mekaru@childrens.harvard.edu | @Sumiko_Mekaru |
-Julia Morgan | | |
-Sang Woo Park | swp2@princeton.edu | @sang_woo_park | @parksw3
-David Pigott | pigottdm@uw.edu | @davidmpigott |
-Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
-Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
-Lin Wang | lin.wang@pasteur.fr | @fdlwang |
-Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu
-Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 | @BoXu123
-Alexander Zabreski | | |
+
+Abdullahi Kawu	|	|abdullahikawu	
+Albert Doughan	| |adoughan1	
+Alexander Zabreski	|||		aezarebski@gmail.com
+Alyssa Loskill		|||	aloskill@bu.edu
+Amanuel Getachew	||	amanbk12	
+Anastasia Lambrou	|@anasophlambrou	||	anastasia.lambrou@jhu.edu
+Andrew Auruku		||aurukua	
+Anya Nyman	||	anya-nyman	
+Arianna Maever Amit		|||	alamit@up.edu.ph
+Bernardo Gutierrez	|@B_Gutierrez_G	|BernardoGG	|bernardo.gutierrez@zoo.ox.ac.uk
+Bo Xu	| @BoXu55686629	| BoXu123	| xu-b15@mails.tsinghua.edu.cn
+Carel Nchachi		||Carel08	
+Carl Britto		|||	carl.britto@paediatrics.ox.ac.uk
+Carrie			
+Daniel Omolo	||	Jomo20	
+Darlan Candido	|@candido_darlan	||	darlan.dasilvacandido@merton.ox.ac.uk
+David Pigott|	@davidmpigott	||	pigottdm@uw.edu
+Devon Jarvis	||	JarvisDevon	
+Diane Igoche	||	deelearn	
+Dieudonné Niyitanga	||	dniyitanga	
+Elaine Nsoesie		|||	onelaine@bu.edu
+Enrique Estigarribia	|||		enrique-estigarribia@hotmail.com
+Ernest Offiong	||	ernoff	
+Flavia Salles		|||	flacrissalles@gmail.com
+Harvey Davis	|||		harvey.davis@gtc.ox.ac.uk
+Herkulaas Combrink	||	MikeMcMalace	
+Ian Gregorio-de Souza			
+Idris Oladele Muniru	||	idrismunir15	
+Isha Berry	| @ishaberry2	||	isha.berry@mail.utoronto.ca
+Ismaël Koné	 ||	iskode	
+James Azam	||	jamesmbaazam	
+Jean Paul Carrera |	@JeanCarrPaul	||	jean.carrera@lincoln.ox.ac.uk
+Jeanet Morienyane			
+Jenny MG Shelton	|||		j.shelton@imperial.ac.uk
+Jessie Wu	||	jessiewu	| chiehhsi.wu@gmail.com
+Jose Martinez		|||	zegmartinezch@gmail.com
+Juan Pablo Cordova	|||		jpablo20048@gmail.com
+Julia Morgan	|||		morgaj5@uw.edu
+Kamorudeen Amuda	||	akindele2012	
+Kara Sewalk	|@kara_sewalk		|| Kara.Sewalk@childrens.harvard.edu
+Karen Santiago	| @itzelmardesiche	||	santiagomardesichekaren@gmail.com
+Kazeem Hakeem	||	hakymulla	
+Kundai Gwatidzo	||	epicpewpew	
+Lauren Goodwin		|||	lauren.goodwin@childrens.harvard.edu
+Lin Wang |	@fdlwang	||	lin.wang@pasteur.fr
+Liz Hurley		|||	elizabeth.hurley@childrens.harvard.edu
+Lizel Greyling	||	lizelgreyling	
+Lucy Matkin		|||	lucy.matkin@zoo.ox.ac.uk
+Mahamat Hamdan	||	axmat	
+Mahlet Konjit-Solomon		|||	mahlet.nigatu@gmail.com
+Manoli Heyneke	||	hey-mano	
+Manuel Muvhango	 ||	ManuelMuvhango	
+Marcos			
+Marcos Antonio Escurra		|||	marcos1996escurra@gmail.com
+Marcos Escurra		|||	marcos1996escurra@gmail.com
+Maria Mercedes Cobo	| @meche_cobo	||	maria.cobo@paediatrics.ox.ac.uk
+Marie Orschulik	 ||	morschulik	
+Million Abayneh	||	millzon	
+Modupe Coker	||	moyegunle	
+Molly Godfrey		|||	molly.d.godfrey@gmail.com
+Moritz Kraemer	| @mougk	| mougk	| moritz.kraemer@zoo.ox.ac.uk
+Moseli Motsoehli			
+Moses Ronoh	||	moses1065	
+Mostafa El Habib Daho	||	Mostafa-EHD	
+Nuno Faria |	@nmrfaria	||	nuno.faria@zoo.ox.ac.uk
+Olaniyan Oluwasegun		|| Segun12	
+Omara Patrick			
+Onesimo Mtintsilana		|| oniemtie	
+Pablo Reyes		|||	preyesa19@gmail.com
+Pamela Andrade	|||		pamelandrade22@gmail.com
+Raul Aveiro	| @Raulaveiro	||	raul.aveiro45@gmail.com
+Sabrina Li |	@sabrinalyli	||	sabrina.li@ouce.ox.ac.uk
+Sam Scarpino |	@svscarpino	||	s.scarpino@northeastern.edu
+Sang Woo Park |	@sang_woo_park |	parksw3	| swp2@princeton.edu
+Sarah Hill	| @Hill_SarahC	||	sarah.hill@zoo.ox.ac.uk
+Sheriffo Ceesay	||	sneceesay77	
+Shingirai Pfumayaramba	||	shingiraip	
+Shivanand Guness	||	shivam11	
+Sumiko Mekaru	| @Sumiko_Mekaru	||	Sumiko.Mekaru@childrens.harvard.edu
+Tahir	||	tahirlanre	
+Thomas Brewer		|||	Thomas.Brewer@childrens.harvard.edu
+Thomas Rawson		|||	thomas.rawson@pmb.ox.ac.uk
+Tsige Gebreslasse			
+Veincent Pepito		|||	vpepito@ateneo.edu
+Vongani Maluleke	||	Von31	
+Vukosi Marivate		|||	vukosi.marivate@cs.up.ac.za
+Willard Zvarevashe		wzvarevashe	
+Yaset Caicedo	| @yaset_caicedo	||	eyaset@gmail.com
+Zakia Salod	||	ZakiaSalod	
+Zamasomi Luvuno			
+Zoë Willis		|||	znw23@hotmail.co.uk
 
 ## Citation
 
