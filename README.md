@@ -64,7 +64,7 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 
 We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa) and LATAM Open COVID-19 Data Working Group.
 
-A list of curators and contributors is provided below:
+A list of curators and contributors to the Open COVID-19 Data Working Group is provided below:
 
 Name | Twitter | Github | Email
 -----|-------|---------|-------
