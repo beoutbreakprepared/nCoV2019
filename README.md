@@ -4,7 +4,7 @@ Data and code repository for the Open COVID-19 Data Working Group.
 # Acknowledgements
 We first want to thank all those individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources. Each entry in our database has an associatd source. A number of individuals have contributed to the specific data added here and their names and details are listed below along with a citation.
 
-Please get in touch should you want to contribute line list data, have any questions or just want to say hi: pigottdm@uw.edu and/or moritz.kraemer@zoo.ox.ac.uk
+Please get in touch should you want to contribute line list data, have any questions or just want to say hi: pigottdm@uw.edu or moritz.kraemer@zoo.ox.ac.uk
 
 We promote open collaboration among researchers and encourage users of this data to make best efforts to collaborate with representatives of the groups that generate the data and involve them in their analyses where appropriate. Please get in touch should you require more information.
 
