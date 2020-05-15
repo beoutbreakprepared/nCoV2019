@@ -57,7 +57,7 @@ The current list of sources are stored here: [Current sources used](/source_list
 
 ## Specific Contributors
 
-We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa and LATAM Open COVID-19 Data Working Group.
+We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa) and LATAM Open COVID-19 Data Working Group.
 
 A list of curators and contributors are provided below:
 
