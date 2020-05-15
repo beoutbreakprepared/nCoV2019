@@ -63,12 +63,11 @@ Albert Doughan||adoughan1
 Alexander Zabreski|||aezarebski@gmail.com
 Alyssa Loskill|||aloskill@bu.edu
 Amanuel Getachew||amanbk12
-
 Anastasia Lambrou|@anasophlambrou||anastasia.lambrou@jhu.edu
-Andrew Auruku		||aurukua	
-Anya Nyman	||	anya-nyman	
-Arianna Maever Amit		|||	alamit@up.edu.ph
-Bernardo Gutierrez	|@B_Gutierrez_G	|BernardoGG	|bernardo.gutierrez@zoo.ox.ac.uk
+Andrew Auruku||aurukua	
+Anya Nyman||anya-nyman	
+Arianna Maever Amit|||alamit@up.edu.ph
+Bernardo Gutierrez|@B_Gutierrez_G|BernardoGG|bernardo.gutierrez@zoo.ox.ac.uk
 Bo Xu	| @BoXu55686629	| BoXu123	| xu-b15@mails.tsinghua.edu.cn
 Carel Nchachi		||Carel08	
 Carl Britto		|||	carl.britto@paediatrics.ox.ac.uk
