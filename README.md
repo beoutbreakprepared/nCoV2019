@@ -1,13 +1,14 @@
-# COVID-19 Open Data
+# COVID-19
 Data and code repository for the Open COVID-19 Data Working Group. 
 
 # Acknowledgements
-We first want to thank all the individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources. Each entry in our database has an associatd source. A number of individuals have contributed to the specific data added here and their names and details are listed below along with citations for both the data set and our methodology. 
+We first want to thank all those individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources. Each entry in our database has an associatd source. A number of individuals have contributed to the specific data added here and their names and details are listed below along with a citation.
 
+Please get in touch should you want to contribute line list data, have any questions or just want to say hi (
 
 # Reconstructed line lists and data descriptor
 
-Daily updates are almost always processed by 10pm PT (1am EST, 6am GMT) and can be found in the [latest data folder](/latest_data).
+Daily updates are usually processed by 10pm PT (1am EST, 6am GMT) and can be found the [latest data folder](/latest_data).
 
 A full description of the methodology used for this study can be found here: Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
 
@@ -17,7 +18,7 @@ A dashboard showing the data can be viewed here: https://www.healthmap.org/covid
 
 # Co-morbidity estimates
 
-Co-morbidity data may facilitate the estimation of key parameters associated with COVID-19, e.g., the Case Fatality Rate (CFR).
+Co-morbidity data may facilitate CFR estimation processes
 
 Datasets derived from Global Burden of Disease on prevalence rates of known co-morbidities, including Diabetes mellitus, Cardiovascular Disease, and Chronic Obstructive Pulmonary Disorder. For more information on these estimates please see [metadata](/co-morbidities/co-morbidity_metadata.txt) and https://vizhub.healthdata.org/gbd-compare/
 
@@ -59,7 +60,7 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 
 ## Specific Contributors
 
-We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa) and the LATAM Open COVID-19 Data Working Group.
+We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa) and LATAM Open COVID-19 Data Working Group.
 
 A list of curators and contributors is provided below:
 
@@ -137,7 +138,7 @@ Pablo Reyes		|||	preyesa19@gmail.com
 Pamela Andrade	|||		pamelandrade22@gmail.com
 Raul Aveiro	| @Raulaveiro	||	raul.aveiro45@gmail.com
 Sabrina Li |	@sabrinalyli	||	sabrina.li@ouce.ox.ac.uk
-Samuel V. Scarpino |	@svscarpino	||	s.scarpino@northeastern.edu
+Sam Scarpino |	@svscarpino	||	s.scarpino@northeastern.edu
 Sang Woo Park |	@sang_woo_park |	parksw3	| swp2@princeton.edu
 Sarah Hill	| @Hill_SarahC	||	sarah.hill@zoo.ox.ac.uk
 Sheriffo Ceesay	||	sneceesay77	
@@ -157,7 +158,7 @@ Zakia Salod	||	ZakiaSalod
 Zamasomi Luvuno			
 Zoë Willis		|||	znw23@hotmail.co.uk
 
-## Citation
+## Citing "Open COVID-19 Data Working Group" as a reference in a publication
 
 In order to cite the current version of the dataset please use the citation below. As the data are updated regularly, please update the retrieval date in the `howpublished` field.
 
@@ -171,6 +172,8 @@ In order to cite the current version of the dataset please use the citation belo
 }
 
 ```
+
+and
 
 In order to cite the original dataset and methodology of how it was collected please cite:
 
