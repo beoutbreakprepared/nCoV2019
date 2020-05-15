@@ -161,9 +161,8 @@ As the data are updated regularly, please update the retrieval date in the `howp
 
 ```{bibtex}
 @misc{kraemer2020epidemiological,
-  author =       {nCoV-2019 Data Working Group},
-  title =        {{Epidemiological Data from the nCoV-2019 Outbreak: Early
-                  Descriptions from Publicly Available Data}},
+  author =       {Open COVID-19 Data Working Group},
+  title =        {{DEtailed Epidemiological Data from the COVID-19 Outbreak}},
   howpublished = {Accessed on yyyy-mm-dd from
                   \url{http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337}},
   year =         2020
