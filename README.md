@@ -58,13 +58,13 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 
 Name | Twitter | Github | Email
 -----|-------|---------|-------
+Abdullahi Kawu||abdullahikawu
+Albert Doughan||adoughan1
+Alexander Zabreski|||aezarebski@gmail.com
+Alyssa Loskill|||aloskill@bu.edu
+Amanuel Getachew||amanbk12
 
-Abdullahi Kawu||abdullahikawu|
-Albert Doughan||adoughan1|
-Alexander Zabreski	|||		aezarebski@gmail.com
-Alyssa Loskill		|||	aloskill@bu.edu
-Amanuel Getachew	||	amanbk12	
-Anastasia Lambrou	|@anasophlambrou	||	anastasia.lambrou@jhu.edu
+Anastasia Lambrou|@anasophlambrou||anastasia.lambrou@jhu.edu
 Andrew Auruku		||aurukua	
 Anya Nyman	||	anya-nyman	
 Arianna Maever Amit		|||	alamit@up.edu.ph
