@@ -1,4 +1,4 @@
-# COVID-19
+# COVID-19 Open Data
 Data and code repository for the Open COVID-19 Data Working Group. 
 
 # Acknowledgements
