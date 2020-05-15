@@ -6,7 +6,7 @@ We first want to thank all those individuals and organizations across the world 
 
 Please get in touch should you want to contribute line list data, have any questions or just want to say hi: pigottdm@uw.edu or moritz.kraemer@zoo.ox.ac.uk
 
-We promote open collaboration among researchers and encourage users of this data to make best efforts to collaborate with representatives of the groups that generated these data and involve them in their analyses where appropriate. Please get in touch should you require more information.
+We promote open collaboration among researchers and encourage users of these data make best efforts to collaborate with representatives of the groups that generated data and involve them in their analyses where appropriate. Please get in touch should you require more information.
 
 # Reconstructed line lists and data descriptor
 
