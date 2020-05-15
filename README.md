@@ -1,5 +1,5 @@
 # COVID-19
-Location for summaries and analyses of data related to COVID-19.
+Data and code repository for the Open COVID-19 Data Working Group. 
 
 # Acknowledgements
 We first want to thank all those individuals and organizations across the world who have been willing and able to report data in as open and timely manner as possible. This work attempts to synthesize information from across a myriad set of data sources. Each entry in our database has an associatd source. A number of individuals have contributed to the specific data added here and their names and details are listed below along with a citation.
@@ -53,13 +53,13 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 # Contributions
 ## Sources
 
-The current list of sources are stored here: [Current sources used](/source_list.csv)
+[Current sources used](/source_list.csv)
 
 ## Specific Contributors
 
 We want to specifically thank the different regional working groups, including the Africa Open COVID-19 Data Working Group (https://github.com/dsfsi/covid19africa) and LATAM Open COVID-19 Data Working Group.
 
-A list of curators and contributors are provided below:
+A list of curators and contributors is provided below:
 
 Name | Twitter | Github | Email
 -----|-------|---------|-------
