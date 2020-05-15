@@ -52,7 +52,7 @@ Global demographics, with age and sex structure are provided. These are mirrors 
 
 # Contributions
 ## Sources
-[Current sources used](/source_list.csv) Last updated 25th January
+[Current sources used](/source_list.csv)
 
 ## Specific Contributors
 
