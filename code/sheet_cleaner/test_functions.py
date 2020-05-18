@@ -11,12 +11,32 @@ class TestFunctions(unittest.TestCase):
 
     def test_duplicate_rows(self):
         df = pd.DataFrame(
-            {"country": ["FR", "CH", "US"],
-            "aggr": [np.nan, 3.0, np.nan]})
+            {"country": ["FR", "CH", "US", "JP"],
+            "aggr": [np.nan, 3.0, np.nan, 2.0]})
         dup = duplicate_rows_per_column(df, col="aggr")
         want_df = pd.DataFrame(
-            {"country": ["FR", "CH", "US", "CH", "CH", "CH"],
-            "aggr":[np.nan] * 6})
+            {"country": ["FR", "CH", "US", "JP", "CH", "CH", "JP"],
+            "aggr":[np.nan] * 7})
+        assert_frame_equal(dup, want_df)
+
+    def test_duplicate_rows_one_aggr(self):
+        df = pd.DataFrame(
+            {"country": ["FR", "CH", "US"],
+            "aggr": [np.nan, 1.0, np.nan]})
+        dup = duplicate_rows_per_column(df, col="aggr")
+        want_df = pd.DataFrame(
+            {"country": ["FR", "CH", "US"],
+            "aggr":[np.nan] * 3})
+        assert_frame_equal(dup, want_df)
+    
+    def test_duplicate_rows_empty(self):
+        df = pd.DataFrame(
+            {"country": ["FR", "CH", "US"],
+            "aggr":[np.nan] * 3})
+        dup = duplicate_rows_per_column(df, col="aggr")
+        want_df = pd.DataFrame(
+            {"country": ["FR", "CH", "US"],
+            "aggr":[np.nan] * 3})
         assert_frame_equal(dup, want_df)
 
     def test_trim_df(self):
