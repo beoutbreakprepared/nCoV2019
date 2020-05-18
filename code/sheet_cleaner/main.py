@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 
 '''
 Run all sheet cleaning scripts.
@@ -18,7 +18,7 @@ import pandas as pd
 from geocoder import arcgis
 from geocoding import csv_geocoder
 from functions import get_GoogleSheets, values2dataframe, generate_error_tables, duplicate_rows_per_column, trim_df, fix_sex, fix_na
-
+import numpy as np
 
 parser = argparse.ArgumentParser(
     description='Cleanup sheet and output generation script')
@@ -57,6 +57,7 @@ def main():
         if len(data) > 150000:
             logging.warning("Sheet %s has more than 150K rows, it should be split soon", s.name)
         data.aggregated_num_cases = pd.to_numeric(data.aggregated_num_cases, errors='coerce')
+        data.aggregated_num_cases = data.aggregated_num_cases.apply(lambda x: np.nan if x == 1 else x)
         data = duplicate_rows_per_column(data, "aggregated_num_cases")
         logging.info("Rows after expansion: %d", len(data))
 
@@ -75,10 +76,10 @@ def main():
 
         # Regex fixes
         fixable, non_fixable = generate_error_tables(data)
-        if len(fixable) > 0:
-            logging.info('fixing %d regexps', len(fixable))
-            s.fix_cells(fixable)
-            data = values2dataframe(s.read_values(range_))
+        #if len(fixable) > 0:
+        #    logging.info('fixing %d regexps', len(fixable))
+        #    s.fix_cells(fixable)
+        #    data = values2dataframe(s.read_values(range_))
         
         # ~ negates, here clean = data with IDs not in non_fixable IDs.
         clean = data[~data.ID.isin(non_fixable.ID)]
@@ -149,16 +150,13 @@ def main():
 
     # save
     logging.info("Saving files to disk")
-    dt = datetime.now().strftime('%Y-%m-%dT%H%M%S')
-    file_name   = config['FILES']['DATA'].replace('TIMESTAMP', dt)
-    all_data.to_csv(file_name, index=False, encoding="utf-8")
     all_data.to_csv(latest_name, index=False, encoding="utf-8")
-    logging.info("Wrote %s, %s", file_name, latest_name)
+    logging.info("Wrote %s", latest_name)
 
     if args.push_to_git:
         logging.info("Pushing to github")
         # Create script for uploading to github
-        for_github.extend([file_name, latest_name])
+        for_github.extend([latest_name])
         script  = 'set -e\n'
         script += 'cd {}\n'.format(config['GIT']['REPO'])
         script += 'git pull origin master\n'
@@ -168,7 +166,6 @@ def main():
         script += 'git commit -m "data update"\n'
         script += 'git push origin master\n'
         script += f'cd {os.getcwd()}\n'
-        print(script)
         os.system(script)
 
 
