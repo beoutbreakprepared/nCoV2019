@@ -1,26 +1,2 @@
 row,ID,value,column
-47032,003-47031,;Trentino;Italy-Rome;Lazio;Italy,travel_history_dates
-47033,003-47032,;Trentino;Italy-Rome;Lazio;Italy,travel_history_dates
-47034,003-47033,;Trentino;Italy-Rome;Lazio;Italy,travel_history_dates
-47037,003-47036,;;Italy,travel_history_dates
-47038,003-47037,;;Italy,travel_history_dates
-47039,003-47038,;;Belgium,travel_history_dates
-47040,003-47039,Berlin;Berlin;Germany-Amsterdam;North Holland;Netherlands,travel_history_dates
-47046,003-47045,Dublin;Dublin;Ireland,travel_history_dates
-47047,003-47046,13.03.20,date_onset_symptoms
-47047,003-47046,Barcelona;Catalonia;Spain,travel_history_dates
-47048,003-47047,Madrid;Comunidad de Madrid;Spain,travel_history_dates
-47073,003-47072,London;England;United Kingdom,travel_history_dates
-47076,003-47075,;;Germany-;;Poland,travel_history_dates
-47077,003-47076,;;Germany-;;Poland,travel_history_dates
-47079,003-47078,;;United Kingdom,travel_history_dates
-47080,003-47079,Madrid;Comunidad de Madrid;Spain,travel_history_dates
-47081,003-47080,;Brussels;Belgium,travel_history_dates
-47082,003-47081,;;United Kingdom,travel_history_dates
-47084,003-47083,;;Italy,travel_history_dates
-47085,003-47084,Istanbul;Marmara;Turkey,travel_history_dates
-47090,003-47089,Madrid;Comunidad de Madrid;Spain,travel_history_dates
-47096,003-47095,;Brussels;Belgium,travel_history_dates
-47099,003-47098,;;United Kingdon,travel_history_dates
-47100,003-47099,;;Australia-London;England;United Kingdom,travel_history_dates
-47103,003-47102,London;England;United Kingdom,travel_history_dates
+45099,003-45098,-09.03.2020,travel_history_dates

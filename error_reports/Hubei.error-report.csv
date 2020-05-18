@@ -1,59 +1,58 @@
 row,ID,value,column
-2,000-2-1,pre 18.01.2020,date_onset_symptoms
-11,000-2-10,pre 18.01.2020,date_onset_symptoms
-12,000-2-11,pre 18.01.2020,date_onset_symptoms
-13,000-2-12,pre 18.01.2020,date_onset_symptoms
-14,000-2-13,pre 18.01.2020,date_onset_symptoms
-15,000-2-14,pre 18.01.2020,date_onset_symptoms
-16,000-2-15,pre 18.01.2020,date_onset_symptoms
-17,000-2-16,pre 18.01.2020,date_onset_symptoms
-18,000-2-17,pre 18.01.2020,date_onset_symptoms
-19,000-2-18,pre 18.01.2020,date_onset_symptoms
-20,000-2-19,pre 18.01.2020,date_onset_symptoms
-3,000-2-2,pre 18.01.2020,date_onset_symptoms
-21,000-2-20,pre 18.01.2020,date_onset_symptoms
-22,000-2-21,pre 18.01.2020,date_onset_symptoms
-23,000-2-22,pre 18.01.2020,date_onset_symptoms
-24,000-2-23,pre 18.01.2020,date_onset_symptoms
-25,000-2-24,pre 18.01.2020,date_onset_symptoms
-26,000-2-25,pre 18.01.2020,date_onset_symptoms
-27,000-2-26,pre 18.01.2020,date_onset_symptoms
-28,000-2-27,pre 18.01.2020,date_onset_symptoms
-29,000-2-28,pre 18.01.2020,date_onset_symptoms
-30,000-2-29,pre 18.01.2020,date_onset_symptoms
-4,000-2-3,pre 18.01.2020,date_onset_symptoms
-31,000-2-30,pre 18.01.2020,date_onset_symptoms
-32,000-2-31,pre 18.01.2020,date_onset_symptoms
-33,000-2-32,pre 18.01.2020,date_onset_symptoms
-36,000-2-35,pre 18.01.2020,date_onset_symptoms
-37,000-2-36,pre 18.01.2020,date_onset_symptoms
-38,000-2-37,pre 18.01.2020,date_onset_symptoms
-39,000-2-38,pre 18.01.2020,date_onset_symptoms
-40,000-2-39,pre 18.01.2020,date_onset_symptoms
-5,000-2-4,pre 18.01.2020,date_onset_symptoms
-41,000-2-40,pre 18.01.2020,date_onset_symptoms
-42,000-2-41,pre 18.01.2020,date_onset_symptoms
-43,000-2-42,pre 18.01.2020,date_onset_symptoms
-44,000-2-43,pre 18.01.2020,date_onset_symptoms
-45,000-2-44,pre 18.01.2020,date_onset_symptoms
-46,000-2-45,pre 18.01.2020,date_onset_symptoms
-47,000-2-46,pre 18.01.2020,date_onset_symptoms
-48,000-2-47,pre 18.01.2020,date_onset_symptoms
-49,000-2-48,pre 18.01.2020,date_onset_symptoms
-50,000-2-49,pre 18.01.2020,date_onset_symptoms
-6,000-2-5,pre 18.01.2020,date_onset_symptoms
-51,000-2-50,pre 18.01.2020,date_onset_symptoms
-52,000-2-51,pre 18.01.2020,date_onset_symptoms
-53,000-2-52,pre 18.01.2020,date_onset_symptoms
-54,000-2-53,pre 18.01.2020,date_onset_symptoms
-55,000-2-54,pre 18.01.2020,date_onset_symptoms
-56,000-2-55,pre 18.01.2020,date_onset_symptoms
-57,000-2-56,pre 18.01.2020,date_onset_symptoms
-58,000-2-57,pre 18.01.2020,date_onset_symptoms
-59,000-2-58,pre 18.01.2020,date_onset_symptoms
-60,000-2-59,pre 18.01.2020,date_onset_symptoms
-7,000-2-6,pre 18.01.2020,date_onset_symptoms
-8,000-2-7,pre 18.01.2020,date_onset_symptoms
-75,000-2-74,early january,date_onset_symptoms
-9,000-2-8,pre 18.01.2020,date_onset_symptoms
-10,000-2-9,pre 18.01.2020,date_onset_symptoms
+2,000-2-1,-18.01.2020,date_onset_symptoms
+11,000-2-10,-18.01.2020,date_onset_symptoms
+12,000-2-11,-18.01.2020,date_onset_symptoms
+13,000-2-12,-18.01.2020,date_onset_symptoms
+14,000-2-13,-18.01.2020,date_onset_symptoms
+15,000-2-14,-18.01.2020,date_onset_symptoms
+16,000-2-15,-18.01.2020,date_onset_symptoms
+17,000-2-16,-18.01.2020,date_onset_symptoms
+18,000-2-17,-18.01.2020,date_onset_symptoms
+19,000-2-18,-18.01.2020,date_onset_symptoms
+20,000-2-19,-18.01.2020,date_onset_symptoms
+3,000-2-2,-18.01.2020,date_onset_symptoms
+21,000-2-20,-18.01.2020,date_onset_symptoms
+22,000-2-21,-18.01.2020,date_onset_symptoms
+23,000-2-22,-18.01.2020,date_onset_symptoms
+24,000-2-23,-18.01.2020,date_onset_symptoms
+25,000-2-24,-18.01.2020,date_onset_symptoms
+26,000-2-25,-18.01.2020,date_onset_symptoms
+27,000-2-26,-18.01.2020,date_onset_symptoms
+28,000-2-27,-18.01.2020,date_onset_symptoms
+29,000-2-28,-18.01.2020,date_onset_symptoms
+30,000-2-29,-18.01.2020,date_onset_symptoms
+4,000-2-3,-18.01.2020,date_onset_symptoms
+31,000-2-30,-18.01.2020,date_onset_symptoms
+32,000-2-31,-18.01.2020,date_onset_symptoms
+33,000-2-32,-18.01.2020,date_onset_symptoms
+36,000-2-35,-18.01.2020,date_onset_symptoms
+37,000-2-36,-18.01.2020,date_onset_symptoms
+38,000-2-37,-18.01.2020,date_onset_symptoms
+39,000-2-38,-18.01.2020,date_onset_symptoms
+40,000-2-39,-18.01.2020,date_onset_symptoms
+5,000-2-4,-18.01.2020,date_onset_symptoms
+41,000-2-40,-18.01.2020,date_onset_symptoms
+42,000-2-41,-18.01.2020,date_onset_symptoms
+43,000-2-42,-18.01.2020,date_onset_symptoms
+44,000-2-43,-18.01.2020,date_onset_symptoms
+45,000-2-44,-18.01.2020,date_onset_symptoms
+46,000-2-45,-18.01.2020,date_onset_symptoms
+47,000-2-46,-18.01.2020,date_onset_symptoms
+48,000-2-47,-18.01.2020,date_onset_symptoms
+49,000-2-48,-18.01.2020,date_onset_symptoms
+50,000-2-49,-18.01.2020,date_onset_symptoms
+6,000-2-5,-18.01.2020,date_onset_symptoms
+51,000-2-50,-18.01.2020,date_onset_symptoms
+52,000-2-51,-18.01.2020,date_onset_symptoms
+53,000-2-52,-18.01.2020,date_onset_symptoms
+54,000-2-53,-18.01.2020,date_onset_symptoms
+55,000-2-54,-18.01.2020,date_onset_symptoms
+56,000-2-55,-18.01.2020,date_onset_symptoms
+57,000-2-56,-18.01.2020,date_onset_symptoms
+58,000-2-57,-18.01.2020,date_onset_symptoms
+59,000-2-58,-18.01.2020,date_onset_symptoms
+60,000-2-59,-18.01.2020,date_onset_symptoms
+7,000-2-6,-18.01.2020,date_onset_symptoms
+8,000-2-7,-18.01.2020,date_onset_symptoms
+9,000-2-8,-18.01.2020,date_onset_symptoms
+10,000-2-9,-18.01.2020,date_onset_symptoms
