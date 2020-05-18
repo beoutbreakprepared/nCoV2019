@@ -181,13 +181,19 @@ def generate_error_tables(data):
 def duplicate_rows_per_column(df: pd.DataFrame, col: str) -> pd.DataFrame:
     """Duplicate rows based on the integer number in 'col' if > 0.
     Changes the data frame in place, returned col will only contain nan."""
+    concats = []
     for i, row in df.iterrows():
         if math.isnan(row[col]) or row[col] <= 0:
             continue
         num = int(row[col])
         row[col] = np.nan
         df.at[i, 'aggr'] = np.nan
-        df = df.append([row] * num, ignore_index=True)
+        # Only append if num is > 1, curators input 1 sometimes.
+        if num > 1:
+            dupes = [row] * (num - 1)
+            concats.extend(dupes)
+    if concats:
+        return df.append(concats, ignore_index=True)
     return df
 
 def trim_df(df: pd.DataFrame) -> pd.DataFrame:
