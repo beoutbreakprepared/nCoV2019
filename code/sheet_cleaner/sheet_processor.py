@@ -119,9 +119,6 @@ class SheetProcessor:
         latest_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
         all_data.to_csv(file_name, index=False, encoding="utf-8")
         all_data.to_csv(latest_name, index=False, encoding="utf-8")
-        unique_sources = all_data.source.unique()
-        unique_sources.sort()
-        unique_sources.tofile(os.path.join(self.config['GIT']['REPO'], 'sources_list.txt'), sep='\n')
         logging.info("Wrote %s, %s", file_name, latest_name)
         self.for_github.extend([file_name, latest_name])
 

@@ -145,7 +145,7 @@ def main():
         logging.info(f"Line check passed, {line_diff} new lines")
     else:
         logging.info("Line check failed")
-        return 
+        return
 
     # save
     logging.info("Saving files to disk")
@@ -153,6 +153,13 @@ def main():
     file_name   = config['FILES']['DATA'].replace('TIMESTAMP', dt)
     all_data.to_csv(file_name, index=False, encoding="utf-8")
     all_data.to_csv(latest_name, index=False, encoding="utf-8")
+    unique_sources = all_data.source.unique()
+    unique_sources.sort()
+    sources_file = os.path.join(config['GIT']['REPO'], 'sources_list.txt')
+    with open(sources_file, "w") as f:
+        for s in unique_sources:
+            f.write(s+"\n")
+    for_github.append(sources_file)
     logging.info("Wrote %s, %s", file_name, latest_name)
 
     if args.push_to_git:

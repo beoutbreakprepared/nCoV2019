@@ -1,3 +1,7 @@
 *.pyc
 __pycache__
 latest_data/latestdata.csv
+.DS_Store
+PROD_CONFIG
+cleanup.log
+geocode_misses.csv
