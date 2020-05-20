@@ -3,6 +3,7 @@ import os
 import pathlib
 import tempfile
 import unittest
+import tarfile
 from collections import defaultdict
 from typing import NamedTuple
 from unittest.mock import MagicMock, patch
@@ -33,6 +34,9 @@ class TestSheetProcessor(unittest.TestCase):
             [GIT]
             REPO = {tmpdirname}
             """
+            open(os.path.join(tmpdirname, "latestdata.csv"), 'w').close()
+            with tarfile.open(os.path.join(tmpdirname, "latestdata.tar.gz"), "w:gz") as tar:
+                tar.add(os.path.join(tmpdirname, "latestdata.csv"), arcname="latestdata.csv")
             config = configparser.ConfigParser()
             config.read_string(txt_config)
 

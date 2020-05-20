@@ -138,13 +138,12 @@ class SheetProcessor:
         logging.info("Saving files to disk")
         dt = datetime.now().strftime('%Y-%m-%dT%H%M%S')
         file_name   = self.config['FILES']['DATA'].replace('TIMESTAMP', dt)
-        latest_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
         # Compress latest data to tar.gz because it's too big for git.
         with tarfile.open(latest_targz_name, "w:gz") as tar:
-            tar.add(latest_csv_name, recursive=False)
+            tar.add(latest_csv_name, arcname="latestdata.csv")
         self.for_github.append(latest_targz_name)
         all_data.to_csv(file_name, index=False, encoding="utf-8")
-        all_data.to_csv(latest_name, index=False, encoding="utf-8")
+        all_data.to_csv(latest_csv_name, index=False, encoding="utf-8")
         # Store unique source list.
         unique_sources = all_data.source.unique()
         unique_sources.sort()
@@ -153,7 +152,7 @@ class SheetProcessor:
             for s in unique_sources:
                 f.write(s+"\n")
         self.for_github.append(sources_file)
-        logging.info("Wrote %s, %s", file_name, latest_name)
+        logging.info("Wrote %s, %s, %s", file_name, latest_csv_name, latest_targz_name)
         self.for_github.append(file_name)
 
     def push_to_github(self):
