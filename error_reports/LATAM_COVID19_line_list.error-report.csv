@@ -1,10 +1,1 @@
 row,ID,value,column
-8032,004-8031,22.3.2020,date_onset_symptoms
-8109,004-8108,27.03.2021,date_admission_hospital
-8110,004-8109,21.03.2021,date_admission_hospital
-8111,004-8110,24.03.2021,date_admission_hospital
-8126,004-8125,admitted,date_onset_symptoms
-8127,004-8126,admitted,date_onset_symptoms
-8128,004-8127,admitted,date_onset_symptoms
-8170,004-8169,29.03.2021,date_onset_symptoms
-8170,004-8169,29.03.2021,date_admission_hospital
