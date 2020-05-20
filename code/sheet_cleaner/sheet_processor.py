@@ -1,6 +1,7 @@
 import logging
 import os
 from datetime import datetime
+import tarfile
 from typing import List
 import configparser
 
@@ -88,6 +89,7 @@ class SheetProcessor:
 
         # Fill geo columns.
         geocode_matched = 0
+        logging.info("Geocoding data...")
         for i, row in all_data.iterrows():
             geocode = self.geocoder.geocode(row.city, row.province, row.country)
             if not geocode:
@@ -107,20 +109,52 @@ class SheetProcessor:
         with open("geocode_misses.csv", "w") as f:
             self.geocoder.write_misses_to_csv(f)
             logging.info("Wrote all geocode misses to geocode_misses.csv")
+        if len(self.geocoder.new_geocodes) > 0:
+            logging.info("Appending new geocodes to geo_admin.tsv")
+            with open(self.config['GEOCODING'].get('TSV_PATH'), "a") as f:
+                self.geocoder.append_new_geocodes_to_init_file(f)
+            self.for_github.append(self.config['GEOCODING'].get('TSV_PATH'))
         # Reorganize csv columns so that they are in the same order as when we
         # used to have those geolocation within the spreadsheet.
         # This is to avoid breaking latestdata.csv consumers.
         all_data = all_data[["ID","age","sex","city","province","country","latitude","longitude","geo_resolution","date_onset_symptoms","date_admission_hospital","date_confirmation","symptoms","lives_in_Wuhan","travel_history_dates","travel_history_location","reported_market_exposure","additional_information","chronic_disease_binary","chronic_disease","source","sequence_available","outcome","date_death_or_discharge","notes_for_discussion","location","admin3","admin2","admin1","country_new","admin_id","data_moderator_initials","travel_history_binary"]]
+
+        # ensure new data is >= than the last one. 
+        logging.info("Ensuring that num of rows in new data is > old data...")
+        latest_csv_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
+        latest_targz_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.tar.gz')
+
+        with tarfile.open(latest_targz_name, "r:gz") as tar:
+            tar.extract("latestdata.csv", self.config['FILES']['LATEST'])
+        old_num_lines = sum(1 for line in open(latest_csv_name))
+        line_diff = len(all_data) - old_num_lines
+        if line_diff >= 0:
+            logging.info(f"Check passed, {line_diff} new lines")
+        else:
+            logging.error("Check failed")
+            return
 
         # save
         logging.info("Saving files to disk")
         dt = datetime.now().strftime('%Y-%m-%dT%H%M%S')
         file_name   = self.config['FILES']['DATA'].replace('TIMESTAMP', dt)
         latest_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
+        # Compress latest data to tar.gz because it's too big for git.
+        with tarfile.open(latest_targz_name, "w:gz") as tar:
+            tar.add(latest_csv_name, recursive=False)
+        self.for_github.append(latest_targz_name)
         all_data.to_csv(file_name, index=False, encoding="utf-8")
         all_data.to_csv(latest_name, index=False, encoding="utf-8")
+        # Store unique source list.
+        unique_sources = all_data.source.unique()
+        unique_sources.sort()
+        sources_file = os.path.join(self.config['GIT']['REPO'], 'sources_list.txt')
+        with open(sources_file, "w") as f:
+            for s in unique_sources:
+                f.write(s+"\n")
+        self.for_github.append(sources_file)
         logging.info("Wrote %s, %s", file_name, latest_name)
-        self.for_github.extend([file_name, latest_name])
+        self.for_github.append(file_name)
 
     def push_to_github(self):
         """Pushes csv files created by Process to Github."""
