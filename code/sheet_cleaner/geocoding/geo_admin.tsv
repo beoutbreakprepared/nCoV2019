@@ -11908,3 +11908,39 @@ cham;bayern;germany	49.23706606200005	12.695772528000077	point					Germany
 neumarkt i.d.opf.;bayern;germany	49.277929981678206	11.432989984996407	point					Germany
 neustadt a.d.waldnaab;bayern;germany	49.72752482700008	11.870695000000069	point					Germany
 schwandorf;bayern;germany	49.32798000000008	12.10826000000003	point					Germany
+;lappi hospital district;finland	67.71928746200007	26.294242625000038	point					Finland
+;central ostrobothnia hospital district;finland	7.372580000000028	80.52463000000006	point					Finland
+;helsinki and uusimaa hospital district;finland	60.17116000000004	24.932650000000024	point					Finland
+;pirkanmaa hospital district;finland	61.66790367800007	23.067570000000046	point					Finland
+;kanta-hame hospital district;finland	60.91882457600008	24.32524554300005	point					Finland
+;south karelia hospital district;finland	63.094760000000065	30.58594000000005	point					Finland
+;north ostrobothnia hospital district;finland	64.52251280100006	26.158834376000073	point					Finland
+;pohjois-savo hospital district;finland	63.18882208700006	27.47826673900005	point					Finland
+;varsinais-suomi hospital district;finland	60.55266619200006	22.54026711700004	point					Finland
+;north karelia hospital district;finland	63.00000000000006	30.000000000000057	point					Finland
+;central finland hospital district;finland	62.50000000000006	25.500000000000057	point					Finland
+;south ostrobothnia hospital district;finland	64.52251280100006	26.158834376000073	point					Finland
+;satakunta hospital district;finland	37.43741000000006	-100.98646999999994	point					Finland
+;etela-savo hospital district;finland	61.892025286000035	27.76167335100007	point					Finland
+;paijat-hame hospital district;finland	61.195431203000055	25.72342194600003	point					Finland
+;kymenlaakso hospital district;finland	60.82103394100005	26.88699279900004	point					Finland
+;vaasa hospital district;finland	63.09836000000007	21.626130000000046	point					Finland
+;ita-savo hospital district;finland	61.682060000000035	24.039460000000076	point					Finland
+;aland hospital district;finland	60.21899743600005	20.138611549000075	point					Finland
+;lansi-pohja hospital district;finland	61.72911000000005	24.78899000000007	point					Finland
+;kainuu hospital district;finland	64.52441639700004	28.74034611700006	point					Finland
+calvados;normandy;france	49.09977670300003	-0.36166778699993074	point					France
+cotes-d'armor;brittany;france	48.44156011800004	-2.865406979999932	point					France
+eure;normandy;france	49.11376858500006	0.9961053320000701	point					France
+finistere;brittany;france	48.26177311500004	-4.061581865999926	point					France
+corse-du-sud;corsica;france	42.15139070500004	9.106033054000022	point					France
+haute-corse;corsica;france	42.15139070500004	9.106033054000022	point					France
+ille-et-vilaine;brittany;france	48.155033384000035	-1.6381540729999529	point					France
+manche;normandy;france	49.081283348000056	-1.3292105389999733	point					France
+orne;normandy;france	48.62306531100006	0.12782633500006568	point					France
+seine-maritime;normandy;france	49.65461335500004	1.0273686810000413	point					France
+guadeloupe;guadeloupe;france	16.14475253100005	-61.65011999999996	point					France
+martinique;martinique;france	14.653133328000024	-61.01838056199995	point					France
+guyane;french guiana;france	5.169397032822761	-52.64679954371871	point					France
+la reunion;reunion;france	-21.133187344999953	55.53244445100006	point					France
+mayotte;mayotte;france	43.765460000000076	-0.7101699999999482	point					France
