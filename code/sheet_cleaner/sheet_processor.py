@@ -124,15 +124,22 @@ class SheetProcessor:
         latest_csv_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
         latest_targz_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.tar.gz')
 
-        with tarfile.open(latest_targz_name, "r:gz") as tar:
-            tar.extract("latestdata.csv", self.config['FILES']['LATEST'])
-        old_num_lines = sum(1 for line in open(latest_csv_name))
-        line_diff = len(all_data) - old_num_lines
-        if line_diff >= 0:
-            logging.info(f"Check passed, {line_diff} new lines")
+        if os.path.exists(latest_targz_name):
+            logging.info("Ensuring that num of rows in new data is > old data...")
+            with tarfile.open(latest_targz_name, "r:gz") as tar:
+                tar.extract("latestdata.csv", self.config['FILES']['LATEST'])
+            old_num_lines = sum(1 for line in open(latest_csv_name))
+            line_diff = len(all_data) - old_num_lines
+            if line_diff >= 0:
+                logging.info(f"Check passed, {line_diff} new lines")
+                logging.info("removing old .tar.gz file")
+                os.remove(latest_targz_name)
+            else:
+                logging.error(f"Check failed line_diff={line_diff}")
+                return
         else:
-            logging.error("Check failed")
-            return
+            logging.info(f"{latest_targz_name} does not exist, creating it.")
+
 
         # save
         logging.info("Saving files to disk")
