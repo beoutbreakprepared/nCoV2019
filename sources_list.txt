@@ -6559,6 +6559,7 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
 https://raw.githubusercontent.com/RamiKrispin/coronavirus-csv/master/coronavirus_dataset.csv, daily totals confirmed on https://www.worldometers.info/coronavirus/
 https://raw.githubusercontent.com/RamiKrispin/coronavirus-csv/master/coronavirus_dataset.csv, daily totals confirmed on https://www.worldometers.info/coronavirus/|https://www.middleeastmonitor.com/20200302-coronavirus-more-than-20-cases-in-egypt-despite-government-insistence-there-are-only-2/
 https://raw.githubusercontent.com/RamiKrispin/coronavirus-csv/master/coronavirus_dataset.csv|daily totals confirmed on https://www.worldometers.info/coronavirus/|https://www.france24.com/en/20200214-egypt-s-health-ministry-announces-first-confirmed-coronavirus-case
+https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos_long.csv
 https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-20200228.csv
 https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-20200229.csv
 https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-20200301.csv
@@ -7474,6 +7475,12 @@ https://twitter.com/NCDCgov/status/1259244956134367237
 https://twitter.com/NCDCgov/status/1259615631135178753
 https://twitter.com/NCDCgov/status/1259978042425868296
 https://twitter.com/NCDCgov/status/1260342648528867328
+https://twitter.com/NCDCgov/status/1260698618803163139
+https://twitter.com/NCDCgov/status/1261068700049866753
+https://twitter.com/NCDCgov/status/1261427984294174720
+https://twitter.com/NCDCgov/status/1262143477992882178
+https://twitter.com/NCDCgov/status/1262516658712842241
+https://twitter.com/NCDCgov/status/1262875460687495169
 https://twitter.com/NDDOH/status/1240400190596616192
 https://twitter.com/NDDOH/status/1240668722437722113
 https://twitter.com/NHM_TN/status/1243427398458081280
@@ -9885,6 +9892,7 @@ https://yle.fi/uutiset/osasto/news/new_coronavirus_infection_confirmed_in_helsin
 https://yle.fi/uutiset/osasto/news/two_new_coronavirus_cases_confirmed_in_southern_finland/11235441
 https://yourvalley.net/stories/number-of-coronavirus-cases-in-arizona-top-100
 https://zdravlje.gov.hr/vijesti/ministar-zdravstva-beros-jos-dva-slucaja-zaraze-koronavirusom/5066
+https://zenodo.org/record/3820417#.Xs0zV2hKiUk
 https://zh.wikipedia.org/w/index.php?title=2019%E5%B9%B4%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6&oldid=57806349
 https://znsbahamas.com/2020/03/18/health-minister-provides-update-on-covid-19/
 https://znsbahamas.com/2020/03/18/two-additional-covid-19-cases-confirmed/
