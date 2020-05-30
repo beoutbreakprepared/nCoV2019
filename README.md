@@ -185,7 +185,7 @@ In order to cite the current version of the dataset please use the citation belo
 
 and
 
-In order to cite the original dataset and methodology of how it was collected please cite:
+In order to cite the original dataset and methodology of how it was collected please use:
 
 ```{bibtex}
 @article{xu2020Epidemiological,
