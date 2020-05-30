@@ -961,6 +961,7 @@ https://english.manoramaonline.com/news/kerala/2020/03/22/coronavirus-kerala-loc
 https://english.mathrubhumi.com/news/kerala/9-new-covid-19-positive-cases-in-kerala-112-under-treatment-1.4643353
 https://english.mathrubhumi.com/news/kerala/condition-of-89-yr-old-corona-positive-patient-from-ranni-critical-1.4604610
 https://epaper.hindustantimes.com/Home/ShareArticle?OrgId=d2d754a3
+https://epistat.sciensano.be/Data/COVID19BE_CASES_AGESEX.csv
 https://epistat.wiv-isp.be/Covid/
 https://esseha.com/2-autres-deces-et-38-cas-confirmes-ces-dernieres-24-heures/
 https://esseha.com/4-autres-deces-et-65-cas-confirmes-ces-dernieres-24-heures/
@@ -6597,6 +6598,7 @@ https://nypost.com/2020/03/02/new-york-citys-first-coronavirus-patient-is-a-heal
 https://oglobo.globo.com/sociedade/santo-andre-no-abc-paulistaconfirma-primeiro-caso-de-coronavirus-24309496
 https://ojo.pe/actualidad/se-confirma-cinco-nuevos-casos-de-coronavirus-en-el-peru-web-ojo-noticia/
 https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19
+https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/osoby.csv
 https://patch.com/california/sanrafael/9-total-coronavirus-cases-confirmed-marin-county
 https://patch.com/connecticut/farmington/s/h1i5y/1st-ct-resident-tests-positive-for-coronavirus-gov-lamont?utm_source=alert-breakingnews&utm_medium=email&utm_term=lifestyle&utm_campaign=alert&from=groupmessage&isappinstalled=0
 https://patch.com/new-jersey/westfield/nj-coronavirus-what-know-cases-reported-school-exposed
