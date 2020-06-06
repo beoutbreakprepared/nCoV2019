@@ -50,24 +50,42 @@ Kementerian Kesehatan Republik Indonesia
 Istituto Superiore di Sanità
  
 *Japan*
+
+Ministry of Health, Labour and Welfare
  
 *Mexico*
+
+Secretaria de Salud
  
 *Netherlands*
+
+Rijksinstituut voor Volksgezondheid en Milieu
  
 *Nigeria*
+
+Nigeria Centre for Disease Control
  
 *Norway*
- 
+
+Folkehelseininstituttet
+
 *South Korea*
- 
+
+Korean Centers for Disease Control
+
 *Spain*
+
+Ministerio de Sanidad, Consumo y Bienestar Social
  
 *Thailand*
- 
+
+World Health Organization Thailand
+
 *Timor-Leste*
 
+World Health Organization Timor-Leste
+
 *United States of America*
-  - Connecticut
-  - Florida
-  - Massachusetts
+  - Connecticut - Connecticut Department of Public Health
+  - Florida - 
+  - Massachusetts - Massachusetts Department of Public Health
