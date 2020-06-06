@@ -26,16 +26,28 @@ Ministerio de Salud Pública
 Ministerio de Salud Pública 
  
 *France*
+
+Santé Publique
  
 *Germany*
+
+Robert Koch Institut
  
 *Greece*
  
+EODY
+ 
 *India*
+
+World Health Organization India
  
 *Indonesia*
+
+Kementerian Kesehatan Republik Indonesia
  
 *Italy*
+
+Istituto Superiore di Sanità
  
 *Japan*
  
