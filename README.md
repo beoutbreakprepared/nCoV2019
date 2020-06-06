@@ -140,6 +140,7 @@ Moses Ronoh	||	moses1065
 Mostafa El Habib Daho	||	Mostafa-EHD	
 Nuno Faria |	@nmrfaria	||	nuno.faria@zoo.ox.ac.uk
 Olaniyan Oluwasegun		|| Segun12	
+Oliver G Pybus |@EvolveDotZoo|| oliver.pybus@zoo.ox.ac.uk
 Omara Patrick			
 Onesimo Mtintsilana		|| oniemtie	
 Pablo Reyes		|||	preyesa19@gmail.com
