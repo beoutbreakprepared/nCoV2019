@@ -10,15 +10,19 @@ Organizations whose reports are included:
  - Alagoas http://www.alagoascontraocoronavirus.al.gov.br/
  
 *Canada*
+
 Public Health Agency of Canada - https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
  
 *Denmark*
+
 Statens Serum Instiut
  
 *Dominican Republic*
+
 Ministerio de Salud Pública
  
 *Ecuador*
+
 Ministerio de Salud Pública 
  
 France
