@@ -25,39 +25,37 @@ Ministerio de Salud Pública
 
 Ministerio de Salud Pública 
  
-France
+*France*
  
-Germany
+*Germany*
  
-Greece
+*Greece*
  
-India
+*India*
  
-Indonesia
+*Indonesia*
  
-Italy
+*Italy*
  
-Japan
+*Japan*
  
-Mexico
+*Mexico*
  
-Netherlands
+*Netherlands*
  
-Nigeria
+*Nigeria*
  
-Norway
+*Norway*
  
-South Korea
+*South Korea*
  
-Spain
+*Spain*
  
-Thailand
+*Thailand*
  
-Timor-Leste
+*Timor-Leste*
 
-United States of America
+*United States of America*
   - Connecticut
   - Florida
   - Massachusetts
-  
- 
