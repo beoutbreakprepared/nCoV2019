@@ -14391,3 +14391,1459 @@ catmon;cebu province;philippines	11.550000000000068	124.86667000000011	point				
 ;kyiv;ukraine	50.45056000000005	30.524280000000033	point					Ukraine
 ;ljubljana;slovenia	46.05062000000004	14.502820000000042	point					Slovenia
 ;chisinau;moldova	47.024590000000046	28.83242000000007	point					Moldova
+independencia;lima;peru	-11.992239999999981	-77.04676999999998	point					Peru
+lima;lima;peru	-12.04317999999995	-77.02823999999998	point					Peru
+paucarpata;arequipa;peru	-16.419519999999977	-71.47469999999998	point					Peru
+agrado;huila;colombia	2.25899000000004	-75.77212999999995	point					Colombia
+gigante;huila;colombia	2.3877200000000585	-75.54793999999998	point					Colombia
+pitalito;huila;colombia	1.8508500000000367	-76.04590999999994	point					Colombia
+quibdo;choco;colombia	5.7099000000000615	-76.62020999999999	point					Colombia
+santa marta;santa marta dt y c;colombia	11.226560000000063	-74.19873999999999	point					Colombia
+trujillo;trujillo;peru	-8.115969999999948	-79.02277999999995	point					Peru
+san andres de tumaco;narino;colombia	1.8072900000000232	-78.77155999999997	point					Colombia
+pasto;narino;colombia	1.2095000000000482	-77.27667999999994	point					Colombia
+cumbal;narino;colombia	0.9059600000000501	-77.78943999999996	point					Colombia
+pimentel;chiclayo;peru	-6.812759999999969	-79.90663999999998	point					Peru
+floridablanca;santander;colombia	7.06722000000002	-73.10016999999993	point					Colombia
+cimitarra;santander;colombia	6.313850000000059	-73.95016999999996	point					Colombia
+barrancabermeja;santander;colombia	7.0619100000000685	-73.85037999999997	point					Colombia
+candelaria;valle del cauca;colombia	3.407380000000046	-76.34880999999996	point					Colombia
+cali;valle del cauca;colombia	3.4340200000000323	-76.52644999999995	point					Colombia
+jamundi;valle del cauca;colombia	3.2620900000000574	-76.54108999999994	point					Colombia
+san pedro;valle del cauca;colombia	3.9938400000000343	-76.22670999999997	point					Colombia
+yumbo;valle del cauca;colombia	3.577570000000037	-76.48618999999997	point					Colombia
+barranquilla;barranquilla de;colombia	10.982680000000073	-74.83018999999996	point					Colombia
+catacaos;piura;peru	-5.266929999999945	-80.67392999999998	point					Peru
+el cerrito;valle del cauca;colombia	3.686670000000049	-76.31397999999996	point					Colombia
+ate;lima;peru	-12.038179999999954	-76.89317999999997	point					Peru
+buenaventura;buenaventura de;colombia	3.88301000000007	-77.04738999999995	point					Colombia
+sepahua;atalaya;peru	-11.13340999999997	-73.03494999999998	point					Peru
+san andres;archipielago de san andres providencia y santa catalina;colombia	12.550000000000068	-81.69999999999999	point					Colombia
+monteria;cordoba;colombia	8.754060000000038	-75.87680999999998	point					Colombia
+bogota dc;bogota dc;colombia	4.630880000000047	-74.08656999999994	point					Colombia
+cartagena de indias;cartagena dt y c;colombia	10.425050000000056	-75.53836999999999	point					Colombia
+amarilis;huanuco;peru	-9.92211999999995	-76.23261999999994	point					Peru
+comas;lima;peru	-11.93297999999993	-77.04084999999998	point					Peru
+huaral;huaral;peru	-11.494579999999928	-77.21018999999995	point					Peru
+guacari;valle del cauca;colombia	3.7642400000000293	-76.33292999999998	point					Colombia
+zipaquira;cundinamarca;colombia	5.025760000000048	-74.00289999999995	point					Colombia
+yotoco;valle del cauca;colombia	3.8615800000000604	-76.38353999999998	point					Colombia
+villa el salvador;lima;peru	-12.215209999999956	-76.94216999999998	point					Peru
+campoverde;coronel portillo;peru	-8.473279999999932	-74.80614999999995	point					Peru
+villapinzon;cundinamarca;colombia	5.2158300000000395	-73.59394999999995	point					Colombia
+puerto colombia;atlantico;colombia	10.994360000000029	-74.94421999999997	point					Colombia
+baranoa;atlantico;colombia	10.793610000000058	-74.91542999999996	point					Colombia
+yarinacocha;coronel portillo;peru	-8.389839999999936	-74.57132999999999	point					Peru
+huacho;huaura;peru	-11.11854999999997	-77.60904999999997	point					Peru
+huancavelica;huancavelica;peru	-12.766669999999976	-74.98332999999997	point					Peru
+carabayllo;lima;peru	-11.790149999999926	-76.97558999999995	point					Peru
+turbaco;bolivar;colombia	10.333110000000033	-75.41253999999998	point					Colombia
+malambo;atlantico;colombia	10.86358000000007	-74.77626999999995	point					Colombia
+ica;ica;peru	-14.063829999999939	-75.73021999999997	point					Peru
+san pedro de uraba;antioquia;colombia	8.276400000000024	-76.37964999999997	point					Colombia
+melgar;tolima;colombia	4.205870000000061	-74.64290999999997	point					Colombia
+villa de san diego de ubate;cundinamarca;colombia	5.309550000000058	-73.81949999999995	point					Colombia
+espinal;tolima;colombia	4.152500000000032	-74.88568999999995	point					Colombia
+san cristobal;bolivar;colombia	10.394550000000038	-75.06569999999994	point					Colombia
+ticapampa;recuay;peru	-9.73840999999993	-77.34963999999997	point					Peru
+huamachuco;sanchez carrion;peru	-7.81374999999997	-78.04556999999994	point					Peru
+guadalajara de buga;valle del cauca;colombia	3.9003300000000536	-76.30333999999993	point					Colombia
+tulua;valle del cauca;colombia	4.085990000000038	-76.19633999999996	point					Colombia
+oropesa;antabamba;peru	-14.253379999999936	-72.56787999999995	point					Peru
+yanahuanca;daniel alcides carrion;peru	-10.491349999999954	-76.51513999999997	point					Peru
+rapayan;huari;peru	-9.272051382999962	-76.77668525899998	point					Peru
+calleria;coronel portillo;peru	-8.378189999999961	-74.53969999999998	point					Peru
+jaen;jaen;peru	-5.708579999999927	-78.80732999999998	point					Peru
+miranda;cauca;colombia	3.249940000000038	-76.22844999999995	point					Colombia
+palmira;valle del cauca;colombia	3.542120000000068	-76.27825999999999	point					Colombia
+barranco;lima;peru	-12.143719999999973	-77.02073999999999	point					Peru
+santa rosa de cabal;risaralda;colombia	4.87104000000005	-75.62394999999998	point					Colombia
+andes;antioquia;colombia	5.656300000000044	-75.87818999999996	point					Colombia
+san juan de lurigancho;lima;peru	-12.003949999999975	-77.00694999999996	point					Peru
+soledad;atlantico;colombia	10.906700000000058	-74.79406999999998	point					Colombia
+san miguel;lima;peru	-12.077999999999975	-77.09586999999993	point					Peru
+miguel checa;sullana;peru	-5.151639999999929	-80.76742999999999	point					Peru
+san borja;lima;peru	-12.096059999999966	-76.99619999999999	point					Peru
+suesca;cundinamarca;colombia	5.103870000000029	-73.79871999999995	point					Colombia
+sullana;sullana;peru	-4.907629999999926	-80.69732999999997	point					Peru
+marcavelica;sullana;peru	-4.866649999999936	-80.71858999999995	point					Peru
+piura;piura;peru	-5.1921899999999255	-80.62831999999997	point					Peru
+ventanilla;callao;peru	-11.88280999999995	-77.12972999999994	point					Peru
+chancay;huaral;peru	-11.570809999999938	-77.26888999999994	point					Peru
+florida;valle del cauca;colombia	3.321480000000065	-76.23499999999996	point					Colombia
+la estrella;antioquia;colombia	6.157260000000065	-75.64350999999994	point					Colombia
+castilla;piura;peru	-5.1908299999999485	-80.60515999999996	point					Peru
+togui;boyaca;colombia	5.937510000000032	-73.51324999999997	point					Colombia
+timbio;cauca;colombia	2.3518400000000383	-76.68160999999998	point					Colombia
+chorrillos;lima;peru	-12.191959999999938	-77.00895999999995	point					Peru
+cienaga;magdalena;colombia	11.005420000000072	-74.24637999999999	point					Colombia
+casma;casma;peru	-9.474459999999965	-78.29954999999995	point					Peru
+zona bananera;magdalena;colombia	10.750680000000045	-74.15597999999994	point					Colombia
+la virginia;risaralda;colombia	4.901540000000068	-75.87957999999998	point					Colombia
+cartago;valle del cauca;colombia	4.751330000000053	-75.91324999999995	point					Colombia
+copacabana;antioquia;colombia	6.3464100000000485	-75.50799999999998	point					Colombia
+sonson;antioquia;colombia	5.718020000000024	-75.30886999999996	point					Colombia
+bellavista;callao;peru	-12.066669999999931	-77.13332999999994	point					Peru
+pisco;pisco;peru	-13.711139999999943	-76.20921999999996	point					Peru
+puente piedra;lima;peru	-11.838299999999947	-77.09862999999996	point					Peru
+puerto tejada;cauca;colombia	3.230090000000075	-76.41597999999993	point					Colombia
+rimac;lima;peru	-12.02171999999996	-77.03316999999998	point					Peru
+san martin de porres;lima;peru	-12.010319999999979	-77.08538999999996	point					Peru
+restrepo;meta;colombia	4.260370000000023	-73.56543999999997	point					Colombia
+jesus maria;lima;peru	-12.078939999999932	-77.04687999999999	point					Peru
+tumbes;tumbes;peru	-3.555559999999957	-80.42921999999999	point					Peru
+miraflores;lima;peru	-12.110209999999938	-77.03653999999995	point					Peru
+leticia;amazonas;colombia	-4.208899999999971	-69.93810999999994	point					Colombia
+amaga;antioquia;colombia	6.039670000000058	-75.70291999999995	point					Colombia
+bellavista;sullana;peru	-4.89017999999993	-80.67415999999997	point					Peru
+tenjo;cundinamarca;colombia	4.8721400000000585	-74.14467999999994	point					Colombia
+paicol;huila;colombia	2.449250000000063	-75.77412999999996	point					Colombia
+acevedo;huila;colombia	1.8050800000000322	-75.89055999999994	point					Colombia
+paramonga;barranca;peru	-10.676679999999976	-77.81619999999998	point					Peru
+san agustin;huila;colombia	1.8822300000000496	-76.27283999999997	point					Colombia
+garzon;huila;colombia	2.1973200000000475	-75.62804999999997	point					Colombia
+yanacancha;pasco;peru	-10.619399999999928	-76.18891999999994	point					Peru
+vijes;valle del cauca;colombia	3.6978200000000356	-76.43856999999997	point					Colombia
+lambayeque;lambayeque;peru	-6.698489999999936	-79.90373999999997	point					Peru
+florencia;caqueta;colombia	1.611720000000048	-75.61049999999994	point					Colombia
+cerete;cordoba;colombia	8.886540000000025	-75.79149999999998	point					Colombia
+tarapoto;san martin;peru	-6.4831799999999475	-76.36839999999995	point					Peru
+subtanjalla;ica;peru	-14.00762999999995	-75.76605999999998	point					Peru
+aquitania;boyaca;colombia	5.518420000000049	-72.88377999999994	point					Colombia
+arjona;bolivar;colombia	10.261490000000038	-75.34635999999995	point					Colombia
+ilo;ilo;peru	-17.642889999999966	-71.32964999999996	point					Peru
+cajabamba;cajabamba;peru	-7.62310999999994	-78.04594999999995	point					Peru
+aipe;huila;colombia	3.2224900000000503	-75.23738999999995	point					Colombia
+luyando;leoncio prado;peru	-9.186239999999941	-75.96257999999995	point					Peru
+lince;lima;peru	-12.08499999999998	-77.03683999999998	point					Peru
+pachacutec;ica;peru	-14.154749999999979	-75.69294999999994	point					Peru
+celendin;celendin;peru	-6.866839999999968	-78.14384999999999	point					Peru
+chincha alta;chincha;peru	-13.417989999999975	-76.13213999999994	point					Peru
+palpa;palpa;peru	-14.370939432999933	-75.17425125799997	point					Peru
+granada;meta;colombia	3.546880000000044	-73.70738999999998	point					Colombia
+llata;huamalies;peru	-9.550649999999962	-76.81706999999994	point					Peru
+chiclayo;chiclayo;peru	-6.776849999999968	-79.84422999999998	point					Peru
+calzada;moyobamba;peru	-6.0382699999999545	-77.07765999999998	point					Peru
+facatativa;cundinamarca;colombia	4.8093900000000644	-74.35443999999995	point					Colombia
+los olivos;lima;peru	-11.976259999999968	-77.07502999999997	point					Peru
+san juan de miraflores;lima;peru	-12.162489999999934	-76.97056999999995	point					Peru
+santiago de surco;lima;peru	-12.131019999999978	-76.98332999999997	point					Peru
+el agustino;lima;peru	-12.040009999999938	-76.99375999999995	point					Peru
+mancora;talara;peru	-4.106359999999938	-81.04747999999995	point					Peru
+morales;san martin;peru	-6.481389999999976	-76.38570999999996	point					Peru
+pativilca;barranca;peru	-10.694629999999961	-77.77517999999998	point					Peru
+sabanagrande;atlantico;colombia	10.788080000000036	-74.75774999999999	point					Colombia
+guaduas;cundinamarca;colombia	5.066850000000045	-74.59762999999998	point					Colombia
+acacias;meta;colombia	3.9911600000000362	-73.76387999999997	point					Colombia
+laredo;trujillo;peru	-8.086379999999963	-78.95869999999996	point					Peru
+sibate;cundinamarca;colombia	4.489150000000052	-74.25995999999998	point					Colombia
+piedecuesta;santander;colombia	6.98905000000002	-73.04360999999994	point					Colombia
+santa rosa;bolivar;colombia	10.445440000000076	-75.36947999999995	point					Colombia
+callao;callao;peru	-12.00073999999995	-77.11823999999996	point					Peru
+huarmey;huarmey;peru	-10.056179999999927	-78.15808999999996	point					Peru
+san diego;cesar;colombia	10.33391000000006	-73.17940999999996	point					Colombia
+pacora;lambayeque;peru	-6.42841999999996	-79.84014999999994	point					Peru
+huepetuhe;manu;peru	-12.99213999999995	-70.52633999999995	point					Peru
+tambo grande;piura;peru	-4.929149999999936	-80.34286999999995	point					Peru
+cerro colorado;arequipa;peru	-16.314869999999928	-71.58235999999994	point					Peru
+bosconia;cesar;colombia	9.974090000000047	-73.88698999999997	point					Colombia
+timana;huila;colombia	1.973540000000071	-75.93205999999998	point					Colombia
+juliaca;san roman;peru	-15.485349999999926	-70.13043999999996	point					Peru
+cuaspud;narino;colombia	0.8629000000000246	-77.72747999999996	point					Colombia
+san luis;lima;peru	-12.072729999999979	-76.99569999999994	point					Peru
+la paz;cesar;colombia	10.390590000000032	-73.16940999999997	point					Colombia
+villa maria del triunfo;lima;peru	-12.168149999999969	-76.92162999999994	point					Peru
+riohacha;la guajira;colombia	11.544900000000041	-72.90634999999997	point					Colombia
+san isidro;lima;peru	-12.116669999999942	-77.04999999999995	point					Peru
+agustin codazzi;cesar;colombia	10.036200000000065	-73.23651999999998	point					Colombia
+conila;luya;peru	-6.126571428999966	-78.19167133699995	point					Peru
+huanuco;huanuco;peru	-9.939389999999946	-76.24967999999996	point					Peru
+el tambo;cauca;colombia	2.4503100000000586	-76.80930999999998	point					Colombia
+chimbote;santa;peru	-9.073709999999949	-78.57711999999998	point					Peru
+cieneguilla;lima;peru	-12.076759999999979	-76.76409999999998	point					Peru
+cogua;cundinamarca;colombia	5.060550000000035	-73.97928999999993	point					Colombia
+jamalca;utcubamba;peru	-5.889509999999973	-78.25382999999994	point					Peru
+manati;atlantico;colombia	10.445520000000045	-74.95929999999998	point					Colombia
+toledo;norte de santander;colombia	7.310170000000028	-72.48359999999997	point					Colombia
+magdalena del mar;lima;peru	-12.094829999999945	-77.06767999999994	point					Peru
+el colegio;cundinamarca;colombia	4.58086000000003	-74.44327999999996	point					Colombia
+tambopata;tambopata;peru	-12.591179999999952	-69.22294999999997	point					Peru
+lurigancho;lima;peru	-11.957049999999981	-76.73392999999999	point					Peru
+lorica;cordoba;colombia	9.243250000000046	-75.80540999999994	point					Colombia
+chaclacayo;lima;peru	-11.983179999999948	-76.77359999999999	point					Peru
+belen;narino;colombia	1.5956600000000662	-77.01536999999996	point					Colombia
+ferrenafe;ferrenafe;peru	-6.631669999999929	-79.78961999999996	point					Peru
+ocana;norte de santander;colombia	8.241960000000063	-73.35467999999997	point					Colombia
+abancay;abancay;peru	-13.634709999999927	-72.88431999999995	point					Peru
+aguachica;cesar;colombia	8.311010000000067	-73.62340999999998	point					Colombia
+juanjui;mariscal caceres;peru	-7.180939999999964	-76.73030999999997	point					Peru
+tuquerres;narino;colombia	1.0863800000000197	-77.61806999999999	point					Colombia
+carmen de la legua-reynoso;callao;peru	-12.041749999999979	-77.09081999999995	point					Peru
+ancon;lima;peru	-11.74160999999998	-77.13845999999995	point					Peru
+sogamoso;boyaca;colombia	5.714180000000056	-72.92856999999998	point					Colombia
+san juan de arama;meta;colombia	3.373610000000042	-73.87570999999997	point					Colombia
+paz de ariporo;casanare;colombia	5.880660000000034	-71.89284999999995	point					Colombia
+la plata;huila;colombia	2.389590000000055	-75.89107999999999	point					Colombia
+caloto;cauca;colombia	3.0354200000000446	-76.40789999999998	point					Colombia
+samana;caldas;colombia	5.413130000000024	-74.99227999999994	point					Colombia
+motupe;lambayeque;peru	-6.15217999999993	-79.71466999999996	point					Peru
+parinas;talara;peru	-4.580599999999947	-81.26845999999995	point					Peru
+sitacocha;cajabamba;peru	-7.507329999999968	-77.96868999999998	point					Peru
+albania;la guajira;colombia	11.163820000000044	-72.59124999999995	point					Colombia
+maicao;la guajira;colombia	11.38083000000006	-72.23830999999996	point					Colombia
+algeciras;huila;colombia	2.5226600000000303	-75.31629999999996	point					Colombia
+risaralda;caldas;colombia	5.164790000000039	-75.76682999999997	point					Colombia
+caldas;boyaca;colombia	5.55391000000003	-73.86528999999996	point					Colombia
+chiquinquira;boyaca;colombia	5.616590000000031	-73.81649999999996	point					Colombia
+salitral;sullana;peru	-4.84681999999998	-80.67394999999993	point					Peru
+huaraz;huaraz;peru	-9.527799999999957	-77.53270999999995	point					Peru
+sabanalarga;atlantico;colombia	10.630950000000041	-74.92104999999998	point					Colombia
+pacaipampa;ayabaca;peru	-4.996209999999962	-79.66530999999998	point					Peru
+parcona;ica;peru	-14.052949999999953	-75.70731999999998	point					Peru
+chulucanas;morropon;peru	-5.094739999999945	-80.16566999999998	point					Peru
+canalete;cordoba;colombia	8.786090000000058	-76.24251999999996	point					Colombia
+villa de leyva;boyaca;colombia	5.633450000000039	-73.52396999999996	point					Colombia
+duitama;boyaca;colombia	5.837600000000066	-73.02242999999999	point					Colombia
+talavera;andahuaylas;peru	-13.653329999999926	-73.42884999999995	point					Peru
+arequipa;arequipa;peru	-16.40071999999998	-71.53645999999998	point					Peru
+la victoria;lima;peru	-12.075329999999951	-77.01582999999994	point					Peru
+cubara;boyaca;colombia	7.00111000000004	-72.10885999999994	point					Colombia
+la florida;narino;colombia	1.298970000000054	-77.40590999999995	point					Colombia
+guachucal;narino;colombia	0.9586900000000469	-77.73394999999994	point					Colombia
+el banco;magdalena;colombia	9.00314000000003	-73.97377999999998	point					Colombia
+ancuya;narino;colombia	1.2626300000000583	-77.51393999999993	point					Colombia
+hualmay;huaura;peru	-11.099319999999977	-77.60652999999996	point					Peru
+sayan;huaura;peru	-11.108149999999966	-77.35540999999995	point					Peru
+morrope;lambayeque;peru	-6.511369999999943	-79.95993999999996	point					Peru
+chepen;chepen;peru	-7.228419999999971	-79.42698999999999	point					Peru
+union panamericana;choco;colombia	5.281430000000057	-76.63345999999996	point					Colombia
+cacota;norte de santander;colombia	7.268610000000024	-72.64161999999999	point					Colombia
+tibu;norte de santander;colombia	8.637200000000064	-72.73334999999997	point					Colombia
+marmato;caldas;colombia	5.474900000000048	-75.59925999999996	point					Colombia
+marquetalia;caldas;colombia	5.2966500000000565	-75.05355999999995	point					Colombia
+puebloviejo;magdalena;colombia	10.993660000000034	-74.28227999999996	point					Colombia
+sanagoran;sanchez carrion;peru	-7.80105999999995	-78.21527999999995	point					Peru
+nuevo chimbote;santa;peru	-9.118749999999977	-78.54176999999999	point					Peru
+san vicente de canete;canete;peru	-13.075749999999971	-76.38040999999998	point					Peru
+brena;lima;peru	-12.059219999999982	-77.05186999999995	point					Peru
+la jagua de ibirico;cesar;colombia	9.561460000000068	-73.33319999999998	point					Colombia
+chiriguana;cesar;colombia	9.36193000000003	-73.60228999999998	point					Colombia
+galapa;atlantico;colombia	10.900160000000028	-74.88298999999995	point					Colombia
+palmar de varela;atlantico;colombia	10.740480000000048	-74.75419999999997	point					Colombia
+lurin;lima;peru	-12.286739999999952	-76.83025999999995	point					Peru
+cusco;cusco;peru	-13.516429999999957	-71.97851999999995	point					Peru
+huaura;huaura;peru	-11.070209999999975	-77.60010999999997	point					Peru
+salas;lambayeque;peru	-6.273499999999956	-79.60403999999994	point					Peru
+distraccion;la guajira;colombia	10.894940000000076	-72.88491999999997	point					Colombia
+santo tomas;atlantico;colombia	10.757160000000056	-74.75451999999996	point					Colombia
+chipaque;cundinamarca;colombia	4.4423700000000395	-74.04408999999998	point					Colombia
+ayacucho;huamanga;peru	-13.160199999999975	-74.22510999999997	point					Peru
+turbana;bolivar;colombia	10.273420000000044	-75.44299999999998	point					Colombia
+chaupimarca;pasco;peru	-10.433329999999955	-76.53332999999998	point					Peru
+coracora;parinacochas;peru	-15.016429999999957	-73.78052999999994	point					Peru
+la molina;lima;peru	-12.089969999999937	-76.92358999999993	point					Peru
+turmeque;boyaca;colombia	5.324290000000076	-73.49031999999994	point					Colombia
+tocancipa;cundinamarca;colombia	4.96470000000005	-73.91221999999993	point					Colombia
+nazca;nazca;peru	-14.828519999999969	-74.94228999999996	point					Peru
+piendamo;cauca;colombia	2.63969000000003	-76.52889999999996	point					Colombia
+contadero;narino;colombia	0.909370000000024	-77.54821999999996	point					Colombia
+la tebaida;quindio;colombia	4.453010000000063	-75.78883999999994	point					Colombia
+monsefu;chiclayo;peru	-6.871639999999957	-79.86833999999999	point					Peru
+maria la baja;bolivar;colombia	9.982860000000073	-75.30102999999997	point					Colombia
+restrepo;valle del cauca;colombia	3.8222600000000284	-76.52221999999995	point					Colombia
+rioja;rioja;peru	-6.004849999999976	-77.25565999999998	point					Peru
+zarumilla;zarumilla;peru	-3.6545029789999717	-80.25508096399994	point					Peru
+san juan bautista;maynas;peru	-3.824289999999962	-73.33285999999998	point					Peru
+mala;canete;peru	-12.655659999999955	-76.62968999999998	point					Peru
+las lomas;piura;peru	-4.655839999999955	-80.24085999999994	point					Peru
+el carmen de viboral;antioquia;colombia	6.080850000000055	-75.33462999999995	point					Colombia
+amotape;paita;peru	-4.861319999999978	-81.01277999999996	point					Peru
+polonuevo;atlantico;colombia	10.777640000000076	-74.85336999999998	point					Colombia
+santa anita;lima;peru	-12.04302999999993	-76.96245999999996	point					Peru
+veintiseis de octubre;piura;peru	-5.179459999999949	-80.67818999999997	point					Peru
+candelaria;atlantico;colombia	10.460150000000056	-74.87923999999998	point					Colombia
+moyobamba;moyobamba;peru	-6.032709999999952	-76.97229999999996	point					Peru
+chivay;caylloma;peru	-15.644979999999975	-71.60392999999993	point					Peru
+montenegro;quindio;colombia	4.566410000000076	-75.75060999999994	point					Colombia
+paipa;boyaca;colombia	5.780910000000063	-73.11766999999998	point					Colombia
+une;cundinamarca;colombia	4.403050000000064	-74.02521999999993	point					Colombia
+fomeque;cundinamarca;colombia	4.485910000000047	-73.89351999999997	point					Colombia
+mochumi;lambayeque;peru	-6.548049999999932	-79.86393999999996	point					Peru
+surquillo;lima;peru	-12.115329999999972	-77.01010999999994	point					Peru
+miraflores;arequipa;peru	-16.376049999999964	-71.49302999999998	point					Peru
+andres avelino caceres d;huamanga;peru	-13.158061526083026	-74.22221282950872	point					Peru
+viru;viru;peru	-8.427539999999965	-78.77706999999998	point					Peru
+la esperanza;trujillo;peru	-8.062749999999937	-79.05696999999998	point					Peru
+magangue;bolivar;colombia	9.245360000000062	-74.75815999999998	point					Colombia
+silvania;cundinamarca;colombia	4.4033900000000585	-74.38388999999995	point					Colombia
+los palmitos;sucre;colombia	9.380960000000073	-75.27075999999994	point					Colombia
+montelibano;cordoba;colombia	7.977800000000059	-75.41865999999999	point					Colombia
+ambo;ambo;peru	-10.228501282999957	-76.23354722799996	point					Peru
+villanueva;santander;colombia	6.671230000000037	-73.17459999999994	point					Colombia
+riosucio;caldas;colombia	5.4214900000000625	-75.70308999999997	point					Colombia
+andalucia;valle del cauca;colombia	4.173590000000047	-76.16475999999994	point					Colombia
+los patios;norte de santander;colombia	7.8342700000000605	-72.50638999999995	point					Colombia
+potosi;narino;colombia	0.807200000000023	-77.57233999999994	point					Colombia
+gachancipa;cundinamarca;colombia	4.992600000000039	-73.87127999999996	point					Colombia
+puerto leguizamo;putumayo;colombia	-0.19400999999993473	-74.78138999999999	point					Colombia
+iquitos;maynas;peru	-3.731649999999945	-73.24077999999997	point					Peru
+villa rica;oxapampa;peru	-10.517789999999934	-75.08740999999998	point					Peru
+huariaca;pasco;peru	-10.397629999999936	-76.20799999999997	point					Peru
+oporapa;huila;colombia	2.0270700000000375	-75.99288999999999	point					Colombia
+san juan del cesar;la guajira;colombia	10.773780000000045	-73.00110999999998	point					Colombia
+moniquira;boyaca;colombia	5.887580000000071	-73.57679999999993	point					Colombia
+pamplona;norte de santander;colombia	7.3770900000000665	-72.64723999999995	point					Colombia
+rovira;tolima;colombia	4.238680000000045	-75.23962999999998	point					Colombia
+san luis de since;sucre;colombia	9.245070000000055	-75.14788999999996	point					Colombia
+independencia;pisco;peru	-13.692829999999958	-76.02667999999994	point					Peru
+fonseca;la guajira;colombia	10.88695000000007	-72.84611999999998	point					Colombia
+santa rosa de viterbo;boyaca;colombia	5.875140000000044	-72.98301999999995	point					Colombia
+coronel gregorio albarracin;tacna;peru	-18.107669999999928	-70.24094999999994	point					Peru
+villanueva;bolivar;colombia	10.444720000000075	-75.27256999999997	point					Colombia
+filandia;quindio;colombia	4.674650000000042	-75.65887999999995	point					Colombia
+cordoba;quindio;colombia	4.390170000000069	-75.68599999999998	point					Colombia
+muzo;boyaca;colombia	5.533980000000042	-74.10313999999994	point					Colombia
+cocorna;antioquia;colombia	6.057880000000068	-75.18642999999997	point					Colombia
+dagua;valle del cauca;colombia	3.6582500000000664	-76.69168999999994	point					Colombia
+chachapoyas;chachapoyas;peru	-6.228949999999941	-77.87236999999999	point					Peru
+socabaya;arequipa;peru	-16.466569999999933	-71.53869999999995	point					Peru
+patapo;chiclayo;peru	-6.736419999999953	-79.63530999999995	point					Peru
+independencia;huaraz;peru	-9.517699999999934	-77.52955999999995	point					Peru
+la tola;narino;colombia	2.3996100000000524	-78.18971999999997	point					Colombia
+tinjaca;boyaca;colombia	5.579980000000035	-73.64743999999996	point					Colombia
+sitionuevo;magdalena;colombia	10.776470000000074	-74.72036999999995	point					Colombia
+puerto guzman;putumayo;colombia	0.9629200000000537	-76.40772999999996	point					Colombia
+providencia;archipielago de san andres providencia y santa catalina;colombia	13.352960000000053	-81.37040999999994	point					Colombia
+planadas;tolima;colombia	3.1962100000000646	-75.64500999999996	point					Colombia
+arauca;arauca;colombia	7.086930000000052	-70.75868999999994	point					Colombia
+aguadas;caldas;colombia	5.612170000000049	-75.45651999999995	point					Colombia
+ituango;antioquia;colombia	7.171140000000037	-75.76352999999995	point					Colombia
+pueblo libre;lima;peru	-12.076529999999934	-77.06734999999998	point					Peru
+cerro azul;canete;peru	-13.02425999999997	-76.47902999999997	point					Peru
+medio baudo;choco;colombia	5.192190000000039	-76.95108999999997	point					Colombia
+el zulia;norte de santander;colombia	7.938220000000058	-72.60512999999997	point					Colombia
+mitu;vaupes;colombia	1.2587100000000646	-70.23695999999995	point					Colombia
+el reten;magdalena;colombia	10.610610000000065	-74.26805999999993	point					Colombia
+villanueva;casanare;colombia	4.609850000000051	-72.92752999999993	point					Colombia
+miraflores;boyaca;colombia	5.196190000000058	-73.14517999999998	point					Colombia
+garagoa;boyaca;colombia	5.0832600000000525	-73.36420999999996	point					Colombia
+viracacha;boyaca;colombia	5.4353700000000345	-73.29621999999995	point					Colombia
+tunja;boyaca;colombia	5.534420000000068	-73.36149999999998	point					Colombia
+quimbaya;quindio;colombia	4.623490000000061	-75.76364999999998	point					Colombia
+barranca;barranca;peru	-10.753309999999942	-77.75920999999994	point					Peru
+paita;paita;peru	-5.097899999999925	-81.10150999999996	point					Peru
+cayma;arequipa;peru	-16.238719999999944	-71.46754999999996	point					Peru
+tiabaya;arequipa;peru	-16.449809999999957	-71.59120999999993	point					Peru
+buenos aires;cauca;colombia	3.0163100000000327	-76.64235999999994	point					Colombia
+el bagre;antioquia;colombia	7.599860000000035	-74.81280999999996	point					Colombia
+puerto gaitan;meta;colombia	4.312610000000063	-72.08190999999994	point					Colombia
+sahagun;cordoba;colombia	8.948500000000024	-75.44509999999997	point					Colombia
+santa catalina;bolivar;colombia	10.605330000000038	-75.28843999999998	point					Colombia
+girardot;cundinamarca;colombia	4.296790000000044	-74.80550999999997	point					Colombia
+santa lucia;atlantico;colombia	10.326290000000029	-74.96201999999994	point					Colombia
+ponedera;atlantico;colombia	10.642000000000053	-74.75083999999998	point					Colombia
+supe;barranca;peru	-10.799829999999929	-77.71389999999997	point					Peru
+tacna;tacna;peru	-18.019939999999963	-70.26159999999999	point					Peru
+corrales;tumbes;peru	-3.610089999999957	-80.47418999999996	point					Peru
+pomahuaca;jaen;peru	-5.946049999999957	-79.24294999999995	point					Peru
+totoro;cauca;colombia	2.5117000000000758	-76.40210999999994	point					Colombia
+dibulla;la guajira;colombia	11.272270000000049	-73.30794999999995	point					Colombia
+la cruz;narino;colombia	1.6001100000000292	-76.97012999999998	point					Colombia
+puerto asis;putumayo;colombia	0.5031700000000683	-76.49945999999994	point					Colombia
+turbo;antioquia;colombia	8.09295000000003	-76.72892999999993	point					Colombia
+saladoblanco;huila;colombia	1.9919800000000691	-76.04598999999996	point					Colombia
+aracataca;magdalena;colombia	10.589860000000044	-74.17722999999995	point					Colombia
+fundacion;magdalena;colombia	10.517660000000035	-74.19622999999996	point					Colombia
+san luis;tolima;colombia	4.132930000000044	-75.09459999999996	point					Colombia
+bernal;sechura;peru	-5.442309999999964	-80.73676999999998	point					Peru
+mosquera;narino;colombia	2.5085300000000643	-78.45111999999995	point					Colombia
+caucasia;antioquia;colombia	7.988180000000057	-75.19782999999995	point					Colombia
+tabio;cundinamarca;colombia	4.917700000000025	-74.09675999999996	point					Colombia
+sutamarchan;boyaca;colombia	5.620210000000043	-73.62009999999998	point					Colombia
+manzanares;caldas;colombia	5.253700000000038	-75.15323999999998	point					Colombia
+vegueta;huaura;peru	-11.01971999999995	-77.63649999999996	point					Peru
+manaure;la guajira;colombia	11.774360000000058	-72.44247999999999	point					Colombia
+camana;camana;peru	-16.40293820499994	-72.80467635299993	point					Peru
+pisuquia;luya;peru	-6.474523660999978	-78.08598868599995	point					Peru
+tipacoque;boyaca;colombia	6.421170000000075	-72.69200999999998	point					Colombia
+combita;boyaca;colombia	5.633760000000052	-73.32394999999997	point					Colombia
+samaca;boyaca;colombia	5.494120000000066	-73.48435999999998	point					Colombia
+campoalegre;huila;colombia	2.6842600000000516	-75.32572999999996	point					Colombia
+san carlos de guaroa;meta;colombia	3.7115700000000516	-73.24270999999999	point					Colombia
+santiago;cusco;peru	-13.558559999999943	-71.99243999999999	point					Peru
+huanchaco;trujillo;peru	-8.081579999999974	-79.11691999999994	point					Peru
+san francisco;cundinamarca;colombia	4.974230000000034	-74.28888999999998	point					Colombia
+nilo;cundinamarca;colombia	4.30678000000006	-74.61999999999995	point					Colombia
+puerto lopez;meta;colombia	4.086480000000051	-72.95977999999997	point					Colombia
+juan de acosta;atlantico;colombia	10.829630000000066	-75.03403999999995	point					Colombia
+tocache;tocache;peru	-8.186559999999929	-76.51848999999999	point					Peru
+la calera;cundinamarca;colombia	4.721750000000043	-73.96788999999995	point					Colombia
+puerto narino;amazonas;colombia	-3.769959999999969	-70.38706999999994	point					Colombia
+santiago;ica;peru	-14.18417999999997	-75.71459999999996	point					Peru
+bagua;bagua;peru	-5.079476365999938	-78.40118286299997	point					Peru
+flandes;tolima;colombia	4.282190000000071	-74.81476999999995	point					Colombia
+socorro;santander;colombia	6.469220000000064	-73.26063999999997	point					Colombia
+manantay;coronel portillo;peru	-8.409209999999973	-74.55571999999995	point					Peru
+ventaquemada;boyaca;colombia	5.3665600000000495	-73.52166999999997	point					Colombia
+lancones;sullana;peru	-4.27926999999994	-80.46293999999995	point					Peru
+tado;choco;colombia	5.263860000000022	-76.56154999999995	point					Colombia
+istmina;choco;colombia	5.15211000000005	-76.68577999999997	point					Colombia
+libano;tolima;colombia	4.92103000000003	-75.06533999999994	point					Colombia
+paya;boyaca;colombia	5.624810000000025	-72.42355999999995	point					Colombia
+bahia solano;choco;colombia	6.224810000000048	-77.40385999999995	point					Colombia
+luruaco;atlantico;colombia	10.61053000000004	-75.14359999999994	point					Colombia
+guadalupito;viru;peru	-8.697359999999946	-78.63799999999998	point					Peru
+pasca;cundinamarca;colombia	4.308940000000064	-74.30263999999994	point					Colombia
+chacas;asuncion;peru	-9.162439999999947	-77.36609999999996	point					Peru
+querecotillo;sullana;peru	-4.839839999999981	-80.65015999999997	point					Peru
+cucaita;boyaca;colombia	5.542430000000024	-73.45295999999996	point					Colombia
+morroa;sucre;colombia	9.335300000000075	-75.30538999999999	point					Colombia
+piedras;tolima;colombia	4.543840000000046	-74.87810999999994	point					Colombia
+clemencia;bolivar;colombia	10.567450000000065	-75.32686999999999	point					Colombia
+isnos;huila;colombia	1.9317400000000475	-76.21605999999997	point					Colombia
+pradera;valle del cauca;colombia	3.4194100000000276	-76.24211999999994	point					Colombia
+la union;valle del cauca;colombia	4.534940000000063	-76.10341999999997	point					Colombia
+chinu;cordoba;colombia	9.10790000000003	-75.39746999999994	point					Colombia
+marinilla;antioquia;colombia	6.173880000000054	-75.33438999999998	point					Colombia
+usiacuri;atlantico;colombia	10.743630000000053	-74.97679999999997	point					Colombia
+pomacanchi;acomayo;peru	-13.996739999999932	-71.56320999999997	point					Peru
+san miguel de sema;boyaca;colombia	5.5184300000000235	-73.72242999999997	point					Colombia
+santander de quilichao;cauca;colombia	3.011120000000062	-76.48438999999996	point					Colombia
+mallama;narino;colombia	1.1405700000000252	-77.86410999999998	point					Colombia
+colan;paita;peru	-5.006439999999941	-81.06544999999994	point					Peru
+luya;luya;peru	-6.322694850999937	-78.07791882899994	point					Peru
+honda;tolima;colombia	5.207560000000058	-74.73684999999995	point					Colombia
+campo de la cruz;atlantico;colombia	10.379750000000058	-74.88057999999995	point					Colombia
+santa ana;la convencion;peru	-12.866529999999955	-72.69355999999993	point					Peru
+timbiqui;cauca;colombia	2.774970000000053	-77.66504999999995	point					Colombia
+yauyos;yauyos;peru	-12.515182688999971	-75.90230032299996	point					Peru
+putumayo;putumayo;peru	-1.788319999999942	-73.41232999999994	point					Peru
+concepcion;concepcion;peru	-11.765360955999938	-75.12968055899995	point					Peru
+chiguirip;chota;peru	-6.408229999999946	-78.71790999999996	point					Peru
+ocumal;luya;peru	-6.345154334999961	-78.16386742399999	point					Peru
+punchana;maynas;peru	-3.7127699999999777	-73.24640999999997	point					Peru
+tubara;atlantico;colombia	10.875710000000026	-74.97838999999993	point					Colombia
+yanahuara;arequipa;peru	-16.405969999999968	-71.56528999999995	point					Peru
+bojaya;choco;colombia	6.558900000000051	-76.88446999999996	point					Colombia
+guateque;boyaca;colombia	5.007010000000037	-73.47310999999996	point					Colombia
+pachacamac;lima;peru	-12.146509999999978	-76.81797999999998	point					Peru
+becerril;cesar;colombia	9.702930000000038	-73.27863999999994	point					Colombia
+pucusana;lima;peru	-12.484189999999955	-76.79596999999995	point					Peru
+tabalosos;lamas;peru	-6.33099999999996	-76.66302999999994	point					Peru
+guamo;tolima;colombia	4.030040000000042	-74.96871999999996	point					Colombia
+cabuyaro;meta;colombia	4.287210000000073	-72.79203999999999	point					Colombia
+coper;boyaca;colombia	5.474540000000047	-74.04472999999996	point					Colombia
+caqueza;cundinamarca;colombia	4.405320000000074	-73.94657999999998	point					Colombia
+choconta;cundinamarca;colombia	5.147220000000061	-73.68668999999994	point					Colombia
+junin;cundinamarca;colombia	4.790870000000041	-73.66238999999996	point					Colombia
+la mesa;cundinamarca;colombia	4.629320000000064	-74.46624999999995	point					Colombia
+san antonio del tequendama;cundinamarca;colombia	4.616170000000068	-74.35215999999997	point					Colombia
+lenguazaque;cundinamarca;colombia	5.306560000000047	-73.71172999999999	point					Colombia
+chao;viru;peru	-8.517019999999945	-78.68506999999994	point					Peru
+moquegua;mariscal nieto;peru	-17.189329999999927	-70.93181999999996	point					Peru
+pocollay;tacna;peru	-17.997959999999978	-70.22773999999998	point					Peru
+tauramena;casanare;colombia	5.017770000000041	-72.75026999999994	point					Colombia
+sesquile;cundinamarca;colombia	5.044800000000066	-73.79730999999998	point					Colombia
+valle del guamuez;putumayo;colombia	0.42303000000003976	-76.90540999999996	point					Colombia
+mocoa;putumayo;colombia	1.1511300000000233	-76.64841999999999	point					Colombia
+orito;putumayo;colombia	0.6676500000000374	-76.87098999999995	point					Colombia
+el copey;cesar;colombia	10.152400000000057	-73.95467999999994	point					Colombia
+uraca;castilla;peru	-16.182319999999947	-72.46662999999995	point					Peru
+magui;narino;colombia	1.7653000000000247	-78.18235999999996	point					Colombia
+olaya herrera;narino;colombia	2.3480800000000386	-78.32702999999998	point					Colombia
+san pablo;narino;colombia	1.669080000000065	-77.01108999999997	point					Colombia
+el pinon;magdalena;colombia	10.404440000000022	-74.82355999999999	point					Colombia
+mariano melgar;arequipa;peru	-16.387629999999945	-71.48035999999996	point					Peru
+sincelejo;sucre;colombia	9.299440000000061	-75.39464999999996	point					Colombia
+rio de oro;cesar;colombia	8.292800000000057	-73.38549999999998	point					Colombia
+chilca;canete;peru	-12.472059999999942	-76.74679999999995	point					Peru
+cienaga de oro;cordoba;colombia	8.871670000000051	-75.61899999999997	point					Colombia
+carepa;antioquia;colombia	7.7537300000000755	-76.65405999999996	point					Colombia
+querobamba;sucre;peru	-14.022659999999973	-73.84074999999996	point					Peru
+huancayo;huancayo;peru	-12.066669999999931	-75.23332999999997	point					Peru
+pauna;boyaca;colombia	5.655500000000075	-73.97980999999999	point					Colombia
+zipacon;cundinamarca;colombia	4.759140000000059	-74.38044999999994	point					Colombia
+la playa;norte de santander;colombia	8.211560000000077	-73.23853999999994	point					Colombia
+argelia;valle del cauca;colombia	4.726560000000063	-76.12176999999997	point					Colombia
+simon bolivar;pasco;peru	-10.672649999999976	-76.26950999999997	point					Peru
+gonzalez;cesar;colombia	8.391950000000065	-73.38117999999997	point					Colombia
+ayaviri;melgar;peru	-14.878199999999936	-70.59360999999996	point					Peru
+jose crespo y castillo;leoncio prado;peru	-9.056349999999952	-76.07630999999998	point					Peru
+perene;chanchamayo;peru	-10.921659999999974	-74.88017999999994	point					Peru
+piojo;atlantico;colombia	10.748070000000041	-75.10838999999999	point					Colombia
+san onofre;sucre;colombia	9.736980000000074	-75.52498999999995	point					Colombia
+corozal;sucre;colombia	9.319470000000024	-75.29289999999997	point					Colombia
+francisco pizarro;narino;colombia	2.0119900000000257	-78.64471999999995	point					Colombia
+yurimaguas;alto amazonas;peru	-5.894659999999931	-76.11572999999999	point					Peru
+ayabaca;ayabaca;peru	-4.639849999999967	-79.71518999999995	point					Peru
+circasia;quindio;colombia	4.620460000000037	-75.63322999999997	point					Colombia
+nuevo colon;boyaca;colombia	5.355130000000031	-73.45755999999994	point					Colombia
+caraz;huaylas;peru	-9.046539999999936	-77.80996999999996	point					Peru
+urubamba;urubamba;peru	-13.257359451999946	-72.28907038499995	point					Peru
+manta;cundinamarca;colombia	5.009270000000072	-73.54053999999996	point					Colombia
+anolaima;cundinamarca;colombia	4.7605100000000675	-74.46315999999996	point					Colombia
+la ceja;antioquia;colombia	6.029780000000073	-75.43017999999995	point					Colombia
+frontino;antioquia;colombia	6.7818600000000515	-76.12917999999996	point					Colombia
+jerico;antioquia;colombia	5.7927400000000375	-75.78638999999998	point					Colombia
+cajamarca;cajamarca;peru	-7.155299999999954	-78.52067999999997	point					Peru
+huanta;huanta;peru	-12.936519999999973	-74.25035999999994	point					Peru
+condoto;choco;colombia	5.088680000000068	-76.65246999999994	point					Colombia
+ocucaje;ica;peru	-14.34305999999998	-75.67713999999995	point					Peru
+certegui;choco;colombia	5.373730000000023	-76.61308999999994	point					Colombia
+ubaque;cundinamarca;colombia	4.48404000000005	-73.93401999999998	point					Colombia
+sunampe;chincha;peru	-13.427519999999959	-76.16395999999997	point					Peru
+belen de umbria;risaralda;colombia	5.202210000000036	-75.86728999999997	point					Colombia
+el carmen de bolivar;bolivar;colombia	9.717040000000054	-75.12079999999997	point					Colombia
+san juan nepomuceno;bolivar;colombia	9.953580000000045	-75.08366999999998	point					Colombia
+mompos;bolivar;colombia	9.235580000000027	-74.42604999999998	point					Colombia
+el penon;cundinamarca;colombia	5.248760000000061	-74.29010999999997	point					Colombia
+canta;canta;peru	-11.54092451699995	-76.71003542299997	point					Peru
+yolombo;antioquia;colombia	6.598960000000034	-75.01037999999994	point					Colombia
+inirida;guainia;colombia	3.8711900000000696	-67.92249999999996	point					Colombia
+venecia;cundinamarca;colombia	4.089710000000025	-74.47801999999996	point					Colombia
+puerto carreno;vichada;colombia	6.187730000000045	-67.48381999999998	point					Colombia
+buenavista;boyaca;colombia	5.511790000000076	-73.94186999999994	point					Colombia
+san juan bautista;huamanga;peru	-13.17545999999993	-74.21412999999995	point					Peru
+giraldo;antioquia;colombia	6.6806700000000205	-75.95341999999994	point					Colombia
+caldas;antioquia;colombia	6.092580000000055	-75.63688999999994	point					Colombia
+tena;cundinamarca;colombia	4.655970000000025	-74.38988999999998	point					Colombia
+agua de dios;cundinamarca;colombia	4.376920000000041	-74.66816999999998	point					Colombia
+pueblo bello;cesar;colombia	10.416980000000024	-73.58435999999995	point					Colombia
+rio grande;palpa;peru	-14.520869999999945	-75.20188999999993	point					Peru
+el alto;talara;peru	-4.300669999999968	-81.08055999999993	point					Peru
+hatonuevo;la guajira;colombia	11.069140000000061	-72.76091999999994	point					Colombia
+silvia;cauca;colombia	2.611190000000022	-76.38158999999996	point					Colombia
+rioquito;choco;colombia	5.519400000000076	-76.94925999999998	point					Colombia
+yacopi;cundinamarca;colombia	5.458210000000065	-74.33760999999998	point					Colombia
+cordoba;narino;colombia	0.8532700000000659	-77.51826999999997	point					Colombia
+yacuanquer;narino;colombia	1.1157100000000355	-77.40166999999997	point					Colombia
+barbacoas;narino;colombia	1.6729500000000712	-78.13856999999996	point					Colombia
+lopez de micay;cauca;colombia	3.050000000000068	-77.54999999999995	point					Colombia
+canasgordas;antioquia;colombia	6.750000000000057	-76.02468999999996	point					Colombia
+san sebastian de buenavista;magdalena;colombia	9.239370000000065	-74.35144999999994	point					Colombia
+san miguel;putumayo;colombia	0.34360000000003765	-76.91197999999997	point					Colombia
+el porvenir;trujillo;peru	-8.061639999999954	-78.99682999999999	point					Peru
+wanchaq;cusco;peru	-13.530149999999935	-71.95431999999994	point					Peru
+giron;santander;colombia	7.074680000000058	-73.17369999999994	point					Colombia
+gramalote;norte de santander;colombia	7.888600000000054	-72.79778999999996	point					Colombia
+valdivia;antioquia;colombia	7.16435000000007	-75.43853999999999	point					Colombia
+moche;trujillo;peru	-8.168109999999956	-79.01044999999993	point					Peru
+guaitarilla;narino;colombia	1.1295200000000705	-77.55092999999994	point					Colombia
+san bernardo;narino;colombia	1.5162800000000516	-77.04527999999993	point					Colombia
+narino;narino;colombia	1.5479780880000362	-77.85702620899997	point					Colombia
+aldana;narino;colombia	0.8827300000000378	-77.70030999999994	point					Colombia
+cumbitara;narino;colombia	1.6472500000000423	-77.57851999999997	point					Colombia
+pupiales;narino;colombia	0.870930000000044	-77.64039999999994	point					Colombia
+unguia;choco;colombia	8.042160000000024	-77.09251999999998	point					Colombia
+puerto escondido;cordoba;colombia	9.018150000000048	-76.26267999999999	point					Colombia
+guapota;santander;colombia	6.307250000000067	-73.32122999999996	point					Colombia
+el rosal;cundinamarca;colombia	4.852470000000039	-74.26152999999994	point					Colombia
+pomalca;chiclayo;peru	-6.76962999999995	-79.77488999999997	point					Peru
+barbosa;santander;colombia	5.930520000000058	-73.61605999999995	point					Colombia
+santa rosa del sur;bolivar;colombia	7.962440000000072	-74.05157999999994	point					Colombia
+el charco;narino;colombia	2.4771800000000326	-78.11099999999999	point					Colombia
+san sebastian de mariquita;tolima;colombia	5.192190000000039	-74.89150999999998	point					Colombia
+planeta rica;cordoba;colombia	8.408440000000041	-75.58417999999995	point					Colombia
+purisima de la concepcion;cordoba;colombia	9.237150000000042	-75.72429999999997	point					Colombia
+yunga;general sanchez cerro;peru	-16.172109999999975	-70.66687999999994	point					Peru
+cerro de san antonio;magdalena;colombia	10.32585000000006	-74.86932999999993	point					Colombia
+barrancas;la guajira;colombia	10.958870000000047	-72.79167999999999	point					Colombia
+patia;cauca;colombia	2.1254800000000387	-76.97585999999995	point					Colombia
+cabrera;cundinamarca;colombia	3.9850600000000327	-74.48431999999997	point					Colombia
+toca;boyaca;colombia	5.565000000000055	-73.18416999999994	point					Colombia
+san martin;cesar;colombia	8.002190000000041	-73.51163999999994	point					Colombia
+atico;caraveli;peru	-16.226159999999936	-73.61147999999997	point					Peru
+la llanada;narino;colombia	1.472840000000076	-77.57999999999998	point					Colombia
+san roque;antioquia;colombia	6.485310000000027	-75.01944999999995	point					Colombia
+chigorodo;antioquia;colombia	7.666270000000054	-76.68092999999999	point					Colombia
+macheta;cundinamarca;colombia	5.081290000000024	-73.60732999999993	point					Colombia
+mahates;bolivar;colombia	10.235590000000059	-75.19529999999997	point					Colombia
+villa rica;cauca;colombia	3.1748600000000238	-76.46129999999994	point					Colombia
+chuquibambilla;grau;peru	-14.009359999999958	-72.79725999999994	point					Peru
+cumaral;meta;colombia	4.271290000000022	-73.48728999999997	point					Colombia
+puerres;narino;colombia	0.8844300000000658	-77.50380999999999	point					Colombia
+ricaurte;narino;colombia	1.210360000000037	-77.99398999999994	point					Colombia
+el cairo;valle del cauca;colombia	4.760850000000062	-76.22066999999998	point					Colombia
+bellavista;bellavista;peru	-4.89017999999993	-80.67415999999997	point					Peru
+calamar;bolivar;colombia	10.254000000000076	-74.91445999999996	point					Colombia
+pangoa;satipo;peru	-11.43148999999994	-74.48758999999995	point					Peru
+convencion;norte de santander;colombia	8.468680000000063	-73.33749999999998	point					Colombia
+tamesis;antioquia;colombia	5.665810000000022	-75.71344999999997	point					Colombia
+firavitoba;boyaca;colombia	5.669490000000053	-72.99331999999998	point					Colombia
+obando;valle del cauca;colombia	4.576970000000074	-75.97366999999997	point					Colombia
+nauta;loreto;peru	-4.505709999999965	-73.58018999999996	point					Peru
+san juan de betulia;sucre;colombia	9.273640000000057	-75.24300999999997	point					Colombia
+caimito;sucre;colombia	8.790650000000028	-75.11687999999998	point					Colombia
+san marcos;sucre;colombia	8.663580000000024	-75.13153999999997	point					Colombia
+victor larco herrera;trujillo;peru	-8.139769999999942	-79.04557999999997	point					Peru
+apulo;cundinamarca;colombia	4.521850000000029	-74.59231999999997	point					Colombia
+buenavista;sucre;colombia	9.32036000000005	-74.97124999999994	point					Colombia
+imperial;canete;peru	-13.058929999999975	-76.35171999999994	point					Peru
+tame;arauca;colombia	6.46392000000003	-71.72769999999997	point					Colombia
+neira;caldas;colombia	5.166500000000042	-75.51954999999998	point					Colombia
+guachene;cauca;colombia	3.133030000000076	-76.39173999999997	point					Colombia
+buenavista;cordoba;colombia	8.222060000000056	-75.48245999999995	point					Colombia
+los cordobas;cordoba;colombia	8.89659000000006	-76.35378999999995	point					Colombia
+alban;cundinamarca;colombia	4.8790200000000254	-74.43744999999996	point					Colombia
+tocaima;cundinamarca;colombia	4.458550000000059	-74.63632999999999	point					Colombia
+arboleda;narino;colombia	1.5032000000000494	-77.13486999999998	point					Colombia
+san lorenzo;narino;colombia	1.5033100000000559	-77.21576999999996	point					Colombia
+uribia;la guajira;colombia	11.71604000000002	-72.26535999999999	point					Colombia
+puno;puno;peru	-15.835129999999936	-70.02233999999999	point					Peru
+suan;atlantico;colombia	10.334580000000074	-74.87998999999996	point					Colombia
+ayapel;cordoba;colombia	8.313400000000058	-75.14596999999998	point					Colombia
+illimo;lambayeque;peru	-6.4736599999999385	-79.85563999999994	point					Peru
+corrales;boyaca;colombia	5.829420000000027	-72.84462999999994	point					Colombia
+viota;cundinamarca;colombia	4.4391200000000595	-74.52185999999995	point					Colombia
+atrato;choco;colombia	5.532760000000053	-76.62726999999995	point					Colombia
+yaguara;huila;colombia	2.6639900000000694	-75.51892999999995	point					Colombia
+ansermanuevo;valle del cauca;colombia	4.795240000000035	-75.99400999999995	point					Colombia
+santa fe de antioquia;antioquia;colombia	6.5593600000000265	-75.82831999999996	point					Colombia
+cartagena del chaira;caqueta;colombia	1.3349700000000553	-74.84275999999994	point					Colombia
+nepena;santa;peru	-9.146399999999971	-78.28162999999995	point					Peru
+el paso;cesar;colombia	9.662400000000048	-73.74673999999999	point					Colombia
+santa ana;magdalena;colombia	9.322670000000073	-74.57092999999998	point					Colombia
+punta hermosa;lima;peru	-12.336559999999963	-76.82295999999997	point					Peru
+santiago de tolu;sucre;colombia	9.52815000000004	-75.58040999999997	point					Colombia
+nechi;antioquia;colombia	8.09573000000006	-74.77514999999994	point					Colombia
+lebrija;santander;colombia	7.113630000000057	-73.21819999999997	point					Colombia
+tuchin;cordoba;colombia	9.185650000000066	-75.55626999999998	point					Colombia
+el tambo;huancayo;peru	-11.998809999999935	-75.11761999999999	point					Peru
+paucara;acobamba;peru	-12.728329999999971	-74.66644999999994	point					Peru
+yunguyo;yunguyo;peru	-16.24554999999998	-69.09257999999994	point					Peru
+pichanaqui;chanchamayo;peru	-10.928279999999972	-74.87264999999996	point					Peru
+chanchamayo;chanchamayo;peru	-11.059889999999939	-75.33465999999999	point					Peru
+pisac;calca;peru	-13.421839999999975	-71.85150999999996	point					Peru
+chilca;huancayo;peru	-12.090509999999938	-75.19683999999995	point					Peru
+jayanca;lambayeque;peru	-6.388999999999953	-79.82045999999997	point					Peru
+chupaca;chupaca;peru	-12.062659999999937	-75.28811999999994	point					Peru
+lamay;calca;peru	-13.364289999999926	-71.92051999999995	point					Peru
+vista alegre;nazca;peru	-14.849099999999964	-74.94625999999994	point					Peru
+tucume;lambayeque;peru	-6.507739999999956	-79.85898999999995	point					Peru
+churcampa;churcampa;peru	-12.612812015999964	-74.48946368099996	point					Peru
+chicama;ascope;peru	-7.844679999999926	-79.14559999999994	point					Peru
+namballe;san ignacio;peru	-5.001769999999965	-79.08879999999994	point					Peru
+quilmana;canete;peru	-12.946769999999958	-76.38270999999997	point					Peru
+los organos;talara;peru	-4.177219999999977	-81.12678999999997	point					Peru
+haquira;cotabambas;peru	-14.212899999999934	-72.18955999999997	point					Peru
+saylla;cusco;peru	-13.556499999999971	-71.85493999999994	point					Peru
+surco;huarochiri;peru	-11.87740999999994	-76.43300999999997	point					Peru
+suyo;ayabaca;peru	-4.513489999999933	-80.00200999999998	point					Peru
+san jose;lambayeque;peru	-6.7677099999999655	-79.96801999999997	point					Peru
+sallique;jaen;peru	-5.661459999999977	-79.31897999999995	point					Peru
+pilcomayo;huancayo;peru	-12.052349999999933	-75.25282999999996	point					Peru
+salaverry;trujillo;peru	-8.216649999999959	-78.97721999999999	point					Peru
+carmen alto;huamanga;peru	-13.177399999999977	-74.22345999999999	point					Peru
+santa maria del mar;lima;peru	-12.405539999999974	-76.77514999999994	point					Peru
+jesus nazareno;huamanga;peru	-13.153349999999932	-74.21505999999994	point					Peru
+andaymarca;tayacaja;peru	-13.931109999999933	-75.34638999999999	point					Peru
+huarochiri;huarochiri;peru	-11.939513304999934	-76.43076907999995	point					Peru
+camporredondo;luya;peru	-6.190739999999948	-78.33124999999995	point					Peru
+huancabamba;oxapampa;peru	-10.400189999999952	-75.54056999999995	point					Peru
+florencia de mora;trujillo;peru	-8.081809999999962	-79.02201999999994	point					Peru
+pampas;tayacaja;peru	-12.39803999999998	-74.86718999999994	point					Peru
+bagua grande;utcubamba;peru	-5.7568299999999795	-78.44209999999998	point					Peru
+san luis;canete;peru	-13.052099999999939	-76.42981999999995	point					Peru
+majes;caylloma;peru	-16.335699999999974	-72.19147999999996	point					Peru
+bellavista de la union;sechura;peru	-5.424889999999948	-80.73982999999998	point					Peru
+azangaro;azangaro;peru	-14.91334999999998	-70.19842999999997	point					Peru
+samuel pastor;camana;peru	-16.59656999999993	-72.70135999999997	point					Peru
+aucallama;huaral;peru	-11.563259999999957	-77.17252999999994	point					Peru
+punta negra;lima;peru	-12.371049999999968	-76.78853999999995	point					Peru
+pacanga;chepen;peru	-7.171099999999967	-79.48562999999996	point					Peru
+bambamarca;hualgayoc;peru	-6.680949999999939	-78.52052999999995	point					Peru
+tate;ica;peru	-14.156949999999938	-75.70067999999998	point					Peru
+san jeronimo;cusco;peru	-13.554099999999949	-71.87326999999993	point					Peru
+santa;santa;peru	-8.968900720999955	-78.28819092499998	point					Peru
+lunahuana;canete;peru	-12.962969999999927	-76.14070999999996	point					Peru
+santa eulalia;huarochiri;peru	-11.913659999999936	-76.66762999999997	point					Peru
+san jose de quero;concepcion;peru	-12.030329999999935	-75.49917999999997	point					Peru
+santa rosa de sacco;yauli;peru	-11.505149999999958	-75.93393999999995	point					Peru
+mollendo;islay;peru	-17.018089999999972	-72.01344999999998	point					Peru
+jose luis bustamante y rivero;arequipa;peru	-16.427179999999964	-71.52406999999994	point					Peru
+matapalo;zarumilla;peru	-3.701629999999966	-80.23410999999999	point					Peru
+olmos;lambayeque;peru	-5.988079999999968	-79.74687999999998	point					Peru
+sachaca;arequipa;peru	-16.427959999999928	-71.56897999999995	point					Peru
+pucara;jaen;peru	-6.008479999999963	-79.15961999999996	point					Peru
+churubamba;huanuco;peru	-9.831299999999942	-76.09614999999997	point					Peru
+sechura;sechura;peru	-5.564899999999966	-80.81738999999999	point					Peru
+la oroya;yauli;peru	-11.517929999999978	-75.90023999999994	point					Peru
+chocope;ascope;peru	-7.790709999999933	-79.22147999999999	point					Peru
+ticlacayan;pasco;peru	-10.677379999999971	-76.08995999999996	point					Peru
+san ignacio;san ignacio;peru	-5.147459999999967	-79.00113999999996	point					Peru
+la joya;arequipa;peru	-16.696669999999926	-71.87251999999995	point					Peru
+vichayal;paita;peru	-4.85505999999998	-81.11850999999996	point					Peru
+nuevo imperial;canete;peru	-13.07565999999997	-76.31962999999996	point					Peru
+la perla;callao;peru	-12.071769999999958	-77.11783999999994	point					Peru
+chochope;lambayeque;peru	-6.1390199999999595	-79.65728999999999	point					Peru
+trujillo;valle del cauca;colombia	4.21198000000004	-76.31913999999995	point					Colombia
+retiro;antioquia;colombia	6.083330000000046	-75.49999999999994	point					Colombia
+jose leonardo ortiz;chiclayo;peru	-6.7454799999999295	-79.83863999999994	point					Peru
+calima;valle del cauca;colombia	3.9309800000000337	-76.48410999999999	point					Colombia
+papayal;zarumilla;peru	-3.5754099999999767	-80.32821999999999	point					Peru
+el dovio;valle del cauca;colombia	4.509290000000021	-76.23704999999995	point					Colombia
+santana;boyaca;colombia	6.0575300000000425	-73.48089999999996	point					Colombia
+montebello;antioquia;colombia	5.945590000000038	-75.52379999999994	point					Colombia
+santa rosa de osos;antioquia;colombia	6.647190000000023	-75.46024999999997	point					Colombia
+oicata;boyaca;colombia	5.594940000000065	-73.30833999999999	point					Colombia
+puerto santander;norte de santander;colombia	8.360960000000034	-72.40938999999997	point					Colombia
+ulloa;valle del cauca;colombia	4.7026200000000244	-75.73732999999999	point					Colombia
+pillco marca;huanuco;peru	-9.943209999999965	-76.25247999999993	point					Peru
+anserma;caldas;colombia	5.233070000000055	-75.78604999999999	point					Colombia
+donmatias;antioquia;colombia	6.48640000000006	-75.39432999999997	point					Colombia
+choachi;cundinamarca;colombia	4.528210000000058	-73.92336999999998	point					Colombia
+paruro;paruro;peru	-13.884635411999966	-71.91611397099996	point					Peru
+san juan de rioseco;cundinamarca;colombia	4.851110000000062	-74.12610999999998	point					Colombia
+angostura;antioquia;colombia	6.885470000000055	-75.33490999999998	point					Colombia
+tigre;loreto;peru	-2.4049399999999537	-75.83092999999997	point					Peru
+tambobamba;cotabambas;peru	-13.946899999999971	-72.17560999999995	point					Peru
+ongoy;chincheros;peru	-13.392129999999952	-73.67895999999996	point					Peru
+guadalupe;pacasmayo;peru	-7.244139999999959	-79.47114999999997	point					Peru
+tenza;boyaca;colombia	5.076690000000042	-73.42070999999999	point					Colombia
+santa sofia;boyaca;colombia	5.713420000000042	-73.60259999999994	point					Colombia
+la union;narino;colombia	1.60283000000004	-77.13116999999994	point					Colombia
+concepcion;santander;colombia	6.769200000000069	-72.69478999999995	point					Colombia
+curiti;santander;colombia	6.606390000000033	-73.07044999999994	point					Colombia
+socha;boyaca;colombia	5.997720000000072	-72.69158999999996	point					Colombia
+bugalagrande;valle del cauca;colombia	4.209880000000055	-76.15635999999995	point					Colombia
+el santuario;antioquia;colombia	6.138940000000048	-75.26515999999998	point					Colombia
+tierralta;cordoba;colombia	8.172620000000052	-76.05953999999997	point					Colombia
+indiana;maynas;peru	-3.5005799999999567	-73.04588999999999	point					Peru
+pilluana;picota;peru	-6.776219999999967	-76.28979999999996	point					Peru
+marcona;nazca;peru	-15.365219999999965	-75.16500999999994	point					Peru
+tingo de ponasa;picota;peru	-6.959899999999948	-76.25868999999994	point					Peru
+santiago de chuco;santiago de chuco;peru	-8.175397486999941	-78.13942173699996	point					Peru
+pueblo nuevo;chincha;peru	-13.400669999999934	-76.13557999999995	point					Peru
+san felipe;jaen;peru	-5.7451299999999605	-79.32784999999996	point					Peru
+contamana;ucayali;peru	-7.350869999999929	-75.00928999999996	point					Peru
+cocachacra;islay;peru	-16.93423999999993	-71.70719999999994	point					Peru
+zorritos;contralmirante villar;peru	-3.680539999999951	-80.68221999999997	point					Peru
+san andres;pisco;peru	-13.732319999999959	-76.22182999999995	point					Peru
+la victoria;chiclayo;peru	-6.795759999999973	-79.84882999999996	point					Peru
+huaso;julcan;peru	-8.202779999999962	-78.42266999999998	point					Peru
+pitipo;ferrenafe;peru	-6.564539999999965	-79.77969999999993	point					Peru
+chincha baja;chincha;peru	-13.459529999999972	-76.16361999999998	point					Peru
+grocio prado;chincha;peru	-13.40199999999993	-76.15811999999994	point					Peru
+samanco;santa;peru	-9.24810999999994	-78.44298999999995	point					Peru
+eten;chiclayo;peru	-6.908159999999953	-79.86644999999999	point					Peru
+santa rosa;chiclayo;peru	-6.884159999999952	-79.91780999999997	point					Peru
+padre abad;padre abad;peru	-9.036339999999939	-75.50968999999998	point					Peru
+mazan;maynas;peru	-3.5041099999999687	-73.08835999999997	point					Peru
+palca;tarma;peru	-11.355539999999962	-75.46680999999995	point					Peru
+la union;piura;peru	-5.396789999999953	-80.74060999999995	point					Peru
+picsi;chiclayo;peru	-6.716619999999978	-79.77129999999994	point					Peru
+tayabamba;pataz;peru	-8.276089999999954	-77.29741999999999	point					Peru
+santa cruz;santa cruz;peru	-6.683799459999932	-78.98272607999996	point					Peru
+cayalti;chiclayo;peru	-6.89077999999995	-79.56138999999996	point					Peru
+oyotun;chiclayo;peru	-6.845729999999946	-79.30028999999996	point					Peru
+recuay;recuay;peru	-9.951373131999958	-77.42592374699996	point					Peru
+barranca;datem del maranon;peru	-4.828069999999968	-76.55332999999996	point					Peru
+quinuabamba;pomabamba;peru	-8.696829999999977	-77.39992999999998	point					Peru
+fernando lores;maynas;peru	-4.000129999999956	-73.16199999999998	point					Peru
+belen;maynas;peru	-3.76535999999993	-73.26211999999998	point					Peru
+san pedro de coris;churcampa;peru	-12.579669999999965	-74.41279999999995	point					Peru
+coishco;santa;peru	-9.022519999999929	-78.61568999999997	point					Peru
+ricardo palma;huarochiri;peru	-11.91465999999997	-76.61481999999995	point					Peru
+san clemente;pisco;peru	-13.673329999999964	-76.15726999999998	point					Peru
+matucana;huarochiri;peru	-11.813669999999945	-76.35487999999998	point					Peru
+ramon castilla;mariscal ramon castilla;peru	-3.6911297579999314	-70.81626751299996	point					Peru
+ticrapo;castrovirreyna;peru	-13.387479999999982	-75.43490999999995	point					Peru
+yorongos;rioja;peru	-6.138729999999953	-77.14239999999995	point					Peru
+castrovirreyna;castrovirreyna;peru	-13.14517508299997	-75.40619085699996	point					Peru
+yura;arequipa;peru	-16.081159999999954	-71.59880999999996	point					Peru
+salas;ica;peru	-13.986579999999947	-75.77100999999999	point					Peru
+huayucachi;huancayo;peru	-12.127369999999928	-75.22034999999994	point					Peru
+pomabamba;pomabamba;peru	-8.72058629299994	-77.43591343899999	point					Peru
+vice;sechura;peru	-5.448059999999941	-80.80732999999998	point					Peru
+san juan de la virgen;tumbes;peru	-3.6474999999999795	-80.39187999999996	point					Peru
+puerto inca;puerto inca;peru	-9.36722259399994	-75.08972556499998	point					Peru
+chalhuanca;aymaraes;peru	-14.279839999999979	-73.22773999999998	point					Peru
+masisea;coronel portillo;peru	-8.60627999999997	-74.30386999999996	point					Peru
+miraflores;huamalies;peru	-9.494539999999972	-76.81864999999993	point					Peru
+santa cruz;huaylas;peru	-8.950909999999965	-77.81336999999996	point					Peru
+papaplaya;san martin;peru	-6.254489999999976	-75.78291999999993	point					Peru
+chavina;lucanas;peru	-14.992779999999982	-73.91766999999999	point					Peru
+alto saposoa;huallaga;peru	-6.765509999999949	-76.81478999999996	point					Peru
+piscoyacu;huallaga;peru	-6.9403599999999415	-76.78049999999996	point					Peru
+huertas;jauja;peru	-11.746419999999944	-75.45353999999998	point					Peru
+lamas;lamas;peru	-6.277034287999925	-76.42064496299997	point					Peru
+jepelacio;moyobamba;peru	-6.10830999999996	-76.91625999999997	point					Peru
+saposoa;huallaga;peru	-6.934389999999951	-76.77146999999997	point					Peru
+alonso de alvarado;lamas;peru	-6.226749999999981	-76.81278999999995	point					Peru
+la esperanza;santa cruz;peru	-6.583569999999952	-78.90470999999997	point					Peru
+campanilla;mariscal caceres;peru	-7.429419999999936	-76.66168999999996	point					Peru
+yauli;huancavelica;peru	-12.736479999999972	-74.82304999999997	point					Peru
+san rafael;bellavista;peru	-7.010909999999967	-76.45935999999995	point					Peru
+espinar;espinar;peru	-14.793639999999982	-71.41103999999996	point					Peru
+mi peru;callao;peru	-11.855659999999943	-77.12493999999998	point					Peru
+pachiza;mariscal caceres;peru	-7.051269999999931	-76.93624999999997	point					Peru
+ciudad nueva;tacna;peru	-17.98068999999998	-70.23379999999997	point					Peru
+sana;chiclayo;peru	-6.920289999999966	-79.58395999999993	point					Peru
+san antonio;san martin;peru	-6.393699999999967	-76.42679999999996	point					Peru
+pampachiri;andahuaylas;peru	-14.185009999999977	-73.53699999999998	point					Peru
+uchiza;tocache;peru	-8.352169999999944	-76.33796999999998	point					Peru
+mazamari;satipo;peru	-11.325359999999932	-74.52975999999995	point					Peru
+laberinto;tambopata;peru	-12.57275999999996	-70.06115999999997	point					Peru
+san martin;el dorado;peru	-6.563126357999977	-76.74156477099996	point					Peru
+chazuta;san martin;peru	-6.573709999999949	-76.13263999999998	point					Peru
+pariacoto;huaraz;peru	-9.550869999999975	-77.83955999999995	point					Peru
+neshuya;padre abad;peru	-9.036339999999939	-75.50968999999998	point					Peru
+alto selva alegre;arequipa;peru	-16.358179999999948	-71.50013999999999	point					Peru
+pueblo nuevo;ferrenafe;peru	-6.639619999999979	-79.79767999999996	point					Peru
+daniel hernandez;tayacaja;peru	-12.390929999999969	-74.86061999999998	point					Peru
+junin;junin;peru	-11.540086458999951	-74.87743010199995	point					Peru
+vinac;yauyos;peru	-12.876619999999946	-75.65780999999998	point					Peru
+yauyos;jauja;peru	-11.775399999999934	-75.50123999999994	point					Peru
+la union;tarma;peru	-11.371669999999938	-75.71357999999998	point					Peru
+san pablo;bellavista;peru	-6.809649999999976	-76.57466999999997	point					Peru
+andahuaylas;andahuaylas;peru	-13.656459999999981	-73.38408999999996	point					Peru
+tuman;chiclayo;peru	-6.746379999999931	-79.70113999999995	point					Peru
+yuracyacu;rioja;peru	-5.912259999999947	-77.25877999999994	point					Peru
+casa grande;ascope;peru	-7.657799999999952	-79.23825999999997	point					Peru
+sama;tacna;peru	-18.154349999999965	-70.68186999999995	point					Peru
+huamancaca chico;chupaca;peru	-12.065259999999967	-75.24271999999996	point					Peru
+lomas;caraveli;peru	-15.392349999999965	-75.00488999999999	point					Peru
+tamarindo;paita;peru	-4.795909999999935	-80.94146999999998	point					Peru
+sacanche;huallaga;peru	-7.078319999999962	-76.73560999999995	point					Peru
+razuri;ascope;peru	-7.699859999999944	-79.43675999999994	point					Peru
+san roque de cumbaza;lamas;peru	-6.385369999999966	-76.43762999999996	point					Peru
+banos;lauricocha;peru	-10.03433999999993	-76.71560999999997	point					Peru
+yauli;yauli;peru	-12.736479999999972	-74.82304999999997	point					Peru
+parcoy;pataz;peru	-8.033199999999965	-77.45694999999995	point					Peru
+yungar;carhuaz;peru	-9.36687999999998	-77.59345999999994	point					Peru
+copa;cajatambo;peru	-10.424379999999928	-77.09214999999995	point					Peru
+san juan de jarpa;chupaca;peru	-12.106869999999958	-75.44908999999996	point					Peru
+la tinguina;ica;peru	-14.013849999999934	-75.70564999999993	point					Peru
+huarmaca;huancabamba;peru	-5.584619999999973	-79.52109999999999	point					Peru
+caleta de carquin;huaura;peru	-11.095369999999946	-77.62718999999998	point					Peru
+barranquita;lamas;peru	-6.247029999999938	-76.04049999999995	point					Peru
+huacchis;huari;peru	-9.159819999999968	-76.80365999999998	point					Peru
+el mantaro;jauja;peru	-11.824269999999956	-75.40994999999998	point					Peru
+huasta;bolognesi;peru	-10.079129999999964	-76.97482999999994	point					Peru
+ascope;ascope;peru	-7.723933826999939	-79.15158519999994	point					Peru
+tambo de mora;chincha;peru	-13.461369999999931	-76.17703999999998	point					Peru
+santa rosa;lima;peru	-11.802959999999928	-77.15854999999993	point					Peru
+cascas;gran chimu;peru	-7.479529999999954	-78.81816999999995	point					Peru
+jacobo hunter;arequipa;peru	-16.460279999999955	-71.55635999999998	point					Peru
+apata;jauja;peru	-11.775999999999954	-75.24056999999993	point					Peru
+san juan bautista;ica;peru	-14.01174999999995	-75.73632999999995	point					Peru
+zepita;chucuito;peru	-16.49566999999996	-69.10429999999997	point					Peru
+acolla;jauja;peru	-11.628309999999942	-75.61029999999994	point					Peru
+uchumayo;arequipa;peru	-16.446419999999932	-71.61871999999994	point					Peru
+san antonio;huarochiri;peru	-11.911009999999976	-76.97200999999995	point					Peru
+santa barbara de carhuacayan;yauli;peru	-11.09403999999995	-76.38769999999994	point					Peru
+constitucion;oxapampa;peru	-4.5499999999999545	-71.94999999999999	point					Peru
+aguas verdes;zarumilla;peru	-3.4871499999999287	-80.26207999999997	point					Peru
+santo domingo de los olleros;huarochiri;peru	-12.191849999999931	-76.47606999999994	point					Peru
+muquiyauyo;jauja;peru	-11.814889999999934	-75.46461999999997	point					Peru
+juli;chucuito;peru	-16.216639999999927	-69.46393999999998	point					Peru
+curahuasi;abancay;peru	-13.540369999999939	-72.69667999999996	point					Peru
+huancan;huancayo;peru	-12.106289999999944	-75.21490999999997	point					Peru
+acoria;huancavelica;peru	-12.64262999999994	-74.86309999999997	point					Peru
+huacar;ambo;peru	-10.15152999999998	-76.22981999999996	point					Peru
+nuevo progreso;tocache;peru	-8.388269999999977	-76.32519999999994	point					Peru
+masma;jauja;peru	-11.780863048999947	-75.42200889299994	point					Peru
+nueva arica;chiclayo;peru	-6.87352999999996	-79.34408999999994	point					Peru
+calana;tacna;peru	-17.914579999999944	-70.08538999999996	point					Peru
+alexander von humboldt;padre abad;peru	-12.127299999999934	-77.00369999999998	point					Peru
+el ingenio;nazca;peru	-14.644859999999937	-75.06929999999994	point					Peru
+huasahuasi;tarma;peru	-11.265669999999943	-75.64909999999998	point					Peru
+pueblo nuevo;ica;peru	-14.128709999999955	-75.70648999999997	point					Peru
+huachac;chupaca;peru	-12.020359999999926	-75.34187999999995	point					Peru
+yungay;yungay;peru	-9.14191999999997	-77.74402999999995	point					Peru
+el carmen;chincha;peru	-13.552249999999958	-76.13322999999997	point					Peru
+ascension;huancavelica;peru	-12.781259999999975	-74.98912999999999	point					Peru
+manuel antonio mesones muro;ferrenafe;peru	-6.592519999999979	-79.67618999999996	point					Peru
+pacasmayo;pacasmayo;peru	-7.405689999999936	-79.56621999999999	point					Peru
+sangallaya;huarochiri;peru	-12.163509999999974	-76.22875999999997	point					Peru
+satipo;satipo;peru	-11.249289999999974	-74.63594999999998	point					Peru
+el porvenir;san martin;peru	-6.009109999999964	-77.25114999999994	point					Peru
+huando;huancavelica;peru	-12.629929999999945	-75.01079999999996	point					Peru
+huamali;jauja;peru	-11.80779999999993	-75.43195999999995	point					Peru
+eten puerto;chiclayo;peru	-6.927259999999933	-79.86589999999995	point					Peru
+otuzco;otuzco;peru	-7.90328999999997	-78.56542999999994	point					Peru
+santa maria;huaura;peru	-11.114089999999976	-77.58852999999993	point					Peru
+santiago de cao;ascope;peru	-7.960169999999948	-79.24076999999994	point					Peru
+san lorenzo;jauja;peru	-11.836599999999976	-75.39358999999996	point					Peru
+cashapampa;sihuas;peru	-8.57407999999998	-77.67511999999994	point					Peru
+montevideo;chachapoyas;peru	-6.650939999999935	-77.80314999999996	point					Peru
+manseriche;datem del maranon;peru	-4.566509999999937	-77.41817999999995	point					Peru
+anta;acobamba;peru	-12.773319999999956	-74.65356999999995	point					Peru
+limatambo;anta;peru	-13.443809999999928	-72.40172999999999	point					Peru
+colasay;jaen;peru	-5.853149999999971	-79.00056999999998	point					Peru
+chinchaypujio;anta;peru	-13.631269999999972	-72.23280999999997	point					Peru
+picota;picota;peru	-6.901734771999941	-76.25526081199996	point					Peru
+chavinillo;yarowilca;peru	-9.875449999999944	-76.55774999999994	point					Peru
+la arena;piura;peru	-5.34579999999994	-80.70886999999999	point					Peru
+mache;otuzco;peru	-8.027819999999963	-78.52566999999993	point					Peru
+canaris;ferrenafe;peru	-6.059995658999981	-79.30524436899998	point					Peru
+elias soplin vargas;rioja;peru	-5.973809999999958	-77.29111999999998	point					Peru
+san jose de sisa;el dorado;peru	-6.614879999999971	-76.69597999999996	point					Peru
+santa maria del valle;huanuco;peru	-9.84624999999994	-76.14811999999995	point					Peru
+alto biavo;bellavista;peru	-7.254699999999957	-76.47683999999998	point					Peru
+huari;huari;peru	-9.433781893999935	-77.08221538699996	point					Peru
+sitabamba;santiago de chuco;peru	-8.005729999999971	-77.73633999999998	point					Peru
+anta;anta;peru	-13.488925860999927	-72.36859495699997	point					Peru
+chaglla;pachitea;peru	-9.843499999999949	-75.90238999999997	point					Peru
+aparicio pomares;yarowilca;peru	-9.748459999999966	-76.64934999999997	point					Peru
+punos;huamalies;peru	-9.498699999999928	-76.88444999999996	point					Peru
+chalaco;morropon;peru	-5.04239999999993	-79.79609999999997	point					Peru
+tarma;tarma;peru	-11.417329999999936	-75.68736999999999	point					Peru
+pallpata;espinar;peru	-14.801339999999982	-71.07848999999999	point					Peru
+sapillica;ayabaca;peru	-4.777899999999931	-79.98209999999995	point					Peru
+soritor;moyobamba;peru	-6.123569999999972	-77.09703999999994	point					Peru
+pueblo libre;huaylas;peru	-9.08484999999996	-77.79779999999994	point					Peru
+reque;chiclayo;peru	-6.863489999999956	-79.81347999999997	point					Peru
+huayllay;pasco;peru	-11.001939999999934	-76.36395999999996	point					Peru
+san sebastian;cusco;peru	-13.523489999999981	-71.93059999999997	point					Peru
+la cruz;tumbes;peru	-3.6573499999999513	-80.59366999999997	point					Peru
+anta;carhuaz;peru	-9.331739999999968	-77.60320999999993	point					Peru
+san agustin;huancayo;peru	-11.999019999999973	-75.24557999999996	point					Peru
+antauta;melgar;peru	-14.316259999999943	-70.41868999999997	point					Peru
+la huaca;paita;peru	-4.922499999999957	-80.92187999999999	point					Peru
+hualhuas;huancayo;peru	-11.960569999999962	-75.24820999999997	point					Peru
+las piedras;tambopata;peru	-11.935719999999947	-69.12046999999995	point					Peru
+nueva requena;coronel portillo;peru	-8.380969999999934	-74.83973999999995	point					Peru
+san ramon;chanchamayo;peru	-11.123429999999928	-75.35849999999994	point					Peru
+zurite;anta;peru	-13.45548999999994	-72.25502999999998	point					Peru
+san mateo;huarochiri;peru	-11.87161999999995	-76.24009999999998	point					Peru
+challabamba;paucartambo;peru	-13.213239999999928	-71.64868999999999	point					Peru
+sicuani;canchis;peru	-14.272689999999955	-71.23077999999998	point					Peru
+los morochucos;cangallo;peru	-13.450549999999964	-74.20275999999996	point					Peru
+san jeronimo de tunan;huancayo;peru	-11.948149999999941	-75.28295999999995	point					Peru
+codo del pozuzo;puerto inca;peru	-9.634034544999963	-75.46703342599994	point					Peru
+los banos del inca;cajamarca;peru	-7.163609999999949	-78.46455999999995	point					Peru
+los aquijes;ica;peru	-14.094019999999944	-75.70283999999998	point					Peru
+san hilarion;picota;peru	-6.996419999999944	-76.43258999999995	point					Peru
+caynarachi;lamas;peru	-6.129379999999969	-76.27171999999996	point					Peru
+la banda de shilcayo;san martin;peru	-6.494689999999935	-76.34920999999997	point					Peru
+puquio;lucanas;peru	-14.61773999999997	-73.98918999999995	point					Peru
+tupac amaru inca;pisco;peru	-13.713839999999948	-76.15350999999998	point					Peru
+catac;recuay;peru	-9.86696999999998	-77.40306999999996	point					Peru
+yanaquihua;condesuyos;peru	-15.662209999999959	-72.91911999999996	point					Peru
+san jacinto;tumbes;peru	-3.8117699999999672	-80.52454999999998	point					Peru
+huancane;huancane;peru	-15.200409999999977	-69.76316999999995	point					Peru
+san miguel de acos;huaral;peru	-11.278849999999977	-76.83328999999998	point					Peru
+paimas;ayabaca;peru	-4.6292799999999374	-79.94616999999994	point					Peru
+arenal;paita;peru	-4.883619999999951	-81.02541999999994	point					Peru
+canoas de punta sal;contralmirante villar;peru	-3.9100799999999367	-80.83580999999998	point					Peru
+yonan;contumaza;peru	-7.25115999999997	-79.12850999999995	point					Peru
+quiruvilca;santiago de chuco;peru	-8.002389999999934	-78.30969999999996	point					Peru
+salcabamba;tayacaja;peru	-12.224269999999933	-74.79247999999995	point					Peru
+morropon;morropon;peru	-5.256519045999937	-79.98861419899998	point					Peru
+echarate;la convencion;peru	-12.24031999999994	-72.82304999999997	point					Peru
+samegua;mariscal nieto;peru	-17.18095999999997	-70.89896999999996	point					Peru
+shunte;tocache;peru	-8.423386303999962	-76.87739243399994	point					Peru
+calca;calca;peru	-12.984246987999938	-72.03842713499995	point					Peru
+chamaca;chumbivilcas;peru	-14.336119999999937	-71.85074999999995	point					Peru
+inambari;tambopata;peru	-12.874949999999956	-69.80951999999996	point					Peru
+huancabamba;huancabamba;peru	-5.2395499999999515	-79.45045999999996	point					Peru
+jauja;jauja;peru	-11.771619999999928	-75.49800999999997	point					Peru
+chala;caraveli;peru	-15.851759999999956	-74.24843999999996	point					Peru
+chaccho;antonio raimondi;peru	-9.059659999999951	-77.05839999999995	point					Peru
+san marcos;huari;peru	-9.643609999999967	-77.05871999999994	point					Peru
+asuncion;chachapoyas;peru	-5.996573615999978	-77.74303628899997	point					Peru
+orcopampa;castilla;peru	-15.056319999999971	-72.18268999999998	point					Peru
+sabandia;arequipa;peru	-16.44411999999994	-71.48294999999996	point					Peru
+tapay;caylloma;peru	-15.581909999999937	-71.94095999999996	point					Peru
+urcos;quispicanchi;peru	-13.685459999999978	-71.62431999999995	point					Peru
+pichigua;espinar;peru	-14.675669999999968	-71.31606999999997	point					Peru
+jumbilla;bongara;peru	-5.899319999999932	-77.79816999999997	point					Peru
+pucyura;anta;peru	-13.47962999999993	-72.11155999999994	point					Peru
+la punta;callao;peru	-12.072859999999935	-77.16525999999999	point					Peru
+sapallanga;huancayo;peru	-12.143609999999967	-75.16047999999995	point					Peru
+ahuac;chupaca;peru	-12.081079999999929	-75.31277999999998	point					Peru
+chota;chota;peru	-6.55971999999997	-78.65234999999996	point					Peru
+pedro galvez;san marcos;peru	-7.3359199999999305	-78.16837999999996	point					Peru
+characato;arequipa;peru	-16.470689999999934	-71.48313999999993	point					Peru
+sicaya;huancayo;peru	-12.003709999999955	-75.29588999999999	point					Peru
+imaza;bagua;peru	-4.930039999999963	-78.22958999999997	point					Peru
+catahuasi;yauyos;peru	-12.775339999999971	-75.92613999999998	point					Peru
+puinahua;requena;peru	-5.64498193299994	-74.88736301499995	point					Peru
+san gregorio;san miguel;peru	-7.101459999999975	-79.11167999999998	point					Peru
+olleros;chachapoyas;peru	-6.008464490999927	-77.67126721099999	point					Peru
+san bartolo;lima;peru	-12.392609999999934	-76.77713999999997	point					Peru
+polvora;tocache;peru	-7.730539999999962	-76.66026999999997	point					Peru
+cura mori;piura;peru	-5.3234299999999735	-80.66408999999999	point					Peru
+pacaraos;huaral;peru	-11.201819999999941	-76.65139999999997	point					Peru
+alto laran;chincha;peru	-13.445839999999976	-75.98347999999999	point					Peru
+casca;mariscal luzuriaga;peru	-8.82239999999996	-77.42266999999998	point					Peru
+torata;mariscal nieto;peru	-16.942979999999977	-70.67124999999999	point					Peru
+yanaoca;canas;peru	-14.217759999999942	-71.43077999999997	point					Peru
+condebamba;cajabamba;peru	-7.5737799999999424	-78.07016999999996	point					Peru
+tapo;tarma;peru	-11.353799999999978	-75.55520999999999	point					Peru
+huarocondo;anta;peru	-13.415189999999939	-72.20788999999996	point					Peru
+ignacio escudero;sullana;peru	-4.8834999999999695	-80.83785999999998	point					Peru
+san cristobal;picota;peru	-6.983499999999935	-76.42236999999994	point					Peru
+acobamba;acobamba;peru	-12.792675433999932	-74.58305245299994	point					Peru
+anco;churcampa;peru	-12.572959999999966	-74.66150999999996	point					Peru
+punta de bombon;islay;peru	-17.169869999999946	-71.79347999999999	point					Peru
+omate;general sanchez cerro;peru	-16.673749999999927	-70.97020999999995	point					Peru
+santo tomas;chumbivilcas;peru	-14.452279999999973	-72.08334999999994	point					Peru
+trompeteros;loreto;peru	-2.648899999999969	-76.27144999999996	point					Peru
+comas;concepcion;peru	-11.689229999999952	-75.03403999999995	point					Peru
+aramango;bagua;peru	-5.416459999999972	-78.43733999999995	point					Peru
+velille;chumbivilcas;peru	-14.509289999999964	-71.87474999999995	point					Peru
+sibayo;caylloma;peru	-15.366679999999974	-71.56967999999995	point					Peru
+la merced;aija;peru	-9.743589999999926	-77.61550999999997	point					Peru
+alto de la alianza;tacna;peru	-17.987379999999973	-70.24384999999995	point					Peru
+oyon;oyon;peru	-10.758810300999926	-76.87650647599997	point					Peru
+chontabamba;oxapampa;peru	-10.60612999999995	-75.42982999999998	point					Peru
+aija;aija;peru	-9.784342107999976	-77.67739323799998	point					Peru
+ilave;el collao;peru	-16.08556999999996	-69.64073999999994	point					Peru
+san luis de shuaro;chanchamayo;peru	-10.864349999999945	-75.27240999999998	point					Peru
+rio grande;condesuyos;peru	-16.004449999999963	-73.08696999999995	point					Peru
+tomepampa;la union;peru	-15.16390999999993	-72.82758999999999	point					Peru
+quilcas;huancayo;peru	-11.940719999999942	-75.25951999999995	point					Peru
+chillia;pataz;peru	-8.124679999999955	-77.51376999999997	point					Peru
+oropesa;quispicanchi;peru	-13.590589999999963	-71.78980999999999	point					Peru
+rio negro;satipo;peru	-11.100989999999967	-74.69651999999996	point					Peru
+irazola;padre abad;peru	-8.826329999999928	-75.08056999999997	point					Peru
+cajaruro;utcubamba;peru	-5.7364299999999275	-78.42603999999994	point					Peru
+el carmen;churcampa;peru	-12.733349999999973	-74.53936999999996	point					Peru
+bellavista;jaen;peru	-5.664179999999931	-78.67830999999995	point					Peru
+marcas;acobamba;peru	-12.85445999999996	-74.35634999999996	point					Peru
+vitor;arequipa;peru	-16.46381999999994	-71.93267999999995	point					Peru
+laramate;lucanas;peru	-14.27260999999993	-74.88247999999999	point					Peru
+paijan;ascope;peru	-7.731869999999958	-79.30244999999996	point					Peru
+oxapampa;oxapampa;peru	-10.294287390999955	-74.97368712899998	point					Peru
+yauca del rosario;ica;peru	-13.979129999999941	-75.36248999999998	point					Peru
+huancarama;andahuaylas;peru	-13.66405999999995	-73.05418999999995	point					Peru
+carhuaz;carhuaz;peru	-9.290593225999942	-77.56903931799997	point					Peru
+la brea;talara;peru	-4.653639999999939	-81.30385999999999	point					Peru
+chongoyape;chiclayo;peru	-6.640299999999968	-79.39066999999994	point					Peru
+simbal;trujillo;peru	-7.9001199999999585	-78.78412999999995	point					Peru
+quinjalca;chachapoyas;peru	-6.10796264499993	-77.68580604399995	point					Peru
+puyusca;parinacochas;peru	-15.239599999999939	-73.73320999999999	point					Peru
+piscobamba;mariscal luzuriaga;peru	-8.854509999999948	-77.36727999999994	point					Peru
+santa ana;castrovirreyna;peru	-13.074619999999982	-75.15180999999995	point					Peru
+asia;canete;peru	-12.76550999999995	-76.61170999999996	point					Peru
+tinco;carhuaz;peru	-9.250319999999931	-77.64898999999997	point					Peru
+san nicolas;rodriguez de mendoza;peru	-6.394309999999962	-77.47938999999997	point					Peru
+acos;acomayo;peru	-13.942799999999977	-71.71770999999995	point					Peru
+paucarbamba;churcampa;peru	-12.58973999999995	-74.53471999999994	point					Peru
+santa rosa de quives;canta;peru	-11.669869999999946	-76.79184999999995	point					Peru
+chugay;sanchez carrion;peru	-7.782169999999951	-77.86918999999995	point					Peru
+nueva cajamarca;rioja;peru	-5.8952299999999696	-77.33035999999998	point					Peru
+san pedro de lloc;pacasmayo;peru	-7.427289999999971	-79.50374999999997	point					Peru
+vilcas huaman;vilcas huaman;peru	-13.655699999999968	-73.89631999999995	point					Peru
+san pablo;canchis;peru	-14.10591999999997	-71.16761999999994	point					Peru
+viraco;castilla;peru	-15.65110999999996	-72.52141999999998	point					Peru
+checacupe;canchis;peru	-13.905539999999974	-70.93303999999995	point					Peru
+pomata;chucuito;peru	-16.27383999999995	-69.29377999999997	point					Peru
+tamburco;abancay;peru	-13.625209999999981	-72.87289999999996	point					Peru
+san jose;pacasmayo;peru	-7.3492899999999395	-79.45528999999993	point					Peru
+chavin de pariarca;huamalies;peru	-9.369549999999947	-76.74680999999998	point					Peru
+cuchumbaya;mariscal nieto;peru	-16.75884999999994	-70.70926999999995	point					Peru
+san pedro de cajas;tarma;peru	-11.052799999999934	-75.78508999999997	point					Peru
+ite;jorge basadre;peru	-17.697529999999972	-70.86366999999996	point					Peru
+huaytara;huaytara;peru	-13.65612284599996	-75.09250403699997	point					Peru
+puquina;general sanchez cerro;peru	-16.62519999999995	-71.18447999999995	point					Peru
+lagunas;chiclayo;peru	-6.9802799999999365	-79.64843999999994	point					Peru
+nuevo occoro;huancavelica;peru	-12.649609999999939	-75.10666999999995	point					Peru
+paccha;yauli;peru	-11.410129999999981	-76.03940999999998	point					Peru
+morococha;yauli;peru	-11.600879999999961	-76.13197999999994	point					Peru
+la yarada los palos;tacna;peru	-18.286099999999976	-70.43841999999995	point					Peru
+lalaquiz;huancabamba;peru	-5.171863283999926	-79.66495404099999	point					Peru
+pariahuanca;carhuaz;peru	-9.356334238999978	-77.57455111899998	point					Peru
+balsapuerto;alto amazonas;peru	-5.817229999999938	-76.50419999999997	point					Peru
+toraya;aymaraes;peru	-14.054919999999981	-73.24221999999997	point					Peru
+pacocha;ilo;peru	-17.30033999999995	-71.44314999999995	point					Peru
+santa maria de chicmo;andahuaylas;peru	-13.681009999999958	-73.54416999999995	point					Peru
+lobitos;talara;peru	-4.32609999999994	-81.21278999999998	point					Peru
+cabanaconde;caylloma;peru	-15.629059999999981	-71.97462999999993	point					Peru
+umari;pachitea;peru	-9.874709999999936	-76.05047999999994	point					Peru
+ocona;camana;peru	-16.43139999999994	-73.10447999999997	point					Peru
+acora;puno;peru	-15.973859999999945	-69.79544999999996	point					Peru
+changuillo;nazca;peru	-14.772289999999941	-75.35201999999998	point					Peru
+leimebamba;chachapoyas;peru	-6.672059999999931	-77.80043999999998	point					Peru
+huanca;caylloma;peru	-16.03359999999998	-71.87791999999996	point					Peru
+requena;requena;peru	-6.0032397499999774	-74.04801341999996	point					Peru
+pueblo nuevo;chepen;peru	-7.161899999999946	-79.55206999999996	point					Peru
+moro;santa;peru	-9.101079999999968	-78.09037999999998	point					Peru
+lambrama;abancay;peru	-13.721619999999973	-72.91889999999995	point					Peru
+las amazonas;maynas;peru	-3.4153199999999515	-72.76446999999996	point					Peru
+la union;dos de mayo;peru	-9.828339999999969	-76.80139999999994	point					Peru
+julcamarca;angaraes;peru	-13.01315999999997	-74.44420999999994	point					Peru
+cutervo;cutervo;peru	-6.3782699999999295	-78.81703999999996	point					Peru
+cacatachi;san martin;peru	-6.465339999999969	-76.44627999999994	point					Peru
+huasmin;celendin;peru	-6.845579999999927	-78.24121999999994	point					Peru
+moho;moho;peru	-15.335976603999939	-69.38171168099996	point					Peru
+aplao;castilla;peru	-15.952179999999942	-72.51229999999998	point					Peru
+lircay;angaraes;peru	-12.990819999999928	-74.72127999999998	point					Peru
+putina;san antonio de putina;peru	-14.908189999999934	-69.86561999999998	point					Peru
+caraveli;caraveli;peru	-15.688789380999935	-73.96342324799997	point					Peru
+canchabamba;huacaybamba;peru	-8.84840266699996	-77.10780133899993	point					Peru
+iberia;tahuamanu;peru	-11.38403999999997	-69.50572999999997	point					Peru
+coviriali;satipo;peru	-11.278219999999976	-74.63083999999998	point					Peru
+paracas;pisco;peru	-13.834149999999966	-76.24886999999995	point					Peru
+san miguel;san miguel;peru	-12.077999999999975	-77.09586999999993	point					Peru
+acari;caraveli;peru	-15.432159999999953	-74.61664999999994	point					Peru
+tambillo;huamanga;peru	-13.165349999999933	-74.18987999999996	point					Peru
+sihuas;sihuas;peru	-8.484439646999931	-77.58546384999994	point					Peru
+chicche;huancayo;peru	-12.278769999999952	-75.32287999999994	point					Peru
+canchaque;huancabamba;peru	-5.285319999999956	-79.67002999999994	point					Peru
+tacabamba;chota;peru	-6.392319999999927	-78.61030999999997	point					Peru
+san antonio;canete;peru	-12.637829999999951	-76.65142999999995	point					Peru
+san pablo;san pablo;peru	-7.0748184829999445	-78.74932391399994	point					Peru
+san jeronimo;andahuaylas;peru	-13.650969999999973	-73.36686999999995	point					Peru
+kimbiri;la convencion;peru	-12.617549999999937	-73.79093999999998	point					Peru
+lagunas;ayabaca;peru	-4.751049999999964	-79.83890999999994	point					Peru
+aurahua;castrovirreyna;peru	-12.956725906999964	-75.44289660899994	point					Peru
+chaparra;caraveli;peru	-15.735469999999964	-73.85773999999998	point					Peru
+shamboyacu;picota;peru	-6.994909999999948	-76.16935999999998	point					Peru
+obas;yarowilca;peru	-9.789099999999962	-76.65245999999996	point					Peru
+zapatero;lamas;peru	-6.51470999999998	-76.48740999999995	point					Peru
+lajas;chota;peru	-6.560839999999928	-78.73488999999995	point					Peru
+pampas de hospital;tumbes;peru	-3.6931699999999523	-80.43838999999997	point					Peru
+yautan;casma;peru	-9.513699999999972	-77.99610999999999	point					Peru
+panao;pachitea;peru	-9.850829999999974	-75.92307999999997	point					Peru
+san cristobal;mariscal nieto;peru	-16.720519999999965	-70.66351999999995	point					Peru
+poroto;trujillo;peru	-8.007759999999962	-78.73939999999999	point					Peru
+chetilla;cajamarca;peru	-7.148769999999956	-78.67208999999997	point					Peru
+rosario;acobamba;peru	-12.727309999999932	-74.65147999999994	point					Peru
+el milagro;utcubamba;peru	-5.717769999999973	-78.61804999999998	point					Peru
+san nicolas;carlos fermin fitzcarrald;peru	-8.945149999999956	-77.24838999999997	point					Peru
+atiquipa;caraveli;peru	-15.640799999999956	-74.24815999999998	point					Peru
+huancaraylla;victor fajardo;peru	-13.716219999999964	-74.10114999999996	point					Peru
+choros;cutervo;peru	-5.878799999999956	-78.81074999999998	point					Peru
+lachaqui;canta;peru	-11.521789999999953	-76.68751999999995	point					Peru
+yauca;caraveli;peru	-15.661569999999926	-74.52765999999997	point					Peru
+cachicadan;santiago de chuco;peru	-8.01386999999994	-77.96934999999996	point					Peru
+kaquiabamba;andahuaylas;peru	-13.51133447899997	-73.27955475999994	point					Peru
+san pedro de chaulan;huanuco;peru	-10.057581725999967	-76.40562246799993	point					Peru
+huacrachuco;maranon;peru	-8.604269999999929	-77.14954999999998	point					Peru
+ocongate;quispicanchi;peru	-13.629899999999964	-71.38490999999993	point					Peru
+la peca;bagua;peru	-5.608009999999979	-78.43291999999997	point					Peru
+molino;pachitea;peru	-9.907729999999958	-76.01558999999997	point					Peru
+jose galvez;celendin;peru	-6.912669999999935	-78.16926999999998	point					Peru
+chavin de huantar;huari;peru	-9.669969999999978	-77.20405999999997	point					Peru
+omas;yauyos;peru	-12.448309999999935	-76.24686999999994	point					Peru
+san andres de cutervo;cutervo;peru	-6.199369999999931	-78.70072999999996	point					Peru
+quichuas;tayacaja;peru	-12.243009852999933	-74.76917457199994	point					Peru
+chiguata;arequipa;peru	-16.407159999999976	-71.38121999999998	point					Peru
+pampamarca;canas;peru	-14.144329999999968	-71.45966999999996	point					Peru
+san luis;carlos fermin fitzcarrald;peru	-9.092619999999954	-77.32796999999994	point					Peru
+tarica;huaraz;peru	-9.398849999999982	-77.57529999999997	point					Peru
+cochapeti;huarmey;peru	-9.985795749999966	-77.69303937599994	point					Peru
+acobambilla;huancavelica;peru	-12.719529999999963	-75.40466999999995	point					Peru
+pichari;la convencion;peru	-12.51866999999993	-73.82759999999996	point					Peru
+muqui;jauja;peru	-11.828949999999963	-75.44343999999995	point					Peru
+jazan;bongara;peru	-5.912519999999972	-78.04901999999998	point					Peru
+ocobamba;chincheros;peru	-13.481859999999926	-73.55748999999997	point					Peru
+accha;paruro;peru	-13.958039999999926	-71.85589999999996	point					Peru
+colcabamba;tayacaja;peru	-12.41080999999997	-74.68186999999995	point					Peru
+cumba;utcubamba;peru	-5.913299999999936	-78.67419999999998	point					Peru
+asuncion;cajamarca;peru	-7.324559999999963	-78.51805999999993	point					Peru
+santo toribio;huaylas;peru	-8.84770999999995	-77.94448999999997	point					Peru
+santa rosa;el dorado;peru	-6.744919999999979	-76.65411999999998	point					Peru
+langa;huarochiri;peru	-12.118919999999946	-76.42618999999996	point					Peru
+huaros;canta;peru	-11.348999999999933	-76.43767999999994	point					Peru
+rio santiago;condorcanqui;peru	-3.8124799769999527	-77.88778929099993	point					Peru
+pulan;santa cruz;peru	-6.746488309999961	-78.92101694699994	point					Peru
+chincheros;chincheros;peru	-13.470115483999962	-73.67199549199995	point					Peru
+sincos;jauja;peru	-11.910049999999956	-75.53217999999998	point					Peru
+santa cruz de cocachacra;huarochiri;peru	-11.90940999999998	-76.59072999999995	point					Peru
+carumas;mariscal nieto;peru	-16.809189999999944	-70.69457999999997	point					Peru
+juan guerra;san martin;peru	-6.6046499999999355	-76.31078999999994	point					Peru
+san miguel;la mar;peru	-13.011429999999962	-73.98051999999996	point					Peru
+jose maria quimper;camana;peru	-16.59964999999994	-72.75022999999999	point					Peru
+pucala;chiclayo;peru	-6.787289999999928	-79.62859999999995	point					Peru
+quellouno;la convencion;peru	-12.608809999999949	-72.50896999999998	point					Peru
+san antonio de cachi;andahuaylas;peru	-13.779789999999934	-73.58865999999995	point					Peru
+supe puerto;barranca;peru	-10.799889999999948	-77.73812999999996	point					Peru
+cabana;lucanas;peru	-14.293109999999956	-73.96920999999998	point					Peru
+culebras;huarmey;peru	-9.845539999999971	-78.04584999999997	point					Peru
+ayna;la mar;peru	-12.624189999999942	-73.78883999999994	point					Peru
+ihuari;huaral;peru	-11.185479999999927	-76.94978999999995	point					Peru
+lagunas;alto amazonas;peru	-5.287339999999972	-75.65594999999996	point					Peru
+bajo biavo;bellavista;peru	-7.099159999999927	-76.47262999999998	point					Peru
+poroy;cusco;peru	-13.495509999999967	-72.04306999999994	point					Peru
+chicla;huarochiri;peru	-11.706739999999968	-76.26745999999997	point					Peru
+ocros;ocros;peru	-10.48890506999993	-77.42941771199997	point					Peru
+margos;huanuco;peru	-10.034399999999948	-76.50223999999997	point					Peru
+tambo;la mar;peru	-12.947729999999979	-74.01897999999994	point					Peru
+tres de diciembre;chupaca;peru	-12.09806999999995	-75.24203999999997	point					Peru
+singa;huamalies;peru	-9.410089999999968	-76.80184999999994	point					Peru
+napo;maynas;peru	-1.1753799999999615	-75.22388999999998	point					Peru
+santa isabel de siguas;arequipa;peru	-16.34672999999998	-72.12538999999998	point					Peru
+huacaybamba;huacaybamba;peru	-8.994793811999955	-76.81084737599997	point					Peru
+incahuasi;ferrenafe;peru	-6.2267799999999625	-79.30480999999997	point					Peru
+buldibuyo;pataz;peru	-8.140619999999956	-77.37818999999996	point					Peru
+chupuro;huancayo;peru	-12.15602999999993	-75.24552999999997	point					Peru
+ambar;huaura;peru	-10.748229999999978	-77.23967999999996	point					Peru
+sinsicap;otuzco;peru	-7.790139999999951	-78.81238999999994	point					Peru
+pardo miguel;rioja;peru	-5.665849999999978	-77.75156999999996	point					Peru
+ayapata;carabaya;peru	-13.230129999999974	-70.35597999999999	point					Peru
+quiquijana;quispicanchi;peru	-13.822889999999973	-71.54156999999998	point					Peru
+huancapi;victor fajardo;peru	-13.726999999999975	-74.08262999999994	point					Peru
+tapairihua;aymaraes;peru	-14.042149999999936	-73.18591999999995	point					Peru
+chungui;la mar;peru	-13.180009999999982	-73.64402999999999	point					Peru
+anchonga;angaraes;peru	-12.914129999999943	-74.69141999999994	point					Peru
+palcazu;oxapampa;peru	-10.121549999999957	-75.20353999999998	point					Peru
+magdalena de cao;ascope;peru	-7.827789999999936	-79.25759999999997	point					Peru
+acomayo;acomayo;peru	-13.952503536999927	-71.65434096799999	point					Peru
+iparia;coronel portillo;peru	-9.445807094999964	-74.13247924799998	point					Peru
+huicungo;mariscal caceres;peru	-7.508759999999938	-77.00473999999997	point					Peru
+huaylas;huaylas;peru	-8.943624442999976	-77.82846862999997	point					Peru
+sangarara;acomayo;peru	-13.946389999999951	-71.63166999999999	point					Peru
+marcara;carhuaz;peru	-9.311669999999935	-77.60812999999996	point					Peru
+angasmarca;santiago de chuco;peru	-8.105029999999942	-78.03856999999994	point					Peru
+bella union;caraveli;peru	-15.45981999999998	-74.67331999999993	point					Peru
+chocos;yauyos;peru	-12.88489999999996	-75.86059999999998	point					Peru
+sarin;sanchez carrion;peru	-7.8953899999999635	-77.93200999999993	point					Peru
+salitral;morropon;peru	-5.358709999999974	-79.83217999999994	point					Peru
+pallanchacra;pasco;peru	-10.420339999999953	-76.23632999999995	point					Peru
+lucanas;lucanas;peru	-14.616333984999926	-74.34608278499996	point					Peru
+jose domingo choquehuanca;azangaro;peru	-15.033459999999934	-70.33774999999997	point					Peru
+parobamba;pomabamba;peru	-8.569649999999967	-77.44407999999999	point					Peru
+julcan;julcan;peru	-8.172575638999945	-78.46353603499995	point					Peru
+locroja;churcampa;peru	-12.792229999999961	-74.48619999999994	point					Peru
+uranmarca;chincheros;peru	-13.635409999999979	-73.69076999999999	point					Peru
+cuyocuyo;sandia;peru	-14.467889999999954	-69.53561999999994	point					Peru
+la matanza;morropon;peru	-5.213109999999972	-80.09145999999998	point					Peru
+coya;calca;peru	-13.387039999999956	-71.89888999999994	point					Peru
+lares;calca;peru	-12.979949999999974	-72.06312999999994	point					Peru
+copallin;bagua;peru	-5.672039999999981	-78.42280999999997	point					Peru
+islay;islay;peru	-16.960792099999935	-71.72087326999997	point					Peru
+colpas;ambo;peru	-10.240264689999947	-76.46330464299996	point					Peru
+chipurana;san martin;peru	-6.427149999999926	-75.87245999999999	point					Peru
+caylloma;caylloma;peru	-15.68071632899995	-71.68147302799997	point					Peru
+capachica;puno;peru	-15.643009999999947	-69.83012999999994	point					Peru
+cupi;melgar;peru	-14.849169999999958	-70.80692999999997	point					Peru
+andagua;castilla;peru	-15.487389999999948	-72.43005999999997	point					Peru
+huallanca;bolognesi;peru	-9.899279999999976	-76.93846999999994	point					Peru
+cojata;huancane;peru	-14.830509999999947	-69.36152999999996	point					Peru
+pias;pataz;peru	-7.925089999999955	-77.54321999999996	point					Peru
+macusani;carabaya;peru	-14.06687999999997	-70.42586999999997	point					Peru
+ocuviri;lampa;peru	-15.070239999999956	-70.86077999999998	point					Peru
+ollantaytambo;urubamba;peru	-13.258359999999982	-72.26345999999995	point					Peru
+paucartambo;pasco;peru	-10.775889999999947	-75.81604999999996	point					Peru
+vilcabamba;la convencion;peru	-13.120429999999942	-72.97693999999996	point					Peru
+yarabamba;arequipa;peru	-16.54302999999993	-71.47728999999998	point					Peru
+santa rosa;la mar;peru	-12.687669999999969	-73.73716999999994	point					Peru
+santo domingo;morropon;peru	-5.026299999999935	-79.91396999999995	point					Peru
+puyca;la union;peru	-15.062479999999937	-72.69857999999994	point					Peru
+huancarani;paucartambo;peru	-13.505029999999977	-71.64997999999997	point					Peru
+cujillo;cutervo;peru	-6.117122540999958	-78.55889506499994	point					Peru
+ahuaycha;tayacaja;peru	-12.51771999999994	-74.89140999999995	point					Peru
+curimana;padre abad;peru	-8.418168885999933	-75.29427911399995	point					Peru
+polobaya;arequipa;peru	-16.56553999999994	-71.36836999999997	point					Peru
+tapuc;daniel alcides carrion;peru	-10.416669999999954	-76.44053999999994	point					Peru
+antabamba;antabamba;peru	-14.437753144999931	-72.73728780899995	point					Peru
+la pampa;corongo;peru	-8.629419999999925	-77.89382999999998	point					Peru
+tahuania;atalaya;peru	-10.049999999999955	-73.98332999999997	point					Peru
+jequetepeque;pacasmayo;peru	-7.344019999999944	-79.53499999999997	point					Peru
+jesus;cajamarca;peru	-7.249729999999943	-78.37967999999995	point					Peru
+jaqui;caraveli;peru	-15.428209999999979	-74.35273999999998	point					Peru
+carapo;huanca sancos;peru	-13.792639999999949	-74.40287999999998	point					Peru
+ranrahirca;yungay;peru	-9.17692999999997	-77.67264999999998	point					Peru
+andahuaylillas;quispicanchi;peru	-13.674039999999934	-71.67769999999996	point					Peru
+hualgayoc;hualgayoc;peru	-6.709628279999947	-78.54598254999996	point					Peru
+chojata;general sanchez cerro;peru	-16.357639999999947	-70.50712999999996	point					Peru
+cochamal;rodriguez de mendoza;peru	-6.400949999999966	-77.57115999999996	point					Peru
+tinyahuarco;pasco;peru	-10.757439999999974	-76.26361999999995	point					Peru
+pampas;pallasca;peru	-8.121399999999937	-77.80365999999998	point					Peru
+sorochuco;celendin;peru	-6.911419999999964	-78.25379999999996	point					Peru
+huasicancha;huancayo;peru	-12.324949999999944	-75.28432999999995	point					Peru
+lampa;lampa;peru	-15.387103991999936	-70.63984796499994	point					Peru
+querocotillo;cutervo;peru	-6.274589999999932	-79.03766999999993	point					Peru
+antioquia;huarochiri;peru	-12.043189999999981	-76.58762999999993	point					Peru
+jangas;huaraz;peru	-9.395509999999945	-77.58185999999995	point					Peru
+cangallo;cangallo;peru	-13.499631733999934	-74.48698657499995	point					Peru
+mirgas;antonio raimondi;peru	-9.076059999999927	-77.09179999999998	point					Peru
+canaria;victor fajardo;peru	-13.95399999999995	-73.90294999999998	point					Peru
+huambos;chota;peru	-6.452709999999968	-78.96029999999996	point					Peru
+sandia;sandia;peru	-13.851123435999966	-69.32568676999995	point					Peru
+huanoquite;paruro;peru	-13.68348999999995	-72.01921999999996	point					Peru
+teniente cesar lopez rojas;alto amazonas;peru	-6.025699999999972	-75.86813999999998	point					Peru
+awajun;rioja;peru	-5.781789999999944	-77.42868999999996	point					Peru
+yamango;morropon;peru	-5.180589999999938	-79.74873999999994	point					Peru
+shupluy;yungay;peru	-9.345576520999941	-77.79058446199997	point					Peru
+huaccana;chincheros;peru	-13.33818999999994	-73.67806999999993	point					Peru
+mosoc llacta;acomayo;peru	-14.08985999999993	-71.48056999999994	point					Peru
+magdalena;cajamarca;peru	-7.213679999999954	-78.63300999999996	point					Peru
+suitucancha;yauli;peru	-11.788099999999929	-75.91538999999995	point					Peru
+sancos;lucanas;peru	-15.272039999999947	-74.27174999999994	point					Peru
+alfonso ugarte;sihuas;peru	-8.45381999999995	-77.42362999999995	point					Peru
+buenos aires;morropon;peru	-5.264029999999934	-79.96548999999999	point					Peru
+saucepampa;santa cruz;peru	-6.662999999999954	-78.91508999999996	point					Peru
+paucar;daniel alcides carrion;peru	-10.345849999999928	-76.40225999999996	point					Peru
+coporaque;espinar;peru	-14.799909999999954	-71.53278999999998	point					Peru
+lloque;general sanchez cerro;peru	-16.23547999999994	-70.54876999999993	point					Peru
+cotaruse;aymaraes;peru	-14.498239999999953	-73.26057999999995	point					Peru
+cusca;corongo;peru	-8.574459999999931	-77.76735999999994	point					Peru
+cupisnique;contumaza;peru	-7.294529999999952	-79.07154999999995	point					Peru
+pacobamba;andahuaylas;peru	-13.486969999999928	-73.16644999999994	point					Peru
+honoria;puerto inca;peru	-8.70870999999994	-74.75572999999997	point					Peru
+huancarqui;castilla;peru	-16.160999999999945	-72.46611999999993	point					Peru
+shanao;lamas;peru	-6.4048499999999535	-76.58985999999999	point					Peru
+oxamarca;celendin;peru	-6.994909999999948	-78.09186999999997	point					Peru
+vilcabamba;grau;peru	-14.072049999999933	-72.62261999999998	point					Peru
+pazos;tayacaja;peru	-12.242209999999943	-75.08884999999998	point					Peru
+huayllabamba;urubamba;peru	-13.338089999999966	-72.06517999999994	point					Peru
+ticaco;tarata;peru	-17.42823999999996	-70.08275999999995	point					Peru
+rumisapa;lamas;peru	-6.450199999999938	-76.48117999999994	point					Peru
+yavari;mariscal ramon castilla;peru	-4.481296184999962	-72.06180063499994	point					Peru
+cabanillas;san roman;peru	-15.842719999999929	-70.66508999999996	point					Peru
+ripan;dos de mayo;peru	-9.828479999999956	-76.80321999999995	point					Peru
+santa cruz de flores;canete;peru	-12.618219999999951	-76.64103999999998	point					Peru
+urarinas;loreto;peru	-4.584259999999972	-74.76675999999998	point					Peru
+carhuamayo;junin;peru	-10.92256999999995	-76.05777999999998	point					Peru
+quillo;yungay;peru	-9.30027999999993	-77.94271999999995	point					Peru
+huaro;quispicanchi;peru	-13.681299999999965	-71.65792999999996	point					Peru
+chilete;contumaza;peru	-7.223129999999969	-78.83856999999995	point					Peru
+magdalena;chachapoyas;peru	-6.471719999999948	-77.81883999999997	point					Peru
+caicay;paucartambo;peru	-13.557189999999935	-71.70829999999995	point					Peru
+yambrasbamba;bongara;peru	-5.667989999999975	-77.77040999999997	point					Peru
+chucuito;puno;peru	-16.60539248499998	-69.35852773099998	point					Peru
+huayopata;la convencion;peru	-13.006569999999954	-72.55412999999999	point					Peru
+nicolas de pierola;camana;peru	-16.572449999999947	-72.71414999999996	point					Peru
+sayapullo;gran chimu;peru	-7.546399999999949	-78.45966999999996	point					Peru
+tahuamanu;tahuamanu;peru	-11.152507509999964	-70.32667462199998	point					Peru
+el tallan;piura;peru	-5.403729999999939	-80.61289999999997	point					Peru
+buena vista alta;casma;peru	-9.335949999999968	-78.07972999999998	point					Peru
+sano;huancayo;peru	-11.947749999999928	-75.25706999999994	point					Peru
+cajatambo;cajatambo;peru	-10.515497976999939	-77.03261418599999	point					Peru
+coayllo;canete;peru	-12.605879999999956	-76.34015999999997	point					Peru
+marcapata;quispicanchi;peru	-13.551779999999951	-70.89178999999996	point					Peru
+anguia;chota;peru	-6.342769999999973	-78.60478999999998	point					Peru
+inapari;tahuamanu;peru	-10.943029999999965	-69.57742999999994	point					Peru
+marangani;canchis;peru	-14.35743999999994	-71.16839999999996	point					Peru
+mollebaya;arequipa;peru	-16.483199999999954	-71.46682999999996	point					Peru
+huanipaca;abancay;peru	-13.49178999999998	-72.93332999999996	point					Peru
+querocoto;chota;peru	-6.338209999999947	-79.02033999999998	point					Peru
+union agua blanca;san miguel;peru	-7.064139999999952	-79.02281999999997	point					Peru
+tres unidos;picota;peru	-6.81839999999994	-76.20712999999995	point					Peru
+shilla;carhuaz;peru	-9.128749999999968	-77.51355999999998	point					Peru
+vinchos;huamanga;peru	-13.328679999999963	-74.35216999999994	point					Peru
+izcuchaca;huancavelica;peru	-12.48960999999997	-75.00994999999995	point					Peru
+chinchero;urubamba;peru	-13.395739999999932	-72.05209999999994	point					Peru
+chancaybanos;santa cruz;peru	-6.569639999999936	-78.83260999999999	point					Peru
+desaguadero;chucuito;peru	-16.566419999999937	-69.04287999999997	point					Peru
+san pablo;mariscal ramon castilla;peru	-4.016569999999945	-71.11885999999998	point					Peru
+san juan de iris;huarochiri;peru	-11.676439999999957	-76.52091999999999	point					Peru
+puerto bermudez;oxapampa;peru	-10.312629999999956	-74.93433999999996	point					Peru
+callayuc;cutervo;peru	-6.015329999999949	-78.96836999999994	point					Peru
+acocro;huamanga;peru	-13.314129999999977	-74.06056999999998	point					Peru
+pomacocha;acobamba;peru	-12.84988999999996	-74.54499999999996	point					Peru
+palcamayo;tarma;peru	-11.25658999999996	-75.81349999999998	point					Peru
+huayllan;pomabamba;peru	-8.850019999999972	-77.44206999999994	point					Peru
+tupac amaru;canas;peru	-14.133119999999963	-71.52112999999997	point					Peru
+pampa hermosa;satipo;peru	-11.392489999999952	-74.75201999999996	point					Peru
+megantoni;la convencion;peru	-12.350173698999981	-72.92314191999998	point					Peru
+acobamba;tarma;peru	-11.352799999999945	-75.65928999999994	point					Peru
+camanti;quispicanchi;peru	-13.31120999999996	-70.81142999999997	point					Peru
+alis;yauyos;peru	-12.24912999999998	-75.64117999999996	point					Peru
+tinta;canchis;peru	-14.11257999999998	-71.41844999999995	point					Peru
+huaripampa;jauja;peru	-11.81332999999995	-75.49195999999995	point					Peru
+tunan marca;jauja;peru	-11.734929999999963	-75.60030999999998	point					Peru
+taraco;huancane;peru	-15.299609999999973	-69.97972999999996	point					Peru
+san francisco;ambo;peru	-10.277719999999931	-76.33514999999994	point					Peru
+cosme;churcampa;peru	-12.612812015999964	-74.48946368099996	point					Peru
+longar;rodriguez de mendoza;peru	-6.383289999999931	-77.54353999999995	point					Peru
+vischongo;vilcas huaman;peru	-13.573369999999954	-74.01867999999996	point					Peru
+callalli;caylloma;peru	-15.534009999999967	-71.37884999999994	point					Peru
+jesus;lauricocha;peru	-10.080979999999954	-76.62955999999997	point					Peru
+pastaza;datem del maranon;peru	-4.654759999999953	-76.59064999999998	point					Peru
+asillo;azangaro;peru	-14.787039999999934	-70.35338999999993	point					Peru
+atavillos alto;huaral;peru	-11.208479999999952	-76.52578999999997	point					Peru
+sausa;jauja;peru	-11.787619999999947	-75.47636999999997	point					Peru
+jenaro herrera;requena;peru	-4.889529999999979	-73.67194999999998	point					Peru
+cortegana;celendin;peru	-6.48803473199996	-78.28598334599997	point					Peru
+pachangara;oyon;peru	-10.887359999999944	-76.83296999999999	point					Peru
+longuita;luya;peru	-6.407728100999975	-78.00460207999998	point					Peru
+machupicchu;urubamba;peru	-13.165419956433176	-72.54415006679426	point					Peru
+llipata;palpa;peru	-14.573909999999955	-75.20876999999996	point					Peru
+cuturapi;yunguyo;peru	-16.266569999999945	-69.17702999999995	point					Peru
+masin;huari;peru	-9.313619999999958	-77.02889999999996	point					Peru
+arahuay;canta;peru	-11.620709999999974	-76.66949999999997	point					Peru
+santa rosa;melgar;peru	-14.511979999999937	-70.92283999999995	point					Peru
+niepos;san miguel;peru	-6.898509999999931	-79.13277999999997	point					Peru
+cocabamba;luya;peru	-6.627099960999942	-78.01540165499995	point					Peru
+padre marquez;ucayali;peru	-8.045019999999965	-74.78544999999997	point					Peru
+conchucos;pallasca;peru	-8.269529999999975	-77.85276999999996	point					Peru
+cajay;huari;peru	-9.337359999999933	-77.15915999999999	point					Peru
+andabamba;acobamba;peru	-12.653809999999964	-74.66150999999996	point					Peru
+pamparomas;huaylas;peru	-9.077079999999967	-77.98347999999999	point					Peru
+rahuapampa;huari;peru	-9.355457530999956	-77.06289345899995	point					Peru
+caja;acobamba;peru	-12.880299999999977	-74.49175999999994	point					Peru
+valera;bongara;peru	-6.037619999999947	-77.93541999999997	point					Peru
+rosaspata;huancane;peru	-15.23446999999993	-69.52819999999997	point					Peru
+huachon;pasco;peru	-10.642659999999978	-75.83040999999997	point					Peru
+contumaza;contumaza;peru	-7.355747150999946	-78.97939426299996	point					Peru
+yuracmarca;huaylas;peru	-8.758289999999931	-77.89121999999998	point					Peru
+acostambo;tayacaja;peru	-12.346469999999954	-75.06148999999994	point					Peru
+ondores;junin;peru	-10.962099999999964	-76.23860999999994	point					Peru
+llumpa;mariscal luzuriaga;peru	-8.94065999999998	-77.36137999999994	point					Peru
+san pedro de putina puncu;sandia;peru	-14.076149999999927	-68.98556999999994	point					Peru
+florida;bongara;peru	-5.766599999999926	-77.91707999999994	point					Peru
+ocobamba;la convencion;peru	-12.795279999999934	-72.42129999999997	point					Peru
+huantar;huari;peru	-9.430649999999957	-77.19234999999998	point					Peru
+huamanguilla;huanta;peru	-13.009429999999952	-74.17235999999997	point					Peru
+sarhua;victor fajardo;peru	-13.730699999999956	-74.48017999999996	point					Peru
+huampara;yauyos;peru	-12.357899999999972	-76.16773999999998	point					Peru
+huancas;chachapoyas;peru	-6.172859999999957	-77.86358999999999	point					Peru
+matahuasi;concepcion;peru	-11.86660999999998	-75.37234999999998	point					Peru
+ulcumayo;junin;peru	-10.960069999999973	-75.90133999999995	point					Peru
+chiquian;bolognesi;peru	-10.08600999999993	-77.19420999999994	point					Peru
+mito;concepcion;peru	-11.907979999999952	-75.36267999999995	point					Peru
+acochaca;asuncion;peru	-9.113639999999975	-77.36664999999994	point					Peru
+llaylla;satipo;peru	-11.372939999999971	-74.54623999999995	point					Peru
+san francisco de asis;lauricocha;peru	-9.93996999999996	-76.62518999999998	point					Peru
+ccapi;paruro;peru	-13.860536338999964	-72.01959807399999	point					Peru
+santa cruz;palpa;peru	-14.505699999999933	-75.25476999999995	point					Peru
+sexi;santa cruz;peru	-6.54595999999998	-79.04552999999999	point					Peru
+llusco;chumbivilcas;peru	-14.32556999999997	-72.13107999999994	point					Peru
+colcha;paruro;peru	-13.814509999999927	-71.83346999999998	point					Peru
+callanmarca;angaraes;peru	-12.867959999999925	-74.62306999999998	point					Peru
+alto nanay;maynas;peru	-3.883959999999945	-73.69724999999994	point					Peru
+colquemarca;chumbivilcas;peru	-14.212859999999978	-72.07315999999997	point					Peru
+quichuay;huancayo;peru	-11.84565618399995	-75.24874304699995	point					Peru
+casitas;contralmirante villar;peru	-3.989509999999939	-80.66441999999995	point					Peru
+cunumbuqui;lamas;peru	-6.502029999999934	-76.47750999999994	point					Peru
+suyckutambo;espinar;peru	-14.915899999999965	-71.55660999999998	point					Peru
+el prado;san miguel;peru	-7.0483299999999645	-79.01984999999996	point					Peru
+chuquis;dos de mayo;peru	-9.648549999999943	-76.72005999999999	point					Peru
+yanas;dos de mayo;peru	-9.71422999999993	-76.74866999999995	point					Peru
+capacmarca;chumbivilcas;peru	-14.00834999999995	-71.99953999999997	point					Peru
+omacha;paruro;peru	-14.053819999999973	-71.77078999999998	point					Peru
+pucara;huancayo;peru	-12.187089999999955	-75.13742999999994	point					Peru
+san juan de iscos;chupaca;peru	-12.10078999999996	-75.29487999999998	point					Peru
+tumbaden;san pablo;peru	-7.041859999999929	-78.75481999999994	point					Peru
+shipasbamba;bongara;peru	-5.918709999999976	-78.00834999999995	point					Peru
+mancos;yungay;peru	-9.178549999999973	-77.66715999999997	point					Peru
+san gaban;carabaya;peru	-13.524429999999938	-70.42398999999995	point					Peru
+colquepata;paucartambo;peru	-13.420099999999934	-71.65250999999995	point					Peru
+paucartambo;paucartambo;peru	-10.775889999999947	-75.81604999999996	point					Peru
+acopia;acomayo;peru	-14.019839999999931	-71.50424999999996	point					Peru
+huancapon;cajatambo;peru	-10.50422999999995	-77.16832999999997	point					Peru
+curicaca;jauja;peru	-11.769779999999969	-75.70778999999999	point					Peru
+huachis;huari;peru	-9.405899999999974	-77.11795999999998	point					Peru
+chongos alto;huancayo;peru	-12.46306999999996	-75.45509999999996	point					Peru
+manzanares;concepcion;peru	-12.001944185999946	-75.36477602999997	point					Peru
+jacas grande;huamalies;peru	-9.553459999999973	-76.74059999999997	point					Peru
+pataz;pataz;peru	-8.14271326499994	-77.32352668799996	point					Peru
+san francisco de cayran;huanuco;peru	-10.008044238999958	-76.31861042499997	point					Peru
+manu;manu;peru	-12.279949538999972	-71.28527531599997	point					Peru
+moya;huancavelica;peru	-12.380069999999932	-75.13424999999995	point					Peru
+san jose de lourdes;san ignacio;peru	-4.975439999999935	-78.91524999999996	point					Peru
+quishuar;tayacaja;peru	-12.216549999999927	-74.77099999999996	point					Peru
+crucero;carabaya;peru	-14.297439999999938	-69.78876999999994	point					Peru
+gorgor;cajatambo;peru	-10.600379999999973	-77.07258999999993	point					Peru
+chupa;azangaro;peru	-15.107359999999971	-69.98422999999997	point					Peru
+leoncio prado;huaura;peru	-11.059699999999964	-76.93009999999998	point					Peru
+atavillos bajo;huaral;peru	-11.284189999999967	-76.83607999999998	point					Peru
+coyllurqui;cotabambas;peru	-13.940349999999967	-72.39042999999998	point					Peru
+huatasani;huancane;peru	-14.999119999999948	-69.83601999999996	point					Peru
+dean valdivia;islay;peru	-17.109999999999957	-71.78292999999996	point					Peru
+san rafael;ambo;peru	-10.341359999999952	-76.18301999999994	point					Peru
+accomarca;vilcas huaman;peru	-13.784539999999936	-73.84127999999998	point					Peru
+arma;castrovirreyna;peru	-13.125919999999951	-75.54365999999999	point					Peru
+luya viejo;luya;peru	-6.129299999999944	-78.07887999999997	point					Peru
+posic;rioja;peru	-5.968699999999956	-77.20468999999997	point					Peru
+comandante noel;casma;peru	-9.44486999999998	-78.35098999999997	point					Peru
+caceres del peru;santa;peru	-8.971499999999935	-78.04896999999994	point					Peru
+pueblo nuevo;leoncio prado;peru	-9.08096999999998	-76.06302999999997	point					Peru
+san bartolome;huarochiri;peru	-11.891309999999976	-76.49583999999999	point					Peru
+pariahuanca;huancayo;peru	-11.979139999999973	-74.89698999999996	point					Peru

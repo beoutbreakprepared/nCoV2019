@@ -8,6 +8,7 @@ testing = False
 import argparse
 import configparser
 import logging
+import socket
 
 import geocoder
 from geocoder import arcgis
@@ -31,7 +32,8 @@ def main():
     logging.basicConfig(
         format='%(asctime)s %(filename)s:%(lineno)d %(message)s',
         filename='cleanup.log', filemode="w", level=logging.INFO)
-    
+    # Increase default timeout, 60s isn't enough for big sheets.
+    socket.setdefaulttimeout(600)
     sheets = get_GoogleSheets(config)
 
     # Load geocoder early so that invalid tsv paths errors are caught early on.
