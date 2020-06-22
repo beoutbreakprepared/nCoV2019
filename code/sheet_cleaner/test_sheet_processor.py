@@ -23,22 +23,11 @@ class TestSheetProcessor(unittest.TestCase):
     @patch('spreadsheet.GoogleSheet')
     def test_ok(self, mock_sheet):
         with tempfile.TemporaryDirectory() as tmpdirname:
-            txt_config = f"""
-            [DEFAULT]
-
-            [FILES]
-            DATA = {tmpdirname}/covid-19.data.prod.TIMESTAMP.csv
-            ERRORS = {tmpdirname}
-            LATEST = {tmpdirname}
-
-            [GIT]
-            REPO = {tmpdirname}
-            """
+            os.mkdir(os.path.join(tmpdirname, 'latest_data'))
+            os.mkdir(os.path.join(tmpdirname, 'error_reports'))
             open(os.path.join(tmpdirname, "latestdata.csv"), 'w').close()
             with tarfile.open(os.path.join(tmpdirname, "latestdata.tar.gz"), "w:gz") as tar:
                 tar.add(os.path.join(tmpdirname, "latestdata.csv"), arcname="latestdata.csv")
-            config = configparser.ConfigParser()
-            config.read_string(txt_config)
 
             mapping = defaultdict(FakeResult)
 
@@ -56,7 +45,7 @@ class TestSheetProcessor(unittest.TestCase):
                     ["24", "male","cit","pro","coun","4","20.04.2020","21.04.2020","20.04.2020","symp","no","","","","handsome guy","0","","fake","0","discharged","25.04.2020","","TF","0", '14.15', '16.17', 'admin1', 'loc', 'admin3', 'admin2', 'point', 'France', '42'],
                 ],
             ])
-            processor = SheetProcessor([mock_sheet], geocoder, config)
+            processor = SheetProcessor([mock_sheet], geocoder, tmpdirname)
             processor.process()
             # Checking that no exception is raised is fine for now.
             # We could also check for output files in tmpdirname later on.

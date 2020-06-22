@@ -1,26 +1,26 @@
+import configparser
 import logging
 import os
-from datetime import datetime
+import pathlib
 import tarfile
+from datetime import datetime
 from typing import List
-import configparser
 
 import pandas as pd
 
-from geocoding import csv_geocoder
-from spreadsheet import GoogleSheet
-
 from functions import (duplicate_rows_per_column, fix_na, fix_sex,
                        generate_error_tables, trim_df, values2dataframe)
+from geocoding import csv_geocoder
+from spreadsheet import GoogleSheet
 
 
 class SheetProcessor:
 
-    def __init__(self, sheets: List[GoogleSheet], geocoder: csv_geocoder.CSVGeocoder, config: configparser.ConfigParser):
+    def __init__(self, sheets: List[GoogleSheet], geocoder: csv_geocoder.CSVGeocoder, git_repo_path: str):
         self.for_github = []
         self.sheets = sheets
         self.geocoder = geocoder
-        self.config = config
+        self.git_repo_path = git_repo_path
 
     def process(self):
         """Does all the heavy handling of spreadsheets, writing output to CSV files."""
@@ -71,7 +71,7 @@ class SheetProcessor:
             # Save error_reports
             # These are separated by Sheet.
             logging.info('Saving error reports')
-            directory   = self.config['FILES']['ERRORS']
+            directory   = os.path.join(self.git_repo_path, 'error_reports')
             file_name   = f'{s.name}.error-report.csv'
             error_file  = os.path.join(directory, file_name)
             non_fixable.to_csv(error_file, index=False, header=True, encoding="utf-8")
@@ -111,22 +111,22 @@ class SheetProcessor:
             logging.info("Wrote all geocode misses to geocode_misses.csv")
         if len(self.geocoder.new_geocodes) > 0:
             logging.info("Appending new geocodes to geo_admin.tsv")
-            with open(self.config['GEOCODING'].get('TSV_PATH'), "a") as f:
+            with open(self.geocoder.tsv_path, "a") as f:
                 self.geocoder.append_new_geocodes_to_init_file(f)
-            self.for_github.append(self.config['GEOCODING'].get('TSV_PATH'))
+            self.for_github.append(self.geocoder.tsv_path)
         # Reorganize csv columns so that they are in the same order as when we
         # used to have those geolocation within the spreadsheet.
         # This is to avoid breaking latestdata.csv consumers.
         all_data = all_data[["ID","age","sex","city","province","country","latitude","longitude","geo_resolution","date_onset_symptoms","date_admission_hospital","date_confirmation","symptoms","lives_in_Wuhan","travel_history_dates","travel_history_location","reported_market_exposure","additional_information","chronic_disease_binary","chronic_disease","source","sequence_available","outcome","date_death_or_discharge","notes_for_discussion","location","admin3","admin2","admin1","country_new","admin_id","data_moderator_initials","travel_history_binary"]]
 
-        latest_csv_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.csv')
-        latest_targz_name = os.path.join(self.config['FILES']['LATEST'], 'latestdata.tar.gz')
+        latest_csv_name = os.path.join(self.git_repo_path, 'latest_data', 'latestdata.csv')
+        latest_targz_name = os.path.join(self.git_repo_path, 'latest_data', 'latestdata.tar.gz')
 
         # ensure new data is >= than the last one. 
         if os.path.exists(latest_targz_name):
             logging.info("Ensuring that num of rows in new data is > old data...")
             with tarfile.open(latest_targz_name, "r:gz") as tar:
-                tar.extract("latestdata.csv", self.config['FILES']['LATEST'])
+                tar.extract("latestdata.csv", os.path.join(self.git_repo_path, 'latest_data'))
             old_num_lines = sum(1 for line in open(latest_csv_name))
             line_diff = len(all_data) - old_num_lines
             if line_diff >= 0:
@@ -144,7 +144,7 @@ class SheetProcessor:
         # save timestamped file.
         logging.info("Saving files to disk")
         dt = datetime.now().strftime('%Y-%m-%dT%H%M%S')
-        file_name   = self.config['FILES']['DATA'].replace('TIMESTAMP', dt)
+        file_name   = os.path.join(self.git_repo_path, "covid-19.data.TIMESTAMP.csv").replace('TIMESTAMP', dt)
         all_data.to_csv(file_name, index=False, encoding="utf-8")
         # Compress latest data to tar.gz because it's too big for git.
         all_data.to_csv(latest_csv_name, index=False, encoding="utf-8")
@@ -154,7 +154,7 @@ class SheetProcessor:
         # Store unique source list.
         unique_sources = all_data.source.unique()
         unique_sources.sort()
-        sources_file = os.path.join(self.config['GIT']['REPO'], 'sources_list.txt')
+        sources_file = os.path.join(self.git_repo_path, 'sources_list.txt')
         with open(sources_file, "w") as f:
             for s in unique_sources:
                 f.write(s+"\n")
@@ -167,7 +167,7 @@ class SheetProcessor:
         logging.info("Pushing to github")
         # Create script for uploading to github
         script  = 'set -e\n'
-        script += 'cd {}\n'.format(self.config['GIT']['REPO'])
+        script += 'cd {}\n'.format(self.git_repo_path)
         script += 'git pull origin master\n'
         
         for g in self.for_github:

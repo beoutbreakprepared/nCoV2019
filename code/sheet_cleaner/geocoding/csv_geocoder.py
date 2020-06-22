@@ -50,6 +50,7 @@ class CSVGeocoder:
         # Geocodes that were added during this run.
         self.new_geocodes :Dict[Geocode]= {}
         self._fallback = fallback
+        self._init_csv_path = init_csv_path
         with open(init_csv_path, newline="", encoding='utf-8') as csvfile:
             # Delimiter is \t instead of , because google spreadsheets were
             # exporting lat,lng with commas, leading to an invalid number of
@@ -69,6 +70,10 @@ class CSVGeocoder:
                 self.geocodes[row[_INPUT_ROW].lower()] = geocode
         logging.info("Loaded %d geocodes from %s", len(self.geocodes), init_csv_path)
         self.misses = Counter()
+
+    @property
+    def tsv_path(self):
+        return self._init_csv_path
         
 
     def geocode(self, city :str="", province :str="", country :str="") -> Geocode:

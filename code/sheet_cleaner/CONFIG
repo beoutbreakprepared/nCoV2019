@@ -1,18 +1,5 @@
 [DEFAULT]
 
-[FILES]
-# WheRe to save data (and log)
-LOG = /path/to/file.log
-DATA = /path/to/covid-19.data.TIMESTAMP.csv
-ERRORS = /path/to/error_reports/
-LATEST = /path/to/latest_data/
-
-[GIT]
-REPO = /path/to/gitrepo/
-
-[GEOCODING]
-TSV_PATH = geocoding/geo_admin.tsv
-
 [SHEETS]
 CREDENTIALS = /path/to/service-credentials 
 TOKEN = /path/to/credentials_token.pickle

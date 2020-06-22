@@ -8,14 +8,16 @@ testing = False
 import argparse
 import configparser
 import logging
+import os
+import pathlib
 import socket
 
 import geocoder
 from geocoder import arcgis
 
 import sheet_processor
-from geocoding import csv_geocoder
 from functions import get_GoogleSheets
+from geocoding import csv_geocoder
 
 parser = argparse.ArgumentParser(
     description='Cleanup sheet and output generation script')
@@ -25,6 +27,8 @@ parser.add_argument('-p', '--push_to_git', default=False, const=True, action="st
                     help='Whether to push to the git repo specified in the config')
 
 def main():
+    cur_dir = pathlib.Path(__file__).parent.absolute()
+    geocode_path = os.path.join(cur_dir, "geocoding", "geo_admin.tsv")
     args = parser.parse_args()
     config = configparser.ConfigParser()
     config.optionxform=str # to preserve case
@@ -38,9 +42,10 @@ def main():
 
     # Load geocoder early so that invalid tsv paths errors are caught early on.
     geocoder = csv_geocoder.CSVGeocoder(
-        config['GEOCODING'].get('TSV_PATH'),
+        geocode_path,
         arcgis)
-    sp = sheet_processor.SheetProcessor(sheets, geocoder, config)
+    git_repo_path = os.path.join(cur_dir, "..", "..")
+    sp = sheet_processor.SheetProcessor(sheets, geocoder, git_repo_path)
     sp.process()
     
     if args.push_to_git:
