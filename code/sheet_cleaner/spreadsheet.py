@@ -1,15 +1,20 @@
 '''
 GoogleSheet Object
 '''
+import os
+import pickle
+import re
+import string
+
 from apiclient import errors
-from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+from retry import retry
+
 from google.auth.transport.requests import Request
 from google.oauth2 import service_account
-import pickle
-import os
-import string
-import re
+
 
 class GoogleSheet(object):
     '''
@@ -62,6 +67,7 @@ class GoogleSheet(object):
         return creds
 	
 
+    @retry(HttpError, tries=5, delay=10)
     def read_values(self, range_):
         '''
         Read values from Sheet and return as is
