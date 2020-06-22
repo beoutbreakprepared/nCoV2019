@@ -1,9 +1,5 @@
 [DEFAULT]
 
-[SHEETS]
-CREDENTIALS = /path/to/service-credentials 
-TOKEN = /path/to/credentials_token.pickle
-
 [TEMPLATE]
 SID = 1-WgQiP0Bed7om1dYdfFZhZ5Nx70WnNoB7mtIBSK3z4k
 EMAILTO = covid19_spreadsheets@googlegroups.com

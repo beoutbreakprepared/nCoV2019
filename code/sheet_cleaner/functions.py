@@ -18,7 +18,7 @@ from constants import rgx_age, rgx_sex, rgx_date, rgx_lives_in_wuhan, date_colum
 from spreadsheet import GoogleSheet
 
 
-def get_GoogleSheets(config: configparser.ConfigParser) -> List[GoogleSheet]:
+def get_GoogleSheets(config: configparser.ConfigParser, creds_file: str, is_service_account: bool) -> List[GoogleSheet]:
     '''
     Loop through different sheets in config file, and init objects.
 
@@ -38,9 +38,9 @@ def get_GoogleSheets(config: configparser.ConfigParser) -> List[GoogleSheet]:
             sid = config[s]['SID']
             name = config[s]['NAME']
             googlesheet = GoogleSheet(sid, name, id_, 
-                    config['SHEETS'].get("TOKEN"),
-                    config['SHEETS'].get('CREDENTIALS'),
-                    config['SHEETS'].get('IS_SERVICE_ACCOUNT'))
+                    creds_file + '.pickle',
+                    creds_file,
+                    is_service_account)
 
             sheets.append(googlesheet)
     return sheets

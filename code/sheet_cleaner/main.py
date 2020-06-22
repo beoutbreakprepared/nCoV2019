@@ -23,8 +23,12 @@ parser = argparse.ArgumentParser(
     description='Cleanup sheet and output generation script')
 parser.add_argument('-c', '--config_file', type=str, default="CONFIG",
                     help='Path to the config file')
+parser.add_argument('--creds_file', type=str,
+                    help='Path to the json credentials')
 parser.add_argument('-p', '--push_to_git', default=False, const=True, action="store_const", dest='push_to_git',
                     help='Whether to push to the git repo specified in the config')
+parser.add_argument('-s', '--is_service_account', default=True, const=True, action="store_const", dest='is_service_account',
+                    help='Whether the creds file is that of a service account')
 
 def main():
     cur_dir = pathlib.Path(__file__).parent.absolute()
@@ -38,7 +42,7 @@ def main():
         filename='cleanup.log', filemode="w", level=logging.INFO)
     # Increase default timeout, 60s isn't enough for big sheets.
     socket.setdefaulttimeout(600)
-    sheets = get_GoogleSheets(config)
+    sheets = get_GoogleSheets(config, args.creds_file, args.is_service_account)
 
     # Load geocoder early so that invalid tsv paths errors are caught early on.
     geocoder = csv_geocoder.CSVGeocoder(
