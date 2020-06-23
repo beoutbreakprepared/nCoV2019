@@ -9,7 +9,7 @@ Two excellent resources that host a large amount of data are:
 
  We hope to complement these resources by provisioning two types of additional testing data: (a) for those countries currently absent from these sources and (b) provide further geographic granularity where reported
 
-# Testing Data Schema
+## Testing Data Schema
 Files should have the following columns in common:
 
 nid - a unique identifier cross-referencing a source within the Global Health Data Exchange (http://ghdx.healthdata.org/) [numeric]
@@ -28,7 +28,7 @@ daily_tests - daily test numbers conducted on that day
 
 tests_units - information as to the units used for the tests e.g. total tests processed, individuals tested, tests process in state laboratories
 
-## Use notes
+### Use notes
 
 total_tests and daily_tests are mutually exclusive fields
 
