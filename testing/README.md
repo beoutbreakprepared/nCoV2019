@@ -19,8 +19,10 @@ daily_tests - daily test numbers conducted on that day
 
 tests_units - information as to the units used for the tests e.g. total tests processed, individuals tested, tests process in state laboratories
 
-Use notes
+## Use notes
 
 total_tests and daily_tests are mutually exclusive fields
+
 Days of no report are indicated with blank cells and should not be interpreted as zero
+
 Other columns may be present in the location-specific csvs
