@@ -1,5 +1,14 @@
 # COVID-19 Testing Data
 
+Our aim is to supplement the existing global data openly available for testing for COVID-19
+
+Two excellent resources that host a large amount of data are:
+
+ - Our World in Data (https://github.com/owid/covid-19-data) - global coverage
+ - The COVID Tracking Project (https://covidtracking.com/api) - United States state level data
+
+ We hope to complement these resources by provisioning two types of additional testing data: (a) for those countries currently absent from these sources and (b) provide further geographic granularity where reported
+
 # Testing Data Schema
 Files should have the following columns in common:
 
