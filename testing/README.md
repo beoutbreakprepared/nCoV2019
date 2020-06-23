@@ -46,6 +46,8 @@ Barbados - Barbados Government Information Service https://gisbarbados.gov.bb/co
 
 Bermuda - Government of Bermuda https://www.gov.bm/news
 
+Bosnia and Herzegovina - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
+
 Democratic Republic of the Congo - Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1
 
 Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
