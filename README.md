@@ -154,6 +154,7 @@ Sarah Hill	| @Hill_SarahC	||	sarah.hill@zoo.ox.ac.uk
 Sheriffo Ceesay	||	sneceesay77	
 Shingirai Pfumayaramba	||	shingiraip	
 Shivanand Guness	||	shivam11	
+Stefanie Watson || stefanieaw | watsonsa@uw.edu
 Stephen Radcliffe||sratcliffe118|sratcliffe@google.com
 Steve Bachmeier|| stevebachmeier|sbachmeri@uw.edu
 Sumiko Mekaru	| @Sumiko_Mekaru	||	Sumiko.Mekaru@childrens.harvard.edu
