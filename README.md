@@ -155,6 +155,7 @@ Sheriffo Ceesay	||	sneceesay77
 Shingirai Pfumayaramba	||	shingiraip	
 Shivanand Guness	||	shivam11	
 Stephen Radcliffe||sratcliffe118|sratcliffe@google.com
+Steve Bachmeier|| stevebachmeier|sbachmeri@uw.edu
 Sumiko Mekaru	| @Sumiko_Mekaru	||	Sumiko.Mekaru@childrens.harvard.edu
 Tahir	||	tahirlanre	
 Thomas Brewer		|||	Thomas.Brewer@childrens.harvard.edu
