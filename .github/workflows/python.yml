@@ -6,6 +6,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    env:
+      working-directory: './code/sheet_cleaner'
 
     steps:
     - uses: actions/checkout@v2
