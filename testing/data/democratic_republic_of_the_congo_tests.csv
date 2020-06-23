@@ -1,0 +1,78 @@
+nid,location_id,location,date,total_cases,confirmed_cases,probable_cases,total_tests,daily_tests,tests_units,source
+,171,Democratic Republic of the Congo,22.06.2020,6027,6026,1,,,,Email Bulletin 91
+,171,Democratic Republic of the Congo,21.06.2020,5925,5924,1,,336,samples tested,Email Bulletin 90
+,171,Democratic Republic of the Congo,20.06.2020,5826,5825,1,,,,Email Bulletin 89
+,171,Democratic Republic of the Congo,19.06.2020,5672,5671,1,,839,samples tested,Email Bulletin 88
+,171,Democratic Republic of the Congo,18.06.2020,5477,5476,1,,624,samples tested,Email Bulletin 87
+,171,Democratic Republic of the Congo,17.06.2020,5283,5282,1,,569,samples tested,Email Bulletin 86
+,171,Democratic Republic of the Congo,16.06.2020,5100,5099,1,,549,samples tested,Email Bulletin 85
+,171,Democratic Republic of the Congo,15.06.2020,4974,4973,1,,,,Email Bulletin 84
+,171,Democratic Republic of the Congo,14.06.2020,4837,4836,1,,,,Email Bulletin 83
+,171,Democratic Republic of the Congo,13.06.2020,4778,4777,1,,362,samples tested,Email Bulletin 82
+,171,Democratic Republic of the Congo,12.06.2020,4724,4723,1,,366,samples tested,Email Bulletin 81
+,171,Democratic Republic of the Congo,11.06.2020,4637,4636,1,,579,samples tested,Email Bulletin 80
+,171,Democratic Republic of the Congo,10.06.2020,4515,4514,1,,655,samples tested,Email Bulletin 79
+,171,Democratic Republic of the Congo,09.06.2020,4390,4389,1,,392,samples tested,Email Bulletin 78
+,171,Democratic Republic of the Congo,08.06.2020,4259,4258,1,,,,Email Bulletin 77
+,171,Democratic Republic of the Congo,07.06.2020,4106,4105,1,,,,Email Bulletin 76
+,171,Democratic Republic of the Congo,06.06.2020,4016,4015,1,,492,samples tested,Email Bulletin 75
+,171,Democratic Republic of the Congo,05.06.2020,3878,3877,1,,440,samples tested,Email Bulletin 74
+,171,Democratic Republic of the Congo,04.06.2020,3764,3763,1,,415,samples tested,Email Bulletin 73
+,171,Democratic Republic of the Congo,03.06.2020,3644,3643,1,,650,samples tested,Email Bulletin 72
+,171,Democratic Republic of the Congo,02.06.2020,3495,3494,1,,610,samples tested,Email Bulletin 71
+,171,Democratic Republic of the Congo,01.06.2020,3326,3325,1,,,,Email Bulletin 70
+,171,Democratic Republic of the Congo,31.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,30.05.2020,3070,3069,1,,357,samples tested,Email Bulletin 68
+,171,Democratic Republic of the Congo,29.05.2020,2966,2965,1,,398,samples tested,Email Bulletin 67
+,171,Democratic Republic of the Congo,28.05.2020,2833,2832,1,,327,samples tested,Email Bulletin 66
+,171,Democratic Republic of the Congo,27.05.2020,2660,2659,1,,367,samples tested,Email Bulletin 65
+,171,Democratic Republic of the Congo,26.05.2020,2546,2545,1,,410,samples tested,Email Bulletin 64
+,171,Democratic Republic of the Congo,25.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,24.05.2020,2297,2296,1,,402,samples tested,Email Bulletin 62
+,171,Democratic Republic of the Congo,23.05.2020,2141,2140,1,,287,samples tested,Email Bulletin 61
+,171,Democratic Republic of the Congo,22.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,21.05.2020,1945,1944,1,,225,samples tested,Email Bulletin 60; Email Bulletin 59
+,171,Democratic Republic of the Congo,20.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,19.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,18.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,17.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,16.05.2020,1455,1454,1,,242,samples tested,Email Bulletin 54
+,171,Democratic Republic of the Congo,15.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,14.05.2020,1299,1298,1,,209,samples tested,Email Bulletin 53; Email Bulletin 52
+,171,Democratic Republic of the Congo,13.05.2020,1242,1242,,,310,samples tested,Email Bulletin 52; Email Bulletin 51
+,171,Democratic Republic of the Congo,12.05.2020,1169,1169,,,192,samples tested,Email Bulletin 51; Email Bulletin 50
+,171,Democratic Republic of the Congo,11.05.2020,1102,1102,,,289,samples tested,Email Bulletin 50; Email Bulletin 49
+,171,Democratic Republic of the Congo,10.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,09.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,08.05.2020,937,937,,,131,samples tested,Email Bulletin 46
+,171,Democratic Republic of the Congo,07.05.2020,897,897,,,270,samples tested,Email Bulletin 45
+,171,Democratic Republic of the Congo,06.05.2020,863,863,,,374,samples tested,Email Bulletin 44
+,171,Democratic Republic of the Congo,05.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,04.05.2020,705,705,,,121,samples tested,Email Bulletin 42
+,171,Democratic Republic of the Congo,03.05.2020,,,,,,,
+,171,Democratic Republic of the Congo,02.05.2020,674,674,,,164,samples tested,Email Bulletin 40
+,171,Democratic Republic of the Congo,01.05.2020,604,604,,,238,samples tested,Email Bulletin 39
+,171,Democratic Republic of the Congo,30.04.2020,,,,,,,
+,171,Democratic Republic of the Congo,29.04.2020,500,500,,,126,samples tested,Email Bulletin 37
+,171,Democratic Republic of the Congo,28.04.2020,491,491,,,187,samples tested,Email Bulletin 36
+,171,Democratic Republic of the Congo,27.04.2020,471,471,,,70,samples tested,Email Bulletin 35
+,171,Democratic Republic of the Congo,26.04.2020,,,,,,,
+,171,Democratic Republic of the Congo,25.04.2020,442,442,,,190,samples tested,Email Bulletin 33
+,171,Democratic Republic of the Congo,24.04.2020,416,416,,,136,samples tested,Email Bulletin 32
+,171,Democratic Republic of the Congo,23.04.2020,394,394,,,74,samples tested,Email Bulletin 31
+,171,Democratic Republic of the Congo,22.04.2020,377,377,,,119,samples tested,Email Bulletin 30
+,171,Democratic Republic of the Congo,21.04.2020,359,359,,,123,samples tested,Email Bulletin 29
+,171,Democratic Republic of the Congo,20.04.2020,350,350,,,86,samples tested,Email Bulletin 28
+,171,Democratic Republic of the Congo,19.04.2020,332,332,,,127,samples tested,Email Bulletin 27
+,171,Democratic Republic of the Congo,18.04.2020,327,327,,,297,samples tested,Email Bulletin 26
+,171,Democratic Republic of the Congo,17.04.2020,307,307,,,300,samples tested,Email Bulletin 25
+,171,Democratic Republic of the Congo,16.04.2020,287,287,,,141,samples tested,Email Bulletin 24
+,171,Democratic Republic of the Congo,15.04.2020,267,267,,,206,samples tested,Email Bulletin 23
+,171,Democratic Republic of the Congo,14.04.2020,254,254,,,197,samples tested,Email Bulletin 22
+,171,Democratic Republic of the Congo,13.04.2020,241,241,,,68,samples tested,Email Bulletin 21
+,171,Democratic Republic of the Congo,12.04.2020,,,,,,,
+,171,Democratic Republic of the Congo,11.04.2020,234,234,,,122,samples tested,Email Bulletin 19
+,171,Democratic Republic of the Congo,10.04.2020,223,223,,,127,samples tested,Email Bulletin 18
+,171,Democratic Republic of the Congo,09.04.2020,215,215,,,98,samples tested,Email Bulletin 17
+,171,Democratic Republic of the Congo,08.04.2020,207,207,,,64,samples tested,Email Bulletin 16
+,171,Democratic Republic of the Congo,07.04.2020,,,,,,,
