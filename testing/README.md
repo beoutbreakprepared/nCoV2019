@@ -35,3 +35,15 @@ total_tests and daily_tests are mutually exclusive fields
 Days of no report are indicated with blank cells and should not be interpreted as zero
 
 Other columns may be present in the location-specific csvs
+
+## Source acknowledgement
+
+We are indebted to the hard work of those individuals and organizations across the world who have been willing and able to report data in an open and timely manner.
+
+Armenia - NCDC https://ncdc.am/coronavirus/confirmed-cases-by-days/
+
+Barbados - Barbados Government Information Service https://gisbarbados.gov.bb/covid-19/
+
+Bermuda - Government of Bermuda https://www.gov.bm/news
+
+Democratic Republic of the Congo - Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1
