@@ -1,0 +1,65 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
+448804,173,Gabon,17.04.2020,108,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,18.04.2020,109,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,19.04.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,20.04.2020,120,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,21.04.2020,156,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,22.04.2020,166,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,23.04.2020,166,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,24.04.2020,169,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,25.04.2020,172,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,26.04.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,27.04.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,28.04.2020,238,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,29.04.2020,276,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,30.04.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,01.05.2020,308,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,02.05.2020,335,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,03.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,04.05.2020,367,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,05.05.2020,397,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,06.05.2020,439,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,07.05.2020,504,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,08.05.2020,620,,454,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,09.05.2020,661,,213,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,10.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,11.05.2020,802,,642,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,12.05.2020,863,5530,,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,13.05.2020,1004,,886,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,14.05.2020,1104,,434,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,15.05.2020,1209,,433,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,16.05.2020,1320,,395,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,17.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,18.05.2020,1432,,521,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,19.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,20.05.2020,1567,,345,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,21.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,22.05.2020,1728,,499,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,23.05.2020,1934,,787,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,24.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,25.05.2020,2135,,775,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,26.05.2020,2238,,657,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,27.05.2020,2319,,720,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,28.05.2020,2431,,609,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,29.05.2020,2613,,1164,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,30.05.2020,2655,,289,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,31.05.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,01.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,02.06.2020,2803,,1143,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,03.06.2020,2902,,424,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,04.06.2020,2955,,372,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,05.06.2020,3101,,669,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,06.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,07.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,08.06.2020,3247,,877,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,09.06.2020,3294,,525,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,10.06.2020,3375,,621,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,11.06.2020,3463,,764,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,12.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,13.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,14.06.2020,,,,,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,15.06.2020,4033,,3726,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,16.06.2020,4114,,498,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,17.06.2020,4229,,1132,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,18.06.2020,4340,,1168,tests performed,https://infocovid.ga/lactualite-covid-19/
+448804,173,Gabon,19.06.2020,4428,,989,tests performed,https://infocovid.ga/lactualite-covid-19/
