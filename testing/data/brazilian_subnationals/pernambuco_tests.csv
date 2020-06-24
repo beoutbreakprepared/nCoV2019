@@ -1,4 +1,5 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,link
+,4766,Pernambuco,22.06.2020,,101647,,tests performed,https://dados.seplag.pe.gov.br/apps/corona_dados.html
 ,4766,Pernambuco,21.06.2020,,100861,,tests performed,https://dados.seplag.pe.gov.br/apps/corona_dados.html
 ,4766,Pernambuco,20.06.2020,,100010,,tests performed,https://dados.seplag.pe.gov.br/apps/corona_dados.html
 ,4766,Pernambuco,19.06.2020,,97634,,tests performed,https://dados.seplag.pe.gov.br/apps/corona_dados.html
