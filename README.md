@@ -159,7 +159,7 @@ Shingirai Pfumayaramba	||	shingiraip
 Shivanand Guness	||	shivam11	
 Stefanie Watson || stefanieaw | watsonsa@uw.edu
 Stephen Radcliffe||sratcliffe118|sratcliffe@google.com
-Steve Bachmeier|| stevebachmeier|sbachmeri@uw.edu
+Steve Bachmeier|| stevebachmeier|sbachmei@uw.edu
 Sumiko Mekaru	| @Sumiko_Mekaru	||	Sumiko.Mekaru@childrens.harvard.edu
 Tahir	||	tahirlanre	
 Thomas Brewer		|||	Thomas.Brewer@childrens.harvard.edu
