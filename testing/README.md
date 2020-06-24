@@ -61,3 +61,5 @@ Gabon - Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié 
 Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
 
 Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
+
+Zambia - Zambia National Public Health Institute http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
