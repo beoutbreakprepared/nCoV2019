@@ -10,19 +10,17 @@ Standard Operating Procedures are described in the `SOP.md` file in this directo
 
 ### One-time setup.
 
-Go to the [cloud console](http://console.developers.google.com/iam-admin/serviceaccounts/details/101380493036790386317;edit=true?previousPage=%2Fapis%2Fcredentials%3Fproject%3Dvoltaic-circuit-274214&project=voltaic-circuit-274214) and getclick on `CREATE KEY`, store the json file on your computer and point the `CREDENTIALS` paths in the config file to this file.
-
-Point the various other config options to appropriate local directories (GIT repo, etc).
+Go to the [cloud console](http://console.developers.google.com/iam-admin/serviceaccounts/details/101380493036790386317;edit=true?previousPage=%2Fapis%2Fcredentials%3Fproject%3Dvoltaic-circuit-274214&project=voltaic-circuit-274214) and getclick on `CREATE KEY`, store the json file on your computer somewhere safe.
 
 ### Running the script
 
 To run the script, simply do:
 
 ```console
-python3 main.py -c CONFIG
+python3 main.py --creds_file /path/to/sheets/credentials/json/file
 ```
 
-If you want to push to the repo you specified in the config file, add  `--push_to_git` to the command line above.
+If you want to push to the repo you specified in the config file, add  `--push_to_git` or `-p` to the command above.
 
 ## Geocoding
 
