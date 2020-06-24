@@ -104,6 +104,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447502,53618,Islamabad,20.06.2020,10662,,3214,tests performed
 447502,53618,Islamabad,21.06.2020,10912,,2545,tests performed
 447502,53618,Islamabad,22.06.2020,11219,,2178,tests performed
+447502,53618,Islamabad,23.06.2020,11483,,2663,tests performed
 447508,53620,Punjab,10.03.2020,0,,,
 447508,53620,Punjab,11.03.2020,0,,105,tests performed
 447508,53620,Punjab,12.03.2020,0,,5,tests performed
@@ -209,6 +210,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447508,53620,Punjab,20.06.2020,65739,,10188,tests performed
 447508,53620,Punjab,21.06.2020,66943,,9598,tests performed
 447508,53620,Punjab,22.06.2020,68308,,8318,tests performed
+447508,53620,Punjab,23.06.2020,69536,,10152,tests performed
 447510,53619,Khyber Pakhtunkhwa,10.03.2020,0,,0,tests performed
 447510,53619,Khyber Pakhtunkhwa,11.03.2020,0,,29,tests performed
 447510,53619,Khyber Pakhtunkhwa,12.03.2020,0,,1,tests performed
@@ -314,6 +316,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447510,53619,Khyber Pakhtunkhwa,20.06.2020,21444,,3448,tests performed
 447510,53619,Khyber Pakhtunkhwa,21.06.2020,21997,,3416,tests performed
 447510,53619,Khyber Pakhtunkhwa,22.06.2020,22633,,3033,tests performed
+447510,53619,Khyber Pakhtunkhwa,23.06.2020,23388,,3076,tests performed
 447511,53616,Balochistan,10.03.2020,1,,,tests performed
 447511,53616,Balochistan,11.03.2020,1,,18,tests performed
 447511,53616,Balochistan,12.03.2020,1,,0,tests performed
@@ -419,6 +422,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447511,53616,Balochistan,20.06.2020,9328,,661,tests performed
 447511,53616,Balochistan,21.06.2020,9475,,707,tests performed
 447511,53616,Balochistan,22.06.2020,9587,,790,tests performed
+447511,53616,Balochistan,23.06.2020,9634,,580,tests performed
 447512,53617,Gilgit-Baltistan,10.03.2020,2,,,tests performed
 447512,53617,Gilgit-Baltistan,11.03.2020,3,,28,tests performed
 447512,53617,Gilgit-Baltistan,12.03.2020,3,,4,tests performed
@@ -524,6 +528,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447512,53617,Gilgit-Baltistan,20.06.2020,1278,,209,tests performed
 447512,53617,Gilgit-Baltistan,21.06.2020,1288,,117,tests performed
 447512,53617,Gilgit-Baltistan,22.06.2020,1326,,317,tests performed
+447512,53617,Gilgit-Baltistan,23.06.2020,1337,,53,tests performed
 447513,53615,Azad Jammu & Kashmir,10.03.2020,0,,,tests performed
 447513,53615,Azad Jammu & Kashmir,11.03.2020,0,,8,tests performed
 447513,53615,Azad Jammu & Kashmir,12.03.2020,0,,1,tests performed
@@ -629,6 +634,7 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447513,53615,Azad Jammu & Kashmir,20.06.2020,813,,305,tests performed
 447513,53615,Azad Jammu & Kashmir,21.06.2020,845,,247,tests performed
 447513,53615,Azad Jammu & Kashmir,22.06.2020,869,,122,tests performed
+447513,53615,Azad Jammu & Kashmir,23.06.2020,892,,259,tests performed
 447509,53621,Sindh,10.03.2020,,,,tests performed
 447509,53621,Sindh,11.03.2020,,,198,tests performed
 447509,53621,Sindh,12.03.2020,,,42,tests performed
@@ -734,3 +740,4 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447509,53621,Sindh,20.06.2020,67353,,10830,tests performed
 447509,53621,Sindh,21.06.2020,69628,,13890,tests performed
 447509,53621,Sindh,22.06.2020,71092,,9841,tests performed
+447509,53621,Sindh,23.06.2020,72656,,6597,tests performed
