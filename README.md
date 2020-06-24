@@ -112,6 +112,7 @@ Julia Morgan	|||		morgaj5@uw.edu
 Kamorudeen Amuda	||	akindele2012	
 Kara Sewalk	|@kara_sewalk		|| Kara.Sewalk@childrens.harvard.edu
 Karen Santiago	| @itzelmardesiche	||	santiagomardesichekaren@gmail.com
+Kate LeGrand | | klegrand15 | kel15@uw.edu
 Kazeem Hakeem	||	hakymulla	
 Kelly Moran | | khmoran|khmoran@google.com
 Kernie Obimakinde||dakrownie|kernie@google.com
@@ -147,7 +148,9 @@ Onesimo Mtintsilana		|| oniemtie
 Pablo Reyes		|||	preyesa19@gmail.com
 Pamela Andrade	|||		pamelandrade22@gmail.com
 Raul Aveiro	| @Raulaveiro	||	raul.aveiro45@gmail.com
+Rebecca Cogen | | | cogenr@uw.edu
 Sabrina Li |	@sabrinalyli	||	sabrina.li@ouce.ox.ac.uk
+Sam Ewald | | sewald01 | ewalds2@uw.edu
 Sam Scarpino |	@svscarpino	||	s.scarpino@northeastern.edu
 Sang Woo Park |	@sang_woo_park |	parksw3	| swp2@princeton.edu
 Sarah Hill	| @Hill_SarahC	||	sarah.hill@zoo.ox.ac.uk
