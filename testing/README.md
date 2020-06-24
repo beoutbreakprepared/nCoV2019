@@ -44,6 +44,8 @@ Armenia - NCDC https://ncdc.am/coronavirus/confirmed-cases-by-days/
 
 Barbados - Barbados Government Information Service https://gisbarbados.gov.bb/covid-19/
 
+Belize - Ministry of Health https://www.facebook.com/pg/dhsbelize/posts/
+
 Bermuda - Government of Bermuda https://www.gov.bm/news
 
 Bosnia and Herzegovina - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
