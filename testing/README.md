@@ -48,6 +48,14 @@ Bermuda - Government of Bermuda https://www.gov.bm/news
 
 Bosnia and Herzegovina - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
 
+Cyprus - Press and Information Office https://www.pio.gov.cy/coronavirus/press.html
+
 Democratic Republic of the Congo - Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1
+
+Dominican Republic - Ministerio de Salud Publica http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19
+
+Gabon - Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus https://infocovid.ga/lactualite-covid-19/
+
+Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
 
 Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
