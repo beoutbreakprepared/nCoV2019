@@ -1,8 +1,8 @@
 name: Update aggregated data
 
-on: push #for testing
-  # schedule:
-    #- cron: '2 22 * * *' Is what we'd like to do, run daily overnight
+on:
+  schedule:
+    - cron: '2 22 * * *'
 
 jobs:
   fetch:
