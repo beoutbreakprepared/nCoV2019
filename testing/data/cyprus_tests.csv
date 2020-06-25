@@ -86,3 +86,4 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 443240,77,Cyprus,22.06.2020,988,,1039,tests processed
 443240,77,Cyprus,23.06.2020,990,,1067,tests processed
 443240,77,Cyprus,24.06.2020,991,,1405,tests processed
+443240,77,Cyprus,25.06.2020,992,,1104,tests processed
