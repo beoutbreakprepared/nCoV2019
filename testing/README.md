@@ -56,9 +56,15 @@ Democratic Republic of the Congo - Comité multisectoriel de la riposte à la Pa
 
 Dominican Republic - Ministerio de Salud Publica http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19
 
+Eswatini - Ministry of Health of the Kingdom of Eswatini http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB
+
 Gabon - Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus https://infocovid.ga/lactualite-covid-19/
 
 Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
+
+Guinea - Agence National de la Securite Sanitaire https://anss-guinee.org/welcome
+
+Mali - Ministere de la Sante et des Affaires Sociales http://www.sante.gov.ml/index.php/actualites/communiques
 
 Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
 
