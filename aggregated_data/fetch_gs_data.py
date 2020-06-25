@@ -6,8 +6,6 @@ import os
 
 parser = argparse.ArgumentParser(description="Get latest Covid-19 data from the GSQuant platform.")
 parser.add_argument('output', metavar='OUT_DIR', type=str, nargs=1, help='Directory to write output files')
-parser.add_argument('--client-id', type=str, required=True, help='GSQuant client ID')
-parser.add_argument('--client-secret', type=str, required=True, help='GSQuant client secret')
 args = parser.parse_args()
 
 output = args.output[0]
@@ -18,7 +16,10 @@ except FileExistsError:
     # Ignore, because we can use an existing folder
     pass
 
-GsSession.use(Environment.PROD, client_id=args.client_id, client_secret=args.client_secret, scopes=('read_product_data'))
+client_id=os.environ['GS_CLIENT_ID']
+client_secret = os.environ['GS_CLIENT_SECRET']
+
+GsSession.use(Environment.PROD, client_id=client_id, client_secret=client_secret, scopes=('read_product_data'))
 
 datasets = [('COVID19_COUNTRY_DAILY_WHO', 'daily_who_by_country'),
             ('COVID19_US_DAILY_CDC', 'daily_cdc_us'),
