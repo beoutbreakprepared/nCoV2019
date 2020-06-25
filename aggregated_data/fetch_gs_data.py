@@ -1,12 +1,24 @@
 from gs_quant.session import GsSession, Environment
 from gs_quant.data import Dataset
 from datetime import date
+import argparse
 import os
 
-client_id = os.environ['GS_CLIENT_ID']
-client_secret = os.environ['GS_CLIENT_SECRET']
+parser = argparse.ArgumentParser(description="Get latest Covid-19 data from the GSQuant platform.")
+parser.add_argument('output', metavar='OUT_DIR', type=str, nargs=1, help='Directory to write output files')
+parser.add_argument('--client-id', type=str, required=True, help='GSQuant client ID')
+parser.add_argument('--client-secret', type=str, required=True, help='GSQuant client secret')
+args = parser.parse_args()
 
-GsSession.use(Environment.PROD, client_id=client_id, client_secret=client_secret, scopes=('read_product_data'))
+output = args.output[0]
+
+try:
+    os.mkdir(output)
+except FileExistsError:
+    # Ignore, because we can use an existing folder
+    pass
+
+GsSession.use(Environment.PROD, client_id=args.client_id, client_secret=args.client_secret, scopes=('read_product_data'))
 
 datasets = [('COVID19_COUNTRY_DAILY_WHO', 'daily_who_by_country'),
             ('COVID19_US_DAILY_CDC', 'daily_cdc_us'),
@@ -19,10 +31,10 @@ datasets = [('COVID19_COUNTRY_DAILY_WHO', 'daily_who_by_country'),
             ('COVID19_US_DAILY_NYT', 'daily_nyt_us'),
             ('COVID19_KOREA_DAILY_KCDC', 'daily_kcdc_korea'),
             # ('COVID19_JAPAN_DAILY_MHLW', 'daily_mhlw_japan'), I got a 403 error
-            ('COVID19_ITALY_DAILY_DPC', 'daily_italy_hpc'),
+            # ('COVID19_ITALY_DAILY_DPC', 'daily_italy_hpc'), 403 err0r
             ('COVID19_COUNTRY_DAILY_GOOGLE', 'daily_google_by_country')]
 
 for (id,name) in datasets:
     dataset = Dataset(id)
     data_frame = dataset.get_data()
-    data_frame.to_csv(f"output/{name}.tsv", sep='\t', encoding='utf-8')
+    data_frame.to_csv(f"{output}/{name}.tsv", sep='\t', encoding='utf-8')
