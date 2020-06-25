@@ -26,5 +26,3 @@ for (id,name) in datasets:
     dataset = Dataset(id)
     data_frame = dataset.get_data()
     data_frame.to_csv(f"output/{name}.tsv", sep='\t', encoding='utf-8')
-
-# get more datasets from https://developer.gs.com/docs/covid/data/datasets/nhs/
