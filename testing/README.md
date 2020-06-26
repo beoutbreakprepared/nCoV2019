@@ -40,6 +40,8 @@ Other columns may be present in the location-specific csvs
 
 We are indebted to the hard work of those individuals and organizations across the world who have been willing and able to report data in an open and timely manner.
 
+Albania - Ministria e Shendetesise dhe Mbrojtjes Sociale https://new.shendetesia.gov.al/category/lajme/
+
 Armenia - NCDC https://ncdc.am/coronavirus/confirmed-cases-by-days/
 
 Barbados - Barbados Government Information Service https://gisbarbados.gov.bb/covid-19/
@@ -49,6 +51,16 @@ Belize - Ministry of Health https://www.facebook.com/pg/dhsbelize/posts/
 Bermuda - Government of Bermuda https://www.gov.bm/news
 
 Bosnia and Herzegovina - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
+
+Canada - Government of Canada https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+
+Cape Verde - Governo de Cabo Verde https://covid19.cv/
+
+Central African Republic - Ministère de la santé publique http://www.msp-centrafrique.net/index.php?query=covid&id=home
+
+Costa Rica - Ministerio de Salud http://geovision.uned.ac.cr/oges/#descargas
+
+Cote d'Ivoire - Ministère de la Santé et de l'Hygiène Publique https://www.facebook.com/Mshpci/
 
 Cyprus - Press and Information Office https://www.pio.gov.cy/coronavirus/press.html
 
@@ -64,8 +76,28 @@ Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
 
 Guinea - Agence National de la Securite Sanitaire https://anss-guinee.org/welcome
 
+Guinea Bissau - INFOCOVID-19 https://covid19gb.com/noticias/
+
+Guyana - Ministry of Public Health https://health.gov.gy/
+
+Honduras - Gobierno de la Republica de Honduras http://www.salud.gob.hn/site/index.php/covid19
+
+Madagascar - Ministere Sante Publique http://www.sante.gov.mg/ministere-sante-publique/category/coronavirus/
+
+Malawi - Ministry of Health https://covid19.health.gov.mw/
+
 Mali - Ministere de la Sante et des Affaires Sociales http://www.sante.gov.ml/index.php/actualites/communiques
 
+Mauritius - Republic of Mauritius http://www.govmu.org/English/Pages/ViewAllCommuniquecovid19.aspx
+
+Mozambique - National Institute of Health https://covid19.ins.gov.mz/documentos/
+
+Namibia - Ministry of Health and Social Services https://namibiacovid19.gov.na/app-statistics
+
+Niger - Ministère de la santé publique du Niger https://twitter.com/minsanteniger?lang=en
+
 Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
+
+Togo - Republique Togolaise https://covid19.gouv.tg/situation-au-togo/
 
 Zambia - Zambia National Public Health Institute http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
