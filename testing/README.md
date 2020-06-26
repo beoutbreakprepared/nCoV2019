@@ -70,6 +70,8 @@ Dominican Republic - Ministerio de Salud Publica http://digepisalud.gob.do/docum
 
 Eswatini - Ministry of Health of the Kingdom of Eswatini http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB
 
+Fiji - Ministry of Health & Medical Services http://www.health.gov.fj/covid-19-updates/
+
 Gabon - Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus https://infocovid.ga/lactualite-covid-19/
 
 Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
