@@ -1,4 +1,10 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
+447580,191,Zambia,21.06.2020,1452,49393,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+447580,191,Zambia,20.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+447580,191,Zambia,19.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+447580,191,Zambia,18.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+447580,191,Zambia,17.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+447580,191,Zambia,16.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,15.06.2020,1382,45248,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,14.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,13.06.2020,1357,44126,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
