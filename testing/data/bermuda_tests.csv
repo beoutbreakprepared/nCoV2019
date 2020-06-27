@@ -1,4 +1,7 @@
 nid,location,location_id,date,total_cases,deaths,hospitalizations,hospitalizations_measure,icu,icu_measure,total_tests,daily_tests,tests_units,notes
+,Bermuda,305,25.06.2020,146,9,1,population,,,,220,test results received,
+,Bermuda,305,24.06.2020,146,9,1,population,,,,41,test results received,
+,Bermuda,305,23.06.2020,146,9,1,population,,,,58,test results received,
 ,Bermuda,305,22.06.2020,146,9,1,population,,,,336,test results received,
 ,Bermuda,305,21.06.2020,,,,,,,,,,
 ,Bermuda,305,20.06.2020,146,9,1,population,,,,232,test results received,
