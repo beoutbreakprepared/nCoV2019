@@ -1,4 +1,12 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
+449443,218,Togo,26.06.2020,591,29347,436,tests processed
+449443,218,Togo,25.06.2020,588,28911,224,tests processed
+449443,218,Togo,24.06.2020,583,28687,178,tests processed
+449443,218,Togo,23.06.2020,576,28509,444,tests processed
+449443,218,Togo,22.06.2020,569,28065,79,tests processed
+449443,218,Togo,21.06.2020,569,27986,162,tests processed
+449443,218,Togo,20.06.2020,561,27824,486,tests processed
+449443,218,Togo,19.06.2020,555,27338,579,tests processed
 449443,218,Togo,18.06.2020,547,26759,315,tests processed
 449443,218,Togo,17.06.2020,544,26444,424,tests processed
 449443,218,Togo,16.06.2020,537,26020,431,tests processed
