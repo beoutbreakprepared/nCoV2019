@@ -50,7 +50,9 @@ Belize - Ministry of Health https://www.facebook.com/pg/dhsbelize/posts/
 
 Bermuda - Government of Bermuda https://www.gov.bm/news
 
-[Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv) - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
+[Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv)
+Source: [Ministarstvo civilnih poslova Bosne i Hercegovine] (http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs)
+
 
 Canada - Government of Canada https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 
