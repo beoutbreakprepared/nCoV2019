@@ -36,7 +36,7 @@ Days of no report are indicated with blank cells and should not be interpreted a
 
 Other columns may be present in the location-specific csvs
 
-## Source acknowledgement
+## Source acknowledgements and descriptions
 
 We are indebted to the hard work of those individuals and organizations across the world who have been willing and able to report data in an open and timely manner.
 
@@ -50,7 +50,7 @@ Belize - Ministry of Health https://www.facebook.com/pg/dhsbelize/posts/
 
 Bermuda - Government of Bermuda https://www.gov.bm/news
 
-Bosnia and Herzegovina - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
+[Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv) - Ministarstvo civilnih poslova Bosne i Hercegovine http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs
 
 Canada - Government of Canada https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 
