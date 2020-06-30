@@ -66,7 +66,7 @@ We report the cumulative number of people tested ("Broj testiranih") each day.
 Reporting begins on the 1st April, with the cumulative total persons tested standing at 3,458. It is unclear from this source when the first tests were conducted. Since the 6th of June, this source no longer updates on weekends and these dates are blank.
 
 [Canada](data/canada_tests.csv)
-* [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+* Source: [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 
 [Cape Verde](data/cape_verde_tests.csv)
 * Source: [Governo de Cabo Verde](https://covid19.cv/)
@@ -86,7 +86,8 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 [Democratic Republic of the Congo](data/democratic_republic_of_the_congo_tests.csv)
 * Source: [Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC](https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1)
 
-Dominican Republic - Ministerio de Salud Publica http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19
+[Dominican Republic](data/dominican_republic_tests.csv)
+Source: [Ministerio de Salud Publica](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19)
 
 Eswatini - Ministry of Health of the Kingdom of Eswatini http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB
 
