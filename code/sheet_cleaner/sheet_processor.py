@@ -129,14 +129,10 @@ class SheetProcessor:
                 tar.extract("latestdata.csv", os.path.join(self.git_repo_path, 'latest_data'))
             old_num_lines = sum(1 for line in open(latest_csv_name))
             line_diff = len(all_data) - old_num_lines
-            if line_diff >= 0:
-                logging.info(f"Check passed, {line_diff} new lines")
-                logging.info("removing old .tar.gz file")
-                os.remove(latest_targz_name)
-                os.remove(latest_csv_name)
-            else:
-                logging.error(f"Check failed line_diff={line_diff}")
-                return
+            logging.info(f"{line_diff} new lines")
+            logging.info("removing old .tar.gz file")
+            os.remove(latest_targz_name)
+            os.remove(latest_csv_name)
         else:
             logging.info(f"{latest_targz_name} does not exist, creating it.")
 
