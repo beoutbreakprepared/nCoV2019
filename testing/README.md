@@ -40,15 +40,20 @@ Other columns may be present in the location-specific csvs
 
 We are indebted to the hard work of those individuals and organizations across the world who have been willing and able to report data in an open and timely manner.
 
-Albania - Ministria e Shendetesise dhe Mbrojtjes Sociale https://new.shendetesia.gov.al/category/lajme/
+[Albania](data/albania_tests.csv)
+* Source: [Ministria e Shendetesise dhe Mbrojtjes Sociale](https://new.shendetesia.gov.al/category/lajme/)
 
-Armenia - NCDC https://ncdc.am/coronavirus/confirmed-cases-by-days/
+[Armenia](data/armenai_tests.csv)
+* Source: [NCDC](https://ncdc.am/coronavirus/confirmed-cases-by-days/)
 
-Barbados - Barbados Government Information Service https://gisbarbados.gov.bb/covid-19/
+[Barbados](data/barbados_tests.csv)
+* Source: [Barbados Government Information Service](https://gisbarbados.gov.bb/covid-19/)
 
-Belize - Ministry of Health https://www.facebook.com/pg/dhsbelize/posts/
+[Belize](data/belize_tests.csv)
+* Source: (Ministry of Health)[https://www.facebook.com/pg/dhsbelize/posts/]
 
-Bermuda - Government of Bermuda https://www.gov.bm/news
+[Bermuda](data/bermuda_tests.csv)
+* Source: (Government of Bermuda)[https://www.gov.bm/news]
 
 [Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv)
 
