@@ -58,7 +58,7 @@ Bermuda - Government of Bermuda https://www.gov.bm/news
 
 * Long description: Official testing data is reported by the Ministry of Civil Affairs of Bosnia and Herzergovina on their [website](http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs). Since the 1st of April, this resource has reported the number of confirmed cases in the country, the number of people tested, the number of people currently under investigation, and the number of deaths. All measures report at a national level, as well as the three main administrative regions: Brčko District (BD), Federation of Bosnia and Herzegovina (FBiH), and Republika Srpska (RS). 
 We report the cumulative number of people tested ("Broj testiranih") each day.
-Reporting begins on the 1st April, with the cumulative total persons tested standing at 3,458. It is unclear from this source when the first tests were conducted. Since the 6th of June, this source no long updates on weekends and these dates are blank.
+Reporting begins on the 1st April, with the cumulative total persons tested standing at 3,458. It is unclear from this source when the first tests were conducted. Since the 6th of June, this source no longer updates on weekends and these dates are blank.
 
 
 Canada - Government of Canada https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
