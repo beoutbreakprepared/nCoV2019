@@ -50,10 +50,10 @@ We are indebted to the hard work of those individuals and organizations across t
 * Source: [Barbados Government Information Service](https://gisbarbados.gov.bb/covid-19/)
 
 [Belize](data/belize_tests.csv)
-* Source: (Ministry of Health)[https://www.facebook.com/pg/dhsbelize/posts/]
+* Source: [Ministry of Health](https://www.facebook.com/pg/dhsbelize/posts/)
 
 [Bermuda](data/bermuda_tests.csv)
-* Source: (Government of Bermuda)[https://www.gov.bm/news]
+* Source: [Government of Bermuda](https://www.gov.bm/news)
 
 [Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv)
 
@@ -65,20 +65,26 @@ We are indebted to the hard work of those individuals and organizations across t
 We report the cumulative number of people tested ("Broj testiranih") each day.
 Reporting begins on the 1st April, with the cumulative total persons tested standing at 3,458. It is unclear from this source when the first tests were conducted. Since the 6th of June, this source no longer updates on weekends and these dates are blank.
 
+[Canada](data/canada_tests.csv)
+* [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 
-Canada - Government of Canada https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+[Cape Verde](data/cape_verde_tests.csv)
+* Source: [Governo de Cabo Verde](https://covid19.cv/)
 
-Cape Verde - Governo de Cabo Verde https://covid19.cv/
+[Central African Republic](data/central_african_republic_tests.csv)
+* Source: [Ministère de la santé publique](http://www.msp-centrafrique.net/index.php?query=covid&id=home)
 
-Central African Republic - Ministère de la santé publique http://www.msp-centrafrique.net/index.php?query=covid&id=home
+[Costa Rica](data/costa_rica_tests.csv)
+* Source: [Ministerio de Salud](http://geovision.uned.ac.cr/oges/#descargas)
 
-Costa Rica - Ministerio de Salud http://geovision.uned.ac.cr/oges/#descargas
+[Cote d'Ivoire](data/cote_d'ivoire_tests.csv)
+* Source: [Ministère de la Santé et de l'Hygiène Publique](https://www.facebook.com/Mshpci/)
 
-Cote d'Ivoire - Ministère de la Santé et de l'Hygiène Publique https://www.facebook.com/Mshpci/
+[Cyprus](data/cyprus_tests.csv)
+* Source: [Press and Information Office](https://www.pio.gov.cy/coronavirus/press.html)
 
-Cyprus - Press and Information Office https://www.pio.gov.cy/coronavirus/press.html
-
-Democratic Republic of the Congo - Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1
+[Democratic Republic of the Congo](data/democratic_republic_of_the_congo_tests.csv)
+* Source: [Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC](https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1)
 
 Dominican Republic - Ministerio de Salud Publica http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19
 
