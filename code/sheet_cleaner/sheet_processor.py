@@ -156,7 +156,6 @@ class SheetProcessor:
                 f.write(s+"\n")
         self.for_github.append(sources_file)
         logging.info("Wrote %s, %s, %s", file_name, latest_csv_name, latest_targz_name)
-        self.for_github.append(file_name)
 
     def push_to_github(self):
         """Pushes csv files created by Process to Github."""
