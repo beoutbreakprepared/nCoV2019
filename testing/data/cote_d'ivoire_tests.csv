@@ -1,4 +1,9 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
+447566,205,Côte d'Ivoire,27.06.2020,8944,52261,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,26.06.2020,8739,50914,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,25.06.2020,8334,49352,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,24.06.2020,8164,48340,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,23.06.2020,7904,47299,,tests_processed,https://www.facebook.com/Mshpci/
 447566,205,Côte d'Ivoire,22.06.2020,7677,45996,,tests_processed,https://www.facebook.com/Mshpci/posts/1622307757934912
 447566,205,Côte d'Ivoire,21.06.2020,7492,45152,,tests_processed,https://www.facebook.com/Mshpci/posts/1621434464688908
 447566,205,Côte d'Ivoire,20.06.2020,7276,44230,,tests_processed,https://www.facebook.com/Mshpci/posts/1620395981459423

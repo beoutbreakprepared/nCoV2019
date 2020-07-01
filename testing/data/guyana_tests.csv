@@ -1,4 +1,12 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,negative_tests,tests_units
+448786,113,Guyana,27.06.2020,230,2423,,2193,individuals tested
+448786,113,Guyana,26.06.2020,230,2423,,2193,individuals tested
+448786,113,Guyana,25.06.2020,215,2355,,2140,individuals tested
+448786,113,Guyana,24.06.2020,209,2246,,2037,individuals tested
+448786,113,Guyana,23.06.2020,206,2168,,1962,individuals tested
+448786,113,Guyana,22.06.2020,205,2147,,1924,individuals tested
+448786,113,Guyana,21.06.2020,184,2108,,1924,individuals tested
+448786,113,Guyana,20.06.2020,183,2048,,1865,individuals tested
 448786,113,Guyana,19.06.2020,183,2048,,1865,individuals tested
 448786,113,Guyana,18.06.2020,183,2048,,1865,individuals tested
 448786,113,Guyana,17.06.2020,171,2006,,1835,individuals tested
