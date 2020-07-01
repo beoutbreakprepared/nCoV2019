@@ -94,7 +94,7 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 * Source: [Ministerio de Salud Publica](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19)
 
 [Eswatini](data/eswatini_tests.csv) 
-* Source: [Ministry of Health of the Kingdom of Eswatini](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB)
+* Source: Ministry of Health of the Kingdom of Eswatini via [source 1](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020) and [source 2](https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB))
 
 [Fiji](data/fiji_tests.csv)
 * Source: [Ministry of Health & Medical Services](http://www.health.gov.fj/covid-19-updates/)
