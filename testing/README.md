@@ -94,7 +94,7 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 * Source: [Ministerio de Salud Publica](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19)
 
 [Eswatini](data/eswatini_tests.csv) 
-* Source: Ministry of Health of the Kingdom of Eswatini via [source 1](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020) and [source 2](https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB))
+* Source: Ministry of Health of the Kingdom of Eswatini via [source 1](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020) and [source 2](https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB)
 
 [Fiji](data/fiji_tests.csv)
 * Source: [Ministry of Health & Medical Services](http://www.health.gov.fj/covid-19-updates/)
@@ -123,18 +123,25 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 [Malawi](data/malawi_tests.csv)
 * Source: [Ministry of Health](https://covid19.health.gov.mw/)
 
-Mali - Ministere de la Sante et des Affaires Sociales http://www.sante.gov.ml/index.php/actualites/communiques
+[Mali](data/mali_tests.csv)
+* Source: [Ministere de la Sante et des Affaires Sociales](http://www.sante.gov.ml/index.php/actualites/communiques)
 
-Mauritius - Republic of Mauritius http://www.govmu.org/English/Pages/ViewAllCommuniquecovid19.aspx
+[Mauritius](data/mauritius_tests.csv)
+* Source [Republic of Mauritius](http://www.govmu.org/English/Pages/ViewAllCommuniquecovid19.aspx)
 
-Mozambique - National Institute of Health https://covid19.ins.gov.mz/documentos/
+[Mozambique](data/mozambique_tests.csv)
+* Source [National Institute of Health](https://covid19.ins.gov.mz/documentos/)
 
-Namibia - Ministry of Health and Social Services https://namibiacovid19.gov.na/app-statistics
+[Namibia](data/namibia_tests.csv)
+* Source [Ministry of Health and Social Services](https://namibiacovid19.gov.na/app-statistics)
 
-Niger - Ministère de la santé publique du Niger https://twitter.com/minsanteniger?lang=en
+[Niger](data/niger_tests.csv)
+* Source [Ministère de la santé publique du Niger](https://twitter.com/minsanteniger?lang=en)
 
-Saint Kitts and Nevis - Government of St Kitts and Nevis https://www.covid19.gov.kn/daily-reports/
+[Saint Kitts and Nevis](data/saint_kitts_tests.csv)
+* Source [Government of St Kitts and Nevis](https://www.covid19.gov.kn/daily-reports/)
 
-Togo - Republique Togolaise https://covid19.gouv.tg/situation-au-togo/
+[Togo](data/togo_tests.csv)
+* Source [Republique Togolaise](https://covid19.gouv.tg/situation-au-togo/)
 
 Zambia - Zambia National Public Health Institute http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
