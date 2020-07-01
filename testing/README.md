@@ -43,13 +43,13 @@ We are indebted to the hard work of those individuals and organizations across t
 [Albania](data/albania_tests.csv)
 * Source: [Ministria e Shendetesise dhe Mbrojtjes Sociale](https://new.shendetesia.gov.al/category/lajme/)
 
+[Armenia](data/armenia_tests.csv)
+* Source: [NCDC](https://ncdc.am/coronavirus/confirmed-cases-by-days/)
+
 * Short description: The number of tests performed (positive cases + negative test results)
 
 * Long description: Official testing data is reported by the NCDC [website](https://ncdc.am/coronavirus/confirmed-cases-by-days/). Since the 3rd February, the number of confirmed cases, recovered individuals, deaths, and negative test results are reported.
-We report the daily number of tests 
-
-[Armenia](data/armenia_tests.csv)
-* Source: [NCDC](https://ncdc.am/coronavirus/confirmed-cases-by-days/)
+We report the cumulative number of total tests performed, as the sum of the daily numbers of confirmed cases (Հաստատված դեպքեր) and negative test results (Բացասական թեստերի արդյունքներ). While not explicitly stated, we are confident that all tests have been reported and are captured by this arithmetic given that the sum of all daily confirmed cases and negative test results corresponds to the daily cumulative total of general tests (Ընդհանուր թեստեր) reported in a separate part of the dashboard.
 
 [Barbados](data/barbados_tests.csv)
 * Source: [Barbados Government Information Service](https://gisbarbados.gov.bb/covid-19/)
@@ -91,13 +91,16 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 * Source: [Comité multisectoriel de la riposte à la Pandémie du Covid-19 en RDC](https://us3.campaign-archive.com/home/?u=b34a30571d429859fb249533d&id=1d019331c1)
 
 [Dominican Republic](data/dominican_republic_tests.csv)
-Source: [Ministerio de Salud Publica](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19)
+* Source: [Ministerio de Salud Publica](http://digepisalud.gob.do/documentos/?drawer=Vigilancia%20Epidemiologica*Alertas%20epidemiologicas*Coronavirus*Nacional*Boletin%20Especial%20COVID-19)
 
-Eswatini - Ministry of Health of the Kingdom of Eswatini http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB
+[Eswatini](data/eswatini_tests.csv) 
+* Source: [Ministry of Health of the Kingdom of Eswatini](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB)
 
-Fiji - Ministry of Health & Medical Services http://www.health.gov.fj/covid-19-updates/
+[Fiji](data/fiji_tests.csv
+* Source: [Ministry of Health & Medical Services](http://www.health.gov.fj/covid-19-updates/)
 
-Gabon - Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus https://infocovid.ga/lactualite-covid-19/
+[Gabon](data/gabon_tests.csv) 
+* Source: [Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus](https://infocovid.ga/lactualite-covid-19/)
 
 Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
 
