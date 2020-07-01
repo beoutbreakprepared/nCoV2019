@@ -43,7 +43,12 @@ We are indebted to the hard work of those individuals and organizations across t
 [Albania](data/albania_tests.csv)
 * Source: [Ministria e Shendetesise dhe Mbrojtjes Sociale](https://new.shendetesia.gov.al/category/lajme/)
 
-[Armenia](data/armenai_tests.csv)
+* Short description: The number of tests performed (positive cases + negative test results)
+
+* Long description: Official testing data is reported by the NCDC [website](https://ncdc.am/coronavirus/confirmed-cases-by-days/). Since the 3rd February, the number of confirmed cases, recovered individuals, deaths, and negative test results are reported.
+We report the daily number of tests 
+
+[Armenia](data/armenia_tests.csv)
 * Source: [NCDC](https://ncdc.am/coronavirus/confirmed-cases-by-days/)
 
 [Barbados](data/barbados_tests.csv)
@@ -56,7 +61,6 @@ We are indebted to the hard work of those individuals and organizations across t
 * Source: [Government of Bermuda](https://www.gov.bm/news)
 
 [Bosnia and Herzegovina](data/bosnia_and_herzegovina_tests.csv)
-
 * Source: [Ministarstvo civilnih poslova Bosne i Hercegovine](http://mcp.gov.ba/publication/read/epidemioloska-slika-covid-19?lang=bs)
 
 * Short description: The number of people tested
