@@ -1,4 +1,13 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,negative_tests,tests_units,source
+448285,184,Mozambique,28.06.2020,,,,,,
+448285,184,Mozambique,27.06.2020,,,,,,
+448285,184,Mozambique,26.06.2020,816,27123,,26307,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,25.06.2020,788,26204,,25416,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,24.06.2020,762,25446,,24684,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,23.06.2020,757,25042,,24285,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,22.06.2020,737,24348,,23611,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,21.06.2020,733,23760,,23027,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,20.06.2020,688,23104,,22416,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,19.06.2020,668,22263,,21595,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,18.06.2020,662,21780,,21118,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,17.06.2020,651,21014,,20363,individuals tested,https://covid19.ins.gov.mz/

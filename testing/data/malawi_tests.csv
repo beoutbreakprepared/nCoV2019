@@ -26,3 +26,8 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,so
 448202,182,Malawi,21.06.2020,730,9475,,tests_processed,https://covid19.health.gov.mw/
 448202,182,Malawi,22.06.2020,749,10790,,tests_processed,https://covid19.health.gov.mw/
 448202,182,Malawi,23.06.2020,803,11074,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,24.06.2020,848,11114,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,25.06.2020,960,12118,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,26.06.2020,1005,12578,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,27.06.2020,1005,12578,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,28.06.2020,1038,12578,,tests_processed,https://covid19.health.gov.mw/
