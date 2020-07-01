@@ -144,4 +144,5 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 [Togo](data/togo_tests.csv)
 * Source [Republique Togolaise](https://covid19.gouv.tg/situation-au-togo/)
 
-Zambia - Zambia National Public Health Institute http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+[Zambia](data/zambia_tests.csv)
+* Source [Zambia National Public Health Institute](http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/)
