@@ -96,25 +96,32 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 [Eswatini](data/eswatini_tests.csv) 
 * Source: [Ministry of Health of the Kingdom of Eswatini](http://www.gov.sz/index.php/covid-19-corona-virus/covid-19-press-statements-2020 and https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB)
 
-[Fiji](data/fiji_tests.csv
+[Fiji](data/fiji_tests.csv)
 * Source: [Ministry of Health & Medical Services](http://www.health.gov.fj/covid-19-updates/)
 
 [Gabon](data/gabon_tests.csv) 
 * Source: [Comité de Pilotage du Plan de Veille et de Riposte Contre L'Épidemié à Coronavirus](https://infocovid.ga/lactualite-covid-19/)
 
-Gambia - Ministry of Health http://www.moh.gov.gm/covid-19-report/
+[Gambia](data/gambia_tests.csv)
+* Source: [Ministry of Health](http://www.moh.gov.gm/covid-19-report/)
 
-Guinea - Agence National de la Securite Sanitaire https://anss-guinee.org/welcome
+[Guinea](data/guinea_tests.csv) 
+* Source: [Agence National de la Securite Sanitaire](https://anss-guinee.org/welcome)
 
-Guinea Bissau - INFOCOVID-19 https://covid19gb.com/noticias/
+[Guinea Bissau](data/guineabissau_tests.csv)
+* Source: [INFOCOVID-19](https://covid19gb.com/noticias/)
 
-Guyana - Ministry of Public Health https://health.gov.gy/
+[Guyana](data/guyana_tests.csv)
+* Source: [Ministry of Public Health](https://health.gov.gy/)
 
-Honduras - Gobierno de la Republica de Honduras http://www.salud.gob.hn/site/index.php/covid19
+[Honduras](data/honduras_tests.csv)
+* Source: [Gobierno de la Republica de Honduras](http://www.salud.gob.hn/site/index.php/covid19)
 
-Madagascar - Ministere Sante Publique http://www.sante.gov.mg/ministere-sante-publique/category/coronavirus/
+[Madagascar](data/madagascar_tests.csv)
+* Source: [Ministere Sante Publique](http://www.sante.gov.mg/ministere-sante-publique/category/coronavirus/)
 
-Malawi - Ministry of Health https://covid19.health.gov.mw/
+[Malawi](data/malawi_tests.csv)
+* Source: [Ministry of Health](https://covid19.health.gov.mw/)
 
 Mali - Ministere de la Sante et des Affaires Sociales http://www.sante.gov.ml/index.php/actualites/communiques
 
