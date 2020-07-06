@@ -1,4 +1,16 @@
 nid,location_id,location,date,total_cases,confirmed_cases,probable_cases,total_tests,daily_tests,tests_units,source
+,171,Democratic Republic of the Congo,04.07.2020,7411,7410,1,,243,samples tested,Email Bulletin 103 [with correction]
+,171,Democratic Republic of the Congo,03.07.2020,7379,7378,1,,758,samples tested,Email Bulletin 102
+,171,Democratic Republic of the Congo,02.07.2020,7311,7310,1,,748,samples tested,Email Bulletin 101
+,171,Democratic Republic of the Congo,01.07.2020,7189,7188,1,,662,samples tested,Email Bulletin 100
+,171,Democratic Republic of the Congo,30.06.2020,7122,7121,1,,686,samples tested,Email Bulletin 99
+,171,Democratic Republic of the Congo,29.06.2020,7039,7038,1,,923,samples tested,Email Bulletin 98
+,171,Democratic Republic of the Congo,28.06.2020,6939,6938,1,,475,samples tested,Email Bulletin 97
+,171,Democratic Republic of the Congo,27.06.2020,6827,6826,1,,975,samples tested,Email Bulletin 96
+,171,Democratic Republic of the Congo,26.06.2020,6690,6689,1,,951,samples tested,Email Bulletin 95
+,171,Democratic Republic of the Congo,25.06.2020,6552,6551,1,,824,samples tested,Email Bulletin 94
+,171,Democratic Republic of the Congo,24.06.2020,6411,6410,1,,974,samples tested,Email Bulletin 93
+,171,Democratic Republic of the Congo,23.06.2020,6213,6212,1,,962,samples tested,Email Bulletin 92
 ,171,Democratic Republic of the Congo,22.06.2020,6027,6026,1,,,,Email Bulletin 91
 ,171,Democratic Republic of the Congo,21.06.2020,5925,5924,1,,336,samples tested,Email Bulletin 90
 ,171,Democratic Republic of the Congo,20.06.2020,5826,5825,1,,,,Email Bulletin 89
