@@ -1,6 +1,20 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,negative_tests,tests_units,source
-448285,184,Mozambique,28.06.2020,,,,,,
-448285,184,Mozambique,27.06.2020,,,,,,
+450684,184,Mozambique,12.07.2020,1157,39948,,38791,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,11.07.2020,1135,39091,,37956,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,10.07.2020,1111,38010,,36899,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,09.07.2020,1092,36698,,35606,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,08.07.2020,1071,35696,,34625,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,07.07.2020,1040,35140,,34100,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,06.07.2020,1012,34036,,33024,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,05.07.2020,987,33125,,32138,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,04.07.2020,969,32498,,31529,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,03.07.2020,939,31784,,30845,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,02.07.2020,918,30939,,30021,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,01.07.2020,,,,,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,30.06.2020,889,29516,,28627,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,29.06.2020,883,29343,,28460,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,28.06.2020,856,28586,,27727,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,27.06.2020,839,27956,,27117,,https://www.facebook.com/MISAUMOCAMBIQUE/
 448285,184,Mozambique,26.06.2020,816,27123,,26307,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,25.06.2020,788,26204,,25416,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,24.06.2020,762,25446,,24684,individuals tested,https://covid19.ins.gov.mz/
