@@ -167,7 +167,6 @@ class SheetProcessor:
         for g in self.for_github:
             script += f'git add {g}\n'
         script += 'git commit -m "data update"\n'
-        script += 'git pull origin master\n'
         script += 'git push origin master\n'
         script += f'cd {os.getcwd()}\n'
         print(script)
