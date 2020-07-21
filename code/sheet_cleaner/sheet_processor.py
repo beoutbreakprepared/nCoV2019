@@ -163,11 +163,11 @@ class SheetProcessor:
         # Create script for uploading to github
         script  = 'set -e\n'
         script += 'cd {}\n'.format(self.git_repo_path)
-        script += 'git pull origin master\n'
         
         for g in self.for_github:
             script += f'git add {g}\n'
         script += 'git commit -m "data update"\n'
+        script += 'git pull origin master\n'
         script += 'git push origin master\n'
         script += f'cd {os.getcwd()}\n'
         print(script)
