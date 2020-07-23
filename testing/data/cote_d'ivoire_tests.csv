@@ -1,5 +1,14 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
-447566,205,Côte d'Ivoire,12.07.2020,,,,,
+447566,205,Côte d'Ivoire,21.07.2020,,,,,
+447566,205,Côte d'Ivoire,20.07.2020,14312,85409,,tests_processed,https://www.facebook.com/Mshpci/posts/1647525098746511
+447566,205,Côte d'Ivoire,19.07.2020,14119,83753,,tests_processed,https://www.facebook.com/Mshpci/posts/1646597688839252
+447566,205,Côte d'Ivoire,18.07.2020,13912,82616,,tests_processed,https://www.facebook.com/Mshpci/posts/1645769295588758
+447566,205,Côte d'Ivoire,17.07.2020,13696,81379,,tests_processed,https://www.facebook.com/Mshpci/posts/1644905879008433
+447566,205,Côte d'Ivoire,16.07.2020,13554,80633,,tests_processed,https://www.facebook.com/Mshpci/posts/1644055532426801
+447566,205,Côte d'Ivoire,15.07.2020,13403,79895,,tests_processed,https://www.facebook.com/Mshpci/posts/1643191095846578
+447566,205,Côte d'Ivoire,14.07.2020,13037,78266,,tests_processed,https://www.facebook.com/Mshpci/posts/1642326279266393
+447566,205,Côte d'Ivoire,13.07.2020,12872,77384,,tests_processed,https://www.facebook.com/Mshpci/posts/1641477946017893
+447566,205,Côte d'Ivoire,12.07.2020,12766,76250,,tests_processed,https://www.facebook.com/Mshpci/posts/1640598792772475
 447566,205,Côte d'Ivoire,11.07.2020,12443,74880,,tests_processed,https://www.facebook.com/Mshpci/
 447566,205,Côte d'Ivoire,10.07.2020,12052,72599,,tests_processed,https://www.facebook.com/Mshpci/
 447566,205,Côte d'Ivoire,09.07.2020,11750,70414,,tests_processed,https://www.facebook.com/Mshpci/
