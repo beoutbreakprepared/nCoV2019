@@ -930,7 +930,6 @@
 ;Wicklow;Ireland	53.0	-6.4166669999999995	admin1				Wicklow	Ireland
 ;Wisconsin;United States	44.6758939	-89.747725	admin1				Wisconsin	United States
 ;Wyoming;United States	43.0330951	-107.55098000000001	admin1				Wyoming	United States
-;Xinjiang;China	40.932559999999995	81.97697	admin2				Xinjiang	China
 ;Xinjiang;China	41.376290000000004	85.28061	admin1				Xinjiang	China
 ;Yala;Thailand	6.194256	101.2301	admin1				Yala	Thailand
 ;Yamagata;Japan	38.45094	140.1023	admin1				Yamagata	Japan
@@ -1373,7 +1372,6 @@ Barbosa;Antioquia;Colombia	6.439	-75.333	admin2
 Barbour County;Alabama;United States	31.870084600000002	-85.395332	admin2			Barbour County	Alabama	United States
 Barbour County;West Virginia;United States	39.1327376	-80.002921	admin2			Barbour County	West Virginia	United States
 Barcelona;;Spain	41.3949627	2.0086793000000003	point	Barcelona			Catalonia	Spain
-Barcelona;Catalonia;Spain	41.3949627	2.0086793000000003	point	Barcelona			Catalonia	Spain
 Barcelona;Catalonia;Spain	41.7326837	1.98374259	admin2			Barcelona	Catalonia	Spain
 Barendrecht;South Holland;Netherlands	51.85127	4.527607	admin2			Barendrecht	South Holland	Netherlands
 Bari;Puglia;Italy	40.93209	16.75188	admin2			Bari	Puglia	Italy
@@ -1636,7 +1634,6 @@ Bologna;Emilia-Romagna;Italy	44.43265	11.34906	admin2			Bologna	Emilia-Romagna	I
 Bolsward;Friesland;Netherlands	53.063269999999996	5.529577	admin2			Bolsward	Friesland	Netherlands
 Bolton,Greater Manchester;England;United Kingdom	53.578	-2.4290000000000003	admin3		Bolton	Greater Manchester	England	United Kingdom
 Boluo County, Huizhou City;Guangdong;China	23.34737	114.2841	admin3		Boluo County	Huizhou City	Guangdong	China
-Bolzano;Trentino-Alto Adige;Italy	46.5	11.35	point	Bolzano			Trentino-Alto Adige	Italy
 Bolzano;Trentino-Alto Adige;Italy	46.69813	11.41756	admin2			Bolzano	Trentino-Alto Adige	Italy
 Bom Despacho;Minas Gerais;Brazil	-19.748054	-45.299171	admin2					
 Bomi County, Nyingchi City;Tibet;China	30.125220000000002	95.53471	admin3		Bomi County	Nyingchi City	Tibet	China
@@ -2492,7 +2489,6 @@ Crawford County;Ohio;United States	40.8510019	-82.91940799999999	admin2			Crawfo
 Crawford County;Pennsylvania;United States	41.6849352	-80.106398	admin2			Crawford County	Pennsylvania	United States
 Crawford County;Wisconsin;United States	43.2408028	-90.932455	admin2			Crawford County	Wisconsin	United States
 Creek County;Oklahoma;United States	35.9024765	-96.371831	admin2			Creek County	Oklahoma	United States
-Cremona;Lombardia;Italy	45.13333	10.03333	point	Cremona			Lombardia	Italy
 Cremona;Lombardia;Italy	45.220890000000004	9.994373	admin2			Cremona	Lombardia	Italy
 Crenshaw County;Alabama;United States	31.7317852	-86.313478	admin2			Crenshaw County	Alabama	United States
 Creuse;Nouvelle-Aquitaine;France	46.09152	2.0180290000000003	admin2			Creuse	Nouvelle-Aquitaine	France
@@ -3366,8 +3362,6 @@ Franklin County;Virginia;United States	36.9896725	-79.853223	admin2			Franklin C
 Franklin County;Washington;United States	46.535419899999994	-118.89923999999999	admin2			Franklin County	Washington	United States
 Franklin Parish;Louisiana;United States	32.134409999999995	-91.6741	admin2			Franklin Parish	Louisiana	United States
 Fraser Valley;British Columbia;Canada	49.55813	-121.88	admin2			Fraser Valley	British Columbia	Canada
-Fraser Valley;British Columbia;Canada	49.570196	-123.02806000000001	point		Fraser Valley		British Columbia	Canada
-Fraser Valley;British Columbia;Canada	49.570196	-123.0280602	point		Fraser Valley		British Columbia	Canada
 Fraser-Fort George;British Columbia;Canada	54.05161999999999	-121.68	admin2			Fraser-Fort George	British Columbia	Canada
 Frederick County;Maryland;United States	39.4733366	-77.397254	admin2			Frederick County	Maryland	United States
 Frederick County;Virginia;United States	39.2060214	-78.262272	admin2			Frederick County	Virginia	United States
@@ -3886,7 +3880,6 @@ Hackney and City of London,Greater London;England;United Kingdom	51.55	-0.058333
 Hadong;South Gyeongsang;South Korea	35.12627	127.7913	admin2			Hadong	South Gyeongsang	South Korea
 Haelen;Limburg;Netherlands	51.23217	5.9555489999999995	admin2			Haelen	Limburg	Netherlands
 Haenam;South Jeolla;South Korea	34.54102	126.5205	admin2			Haenam	South Jeolla	South Korea
-Haeundae;Busan;South Korea	35.161944	129.16388899999998	admin3		Haeundae		Busan	South Korea
 Haeundae;Busan;South Korea	35.19655	129.1641	admin2			Haeundae	Busan	South Korea
 Hagen;North Rhine-Westphalia;Germany	51.34809	7.497549	admin2			Hagen	North Rhine-Westphalia	Germany
 Hai dong City;Qinghai;China	36.33465	102.34100000000001	admin2			Hai dong City	Qinghai	China
@@ -5155,7 +5148,6 @@ La Riviere-du-Nord;Quebec;Canada	45.834340000000005	-74.0198	admin2			La Riviere
 La Salle County;Illinois;United States	41.345622799999994	-88.88707600000001	admin2			La Salle County	Illinois	United States
 La Salle County;Texas;United States	28.3442012	-99.098861	admin2			La Salle County	Texas	United States
 La Salle Parish;Louisiana;United States	31.67697	-92.1604	admin2			La Salle Parish	Louisiana	United States
-La Spezia;Liguria;Italy	44.1	9.816667	point	La Spezia			Liguria	Italy
 La Spezia;Liguria;Italy	44.227	9.732409	admin2			La Spezia	Liguria	Italy
 La Union;Valle;Colombia	3.653889	-76.572222	admin2					
 La Vallee-de-la-Gatineau;Quebec;Canada	46.91338	-76.1621	admin2			La Vallee-de-la-Gatineau	Quebec	Canada
@@ -6890,7 +6882,6 @@ Parai;Rio Grande do Sul;Brazil	-28.59478	-51.78641	admin2
 Paranaque;Metro Manila;Philippines	14.47	121.02	admin2					
 Paranavai;Parana;Brazil	-23.080419	-52.48784499999999	admin2					
 Parintins;Amazonas;Brazil	-2.6277779999999997	-56.73583299999999	admin2					
-Paris;Ile-de-France;France	48.8566	2.3522	point	Paris			Ile-de-France	France
 Paris;Ile-de-France;France	48.85666	2.342325	admin2			Paris	Ile-de-France	France
 Park County;Colorado;United States	39.119595399999994	-105.71636000000001	admin2			Park County	Colorado	United States
 Park County;Montana;United States	45.4909691	-110.52389	admin2			Park County	Montana	United States
@@ -7248,7 +7239,6 @@ Puy-de-Dome;Auvergne-Rhone-Alpes;France	45.7272	3.139665	admin2			Puy-de-Dome	Au
 Puyang City;Henan;China	35.80833	115.2794	admin2			Puyang City	Henan	China
 Puyang County, Puyang City;Henan;China	35.582390000000004	115.1481	admin3		Puyang County	Puyang City	Henan	China
 Pyeongchang;Gangwon;South Korea	37.529142799999995	128.480372	admin2			Pyeongchang	Gangwon	South Korea
-Pyeongtaek;Gyeonggi;South Korea	36.992236	127.112821	point	Pyeongtaek			Gyeonggi	South Korea
 Pyeongtaek;Gyeonggi;South Korea	37.00777	126.9994	admin2			Pyeongtaek	Gyeonggi	South Korea
 Pyrenees-Atlantiques;Nouvelle-Aquitaine;France	43.256809999999994	-0.7613800000000001	admin2			Pyrenees-Atlantiques	Nouvelle-Aquitaine	France
 Pyrenees-Orientales;Occitanie;France	42.59822	2.518241	admin2			Pyrenees-Orientales	Occitanie	France
@@ -7616,7 +7606,6 @@ Rotenburg District;Lower Saxony;Germany	53.25159	9.306149000000001	admin2			Rote
 Roth;Bavaria;Germany	49.20317	11.123439999999999	admin2			Roth	Bavaria	Germany
 Rotherham,South Yorkshire;England;United Kingdom	53.43	-1.357	admin3		Rotherham	South Yorkshire	England	United Kingdom
 Rottal-Inn;Bavaria;Germany	48.42475	12.8673	admin2			Rottal-Inn	Bavaria	Germany
-Rotterdam;South Holland;Netherlands	51.91667	4.5	point	Rotterdam			Zuid-Holland	Netherlands
 Rotterdam;South Holland;Netherlands	51.9239	4.337133000000001	admin2			Rotterdam	South Holland	Netherlands
 Rottweil District;Baden-Wurttemberg;Germany	48.25439	8.532345	admin2			Rottweil District	Baden-Wurttemberg	Germany
 Roussillon;Quebec;Canada	45.343740000000004	-73.5952	admin2			Roussillon	Quebec	Canada
@@ -7721,7 +7710,6 @@ Salamanca;Castilla y Leon;Spain	40.8063545	-6.0650272	admin2			Salamanca	Castill
 Salem County;New Jersey;United States	39.580751	-75.356655	admin2			Salem County	New Jersey	United States
 Salem County;Virginia;United States	37.285933899999996	-80.054525	admin2			Salem County	Virginia	United States
 Salerno;Campania;Italy	40.44274	15.22967	admin2			Salerno	Campania	Italy
-Salerno;Campania;Italy	40.68333	14.766670000000001	point	Salerno			Campania	Italy
 Salford,Greater Manchester;England;United Kingdom	53.483000000000004	-2.2931	admin3		Salford	Greater Manchester	England	United Kingdom
 Saline County;Arkansas;United States	34.6464201	-92.676765	admin2			Saline County	Arkansas	United States
 Saline County;Illinois;United States	37.7552316	-88.53935899999999	admin2			Saline County	Illinois	United States
@@ -8723,9 +8711,7 @@ Toombs County;Georgia;United States	32.122420500000004	-82.331698	admin2			Toomb
 Toorak;Victoria;Australia	-37.841	145.018	point	Toorak			Victoria	Australia
 Torbay,Devon;England;United Kingdom	50.452222	-3.556944	admin3		Torbay	Devon	England	United Kingdom
 Torfaen,Gwent;Wales;United Kingdom	51.716667	-3.05	admin3		Torfaen	Gwent	Wales	United Kingdom
-Torino;Piemonte;Italy	45.0702959	7.530001400000001	point	Torino			Piemonte	Italy
 Torino;Piemonte;Italy	45.14739	7.443546	admin2			Torino	Piemonte	Italy
-Toronto;Ontario;Canada	43.667256	-79.39181500000001	point	Toronto			Ontario	Canada
 Toronto;Ontario;Canada	43.72529	-79.387	admin2			Toronto	Ontario	Canada
 Torrance County;New Mexico;United States	34.6421596	-105.84702	admin2			Torrance County	New Mexico	United States
 Torres;Rio Grande do Sul;Brazil	-29.36571195	-49.78334716	admin2					
