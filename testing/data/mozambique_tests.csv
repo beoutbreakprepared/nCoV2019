@@ -1,30 +1,48 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,negative_tests,tests_units,source
-450684,184,Mozambique,22.07.2020,,,,,,
-450684,184,Mozambique,21.07.2020,1539,48653,,47117,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,20.07.2020,1507,47887,,46380,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,19.07.2020,1494,46556,,45065,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,18.07.2020,1435,45189,,43754,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,17.07.2020,1402,44222,,42820,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,16.07.2020,1383,43649,,42266,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,15.07.2020,1330,42551,,41221,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,14.07.2020,1268,41745,,40477,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,13.07.2020,1219,40861,,39642,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,12.07.2020,1157,39948,,38791,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,11.07.2020,1135,39091,,37956,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,10.07.2020,1111,38010,,36899,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,09.07.2020,1092,36698,,35606,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,08.07.2020,1071,35696,,34625,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,07.07.2020,1040,35140,,34100,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,06.07.2020,1012,34036,,33024,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,05.07.2020,987,33125,,32138,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,04.07.2020,969,32498,,31529,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,03.07.2020,939,31784,,30845,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,02.07.2020,918,30939,,30021,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,09.08.2020,2269,68686,,66417,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,08.08.2020,2241,67403,,65162,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,07.08.2020,2213,66542,,64329,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,06.08.2020,2120,65151,,63031,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,05.08.2020,2079,63725,,61646,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,04.08.2020,2029,62373,,60344,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,03.08.2020,1973,60473,,58500,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,02.08.2020,1946,59642,,57696,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,01.08.2020,1907,58991,,57127,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,31.07.2020,1864,57730,,55866,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,30.07.2020,1808,56160,,54352,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,29.07.2020,1748,55211,,53463,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,28.07.2020,1720,54081,,52361,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,27.07.2020,1701,53465,,51764,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,26.07.2020,1669,52422,,50753,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,25.07.2020,1616,51444,,49828,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,24.07.2020,1590,50853,,49263,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,23.07.2020,1582,50121,,48539,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,22.07.2020,1557,49492,,47935,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,21.07.2020,1539,48653,,47117,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,20.07.2020,1507,47887,,46380,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,19.07.2020,1494,46556,,45065,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,18.07.2020,1435,45189,,43754,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,17.07.2020,1402,44222,,42820,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,16.07.2020,1383,43649,,42266,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,15.07.2020,1330,42551,,41221,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,14.07.2020,1268,41745,,40477,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,13.07.2020,1219,40861,,39642,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,12.07.2020,1157,39948,,38791,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,11.07.2020,1135,39091,,37956,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,10.07.2020,1111,38010,,36899,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,09.07.2020,1092,36698,,35606,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,08.07.2020,1071,35696,,34625,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,07.07.2020,1040,35140,,34100,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,06.07.2020,1012,34036,,33024,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,05.07.2020,987,33125,,32138,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,04.07.2020,969,32498,,31529,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,03.07.2020,939,31784,,30845,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,02.07.2020,918,30939,,30021,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
 450684,184,Mozambique,01.07.2020,,,,,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,30.06.2020,889,29516,,28627,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,29.06.2020,883,29343,,28460,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,28.06.2020,856,28586,,27727,,https://www.facebook.com/MISAUMOCAMBIQUE/
-450684,184,Mozambique,27.06.2020,839,27956,,27117,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,30.06.2020,889,29516,,28627,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,29.06.2020,883,29343,,28460,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,28.06.2020,856,28586,,27727,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,27.06.2020,839,27956,,27117,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
 448285,184,Mozambique,26.06.2020,816,27123,,26307,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,25.06.2020,788,26204,,25416,individuals tested,https://covid19.ins.gov.mz/
 448285,184,Mozambique,24.06.2020,762,25446,,24684,individuals tested,https://covid19.ins.gov.mz/

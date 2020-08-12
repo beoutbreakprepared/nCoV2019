@@ -1,5 +1,26 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
-447566,205,Côte d'Ivoire,21.07.2020,,,,,
+447566,205,Côte d'Ivoire,11.08.2020,16847,110359,,tests_processed,http://www.sante.gouv.ci/welcome/actualites/776
+447566,205,Côte d'Ivoire,10.08.2020,16798,109677,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,09.08.2020,16175,108862,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,08.08.2020,16620,106753,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,07.08.2020,16524,105508,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,06.08.2020,16447,104584,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,05.08.2020,16349,103384,,tests_processed,http://www.sante.gouv.ci/welcome/actualites/764
+447566,205,Côte d'Ivoire,04.08.2020,16293,103624,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,03.08.2020,16220,103112,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,02.08.2020,16182,102685,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,01.08.2020,16109,101583,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,31.07.2020,16047,100685,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,30.07.2020,15978,99734,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,29.07.2020,15813,98014,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,28.07.2020,15713,96768,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,27.07.2020,15655,96097,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,26.07.2020,15596,95105,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,25.07.2020,15494,93659,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,24.07.2020,15253,91655,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,23.07.2020,15001,89920,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,22.07.2020,14733,87683,,tests_processed,https://www.facebook.com/Mshpci/
+447566,205,Côte d'Ivoire,21.07.2020,14531,86552,,tests_processed,https://www.facebook.com/Mshpci/
 447566,205,Côte d'Ivoire,20.07.2020,14312,85409,,tests_processed,https://www.facebook.com/Mshpci/posts/1647525098746511
 447566,205,Côte d'Ivoire,19.07.2020,14119,83753,,tests_processed,https://www.facebook.com/Mshpci/posts/1646597688839252
 447566,205,Côte d'Ivoire,18.07.2020,13912,82616,,tests_processed,https://www.facebook.com/Mshpci/posts/1645769295588758
