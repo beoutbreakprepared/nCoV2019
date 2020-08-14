@@ -1,4 +1,3 @@
-24 de mayo;Manabi;Ecuador	-1.3660729	-80.38813329999999	JPCP					
 ;;Afghanistan	33.90748	66.0697	admin0					Afghanistan
 ;;Albania	41.15303	20.06189	admin0					Albania
 ;;Algeria	28.42343	2.674582	admin0					Algeria
@@ -250,59 +249,59 @@
 ;;Zimbabwe	-19.0242	29.86914	admin0					Zimbabwe
 ;Aargau;Switzerland	47.411261200000006	8.15905466	admin1				Aargau	Switzerland
 ;Abruzzo;Italy	42.22983	13.854729999999998	admin1				Abruzzo	Italy
-;Abuja;Nigeria	9.066667	7.483333	admin1					
-;Addis Ababa;Ethiopia	9.03	38.74	admin2					
+;Abuja;Nigeria	9.066667	7.483333	admin1				Abuja	Nigeria
+;Addis Ababa;Ethiopia	9.03	38.74	admin2			Addis Ababa		Ethiopia
 ;Agder;Norway	58.779592	7.668458	admin1				Agder	Norway
-;Aguascalientes;Mexico	22.016667	-102.35	admin1					
+;Aguascalientes;Mexico	22.016667	-102.35	admin1				Aguascalientes	Mexico
 ;Aichi Prefecture;Japan	35.03613	137.2115	admin1				Aichi Prefecture	Japan
 ;Akita;Japan	39.75274	140.4083	admin1				Akita	Japan
-;Akmola;Kazakhstan	52.0	69.0	admin1					
-;Aktobe;Kazakhstan	50.283333	57.166667000000004	admin1					
-;Akwa Ibom;Nigeria	5.0	7.8333330000000005	admin1					
+;Akmola;Kazakhstan	52.0	69.0	admin1				Akmola	Kazakhstan
+;Aktobe;Kazakhstan	50.283333	57.166667000000004	admin1				Aktobe	Kazakhstan
+;Akwa Ibom;Nigeria	5.0	7.8333330000000005	admin1				Akwa Ibom	Nigeria
 ;Alabama;United States	32.8178543	-86.82722	admin1				Alabama	United States
-;Alagoas;Brazil	-9.57	-36.55	admin1					
+;Alagoas;Brazil	-9.57	-36.55	admin1				Alagoas	Brazil
 ;Alaska;United States	65.005643	-152.40732	admin1				Alaska	United States
 ;Alberta;Canada	55.491080000000004	-114.56	admin1				Alberta	Canada
 ;Alborz;Iran	35.9491	50.8178391	admin1				Alborz	Iran
 ;Alentejo;Portugal	38.2004	-7.8001	admin1				Alentejo	Portugal
 ;Algarve;Portugal	37.018	-7.9308	admin1				Algarve	Portugal
-;Almaty;Kazakhstan	45.0	78.0	admin1					
+;Almaty;Kazakhstan	45.0	78.0	admin1				Almaty	Kazakhstan
 ;Alsace;France	48.578538	7.680578999999999	admin1				Alsace	France
-;Alto Parana;Paraguay	-25.368782	-54.9552866	admin1					
-;Amazonas;Brazil	-5.0	-63.0	admin1					
-;Amhara;Ethiopia	11.6608	37.9578	admin1					
+;Alto Parana;Paraguay	-25.368782	-54.9552866	admin1				Alto Parana	Paraguay
+;Amazonas;Brazil	-5.0	-63.0	admin1				Amazonas	Brazil
+;Amhara;Ethiopia	11.6608	37.9578	admin1				Amhara	Ethiopia
 ;Amnat Charoen;Thailand	15.89039	104.7423	admin1				Amnat Charoen	Thailand
 ;Andalusia;Spain	37.469545600000004	-4.5729516	admin1				Andalusia	Spain
 ;Ang Thong;Thailand	14.62161	100.3502	admin1				Ang Thong	Thailand
 ;Anhui;China	31.851020000000002	117.2218	admin1				Anhui	China
-;Antofagasta;Chile	-23.65	-70.4	admin1					
+;Antofagasta;Chile	-23.65	-70.4	admin1				Antofagasta	Chile
 ;Aomori;Japan	40.783570000000005	140.829	admin1				Aomori	Japan
 ;Appenzell Ausserrhoden;Switzerland	47.3677842	9.37130207	admin1				Appenzell Ausserrhoden	Switzerland
 ;Appenzell Innerrhoden;Switzerland	47.3178169	9.41671193	admin1				Appenzell Innerrhoden	Switzerland
 ;Aragon;Spain	41.531831200000006	-0.6577978	admin1				Aragon	Spain
-;Araucania;Chile	-38.9	-72.666667	admin1					
+;Araucania;Chile	-38.9	-72.666667	admin1				Araucania	Chile
 ;Ardebil;Iran	38.4549669	48.0448505	admin1				Ardebil	Iran
 ;Arecibo;Puerto Rico	18.4442	-66.6464	admin1				Arecibo	Puerto Rico
-;Arica y Parinacota;Chile	-18.475	-70.314444	admin1					
+;Arica y Parinacota;Chile	-18.475	-70.314444	admin1				Arica y Parinacota	Chile
 ;Arizona;United States	34.336914799999995	-111.66606000000002	admin1				Arizona	United States
 ;Arkansas;United States	34.9167903	-92.437662	admin1				Arkansas	United States
-;Ashanti Region;Ghana	6.6666669999999995	-1.616667	admin1					
+;Ashanti Region;Ghana	6.6666669999999995	-1.616667	admin1				Ashanti Region	Ghana
 ;Ashmore and Cartier Islands;Australia	-12.2665	123.0796	admin1				Ashmore and Cartier Islands	Australia
 ;Asturias;Spain	43.3614	-5.8593	admin1				Asturias	Spain
-;Atacama;Chile	-27.366667	-70.332222	admin1					
+;Atacama;Chile	-27.366667	-70.332222	admin1				Atacama	Chile
 ;Attica Prefecture;Greece	37.84049	23.60096	admin1				Attica	Greece
-;Atyrau;Kazakhstan	47.116667	51.883333	admin1					
+;Atyrau;Kazakhstan	47.116667	51.883333	admin1				Atyrau	Kazakhstan
 ;Australian Capital Territory;Australia	-35.4895	149.0024	admin1				Australian Capital Territory	Australia
 ;Auvergne-Rhone-Alpes;France	45.52689	4.544331	admin1				Auvergne-Rhone-Alpes	France
-;Aysen;Chile	-43.57	-72.06611099999999	admin1					
+;Aysen;Chile	-43.57	-72.06611099999999	admin1				Aysen	Chile
 ;Azores;Portugal	37.794594000000004	-25.506134	admin1				Azores	Portugal
-;Azuay;Ecuador	-2.8833330000000004	-79.0	admin1					
+;Azuay;Ecuador	-2.8833330000000004	-79.0	admin1				Azuay	Ecuador
 ;Baden-Wuerttemberg;Germany	48.54678	9.05148	admin1				Baden-Wuerttemberg	Germany
 ;Baden-Wurttemberg;Germany	48.6616	9.3501	admin1				Baden-Wurttemberg	Germany
 ;Baghdad;Iraq	33.32696	44.38814	admin1				Baghdad	Iraq
-;Bahia;Brazil	-12.0	-41.0	admin1					
-;Baja California Sur;Mexico	25.85	-111.96666699999999	admin1					
-;Baja California;Mexico	30.0	-115.16666699999999	admin1					
+;Bahia;Brazil	-12.0	-41.0	admin1				Bahia	Brazil
+;Baja California Sur;Mexico	25.85	-111.96666699999999	admin1				Baja California Sur	Mexico
+;Baja California;Mexico	30.0	-115.16666699999999	admin1				Baja California	Mexico
 ;Baker;United States Minor Outlying Islands	0.19484720000000003	-176.47808999999998	admin1				Baker	United States Minor Outlying Islands
 ;Baleares;Spain	39.574690999999994	2.91291179	admin1				Baleares	Spain
 ;Balearic Islands;Spain	38.6964	1.453136	admin1				Balearic Islands	Spain
@@ -311,15 +310,14 @@
 ;Basel;Switzerland	47.5660695	7.61507251	admin1				Basel	Switzerland
 ;Basilicata;Italy	40.50258	16.081770000000002	admin1				Basilicata	Italy
 ;Basque Country;Spain	42.9896	-2.6189	admin1				Basque Country	Spain
-;Basque Country;Spain	43.04317555400007	-2.617003246999957	point					Spain
-;Bauchi;Nigeria	10.5	10.0	admin1					
+;Bauchi;Nigeria	10.5	10.0	admin1				Bauchi	Nigeria
 ;Bavaria;Germany	48.968	11.41584	admin1				Bavaria	Germany
 ;Bayamión;Puerto Rico	18.466333	-66.105721	admin1				Bayamión	Puerto Rico
 ;Beijing;China	40.18535	116.4151	admin1				Beijing	China
-;Benue;Nigeria	7.33333	8.75	admin1					
+;Benue;Nigeria	7.33333	8.75	admin1				Benue	Nigeria
 ;Berlin;Germany	52.5017	13.40179	admin1				Berlin	Germany
 ;Bern;Switzerland	46.826679600000006	7.62619722	admin1				Bern	Switzerland
-;Biobio;Chile	-36.833333	-73.05	admin1					
+;Biobio;Chile	-36.833333	-73.05	admin1				Biobio	Chile
 ;Blida;Algeria	36.49228	2.9197130000000002	admin1				Blida	Algeria
 ;Bourgogne-Franche-Comte;France	47.24071	4.805711	admin1				Bourgogne-Franche-Comte	France
 ;Brandenburg;Germany	52.48271	13.3945	admin1				Brandenburg	Germany
@@ -329,64 +327,62 @@
 ;Brittany;France	48.202	-2.9326	admin1				Brittany	France
 ;Brussels;Belgium	50.836459999999995	4.367412	admin1				Brussels	Belgium
 ;Bueng Kan;Thailand	18.1461	103.7124	admin1				Bueng Kan	Thailand
-;Buenos Aires;Argentina	-34.603333	-58.38166700000001	admin1					
+;Buenos Aires;Argentina	-34.603333	-58.38166700000001	admin1				Buenos Aires	Argentina
 ;Burgenland;Austria	47.1537	16.2689	admin1				Burgenland	Austria
 ;Buri Ram;Thailand	14.820739999999999	102.9591	admin1				Buri Ram	Thailand
 ;Busan;South Korea	35.20261	129.0816	admin1				Busan	South Korea
 ;Bushehr;Iran	28.861922600000003	51.3755492	admin1				Bushehr	Iran
-;Caaguazu;Paraguay	-25.0859235	55.8856831	admin1					
+;Caaguazu;Paraguay	-25.0859235	55.8856831	admin1				Caaguazu	Paraguay
 ;Caguas;Puerto Rico	18.2388	-66.0352	admin1				Caguas	Puerto Rico
 ;Calabria;Italy	39.074870000000004	16.34814	admin1				Calabria	Italy
 ;California;United States	37.380200200000004	-119.67788	admin1				California	United States
 ;Campania;Italy	40.86316	14.8388	admin1				Campania	Italy
-;Campeche;Mexico	18.833333	-90.4	admin1					
+;Campeche;Mexico	18.833333	-90.4	admin1				Campeche	Mexico
 ;Canary Islands;Spain	28.3447827	-15.664589999999999	admin1				Canary Islands	Spain
 ;Cantabria;Spain	43.1976135	-4.0311648	admin1				Cantabria	Spain
 ;Capital Region;Iceland	64.1618	-21.6642	admin1				Capital Region	Iceland
 ;Carinthia;Austria	46.7222	14.1806	admin1				Carinthia	Austria
 ;Carlow;Ireland	52.8306	-6.9317	admin1				Carlow	Ireland
-;Castile and Leon;Spain	41.754229715000065	-4.782037298999967	point					Spain
 ;Castile and Leon;Spain	41.8357	-4.3976	admin1				Castile and Leon	Spain
 ;Castilla La Mancha;Spain	39.5934269	-3.0036282	admin1				Castilla-La Mancha	Spain
 ;Castilla y Leon;Spain	41.767612299999996	-4.7805168	admin1				Castilla y Leon	Spain
 ;Castilla–La Mancha;Spain	39.2796	-3.0977	admin1				Castilla–La Mancha	Spain
-;Castilla–La Mancha;Spain	39.58103245600006	-3.0045138419999375	point					Spain
 ;Catalonia;Spain	41.803774100000005	1.530937	admin1				Catalonia	Spain
 ;Cavan;Ireland	53.99100000000001	-7.3601	admin1				Cavan	Ireland
-;Ceara;Brazil	-5.3264703	-39.715607299999995	admin2					
-;Central;Paraguay	-25.5513125	-57.4961265	admin1					
+;Ceara;Brazil	-5.3264703	-39.715607299999995	admin1				Ceara	Brazil
+;Central;Paraguay	-25.5513125	-57.4961265	admin1				Central	Paraguay
 ;Central;Russia	53.7267	37.6476	admin1				Central	Russia
 ;Centre-Val de Loire;France	47.49442	1.6839119999999999	admin1				Centre-Val de Loire	France
 ;Centro;Portugal	40.6721	-8.1339	admin1				Centro	Portugal
 ;Ceuta y Melilla;Spain	35.7248488	-4.6632361	admin1				Ceuta y Melilla	Spain
 ;Chachoengsao;Thailand	13.6062	101.4301	admin1				Chachoengsao	Thailand
-;Chaco;Argentina	-27.451389000000002	-58.986667000000004	admin1					
+;Chaco;Argentina	-27.451389000000002	-58.986667000000004	admin1				Chaco	Argentina
 ;Chahar Mahall and Bakhtiari;Iran	31.9473821	50.64893729999999	admin1				Chahar Mahall and Bakhtiari	Iran
 ;Chai Nat;Thailand	15.13171	100.0261	admin1				Chai Nat	Thailand
 ;Chaiyaphum;Thailand	16.03095	101.8198	admin1				Chaiyaphum	Thailand
 ;Chanthaburi;Thailand	12.8832	102.1297	admin1				Chanthaburi	Thailand
-;Chernivtsi;Ukraine	48.3	25.933332999999998	admin					
+;Chernivtsi;Ukraine	48.3	25.933332999999998	admin1				Chernivtsi	Ukraine
 ;Chiang Mai;Thailand	18.79344	98.72932	admin1				Chiang Mai	Thailand
 ;Chiang Rai;Thailand	19.846239999999998	99.86783	admin1				Chiang Rai	Thailand
-;Chiapas;Mexico	16.416667	-92.416667	admin1					
+;Chiapas;Mexico	16.416667	-92.416667	admin1				Chiapas	Mexico
 ;Chiba Prefecture;Japan	35.511509999999994	140.1992	admin1				Chiba Prefecture	Japan
-;Chihuahua;Mexico	28.816667	-106.433333	admin1					
+;Chihuahua;Mexico	28.816667	-106.433333	admin1				Chihuahua	Mexico
 ;Chon Buri;Thailand	13.190660000000001	101.2004	admin1				Chon Buri	Thailand
 ;Chongqing;China	30.07034	107.8793	admin1				Chongqing	China
 ;Chumphon;Thailand	10.34615	99.06291999999999	admin1				Chumphon	Thailand
-;Chuquisaca;Bolivia	-20.0	-64.416667	admin1					
+;Chuquisaca;Bolivia	-20.0	-64.416667	admin1				Chuquisaca	Bolivia
 ;Clare;Ireland	52.833332999999996	-9.0	admin1				Clare	Ireland
-;Coahuila;Mexico	27.3	-102.05	admin1					
-;Colima;Mexico	19.166667	-103.883333	admin1					
+;Coahuila;Mexico	27.3	-102.05	admin1				Coahuila	Mexico
+;Colima;Mexico	19.166667	-103.883333	admin1				Colima	Mexico
 ;Colorado;United States	39.027626299999994	-105.54784	admin1				Colorado	United States
 ;Comunidad de Madrid;Spain	40.496813	-3.7171089999999998	admin1				Comunidad de Madrid	Spain
 ;Connecticut;United States	41.623605700000006	-72.72707700000001	admin1				Connecticut	United States
-;Coquimbo;Chile	-29.953056	-71.343333	admin1					
+;Coquimbo;Chile	-29.953056	-71.343333	admin1				Colima	Chile
 ;Coral Sea Islands Territory;Australia	-20.4566	152.42	admin1				Coral Sea Islands Territory	Australia
-;Cordillera;Paraguay	-25.2510099	-56.9909195	admin1					
-;Cordoba;Argentina	-31.416666999999997	-64.18333299999999	admin1					
+;Cordillera;Paraguay	-25.2510099	-56.9909195	admin1				Cordillera	Paraguay
+;Cordoba;Argentina	-31.416666999999997	-64.18333299999999	admin1				Cordoba	Argentina
 ;Cork;Ireland	51.966667	-8.583333	admin1				Cork	Ireland
-;Corrientes;Argentina	-28.66	-57.63	admin1					
+;Corrientes;Argentina	-28.66	-57.63	admin1				Corrientes	Argentina
 ;Corse;France	42.1545	9.105825	admin1				Corse	France
 ;Corsica;France	42.0396	9.0129	admin1				Corsica	France
 ;Daegu;South Korea	35.78134	128.58	admin1				Daegu	South Korea
@@ -395,25 +391,25 @@
 ;Delaware;United States	39.012837299999994	-75.50702199999999	admin1				Delaware	United States
 ;Delhi;India	28.61474	77.2091	admin1				Delhi	India
 ;District of Columbia;United States	38.908672499999994	-77.01539	admin1				District of Columbia	United States
-;Distrito Federal;Brazil	-15.7754462	-47.7970891	admin1					
+;Distrito Federal;Brazil	-15.7754462	-47.7970891	admin1				Distrito Federal	Brazil
 ;Donegal;Ireland	54.917	-8.0	admin1				Donegal	Ireland
 ;Drenthe;Netherlands	52.86381	6.623724	admin1				Drenthe	Netherlands
 ;Dublin;Ireland	53.416667000000004	-6.25	admin1				Dublin	Ireland
-;Durango;Mexico	24.933332999999998	-104.91666699999999	admin1					
+;Durango;Mexico	24.933332999999998	-104.91666699999999	admin1				Durango	Mexico
 ;East Azarbaijan;Iran	37.978336799999994	46.5902561	admin1				East Azarbaijan	Iran
-;East Kazakhstan;Kazakhstan	49.95	82.616667	admin1					
-;Eastern Cape;South Africa	-32.0	37.0	admin1					
-;Edo;Nigeria	6.5	6.0	admin1					
+;East Kazakhstan;Kazakhstan	49.95	82.616667	admin1				East Kazakhstan	Kazakhstan
+;Eastern Cape;South Africa	-32.0	37.0	admin1				Eastern Cape	South Africa
+;Edo;Nigeria	6.5	6.0	admin1				Edo	Nigeria
 ;Ehime;Japan	33.62644	132.8576	admin1				Ehime	Japan
-;Ekiti;Nigeria	7.6666669999999995	5.25	admin1					
-;El Oro;Ecuador	-3.26667	-79.9667	admin1					
+;Ekiti;Nigeria	7.6666669999999995	5.25	admin1				Ekiti	Nigeria
+;El Oro;Ecuador	-3.26667	-79.9667	admin1				El Oro	Ecuador
 ;Emilia-Romagna;Italy	44.53882	11.01768	admin1				Emilia-Romagna	Italy
 ;England;United Kingdom	52.65185	-1.46183	admin1				England	United Kingdom
-;Entre Rios;Argentina	-32.0477	-60.281000000000006	admin1					
-;Enugu;Nigeria	6.5	7.5	admin1					
+;Entre Rios;Argentina	-32.0477	-60.281000000000006	admin1				Entre Rios	Argentina
+;Enugu;Nigeria	6.5	7.5	admin1				Enugu	Nigeria
 ;Esfahan;Iran	33.189260600000004	52.4680803	admin1				Esfahan	Iran
 ;Espirito Santo;Brazil	-19.6498	-40.663000000000004	admin1				Espirito Santo	Brazil
-;Estado de Mexico;Mexico	19.35	-99.633333	admin1					
+;Estado de Mexico;Mexico	19.35	-99.633333	admin1				Estado de Mexico	Mexico
 ;Extremadura;Spain	39.19928	-6.150383799999999	admin1				Extremadura	Spain
 ;Fajardo;Puerto Rico	18.3258	-65.6524	admin1				Fajardo	Puerto Rico
 ;Far Eastern;Russia	63.3109	135.0	admin1				Far Eastern	Russia
@@ -422,7 +418,7 @@
 ;Flanders;Belgium	51.038740000000004	4.240024	admin1				Flanders	Belgium
 ;Flevoland;Netherlands	52.52782	5.601496	admin1				Flevoland	Netherlands
 ;Florida;United States	28.679067699999997	-82.505964	admin1				Florida	United States
-;Free State;South Africa	-28.0	27.0	admin1					
+;Free State;South Africa	-28.0	27.0	admin1				Free State	South Africa
 ;French Guiana;France	3.9339	-53.1258	admin1				French Guiana	France
 ;Fribourg;Switzerland	46.720584499999994	7.07670351	admin1				Fribourg	Switzerland
 ;Friesland;Netherlands	53.11133	5.848586	admin1				Friesland	Netherlands
@@ -435,7 +431,7 @@
 ;Galway;Ireland	53.333332999999996	-9.0	admin1				Galway	Ireland
 ;Gangwon;South Korea	37.71975	128.2797	admin1				Gangwon	South Korea
 ;Gansu;China	38.03317	100.4667	admin1				Gansu	China
-;Gauteng;South Africa	-26.0	28.0	admin1					
+;Gauteng;South Africa	-26.0	28.0	admin1				Gauteng	South Africa
 ;Gavleborg;Sweden	61.3012	16.1534	admin1				Gavleborg	Sweden
 ;Gelderland;Netherlands	52.06276	5.945431	admin1				Gelderland	Netherlands
 ;Geneva;Switzerland	46.221052	6.133536299999999	admin1				Geneva	Switzerland
@@ -444,20 +440,20 @@
 ;Gilan;Iran	37.2795027	49.454069200000006	admin1				Gilan	Iran
 ;Gilgit-Baltistan;Pakistan	35.82492	74.98064000000001	admin1				Gilgit-Baltistan	Pakistan
 ;Glarus;Switzerland	46.9807403	9.06556829	admin1				Glarus	Switzerland
-;Goias;Brazil	-15.932366199999999	-50.13929279999999	admin1					
+;Goias;Brazil	-15.932366199999999	-50.13929279999999	admin1				Goias	Brazil
 ;Golestan;Iran	37.2993736	55.0645798	admin1				Golestan	Iran
 ;Gorj;Romania	45.04	23.3	admin1				Gorj	Romania
 ;Grand Est;France	48.6973	5.610144999999999	admin1				Grand Est	France
 ;Graubuenden;Switzerland	46.6591399	9.63015674	admin1				Graubuenden	Switzerland
-;Greater Accra Region;Ghana	5.55	-0.2	admin1					
+;Greater Accra Region;Ghana	5.55	-0.2	admin1				Greater Accra Region	Ghana
 ;Greater Poland;Poland	52.28	17.3523	admin1				Greater Poland	Poland
 ;Groningen;Netherlands	53.21878	6.743164	admin1				Groningen	Netherlands
 ;Guadeloupe;France	16.265	-61.551	admin1				Guadeloupe	France
-;Guanajuato;Mexico	21.017778	-101.25666700000001	admin1					
+;Guanajuato;Mexico	21.017778	-101.25666700000001	admin1				Guanajuato	Mexico
 ;Guangdong;China	23.35183	113.4305	admin1				Guangdong	China
 ;Guangxi;China	23.84376	108.79	admin1				Guangxi	China
-;Guayas;Ecuador	-2.2	-79.9667	admin1					
-;Guerrero;Mexico	17.616667	-99.95	admin1					
+;Guayas;Ecuador	-2.2	-79.9667	admin1				Guayas	Ecuador
+;Guerrero;Mexico	17.616667	-99.95	admin1				Guerrero	Mexico
 ;Guizhou;China	26.829420000000002	106.8782	admin1				Guizhou	China
 ;Gunma;Japan	36.5055	138.9857	admin1				Gunma	Japan
 ;Gwangju;South Korea	35.13445	126.8551	admin1				Gwangju	South Korea
@@ -474,7 +470,7 @@
 ;Herat;Afghanistan	34.341944	62.203056000000004	admin1				Herat	Afghanistan
 ;Hesse;Germany	50.6521	9.1624	admin1				Hesse	Germany
 ;Hessen;Germany	50.61108	9.033562	admin1				Hessen	Germany
-;Hidalgo;Mexico	20.483333	-98.866667	admin1					
+;Hidalgo;Mexico	20.483333	-98.866667	admin1				Hidalgo	Mexico
 ;Hiroshima;Japan	34.60617	132.789	admin1				Hiroshima	Japan
 ;Hokkaido;Japan	43.402	142.5571	admin1				Hokkaido	Japan
 ;Holy Cross;Poland	50.6261	20.9406	admin1				Holy Cross	Poland
@@ -498,8 +494,8 @@
 ;Iowa;United States	42.0921259	-93.502315	admin1				Iowa	United States
 ;Ishikawa;Japan	36.77347	136.7721	admin1				Ishikawa	Japan
 ;Iwate;Japan	39.59682	141.3621	admin1				Iwate	Japan
-;Jalisco;Mexico	20.566667000000002	-103.68333299999999	admin1					
-;Jambyl;Kazakhstan	44.0	72.0	admin1					
+;Jalisco;Mexico	20.566667000000002	-103.68333299999999	admin1				Jalisco	Mexico
+;Jambyl;Kazakhstan	44.0	72.0	admin1				Jambyl	Kazakhstan
 ;Jamtland;Sweden	63.1712	14.9592	admin1				Jamtland	Sweden
 ;Jarvis island;United States Minor Outlying Islands	-0.3798568	-160.01758999999998	admin1				Jarvis island	United States Minor Outlying Islands
 ;Jeju;South Korea	33.384640000000005	126.5551	admin1				Jeju	South Korea
@@ -510,9 +506,9 @@
 ;Johnston;United States Minor Outlying Islands	16.7407468	-169.52841999999998	admin1				Johnston	United States Minor Outlying Islands
 ;Johor;Malaysia	2.0506130000000002	103.3899	admin1				Johor	Malaysia
 ;Jonkoping;Sweden	57.7826	14.1618	admin1				Jonkoping	Sweden
-;Jujuy;Argentina	-23.75	-65.5	admin1					
+;Jujuy;Argentina	-23.75	-65.5	admin1				Jujuy	Argentina
 ;Jura;Switzerland	47.35294520000001	7.15749577	admin1				Jura	Switzerland
-;Kaduna;Nigeria	10.516667	7.433333	admin1					
+;Kaduna;Nigeria	10.516667	7.433333	admin1				Kaduna	Nigeria
 ;Kagawa;Japan	34.21741	133.9691	admin1				Kagawa	Japan
 ;Kagoshima;Japan	31.03313	130.436	admin1				Kagoshima	Japan
 ;Kalasin;Thailand	16.62635	103.624	admin1				Kalasin	Thailand
@@ -539,14 +535,14 @@
 ;Krabi;Thailand	8.145121000000001	99.02049	admin1				Krabi	Thailand
 ;Kumamoto;Japan	32.609629999999996	130.7456	admin1				Kumamoto	Japan
 ;Kuyavia-Pomerania;Poland	53.1648	18.4834	admin1				Kuyavia-Pomerania	Poland
-;Kwara;Nigeria	8.5	5.0	admin1					
+;Kwara;Nigeria	8.5	5.0	admin1				Kwara	Nigeria
 ;Kwazulu-Natal;South Africa	-28.7422	30.7216	admin1				Kwazulu-Natal	South Africa
 ;Kyoto Prefecture;Japan	35.255	135.4426	admin1				Kyoto Prefecture	Japan
-;Kyzylorda;Kazakhstan	45.0	64.0	admin1					
-;La Pampa;Argentina	-36.616667	-64.283333	admin1					
+;Kyzylorda;Kazakhstan	45.0	64.0	admin1				Kyzylorda	Kazakhstan
+;La Pampa;Argentina	-36.616667	-64.283333	admin1				La Pampa	Argentina
 ;La Reunion;France	-21.1151	55.5364	admin1				La Reunion	France
 ;La Rioja;Spain	42.275643200000005	-2.5175644	admin1				La Rioja	Spain
-;Lagos;Nigeria	6.455026999999999	3.384082	admin1					
+;Lagos;Nigeria	6.455026999999999	3.384082	admin1				Lagos	Nigeria
 ;Lampang;Thailand	18.32677	99.51399	admin1				Lampang	Thailand
 ;Lamphun;Thailand	18.11905	98.956	admin1				Lamphun	Thailand
 ;Laois;Ireland	53.0	-7.4	admin1				Laois	Ireland
@@ -557,7 +553,7 @@
 ;Liguria;Italy	44.26631	8.70904	admin1				Liguria	Italy
 ;Limburg;Netherlands	51.20969	5.936651	admin1				Limburg	Netherlands
 ;Limerick;Ireland	52.5	-8.75	admin1				Limerick	Ireland
-;Limpopo;South Africa	-24.0	29.0	admin1					
+;Limpopo;South Africa	-24.0	29.0	admin1				Limpopo	South Africa
 ;Lisbon;Portugal	38.7223	-9.1393	admin1				Lisbon	Portugal
 ;Lodz;Poland	51.7592	19.456	admin1				Lodz	Poland
 ;Loei;Thailand	17.40458	101.6344	admin1				Loei	Thailand
@@ -565,13 +561,12 @@
 ;Longford;Ireland	53.666667000000004	-7.75	admin1				Longford	Ireland
 ;Lop Buri;Thailand	15.09809	100.9005	admin1				Lop Buri	Thailand
 ;Lorestan;Iran	33.485557799999995	48.403969200000006	admin1				Lorestan	Iran
-;Los Lagos;Chile	-41.471667	-72.936667	admin1					
-;Los Rios;Chile	-39.808333000000005	-73.241667	admin1					
-;Los Rios;Ecuador	-1.76667	-79.45	admin1					
+;Los Lagos;Chile	-41.471667	-72.936667	admin1				Los Lagos	Chile
+;Los Rios;Chile	-39.808333000000005	-73.241667	admin1				Los Rios	Chile
+;Los Rios;Ecuador	-1.76667	-79.45	admin1				Los Rios	Ecuador
 ;Louisiana;United States	31.0958349	-92.017673	admin1				Louisiana	United States
 ;Louth;Ireland	53.833332999999996	-6.5	admin1				Louth	Ireland
 ;Lower Austria;Austria	48.1081	15.805	admin1				Lower Austria	Austria
-;Lower Austria;Austria	48.27221831700007	15.751387608000073	point					Austria
 ;Lower Saxony;Germany	52.6367	9.8451	admin1				Lower Saxony	Germany
 ;Lower Silesia;Poland	51.13399999999999	16.8842	admin1				Lower Silesia	Poland
 ;Lublin;Poland	51.2465	22.5684	admin1				Lublin	Poland
@@ -580,23 +575,22 @@
 ;Macau;China	22.158910000000002	113.5611	admin1				Macau	China
 ;Madeira;Portugal	32.7607	-16.9595	admin1				Madeira	Portugal
 ;Madrid;Spain	40.4163	-3.7034	admin1				Madrid	Spain
-;Madrid;Spain	40.41955000000007	-3.6919599999999377	point					Spain
 ;Mae Hong Son;Thailand	18.81212	98.03301	admin1				Mae Hong Son	Thailand
-;Magallanes;Chile	-53.166667000000004	-70.93333299999999	admin1					
+;Magallanes;Chile	-53.166667000000004	-70.93333299999999	admin1				Magallanes	Chile
 ;Maha Sarakham;Thailand	15.99804	103.1681	admin1				Maha Sarakham	Thailand
 ;Maine;United States	45.40465379999999	-69.223028	admin1				Maine	United States
-;Manabi;Ecuador	-1.0522200000000002	-80.4506	admin1					
-;Mangystau;Kazakhstan	43.866667	52.0	admin1					
+;Manabi;Ecuador	-1.0522200000000002	-80.4506	admin1				Manabi	Ecuador
+;Mangystau;Kazakhstan	43.866667	52.0	admin1				Mangystau	Kazakhstan
 ;Manitoba;Canada	55.252340000000004	-97.40799999999999	admin1				Manitoba	Canada
-;Maranhao;Brazil	-5.2085503	-45.393026	admin1					
+;Maranhao;Brazil	-5.2085503	-45.393026	admin1				Maranhao	Brazil
 ;Marche;Italy	43.36837	13.106819999999999	admin1				Marche	Italy
 ;Markazi;Iran	34.576961700000005	49.931115500000004	admin1				Markazi	Iran
 ;Martinique;France	14.6415	-61.0242	admin1				Martinique	France
 ;Maryland;United States	39.05990870000001	-76.80351999999999	admin1				Maryland	United States
 ;Masovia;Poland	51.8927	21.0022	admin1				Masovia	Poland
 ;Massachusetts;United States	42.2607777	-71.814789	admin1				Massachusetts	United States
-;Mato Grosso do Sul;Brazil	-20.442778	-54.645832999999996	admin1					
-;Maule;Chile	-35.433333000000005	-71.666667	admin1					
+;Mato Grosso do Sul;Brazil	-20.442778	-54.645832999999996	admin1				Mato Grosso do Sul	Brazil
+;Maule;Chile	-35.433333000000005	-71.666667	admin1				Maule	Chile
 ;Mayaguez;Puerto Rico	18.2013	-67.1452	admin1				Mayaguez	Puerto Rico
 ;Mayo;Ireland	53.9	-9.25	admin1				Mayo	Ireland
 ;Mayotte;France	-12.8275	45.1662	admin1				Mayotte	France
@@ -605,17 +599,17 @@
 ;Meath;Ireland	53.666667000000004	-6.6666669999999995	admin1				Meath	Ireland
 ;Mecklenburg-Vorpommern;Germany	53.75765	12.555480000000001	admin1				Mecklenburg-Vorpommern	Germany
 ;Melilla;Spain	35.2923	-2.9381	admin1				Melilla	Spain
-;Mendoza;Argentina	-32.890278	-68.847222	admin1					
+;Mendoza;Argentina	-32.890278	-68.847222	admin1				Mendoza	Argentina
 ;Metro;Puerto Rico	18.4255	-66.0632	admin1				Metro	Puerto Rico
-;Metropolitan Region;Chile	-33.437778	-70.650278	admin1					
+;Metropolitan Region;Chile	-33.437778	-70.650278	admin1				Metropolitan Region	Chile
 ;Michigan;United States	44.9590738	-85.76983	admin1				Michigan	United States
-;Michoacan;Mexico	19.166667	-101.9	admin1					
+;Michoacan;Mexico	19.166667	-101.9	admin1				Michoacan	Mexico
 ;Midway;United States Minor Outlying Islands	27.3022646	-175.45501000000002	admin1				Midway	United States Minor Outlying Islands
 ;Mie;Japan	34.51017	136.3764	admin1				Mie	Japan
-;Minas Gerais;Brazil	-18.514214000000003	-49.949521999999995	admin1					
+;Minas Gerais;Brazil	-18.514214000000003	-49.949521999999995	admin1				Minas Gerais	Brazil
 ;Minnesota;United States	46.420711700000005	-94.195512	admin1				Minnesota	United States
-;Misiones;Argentina	-26.92	-54.52	admin1					
-;Misiones;Paraguay	-26.9855385	-57.19062660000001	admin1					
+;Misiones;Argentina	-26.92	-54.52	admin1				Misiones	Argentina
+;Misiones;Paraguay	-26.9855385	-57.19062660000001	admin1				Misiones	Paraguay
 ;Mississippi;United States	32.779166100000005	-89.6638	admin1				Mississippi	United States
 ;Missouri;United States	38.3982037	-92.487656	admin1				Missouri	United States
 ;Miyagi;Japan	38.44869	140.9277	admin1				Miyagi	Japan
@@ -624,13 +618,13 @@
 ;Monaghan;Ireland	54.244	-7.04	admin1				Monaghan	Ireland
 ;Montana;United States	47.0738891	-109.65158000000001	admin1				Montana	United States
 ;More og Romsdal;Norway	62.8407	7.0071	admin1				More og Romsdal	Norway
-;Morelos;Mexico	18.75	-99.06666700000001	admin1					
-;Morona Santiago;Ecuador	-2.3666669999999996	-78.133333	admin1					
-;Mpumalanga;South Africa	-26.0	30.0	admin1					
+;Morelos;Mexico	18.75	-99.06666700000001	admin1				Morelos	Mexico
+;Morona Santiago;Ecuador	-2.3666669999999996	-78.133333	admin1				Morona Santiago	Ecuador
+;Mpumalanga;South Africa	-26.0	30.0	admin1				Mpumalanga	South Africa
 ;Mukdahan;Thailand	16.56537	104.5176	admin1				Mukdahan	Thailand
 ;Murcia;Spain	37.9922	-1.1307	admin1				Murcia	Spain
 ;Nagano;Japan	36.13596	138.0463	admin1				Nagano	Japan
-;Nairobi County;Kenya	-1.2833	36.8167	admin1					
+;Nairobi County;Kenya	-1.2833	36.8167	admin1				Nairobi County	Kenya
 ;Najaf;Iraq	31.05282	43.74071	admin1				Najaf	Iraq
 ;Nakhon Nayok;Thailand	14.215639999999999	101.17200000000001	admin1				Nakhon Nayok	Thailand
 ;Nakhon Pathom;Thailand	13.92591	100.1057	admin1				Nakhon Pathom	Thailand
@@ -645,10 +639,10 @@
 ;Navarra;Spain	42.6699872	-1.6474982	admin1				Navarra	Spain
 ;Navarre;Spain	42.6954	-1.6761	admin1				Navarre	Spain
 ;Navassa;United States Minor Outlying Islands	18.4032347	-75.01361800000001	admin1				Navassa	United States Minor Outlying Islands
-;Nayarit;Mexico	21.75	-105.233333	admin1					
+;Nayarit;Mexico	21.75	-105.233333	admin1				Nayarit	Mexico
 ;Nebraska;United States	41.543692799999995	-99.81769200000001	admin1				Nebraska	United States
 ;Neuchatel;Switzerland	46.997427200000004	6.78241832	admin1				Neuchatel	Switzerland
-;Neuquen;Argentina	-38.951667	-68.074444	admin1					
+;Neuquen;Argentina	-38.951667	-68.074444	admin1				Neuquen	Argentina
 ;Nevada;United States	39.4150221	-116.66716000000001	admin1				Nevada	United States
 ;New Brunswick;Canada	46.63196	-66.3823	admin1				New Brunswick	Canada
 ;New Hampshire;United States	43.6987299	-71.576689	admin1				New Hampshire	United States
@@ -678,32 +672,32 @@
 ;North Gyeongsang;South Korea	36.3174	128.7493	admin1				North Gyeongsang	South Korea
 ;North Holland;Netherlands	52.58435	4.872922	admin1				North Holland	Netherlands
 ;North Jeolla;South Korea	35.6987	127.1553	admin1				North Jeolla	South Korea
-;North Kazakhstan;Kazakhstan	54.88333299999999	69.166667	admin1					
+;North Kazakhstan;Kazakhstan	54.88333299999999	69.166667	admin1				North Kazakhstan	Kazakhstan
 ;North Khorasan;Iran	37.404421	57.0353985	admin1				North Khorasan	Iran
 ;North Rhine-Westphalia;Germany	51.48744	7.566159	admin1				North Rhine-Westphalia	Germany
-;North West;South Africa	-27.0	26.0	admin1					
+;North West;South Africa	-27.0	26.0	admin1				North West	South Africa
 ;North Western;Russia	63.2086	49.8114	admin1				North Western	Russia
-;Northern Cape;South Africa	-30.0	22.0	admin1					
+;Northern Cape;South Africa	-30.0	22.0	admin1				Northern Cape	South Africa
 ;Northern Ireland;United Kingdom	54.594234	-6.678906	admin1				Northern Ireland	United Kingdom
 ;Northern Territory;Australia	-19.5573	133.3694	admin1				Northern Territory	Australia
 ;Northwest Territories;Canada	67.95257	-119.102	admin1				Northwest Territories	Canada
 ;Nouvelle-Aquitaine;France	45.23337	0.21928699999999998	admin1				Nouvelle-Aquitaine	France
 ;Nova Scotia;Canada	45.16043	-63.3127	admin1				Nova Scotia	Canada
-;Nuble;Chile	-36.616667	-71.95	admin1					
-;Nuevo Leon;Mexico	25.566667000000002	-99.966667	admin1					
+;Nuble;Chile	-36.616667	-71.95	admin1				Nuble	Chile
+;Nuevo Leon;Mexico	25.566667000000002	-99.966667	admin1				Nuevo Leon	Mexico
 ;Nunavut;Canada	74.82798000000001	-87.191	admin1				Nunavut	Canada
-;OHiggins;Chile	-34.167221999999995	-70.72694399999999	admin1					
-;Oaxaca;Mexico	16.9	-96.416667	admin1					
+;OHiggins;Chile	-34.167221999999995	-70.72694399999999	admin1				OHiggins	Chile
+;Oaxaca;Mexico	16.9	-96.416667	admin1				Oaxaca	Mexico
 ;Obwalden;Switzerland	46.8524021	8.24388207	admin1				Obwalden	Switzerland
 ;Occitanie;France	43.71275	2.145857	admin1				Occitanie	France
 ;Offaly;Ireland	53.25	-7.5	admin1				Offaly	Ireland
-;Ogun;Nigeria	7.0	3.583333	admin1					
+;Ogun;Nigeria	7.0	3.583333	admin1				Ogun	Nigeria
 ;Ohio;United States	40.4973968	-82.620745	admin1				Ohio	United States
 ;Oita;Japan	33.201609999999995	131.433	admin1				Oita	Japan
 ;Okayama;Japan	34.89342	133.8263	admin1				Okayama	Japan
 ;Okinawa;Japan	25.78098	126.6822	admin1				Okinawa	Japan
 ;Oklahoma;United States	35.5993932	-97.51493	admin1				Oklahoma	United States
-;Ondo;Nigeria	7.1666669999999995	5.0833330000000005	admin1					
+;Ondo;Nigeria	7.1666669999999995	5.0833330000000005	admin1				Ondo	Nigeria
 ;Ontario;Canada	50.43084	-85.9952	admin1				Ontario	Canada
 ;Opole;Poland	50.6683	17.9231	admin1				Opole	Poland
 ;Orebro;Sweden	59.535	15.0066	admin1				Orebro	Sweden
@@ -711,19 +705,19 @@
 ;Osaka;Japan	34.62168	135.5076	admin1				Osaka	Japan
 ;Oslo;Norway	59.9849	10.7167	admin1				Oslo	Norway
 ;Ostergotland;Sweden	58.3454	15.5198	admin1				Ostergotland	Sweden
-;Osun;Nigeria	7.5	4.5	admin1					
+;Osun;Nigeria	7.5	4.5	admin1				Osun	Nigeria
 ;Overijssel;Netherlands	52.446090000000005	6.446894	admin1				Overijssel	Netherlands
-;Oyo;Nigeria	8.0	4.0	admin1					
+;Oyo;Nigeria	8.0	4.0	admin1				Oyo	Nigeria
 ;Pais Vasco;Spain	43.04468920000001	-2.6168503	admin1				Pais Vasco	Spain
 ;Palmyra;United States Minor Outlying Islands	5.88168188	-162.07422	admin1				Palmyra	United States Minor Outlying Islands
-;Para;Brazil	-3.6033322999999995	-56.981621999999994	admin1					
-;Parana;Brazil	-24.0	-51.0	admin1					
+;Para;Brazil	-3.6033322999999995	-56.981621999999994	admin1				Para	Brazil
+;Parana;Brazil	-24.0	-51.0	admin1				Parana	Brazil
 ;Pathum Thani;Thailand	14.064070000000001	100.6833	admin1				Pathum Thani	Thailand
 ;Pattani;Thailand	6.730519	101.3515	admin1				Pattani	Thailand
-;Pavlodar;Kazakhstan	52.3	76.95	admin1					
+;Pavlodar;Kazakhstan	52.3	76.95	admin1				Pavlodar	Kazakhstan
 ;Pays de la Loire;France	47.48646	-0.81128	admin1				Pays de la Loire	France
 ;Pennsylvania;United States	40.8839849	-77.79930999999999	admin1				Pennsylvania	United States
-;Pernambuco;Brazil	-8.333333	-37.8	admin1					
+;Pernambuco;Brazil	-8.333333	-37.8	admin1				Pernambuco	Brazil
 ;Phangnga;Thailand	8.671437	98.42206999999999	admin1				Phangnga	Thailand
 ;Phatthalung;Thailand	7.511735000000001	100.0692	admin1				Phatthalung	Thailand
 ;Phayao;Thailand	19.23216	100.1893	admin1				Phayao	Thailand
@@ -734,7 +728,7 @@
 ;Phra Nakhon Si Ayutthaya;Thailand	14.34423	100.5281	admin1				Phra Nakhon Si Ayutthaya	Thailand
 ;Phrae;Thailand	18.200129999999998	100.0682	admin1				Phrae	Thailand
 ;Phuket;Thailand	7.962851	98.34623	admin1				Phuket	Thailand
-;Pichincha;Ecuador	-0.25	-78.583333	admin1					
+;Pichincha;Ecuador	-0.25	-78.583333	admin1				Pichincha	Ecuador
 ;Piedmont;Italy	45.06223	7.6633059999999995	admin1				Piedmont	Italy
 ;Piemonte;Italy	45.067859999999996	7.924753999999999	admin1				Piemonte	Italy
 ;Piemonte;Italy	45.068259999999995	7.9283660000000005	admin1				Piemonte	Italy
@@ -747,16 +741,15 @@
 ;Principado de Asturias;Spain	43.2929351	-5.992859200000001	admin1				Principado de Asturias	Spain
 ;Provence-Alpes-Cote d'Azur;France	43.96284	6.060155	admin1				Provence-Alpes-Cote d'Azur	France
 ;Provence-Alpes-Cote d’Azur;France	43.9352	6.0679	admin1				Provence-Alpes-Cote d’Azur	France
-;Provence-Alpes-Cote d’Azur;France	43.95866563900006	6.060842835000074	point					France
-;Puebla;Mexico	19.0	-97.883333	admin1					
+;Puebla;Mexico	19.0	-97.883333	admin1				Puebla	Mexico
 ;Puglia;Italy	40.99113	16.613120000000002	admin1				Puglia	Italy
 ;Qazvin;Iran	36.095440100000005	49.721584899999996	admin1				Qazvin	Iran
 ;Qinghai;China	35.716440000000006	96.02733	admin1				Qinghai	China
 ;Qom;Iran	34.6951488	50.9825102	admin1				Qom	Iran
 ;Quebec;Canada	54.164719999999996	-71.8651	admin1				Quebec	Canada
 ;Queensland;Australia	-22.7408	144.5894	admin1				Queensland	Australia
-;Queretaro;Mexico	20.583333	-100.383333	admin1					
-;Quintana Roo;Mexico	19.6	-87.92	admin1					
+;Queretaro;Mexico	20.583333	-100.383333	admin1				Queretaro	Mexico
+;Quintana Roo;Mexico	19.6	-87.92	admin1				Quintana Roo	Mexico
 ;Ranong;Thailand	9.96739	98.70065	admin1				Ranong	Thailand
 ;Ratchaburi;Thailand	13.53359	99.58091	admin1				Ratchaburi	Thailand
 ;Rayong;Thailand	12.855319999999999	101.4267	admin1				Rayong	Thailand
@@ -765,37 +758,37 @@
 ;Republika Srpska;Bosnia and Herzegovina	44.23635	18.04121	admin1				Republika Srpska	Bosnia and Herzegovina
 ;Rhineland-Palatinate;Germany	49.91972	7.4476770000000005	admin1				Rhineland-Palatinate	Germany
 ;Rhode Island;United States	41.6767222	-71.55440899999999	admin1				Rhode Island	United States
-;Rio Grande do Norte;Brazil	-5.74	-36.55	admin1					
-;Rio Negro;Argentina	-40.8	-63.0	admin1					
-;Rio de Janeiro;Brazil	-22.885927	-43.115259	admin1					
-;Rivers;Nigeria	4.75	6.8333330000000005	admin1					
+;Rio Grande do Norte;Brazil	-5.74	-36.55	admin1				Rio Grande do Norte	Brazil
+;Rio Negro;Argentina	-40.8	-63.0	admin1				Rio Norte	Argentina
+;Rio de Janeiro;Brazil	-22.885927	-43.115259	admin1				Rio de Janeiro	Brazil
+;Rivers;Nigeria	4.75	6.8333330000000005	admin1				Rivers	Nigeria
 ;Rogaland;Norway	59.148999999999994	6.0143	admin1				Rogaland	Norway
 ;Roi Et;Thailand	15.91875	103.8165	admin1				Roi Et	Thailand
 ;Roscommon;Ireland	53.75	-8.25	admin1				Roscommon	Ireland
 ;Sa Kaeo;Thailand	13.785060000000001	102.3226	admin1				Sa Kaeo	Thailand
 ;Saarland;Germany	49.384840000000004	6.952982	admin1				Saarland	Germany
-;Sacatepequez;Guatemala	14.556667000000001	-90.733889	admin1					
+;Sacatepequez;Guatemala	14.556667000000001	-90.733889	admin1				Sacatepequez	Guatemala
 ;Sachsen-Anhalt;Germany	52.02118	11.699639999999999	admin1				Sachsen-Anhalt	Germany
 ;Sachsen;Germany	51.05571	13.350470000000001	admin1				Sachsen	Germany
 ;Saga;Japan	33.287259999999996	130.1157	admin1				Saga	Japan
 ;Saint-Martin;France	18.0826	-63.0523	admin1				Saint-Martin	France
 ;Saitama;Japan	35.99736	139.3476	admin1				Saitama	Japan
 ;Sakon Nakhon;Thailand	17.3888	103.8267	admin1				Sakon Nakhon	Thailand
-;Salta;Argentina	-24.783333	-65.416667	admin1					
-;Salzbur;Austria	47.81156008050087	13.027340076605746	point					Austria
+;Salta;Argentina	-24.783333	-65.416667	admin1				Salta	Argentina
+;Salzbur;Austria	47.81156008050087	13.027340076605746	admin1				Salzbur	Austria
 ;Salzburg;Austria	47.8095	13.055	admin1				Salzburg	Austria
 ;Samut Prakan;Thailand	13.59651	100.711	admin1				Samut Prakan	Thailand
 ;Samut Sakhon;Thailand	13.569529999999999	100.2134	admin1				Samut Sakhon	Thailand
 ;Samut Songkhram;Thailand	13.396360000000001	99.95425999999999	admin1				Samut Songkhram	Thailand
-;San Luis Potosi;Mexico	22.6	-100.43333299999999	admin1					
-;San Luis;Argentina	-33.3	-66.35	admin1					
+;San Luis Potosi;Mexico	22.6	-100.43333299999999	admin1				San Luis Potosi	Mexico
+;San Luis;Argentina	-33.3	-66.35	admin1				San Luis	Argentina
 ;Sankt Gallen;Switzerland	47.2300307	9.26866543	admin1				Sankt Gallen	Switzerland
-;Santa Catarina;Brazil	-27.25	-50.333333	admin1					
-;Santa Cruz;Argentina	-48.62	-70.01	admin1					
-;Santa Elena;Ecuador	-2.2267	-80.8583	admin1					
-;Santa Fe;Argentina	-33.7227	-62.246	admin1					
-;Santiago Metropolitan Region;Chile	-33.5872	-70.654	admin1				Region Metropolitana de Santiago	Chile
-;Santiago del Estero;Argentina	-27.783333000000002	-64.266667	admin1					
+;Santa Catarina;Brazil	-27.25	-50.333333	admin1				Santa Catarina	Brazil
+;Santa Cruz;Argentina	-48.62	-70.01	admin1				Santa Cruz	Argentina
+;Santa Elena;Ecuador	-2.2267	-80.8583	admin1				Santa Elena	Ecuador
+;Santa Fe;Argentina	-33.7227	-62.246	admin1				Santa Fe	Argentina
+;Santiago Metropolitan Region;Chile	-33.5872	-70.654	admin1				Santiago Metropolitan Region	Chile
+;Santiago del Estero;Argentina	-27.783333000000002	-64.266667	admin1				Santiago del Estero	Argentina
 ;Sao Paulo;Brazil	-22.2818	-48.7268	admin1				Sao Paulo	Brazil
 ;Saraburi;Thailand	14.62875	101.0155	admin1				Saraburi	Thailand
 ;Sardegna;Italy	40.09645	9.031558	admin1				Sardegna	Italy
@@ -818,13 +811,13 @@
 ;Shiga;Japan	35.21662	136.1381	admin1				Shiga	Japan
 ;Shimane;Japan	35.073890000000006	132.5561	admin1				Shimane	Japan
 ;Shizuoka;Japan	34.92794	138.4051	admin1				Shizuoka	Japan
-;Shymkent;Kazakhstan	43.0	68.5	admin1					
+;Shymkent;Kazakhstan	43.0	68.5	admin1				Shymkent	Kazakhstan
 ;Si Sa Ket;Thailand	14.85653	104.3713	admin1				Si Sa Ket	Thailand
 ;Siberian Federal District;Russia	58.3095	93.9909	admin1				Siberian Federal District	Russia
 ;Sichuan;China	30.66507	102.7093	admin1				Sichuan	China
 ;Sicily;Italy	37.591229999999996	14.14579	admin1				Sicily	Italy
 ;Silesia;Poland	50.5717	19.322	admin1				Silesia	Poland
-;Sinaloa;Mexico	25.0	-107.5	admin1					
+;Sinaloa;Mexico	25.0	-107.5	admin1				Sinaloa	Mexico
 ;Sing Buri;Thailand	14.91266	100.3474	admin1				Sing Buri	Thailand
 ;Sistan and Baluchestan;Iran	27.841577	60.683453799999995	admin1				Sistan and Baluchestan	Iran
 ;Skane;Sweden	55.9903	13.5958	admin1				Skane	Sweden
@@ -832,7 +825,7 @@
 ;Sodermanland;Sweden	59.0336	16.7519	admin1				Sodermanland	Sweden
 ;Solothurn;Switzerland	47.307474299999996	7.6434909	admin1				Solothurn	Switzerland
 ;Songkhla;Thailand	6.935366999999999	100.5446	admin1				Songkhla	Thailand
-;Sonora;Mexico	29.646110999999998	-110.868889	admin1					
+;Sonora;Mexico	29.646110999999998	-110.868889	admin1				Sonora	Mexico
 ;South Australia;Australia	-30.22263	135.869	admin1				South Australia	Australia
 ;South Carolina;United States	33.92543920000001	-80.900601	admin1				South Carolina	United States
 ;South Chungcheong;South Korea	36.52683	126.8305	admin1				South Chungcheong	South Korea
@@ -843,18 +836,17 @@
 ;South Khorasan;Iran	32.37605739999999	59.6101649	admin1				South Khorasan	Iran
 ;Southern;Russia	47.3352	43.4257	admin1				Southern	Russia
 ;Stockholm;Sweden	59.6025	18.1384	admin1				Stockholm	Sweden
-;Styria;Austria	47.269128909000074	15.012020545000041	point					Austria
 ;Styria;Austria	47.3593	14.47	admin1				Styria	Austria
 ;Subcarpathia;Poland	50.0575	22.0896	admin1				Subcarpathia	Poland
 ;Sukhothai;Thailand	17.25948	99.71123	admin1				Sukhothai	Thailand
 ;Suphan Buri;Thailand	14.606179999999998	99.89177	admin1				Suphan Buri	Thailand
 ;Surat Thani;Thailand	9.050449	99.08721	admin1				Surat Thani	Thailand
 ;Surin;Thailand	14.885639999999999	103.6584	admin1				Surin	Thailand
-;Tabasco;Mexico	17.966667	-92.583333	admin1					
-;Taiwan;	23.75947	120.9559	admin1				Taiwan (Province of China)	
+;Tabasco;Mexico	17.966667	-92.583333	admin1				Tabasco	Mexico
+;Taiwan;	23.75947	120.9559	admin1				Taiwan	
 ;Tak;Thailand	16.71838	98.79063000000001	admin1				Tak	Thailand
-;Tamaulipas;Mexico	24.283333	-98.56666700000001	admin1					
-;Tarapaca;Chile	-20.283333	-69.333333	admin1					
+;Tamaulipas;Mexico	24.283333	-98.56666700000001	admin1				Tamaulipas	Mexico
+;Tarapaca;Chile	-20.283333	-69.333333	admin1				Tarapaca	Chile
 ;Tasmania;Australia	-41.9982	146.6359	admin1				Tasmania	Australia
 ;Tehran;Iran	35.556791	51.876920399999996	admin1				Tehran	Iran
 ;Telangana;India	17.80198	79.06004	admin1				Telangana	India
@@ -866,9 +858,9 @@
 ;Tianjin;China	39.297129999999996	117.3333	admin1				Tianjin	China
 ;Tibet;China	31.76117	88.04576	admin1				Tibet	China
 ;Ticino;Switzerland	46.298856	8.80826384	admin1				Ticino	Switzerland
-;Tierra del Fuego;Argentina	-54.0	-70.0	admin1					
+;Tierra del Fuego;Argentina	-54.0	-70.0	admin1				Tierra del Fuego	Argentina
 ;Tipperary;Ireland	52.666667000000004	-7.8333330000000005	admin1				Tipperary	Ireland
-;Tlaxcala;Mexico	19.433332999999998	-98.166667	admin1					
+;Tlaxcala;Mexico	19.433332999999998	-98.166667	admin1				Tlaxcala	Mexico
 ;Tochigi;Japan	36.69093	139.8194	admin1				Tochigi	Japan
 ;Tokushima;Japan	33.91956	134.2421	admin1				Tokushima	Japan
 ;Tokyo;Japan	35.71145	139.4468	admin1				Tokyo	Japan
@@ -882,8 +874,7 @@
 ;Troms and Finnmark;Norway	69.8178	18.7819	admin1				Troms and Finnmark	Norway
 ;Troms og Finnmark;Norway	70.0718	23.2172	admin1				Troms og Finnmark	Norway
 ;Trondelag;Norway	63.542	10.9369	admin1				Trondelag	Norway
-;Tucuman;Argentina	-26.94	-65.34	admin1					
-;Tyrol;Austria	47.19467602200007	11.501697192000051	point					Austria
+;Tucuman;Argentina	-26.94	-65.34	admin1				Tucuman	Argentina
 ;Tyrol;Austria	47.2537	11.6015	admin1				Tyrol	Austria
 ;Tyumen;Russia	65.26563	72.67244000000001	admin2				Tyumen	Russia
 ;Ubon Ratchathani;Thailand	15.184579999999999	105.1128	admin1				Ubon Ratchathani	Thailand
@@ -891,7 +882,6 @@
 ;Ulsan;South Korea	35.53651	129.2415	admin1				Ulsan	South Korea
 ;Umbria;Italy	42.96893	12.49059	admin1				Umbria	Italy
 ;Upper Austria;Austria	48.0259	13.9724	admin1				Upper Austria	Austria
-;Upper Austria;Austria	48.136406098000066	13.964606959000037	point					Austria
 ;Uppsala;Sweden	60.0092	17.2715	admin1				Uppsala	Sweden
 ;Ural;Russia	61.7092	72.5075	admin1				Ural	Russia
 ;Uri;Switzerland	46.7757363	8.62756284	admin1				Uri	Switzerland
@@ -902,7 +892,7 @@
 ;Valais;Switzerland	46.2123719	7.61188191	admin1				Valais	Switzerland
 ;Valencian Community;Spain	39.412298299999996	-0.5529151	admin1				Valencian Community	Spain
 ;Valle d'Aosta;Italy	45.73276	7.393743	admin1				Valle d'Aosta	Italy
-;Valparaiso;Chile	-33.05	-71.616667	admin1					
+;Valparaiso;Chile	-33.05	-71.616667	admin1				Valparaiso	Chile
 ;Varmland;Sweden	59.7294	13.2354	admin1				Varmland	Sweden
 ;Vasterbotten;Sweden	65.3337	16.5162	admin1				Vasterbotten	Sweden
 ;Vasternorrland;Sweden	63.4276	17.7292	admin1				Vasternorrland	Sweden
@@ -910,7 +900,7 @@
 ;Vastra Gotaland;Sweden	58.2528	13.0596	admin1				Vastra Gotaland	Sweden
 ;Vaud;Switzerland	46.5724559	6.65884868	admin1				Vaud	Switzerland
 ;Veneto;Italy	45.66677	11.84727	admin1				Veneto	Italy
-;Veracruz;Mexico	19.433332999999998	-96.383333	admin1					
+;Veracruz;Mexico	19.433332999999998	-96.383333	admin1				Veracruz	Mexico
 ;Vermont;United States	44.0842428	-72.662174	admin1				Vermont	United States
 ;Vestfold og Telemark;Norway	59.3542	8.8818	admin1				Vestfold og Telemark	Norway
 ;Vestfold;Norway	59.32258	10.13497	admin1				Vestfold	Norway
@@ -930,17 +920,16 @@
 ;Washington;United States	47.4049899	-120.43805	admin1				Washington	United States
 ;Waterford;Ireland	52.25	-7.5	admin1				Waterford	Ireland
 ;West Azarbaijan;Iran	37.7427948	45.2754979	admin1				West Azarbaijan	Iran
-;West Kazakhstan;Kazakhstan	51.233333	51.366667	admin1					
+;West Kazakhstan;Kazakhstan	51.233333	51.366667	admin1				West Kazakhstan	Kazakhstan
 ;West Pomerania;Poland	53.4658	15.1823	admin1				West Pomerania	Poland
 ;West Virginia;United States	38.6521996	-80.607237	admin1				West Virginia	United States
 ;Western Australia;Australia	-25.7664	122.1313	admin1				Western Australia	Australia
-;Western Cape;South Africa	-34.0	20.0	admin1					
+;Western Cape;South Africa	-34.0	20.0	admin1				Western Cape	South Africa
 ;Westmeath;Ireland	53.5	-7.5	admin1				Westmeath	Ireland
 ;Wexford;Ireland	52.5	-6.75	admin1				Wexford	Ireland
 ;Wicklow;Ireland	53.0	-6.4166669999999995	admin1				Wicklow	Ireland
 ;Wisconsin;United States	44.6758939	-89.747725	admin1				Wisconsin	United States
 ;Wyoming;United States	43.0330951	-107.55098000000001	admin1				Wyoming	United States
-;Xinjiang;China	40.932559999999995	81.97697	admin2				Xinjiang	China
 ;Xinjiang;China	41.376290000000004	85.28061	admin1				Xinjiang	China
 ;Yala;Thailand	6.194256	101.2301	admin1				Yala	Thailand
 ;Yamagata;Japan	38.45094	140.1023	admin1				Yamagata	Japan
@@ -948,10 +937,10 @@
 ;Yamanashi;Japan	35.6129	138.6115	admin1				Yamanashi	Japan
 ;Yasothon;Thailand	15.8964	104.3418	admin1				Yasothon	Thailand
 ;Yazd;Iran	32.5838253	55.61097879999999	admin1				Yazd	Iran
-;Yucatan;Mexico	20.833333	-89.0	admin1					
+;Yucatan;Mexico	20.833333	-89.0	admin1				Yucatan	Mexico
 ;Yukon;Canada	63.9877	-135.685	admin1				Yukon	Canada
 ;Yunnan;China	25.01087	101.4838	admin1				Yunnan	China
-;Zacatecas;Mexico	23.3	-102.7	admin1					
+;Zacatecas;Mexico	23.3	-102.7	admin1				Zacatecas	Mexico
 ;Zanjan;Iran	36.527573700000005	48.358199299999995	admin1				Zanjan	Iran
 ;Zeeland;Netherlands	51.45255	3.835539	admin1				Zeeland	Netherlands
 ;Zeeuwse meren;Netherlands	51.63984	4.072394	admin1				Zeeuwse meren	Netherlands
@@ -970,11 +959,11 @@ Abbeville County;South Carolina;United States	34.2233794	-82.458277	admin2			Abb
 Abcoude;Utrecht;Netherlands	52.26446	4.981229	admin2			Abcoude	Utrecht	Netherlands
 Abitibi-Ouest;Quebec;Canada	48.7481	-79.1116	admin2			Abitibi-Ouest	Quebec	Canada
 Abitibi;Quebec;Canada	48.674459999999996	-77.9328	admin2			Abitibi	Quebec	Canada
-Abu Dhabi;Abu Dhabi;United Arab Emirates	24.46667	54.36666999999999	point	Abu Dhabi		Abu Dhabi	Abu Dhabi	United Arab Emirates
-Abuja;Federal Capital Territory;Nigeria	9.066667	7.483333	admin2					
+Abu Dhabi;Abu Dhabi;United Arab Emirates	24.46667	54.36666999999999	admin3	Abu Dhabi		Abu Dhabi	Abu Dhabi	United Arab Emirates
+Abuja;Federal Capital Territory;Nigeria	9.066667	7.483333	admin2			Abuja	Federal Capital Territory	Nigeria
 Acadia Parish;Louisiana;United States	30.291999999999998	-92.4118	admin2			Acadia Parish	Louisiana	United States
 Accomack County;Virginia;United States	37.7642856	-75.644625	admin2			Accomack County	Virginia	United States
-Accra;Greater Accra Region;Ghana	5.55	-0.2	admin2					
+Accra;Greater Accra Region;Ghana	5.55	-0.2	admin2			Accra	Greater Accra Region	Ghana
 Acheng District, Harbin City;Heilongjiang;China	45.48505	127.1518	admin3		Acheng District	Harbin City	Heilongjiang	China
 Achtkarspelen;Friesland;Netherlands	53.21618	6.150008000000001	admin2			Achtkarspelen	Friesland	Netherlands
 Acton;Quebec;Canada	45.6213	-72.5377	admin2			Acton	Quebec	Canada
@@ -983,7 +972,7 @@ Adair County;Iowa;United States	41.33013629999999	-94.472149	admin2			Adair Coun
 Adair County;Kentucky;United States	37.1046451	-85.280242	admin2			Adair County	Kentucky	United States
 Adair County;Missouri;United States	40.1922167	-92.60191800000001	admin2			Adair County	Missouri	United States
 Adair County;Oklahoma;United States	35.8851474	-94.65831899999999	admin2			Adair County	Oklahoma	United States
-Adama;Oromia;Ethiopia	8.541389	39.268889	admin2					
+Adama;Oromia;Ethiopia	8.541389	39.268889	admin2			Adama	Oromia	Ethiopia
 Adams County;Colorado;United States	39.873495899999995	-104.33818000000001	admin2			Adams County	Colorado	United States
 Adams County;Idaho;United States	44.89146029999999	-116.45281000000001	admin2			Adams County	Idaho	United States
 Adams County;Illinois;United States	39.988577500000005	-91.188118	admin2			Adams County	Illinois	United States
@@ -996,14 +985,14 @@ Adams County;Ohio;United States	38.8452899	-83.472061	admin2			Adams County	Ohio
 Adams County;Pennsylvania;United States	39.8719129	-77.218055	admin2			Adams County	Pennsylvania	United States
 Adams County;Washington;United States	46.9837195	-118.561	admin2			Adams County	Washington	United States
 Adams County;Wisconsin;United States	43.9697138	-89.76988100000001	admin2			Adams County	Wisconsin	United States
-Addis Ababa;Addis Ababa;Ethiopia	9.03	38.74	admin2					
-Addis Kidame;Amhara;Ethiopia	11.333333	36.75	admin2					
+Addis Ababa;Addis Ababa;Ethiopia	9.03	38.74	admin2			Addis Ababa	Addis Ababa	Ethiopia
+Addis Kidame;Amhara;Ethiopia	11.333333	36.75	admin2			Addis Kidama	Amhara	Ethiopia
 Addison County;Vermont;United States	44.0306139	-73.14170899999999	admin2			Addison County	Vermont	United States
-Adelaide;South Australia;Australia	-34.9289	138.6011	point	Adelaide			South Australia	Australia
+Adelaide;South Australia;Australia	-34.9289	138.6011	admin2			Adelaide	South Australia	Australia
 Administrative unit under the direct of Province-level (Hainan);Hainan;China	19.1561	109.7542	admin2			Administrative unit under the direct of Province-level (Hainan)	Hainan	China
 Administrative unit under the direct of Province-level (Henan);Henan;China	35.099909999999994	112.3926	admin2				Henan	China
 Administrative unit under the direct of Province-level (Hubei);Hubei;China	30.80302	112.2727	admin2			Administrative unit under the direct of Province-level (Hubei)	Hubei	China
-Adrar;Adrar;Algeria	27.866667	-0.283333	admin2					
+Adrar;Adrar;Algeria	27.866667	-0.283333	admin2			Adrar	Adrar	Algeria
 Aegean Bay, Oriental Plaza, Economic Development Zone, Changchun;Jilin;China	43.8813038	125.427811	point	Aegean Bay, Oriental Plaza	Nanguan District	Changchun City	Jilin	China
 Aershan City, Hinggan City;Inner Mongolia;China	47.141059999999996	120.3447	admin3		Aershan City	Hinggan City	Inner Mongolia	China
 Agra;Uttar Pradesh;India	27.18	78.02	point	Agra			Uttar Pradesh	India
@@ -1015,8 +1004,8 @@ Aichach-Friedberg;Bavaria;Germany	48.42788	11.05278	admin2			Aichach-Friedberg	B
 Aihui District, Heihe City;Heilongjiang;China	50.21043	126.7502	admin3		Aihui District	Heihe City	Heilongjiang	China
 Aiken County;South Carolina;United States	33.545507300000004	-81.6343	admin2			Aiken County	South Carolina	United States
 Aimin District, Mudanjiang City;Heilongjiang;China	44.71222	129.4996	admin3		Aimin District	Mudanjiang City	Heilongjiang	China
-Ain Defla;Ain Defla;Algeria	36.2652	1.9703	admin2					
-Ain Temouchent;Ain Temouchent;Algeria	35.3	-1.133333	admin2					
+Ain Defla;Ain Defla;Algeria	36.2652	1.9703	admin2			Ain Defla	Ain Defla	Algeria
+Ain Temouchent;Ain Temouchent;Algeria	35.3	-1.133333	admin2			Ain Temouchent	Ain Temouchent	Algeria
 Ain;Auvergne-Rhone-Alpes;France	46.10068	5.348427	admin2			Ain	Auvergne-Rhone-Alpes	France
 Ainan;Ehime;Japan	32.98534	132.586	admin2	Ainan			Ehime	Japan
 Aisne;Hauts-de-France;France	49.56351	3.5600940000000003	admin2			Aisne	Hauts-de-France	France
@@ -1028,7 +1017,7 @@ Aketao County, Kirgiz Autonomous Prefecture;Xinjiang;China	38.61092	75.2162	admi
 Aksu District;Xinjiang;China	40.992909999999995	81.55678	admin2			Aksu District	Xinjiang	China
 Ala'er City;Xinjiang;China	40.5041	81.40993	admin3		Ala'er City		Xinjiang	China
 Alachua County;Florida;United States	29.675257399999996	-82.35770699999999	admin2			Alachua County	Florida	United States
-Alagoinhas;Bahia;Brazil	-12.135833	-38.418889	admin2					
+Alagoinhas;Bahia;Brazil	-12.135833	-38.418889	admin2			Alagoinhas	Bajia	Brazil
 Alamance County;North Carolina;United States	36.044372100000004	-79.400054	admin2			Alamance County	North Carolina	United States
 Alameda County;California;United States	37.6468108	-121.88727	admin2			Alameda County	California	United States
 Alamosa County;Colorado;United States	37.5718598	-105.78763000000001	admin2			Alamosa County	Colorado	United States
@@ -1057,10 +1046,10 @@ Alexander County;North Carolina;United States	35.922805700000005	-81.177446	admi
 Alexandra Hospital;;Singapore	1.2864440000000001	103.8012	point	Alexandra Hospital				Singapore
 Alexandria County;Virginia;United States	38.8186208	-77.087074	admin2			Alexandria County	Virginia	United States
 Alfalfa County;Oklahoma;United States	36.7322507	-98.325245	admin2			Alfalfa County	Oklahoma	United States
-Alfredo baquerizo moreno;guayas;Ecuador	-1.9358802	-79.5550787	admin2					
+Alfredo baquerizo moreno;guayas;Ecuador	-1.9358802	-79.5550787	admin2			Alfredo baquerizo moreno	Guayas	Ecuadar
 Alger County;Michigan;United States	46.409659399999995	-86.60409	admin2			Alger County	Michigan	United States
-Alger;Alger;Algeria	36.753889	3.0588889999999997	admin2					
-Algiers;Algiers;Algeria	36.753889	3.0588889999999997	admin2					
+Alger;Alger;Algeria	36.753889	3.0588889999999997	admin2			Alger	Alger	Algiers
+Algiers;Algiers;Algeria	36.753889	3.0588889999999997	admin2			Algiers	Algiers	Algeria
 Algoma;Ontario;Canada	47.942190000000004	-83.92	admin2			Algoma	Ontario	Canada
 Alicante;Valencian Community;Spain	38.4800685	-0.5675795	admin2			Alicante	Valencian Community	Spain
 Alkemade;South Holland;Netherlands	52.19426	4.5947309999999995	admin2			Alkemade	South Holland	Netherlands
@@ -1097,7 +1086,7 @@ Altenkirchen (Westerwald);Rhineland-Palatinate;Germany	50.75094	7.744261	admin2	
 Altmark District Salzwedel;Sachsen-Anhalt;Germany	52.6807	11.22692	admin2			Altmark District Salzwedel	Sachsen-Anhalt	Germany
 Altotting;Bavaria;Germany	48.209959999999995	12.70531	admin2			Altotting	Bavaria	Germany
 Aluke'erqin Banner, Chifeng City;Inner Mongolia;China	44.18807	120.0406	admin3		Aluke'erqin Banner	Chifeng City	Inner Mongolia	China
-Alvorada;Rio Grande Do Sul;Brazil	-30.012625	-51.091962	admin2					
+Alvorada;Rio Grande Do Sul;Brazil	-30.012625	-51.091962	admin2			Alvorada	Rio Grande Do Sul	Brazil
 Alxa City;Inner Mongolia;China	40.529920000000004	102.4542	admin2			Alxa City	Inner Mongolia	China
 Alzey-Worms;Rhineland-Palatinate;Germany	49.75956	8.157143	admin2			Alzey-Worms	Rhineland-Palatinate	Germany
 Amador County;California;United States	38.447061299999994	-120.64605	admin2			Amador County	California	United States
@@ -1115,9 +1104,9 @@ Ammerland;Lower Saxony;Germany	53.218630000000005	8.013286	admin2			Ammerland	Lo
 Ammersbek, Stormarn District;Schleswig-Holstein;Germany	53.70194	10.19944	point	Ammersbek, Stormarn District		Stormarn	Schleswig-Holstein	Germany
 Amstelveen;North Holland;Netherlands	52.28908	4.854292	admin2			Amstelveen	North Holland	Netherlands
 Amsterdam;North Holland;Netherlands	52.37249	4.892435	admin2			Amsterdam	North Holland	Netherlands
-Ananindeua;Para;Brazil	-1.341704	-48.389115000000004	admin2					
-Anapoima;Cundinamarca;Colombia	4.550278	-74.536111	admin2					
-Anapolis;Goias;Brazil	-16.3332828	-48.952575599999996	admin2					
+Ananindeua;Para;Brazil	-1.341704	-48.389115000000004	admin2			Ananindeua	Para	Brazil
+Anapoima;Cundinamarca;Colombia	4.550278	-74.536111	admin2			Anapoima	Cundinamarca	Colombia
+Anapolis;Goias;Brazil	-16.3332828	-48.952575599999996	admin2			Anapolis	Goias	Brazil
 Anchorage County;Alaska;United States	61.15101020000001	-149.10956000000002	admin2			Anchorage County	Alaska	United States
 Anchorage;Alaska;United States	61.2181	-149.9003	point			Anchorage	Alaska	United States
 Anci District, Langfang City;Hebei;China	39.32974	116.759	admin3		Anci District	Langfang City	Hebei	China
@@ -1152,7 +1141,7 @@ Ankang City;Shaanxi;China	32.761829999999996	108.9258	admin2			Ankang City	Shaan
 Anlong County, Qianxinan Prefecture;Guizhou;China	25.13711	105.3705	admin3		Anlong County	Qianxinan Prefecture	Guizhou	China
 Anlu City, Xiaogan City;Hubei;China	31.300559999999997	113.62100000000001	admin3		Anlu City	Xiaogan City	Hubei	China
 Anna Paulowna;North Holland;Netherlands	52.8589	4.854044999999999	admin2			Anna Paulowna	North Holland	Netherlands
-Annaba;Annaba;Algeria	36.9	7.766667	admin2					
+Annaba;Annaba;Algeria	36.9	7.766667	admin2			Annaba	Annaba	Algeria
 Annapolis;Nova Scotia;Canada	44.6888	-65.2287	admin2			Annapolis	Nova Scotia	Canada
 Anne Arundel County;Maryland;United States	39.0067006	-76.61160100000001	admin2			Anne Arundel County	Maryland	United States
 Annecy;Auvergne-Rhone-Alpes;France	45.889858600000004	6.0584621	point	Annecy		Haute-Savoie	Auvergne-Rhone-Alpes	France
@@ -1171,11 +1160,11 @@ Anshan City;Liaoning;China	40.7196	123.0077	admin2			Anshan City	Liaoning	China
 Anshun City;Guizhou;China	25.995820000000002	105.9499	admin2			Anshun City	Guizhou	China
 Ansoeng;Gyeonggi;South Korea	37.00159	127.2986	admin2			Ansoeng	Gyeonggi	South Korea
 Anson County;North Carolina;United States	34.9737791	-80.10314699999999	admin2			Anson County	North Carolina	United States
-Anta Gorda;Rio Grande do Sul;Brazil	-28.987218	-51.999262	admin2					
+Anta Gorda;Rio Grande do Sul;Brazil	-28.987218	-51.999262	admin2			Anta Gorda	Rio Grande do Sul	Brazil
 Antelope County;Nebraska;United States	42.178737700000006	-98.066024	admin2			Antelope County	Nebraska	United States
 Antigonish;Nova Scotia;Canada	45.61016	-61.9357	admin2			Antigonish	Nova Scotia	Canada
-Antigua Guatemala;Guatemala City;Guatemala	14.5591443	-90.73382020000001	admin3					
-Antipolo;Rizal;Philippines	14.584244	121.17628899999998	admin2					
+Antigua Guatemala;Guatemala City;Guatemala	14.5591443	-90.73382020000001	admin3			Antigua Guatemala	Guatemala City	Guatemala
+Antipolo;Rizal;Philippines	14.584244	121.17628899999998	admin2			Antipolo	Rizal	Philippines
 Antoine-Labelle;Quebec;Canada	46.90232	-75.1871	admin2			Antoine-Labelle	Quebec	Canada
 Antrim County;Michigan;United States	44.9991169	-85.14224399999999	admin2			Antrim County	Michigan	United States
 Antu County, Yanbian Prefecture;Jilin;China	42.69166	128.4244	admin3		Antu County	Yanbian Prefecture	Jilin	China
@@ -1194,15 +1183,15 @@ Anzhou District, Mianyang City;Sichuan;China	31.585359999999998	104.3596	admin3	
 Aohan Banner, Chifeng City;Inner Mongolia;China	42.42233	120.1456	admin3		Aohan Banner	Chifeng City	Inner Mongolia	China
 Aosta;Valle d'Aosta;Italy	45.73276	7.393743	admin2			Aosta	Valle d'Aosta	Italy
 Apache County;Arizona;United States	35.414988	-109.48787	admin2			Apache County	Arizona	United States
-Aparecida de Goiania;Goias;Brazil	-16.822676899999998	-49.2452546	admin2					
-Apartado;Antioquia;Colombia	7.883333	-76.633333	admin2					
+Aparecida de Goiania;Goias;Brazil	-16.822676899999998	-49.2452546	admin2			Aparecida de Goiania	Goias	Brazil
+Apartado;Antioquia;Colombia	7.883333	-76.633333	admin2			Apartado	Antioquia	Colombia
 Apeldoorn;Gelderland;Netherlands	52.19052	5.929241	admin2			Apeldoorn	Gelderland	Netherlands
 Appanoose County;Iowa;United States	40.7431315	-92.869687	admin2			Appanoose County	Iowa	United States
 Appingedam;Groningen;Netherlands	53.316790000000005	6.859163000000001	admin2			Appingedam	Groningen	Netherlands
 Appling County;Georgia;United States	31.749414299999998	-82.289077	admin2			Appling County	Georgia	United States
 Appomattox County;Virginia;United States	37.3727138	-78.815423	admin2			Appomattox County	Virginia	United States
-Aquiraz;Ceara;Brazil	-3.9063117	-38.387504	admin2					
-Aracaju;Sergipe;Brazil	-11.01868955	-37.094437799999994	admin2					
+Aquiraz;Ceara;Brazil	-3.9063117	-38.387504	admin2			Aquiraz	Ceara	Brazil
+Aracaju;Sergipe;Brazil	-11.01868955	-37.094437799999994	admin2			Aracaju	Sergipe	Brazil
 Arak;Markazi;Iran	34.09167	49.689170000000004	point	Arak			Markazi	Iran
 Aransas County;Texas;United States	28.1327591	-96.993804	admin2			Aransas County	Texas	United States
 Arapahoe County;Colorado;United States	39.6489453	-104.33661	admin2			Arapahoe County	Colorado	United States
@@ -1228,7 +1217,7 @@ Arong Banner, Hulunbuir City;Inner Mongolia;China	48.63248	123.1582	admin3		Aron
 Aroostook County;Maine;United States	46.6640145	-68.599515	admin2			Aroostook County	Maine	United States
 Arthabaska;Quebec;Canada	45.9998	-71.9436	admin2			Arthabaska	Quebec	Canada
 Arthur County;Nebraska;United States	41.56939129999999	-101.6955	admin2			Arthur County	Nebraska	United States
-Aruja;Sao Paulo;Brazil	-23.380157999999998	-46.326038	admin2					
+Aruja;Sao Paulo;Brazil	-23.380157999999998	-46.326038	admin2			Aruja	Sao Paulo	Brazil
 Asahikawa City;Hokkaido;Japan	43.771528	142.38097	point	Asahikawa City			Hokkaido	Japan
 Asahikawa;Hokkaido;Japan	43.75929	142.3907	admin2			Asahikawa	Hokkaido	Japan
 Asan;South Chungcheong;South Korea	36.78952	126.971	admin2			Asan	South Chungcheong	South Korea
@@ -1249,7 +1238,7 @@ Assumption Parish;Louisiana;United States	29.901490000000003	-91.0619	admin2			A
 Asten;North Brabant;Netherlands	51.38794	5.786942	admin2			Asten	North Brabant	Netherlands
 Asti;Piemonte;Italy	44.87896	8.187016	admin2			Asti	Piemonte	Italy
 Asturias;Principado de Asturias;Spain	43.2929351	-5.992859200000001	admin2			Asturias	Principado de Asturias	Spain
-Asuncion;Central;Paraguay	-25.2968527	-57.5980891	admin2					
+Asuncion;Central;Paraguay	-25.2968527	-57.5980891	admin2			Asuncion	Central	Paraguay
 Atascosa County;Texas;United States	28.8916686	-98.527139	admin2			Atascosa County	Texas	United States
 Atchison County;Kansas;United States	39.531805600000006	-95.313312	admin2			Atchison County	Kansas	United States
 Atchison County;Missouri;United States	40.4306604	-95.427891	admin2			Atchison County	Missouri	United States
@@ -1383,7 +1372,6 @@ Barbosa;Antioquia;Colombia	6.439	-75.333	admin2
 Barbour County;Alabama;United States	31.870084600000002	-85.395332	admin2			Barbour County	Alabama	United States
 Barbour County;West Virginia;United States	39.1327376	-80.002921	admin2			Barbour County	West Virginia	United States
 Barcelona;;Spain	41.3949627	2.0086793000000003	point	Barcelona			Catalonia	Spain
-Barcelona;Catalonia;Spain	41.3949627	2.0086793000000003	point	Barcelona			Catalonia	Spain
 Barcelona;Catalonia;Spain	41.7326837	1.98374259	admin2			Barcelona	Catalonia	Spain
 Barendrecht;South Holland;Netherlands	51.85127	4.527607	admin2			Barendrecht	South Holland	Netherlands
 Bari;Puglia;Italy	40.93209	16.75188	admin2			Bari	Puglia	Italy
@@ -1646,7 +1634,6 @@ Bologna;Emilia-Romagna;Italy	44.43265	11.34906	admin2			Bologna	Emilia-Romagna	I
 Bolsward;Friesland;Netherlands	53.063269999999996	5.529577	admin2			Bolsward	Friesland	Netherlands
 Bolton,Greater Manchester;England;United Kingdom	53.578	-2.4290000000000003	admin3		Bolton	Greater Manchester	England	United Kingdom
 Boluo County, Huizhou City;Guangdong;China	23.34737	114.2841	admin3		Boluo County	Huizhou City	Guangdong	China
-Bolzano;Trentino-Alto Adige;Italy	46.5	11.35	point	Bolzano			Trentino-Alto Adige	Italy
 Bolzano;Trentino-Alto Adige;Italy	46.69813	11.41756	admin2			Bolzano	Trentino-Alto Adige	Italy
 Bom Despacho;Minas Gerais;Brazil	-19.748054	-45.299171	admin2					
 Bomi County, Nyingchi City;Tibet;China	30.125220000000002	95.53471	admin3		Bomi County	Nyingchi City	Tibet	China
@@ -1692,9 +1679,9 @@ Botou City, Cangzhou City;Hebei;China	38.08352	116.3769	admin3		Botou City	Cangz
 Bottineau County;North Dakota;United States	48.7924956	-100.83415	admin2			Bottineau County	North Dakota	United States
 Bottrop;North Rhine-Westphalia;Germany	51.57175	6.920109	admin2			Bottrop	North Rhine-Westphalia	Germany
 Bouches-du-Rhone;Provence-Alpes-Cote d'Azur;France	43.543479999999995	5.085989	admin2			Bouches-du-Rhone	Provence-Alpes-Cote d'Azur	France
-Bouira;Bouira;Algeria	36.38	3.901389	admin2					
+Bouira;Bouira;Algeria	36.38	3.901389	admin2			Bouira	Bouira	Algeria
 Boulder County;Colorado;United States	40.0920877	-105.35735	admin2			Boulder County	Colorado	United States
-Boumerdes;Boumerdes;Algeria	36.760342	3.4723669999999998	admin2					
+Boumerdes;Boumerdes;Algeria	36.760342	3.4723669999999998	admin2			Boumerdes	Boumerdes	Algeria
 Boundary County;Idaho;United States	48.768088	-116.46359	admin2			Boundary County	Idaho	United States
 Bourbon County;Kansas;United States	37.855008399999996	-94.84871899999999	admin2			Bourbon County	Kansas	United States
 Bourbon County;Kentucky;United States	38.2069757	-84.217135	admin2			Bourbon County	Kentucky	United States
@@ -1715,7 +1702,7 @@ Bozhou City;Anhui;China	33.43671	116.1808	admin2			Bozhou City	Anhui	China
 Bozhou District, Zunyi City;Guizhou;China	27.630470000000003	106.87799999999999	admin3		Bozhou District	Zunyi City	Guizhou	China
 Bracken County;Kentucky;United States	38.689068799999994	-84.0904	admin2			Bracken County	Kentucky	United States
 Bracknell Forest,Berkshire;England;United Kingdom	51.417	-0.7469	admin3		Bracknell Forest	Berkshire	England	United Kingdom
-Braco do Norte;Santa Catarina;Brazil	-28.272863300000004	-49.162271200000006	admin2					
+Braco do Norte;Santa Catarina;Brazil	-28.272863300000004	-49.162271200000006	admin2			Braco do Norte	Santa Catarina	Brazil
 Bradford County;Florida;United States	29.9503792	-82.167789	admin2			Bradford County	Florida	United States
 Bradford County;Pennsylvania;United States	41.7898875	-76.517004	admin2			Bradford County	Pennsylvania	United States
 Bradford,West Yorkshire;England;United Kingdom	53.8	-1.75	admin3		Bradford	West Yorkshire	England	United Kingdom
@@ -1726,7 +1713,7 @@ Branch County;Michigan;United States	41.9170335	-85.06026800000001	admin2			Bran
 Brandenburg an der Havel;Brandenburg;Germany	52.402770000000004	12.51936	admin2			Brandenburg an der Havel	Brandenburg	Germany
 Brant;Ontario;Canada	43.1234	-80.304	admin2			Brant	Ontario	Canada
 Brantley County;Georgia;United States	31.196890399999997	-81.981768	admin2			Brantley County	Georgia	United States
-Brasilia;Distrito Federal;Brazil	-15.793889000000002	-47.882778	admin2					
+Brasilia;Distrito Federal;Brazil	-15.793889000000002	-47.882778	admin2			Brasilia	Distrito Federal	Brazil
 Bratislava;;Slovakia	48.14389	17.109720000000003	point	Bratislava			Bratislavsky	Slovakia
 Braunschweig;Lower Saxony;Germany	52.27528	10.52412	admin2			Braunschweig	Lower Saxony	Germany
 Braxton County;West Virginia;United States	38.699814	-80.71988	admin2			Braxton County	West Virginia	United States
@@ -2502,7 +2489,6 @@ Crawford County;Ohio;United States	40.8510019	-82.91940799999999	admin2			Crawfo
 Crawford County;Pennsylvania;United States	41.6849352	-80.106398	admin2			Crawford County	Pennsylvania	United States
 Crawford County;Wisconsin;United States	43.2408028	-90.932455	admin2			Crawford County	Wisconsin	United States
 Creek County;Oklahoma;United States	35.9024765	-96.371831	admin2			Creek County	Oklahoma	United States
-Cremona;Lombardia;Italy	45.13333	10.03333	point	Cremona			Lombardia	Italy
 Cremona;Lombardia;Italy	45.220890000000004	9.994373	admin2			Cremona	Lombardia	Italy
 Crenshaw County;Alabama;United States	31.7317852	-86.313478	admin2			Crenshaw County	Alabama	United States
 Creuse;Nouvelle-Aquitaine;France	46.09152	2.0180290000000003	admin2			Creuse	Nouvelle-Aquitaine	France
@@ -3376,8 +3362,6 @@ Franklin County;Virginia;United States	36.9896725	-79.853223	admin2			Franklin C
 Franklin County;Washington;United States	46.535419899999994	-118.89923999999999	admin2			Franklin County	Washington	United States
 Franklin Parish;Louisiana;United States	32.134409999999995	-91.6741	admin2			Franklin Parish	Louisiana	United States
 Fraser Valley;British Columbia;Canada	49.55813	-121.88	admin2			Fraser Valley	British Columbia	Canada
-Fraser Valley;British Columbia;Canada	49.570196	-123.02806000000001	point		Fraser Valley		British Columbia	Canada
-Fraser Valley;British Columbia;Canada	49.570196	-123.0280602	point		Fraser Valley		British Columbia	Canada
 Fraser-Fort George;British Columbia;Canada	54.05161999999999	-121.68	admin2			Fraser-Fort George	British Columbia	Canada
 Frederick County;Maryland;United States	39.4733366	-77.397254	admin2			Frederick County	Maryland	United States
 Frederick County;Virginia;United States	39.2060214	-78.262272	admin2			Frederick County	Virginia	United States
@@ -3896,7 +3880,6 @@ Hackney and City of London,Greater London;England;United Kingdom	51.55	-0.058333
 Hadong;South Gyeongsang;South Korea	35.12627	127.7913	admin2			Hadong	South Gyeongsang	South Korea
 Haelen;Limburg;Netherlands	51.23217	5.9555489999999995	admin2			Haelen	Limburg	Netherlands
 Haenam;South Jeolla;South Korea	34.54102	126.5205	admin2			Haenam	South Jeolla	South Korea
-Haeundae;Busan;South Korea	35.161944	129.16388899999998	admin3		Haeundae		Busan	South Korea
 Haeundae;Busan;South Korea	35.19655	129.1641	admin2			Haeundae	Busan	South Korea
 Hagen;North Rhine-Westphalia;Germany	51.34809	7.497549	admin2			Hagen	North Rhine-Westphalia	Germany
 Hai dong City;Qinghai;China	36.33465	102.34100000000001	admin2			Hai dong City	Qinghai	China
@@ -5165,12 +5148,11 @@ La Riviere-du-Nord;Quebec;Canada	45.834340000000005	-74.0198	admin2			La Riviere
 La Salle County;Illinois;United States	41.345622799999994	-88.88707600000001	admin2			La Salle County	Illinois	United States
 La Salle County;Texas;United States	28.3442012	-99.098861	admin2			La Salle County	Texas	United States
 La Salle Parish;Louisiana;United States	31.67697	-92.1604	admin2			La Salle Parish	Louisiana	United States
-La Spezia;Liguria;Italy	44.1	9.816667	point	La Spezia			Liguria	Italy
 La Spezia;Liguria;Italy	44.227	9.732409	admin2			La Spezia	Liguria	Italy
 La Union;Valle;Colombia	3.653889	-76.572222	admin2					
 La Vallee-de-la-Gatineau;Quebec;Canada	46.91338	-76.1621	admin2			La Vallee-de-la-Gatineau	Quebec	Canada
 La Vallee-du-Richelieu;Quebec;Canada	45.610459999999996	-73.2107	admin2			La Vallee-du-Richelieu	Quebec	Canada
-La joya de los sachas;orellana;Ecuador	-0.3013626	-76.8571063	JPCP					
+La joya de los sachas;orellana;Ecuador	-0.3013626	-76.8571063	admin2			La Joya de los Sachas	Orellana	Ecuador
 LaGrange County;Indiana;United States	41.6436562	-85.42732600000001	admin2			LaGrange County	Indiana	United States
 LaPorte County;Indiana;United States	41.5468526	-86.739906	admin2			LaPorte County	Indiana	United States
 Laarbeek;North Brabant;Netherlands	51.53221	5.6185730000000005	admin2			Laarbeek	North Brabant	Netherlands
@@ -6483,7 +6465,7 @@ Nanzhang County, Xiangyang City;Hubei;China	31.639440000000004	111.7521	admin3		
 Nanzhao County, Nanyang City;Henan;China	33.46848	112.3811	admin3		Nanzhao County	Nanyang City	Henan	China
 Nanzheng County, Hanzhong City;Shaanxi;China	32.80802	106.9587	admin3		Nanzheng County	Hanzhong City	Shaanxi	China
 Napa County;California;United States	38.5079278	-122.33	admin2			Napa County	California	United States
-Naples;Campania;Italy	40.845	14.258329999999999	point	Naples			Campania	Italy
+Naples;Campania;Italy	40.845	14.258329999999999	admin2			Naples	Campania	Italy
 Napo County, Baise City;Guangxi;China	23.24387	105.825	admin3		Napo County	Baise City	Guangxi	China
 Napoli;Campania;Italy	40.84421	14.341439999999999	admin2			Napoli	Campania	Italy
 Naqu County, Nagqu District;Tibet;China	31.24369	92.02632	admin3		Naqu County	Nagqu District	Tibet	China
@@ -6900,7 +6882,6 @@ Parai;Rio Grande do Sul;Brazil	-28.59478	-51.78641	admin2
 Paranaque;Metro Manila;Philippines	14.47	121.02	admin2					
 Paranavai;Parana;Brazil	-23.080419	-52.48784499999999	admin2					
 Parintins;Amazonas;Brazil	-2.6277779999999997	-56.73583299999999	admin2					
-Paris;Ile-de-France;France	48.8566	2.3522	point	Paris			Ile-de-France	France
 Paris;Ile-de-France;France	48.85666	2.342325	admin2			Paris	Ile-de-France	France
 Park County;Colorado;United States	39.119595399999994	-105.71636000000001	admin2			Park County	Colorado	United States
 Park County;Montana;United States	45.4909691	-110.52389	admin2			Park County	Montana	United States
@@ -7258,7 +7239,6 @@ Puy-de-Dome;Auvergne-Rhone-Alpes;France	45.7272	3.139665	admin2			Puy-de-Dome	Au
 Puyang City;Henan;China	35.80833	115.2794	admin2			Puyang City	Henan	China
 Puyang County, Puyang City;Henan;China	35.582390000000004	115.1481	admin3		Puyang County	Puyang City	Henan	China
 Pyeongchang;Gangwon;South Korea	37.529142799999995	128.480372	admin2			Pyeongchang	Gangwon	South Korea
-Pyeongtaek;Gyeonggi;South Korea	36.992236	127.112821	point	Pyeongtaek			Gyeonggi	South Korea
 Pyeongtaek;Gyeonggi;South Korea	37.00777	126.9994	admin2			Pyeongtaek	Gyeonggi	South Korea
 Pyrenees-Atlantiques;Nouvelle-Aquitaine;France	43.256809999999994	-0.7613800000000001	admin2			Pyrenees-Atlantiques	Nouvelle-Aquitaine	France
 Pyrenees-Orientales;Occitanie;France	42.59822	2.518241	admin2			Pyrenees-Orientales	Occitanie	France
@@ -7626,7 +7606,6 @@ Rotenburg District;Lower Saxony;Germany	53.25159	9.306149000000001	admin2			Rote
 Roth;Bavaria;Germany	49.20317	11.123439999999999	admin2			Roth	Bavaria	Germany
 Rotherham,South Yorkshire;England;United Kingdom	53.43	-1.357	admin3		Rotherham	South Yorkshire	England	United Kingdom
 Rottal-Inn;Bavaria;Germany	48.42475	12.8673	admin2			Rottal-Inn	Bavaria	Germany
-Rotterdam;South Holland;Netherlands	51.91667	4.5	point	Rotterdam			Zuid-Holland	Netherlands
 Rotterdam;South Holland;Netherlands	51.9239	4.337133000000001	admin2			Rotterdam	South Holland	Netherlands
 Rottweil District;Baden-Wurttemberg;Germany	48.25439	8.532345	admin2			Rottweil District	Baden-Wurttemberg	Germany
 Roussillon;Quebec;Canada	45.343740000000004	-73.5952	admin2			Roussillon	Quebec	Canada
@@ -7731,7 +7710,6 @@ Salamanca;Castilla y Leon;Spain	40.8063545	-6.0650272	admin2			Salamanca	Castill
 Salem County;New Jersey;United States	39.580751	-75.356655	admin2			Salem County	New Jersey	United States
 Salem County;Virginia;United States	37.285933899999996	-80.054525	admin2			Salem County	Virginia	United States
 Salerno;Campania;Italy	40.44274	15.22967	admin2			Salerno	Campania	Italy
-Salerno;Campania;Italy	40.68333	14.766670000000001	point	Salerno			Campania	Italy
 Salford,Greater Manchester;England;United Kingdom	53.483000000000004	-2.2931	admin3		Salford	Greater Manchester	England	United Kingdom
 Saline County;Arkansas;United States	34.6464201	-92.676765	admin2			Saline County	Arkansas	United States
 Saline County;Illinois;United States	37.7552316	-88.53935899999999	admin2			Saline County	Illinois	United States
@@ -7769,7 +7747,7 @@ San Juan County;Colorado;United States	37.762366899999996	-107.67468000000001	ad
 San Juan County;New Mexico;United States	36.510788	-108.31758	admin2			San Juan County	New Mexico	United States
 San Juan County;Utah;United States	37.629915000000004	-109.80247	admin2			San Juan County	Utah	United States
 San Juan County;Washington;United States	48.5788878	-122.9635	admin2			San Juan County	Washington	United States
-San Juan;;Puerto Rico	18.4655	-66.1057	point	San Juan				Puerto Rico
+San Juan;Puerto Rico	18.4655	-66.1057	admin1				San Juan	Puerto Rico
 San Juan;Metro Manila;Philippines	14.6	121.03	admin2					
 San Luis Obispo County;California;United States	35.388740500000004	-120.40665	admin2			San Luis Obispo County	California	United States
 San Luis;San Luis;Argentina	-33.3	-66.333333	admin2					
@@ -8733,9 +8711,7 @@ Toombs County;Georgia;United States	32.122420500000004	-82.331698	admin2			Toomb
 Toorak;Victoria;Australia	-37.841	145.018	point	Toorak			Victoria	Australia
 Torbay,Devon;England;United Kingdom	50.452222	-3.556944	admin3		Torbay	Devon	England	United Kingdom
 Torfaen,Gwent;Wales;United Kingdom	51.716667	-3.05	admin3		Torfaen	Gwent	Wales	United Kingdom
-Torino;Piemonte;Italy	45.0702959	7.530001400000001	point	Torino			Piemonte	Italy
 Torino;Piemonte;Italy	45.14739	7.443546	admin2			Torino	Piemonte	Italy
-Toronto;Ontario;Canada	43.667256	-79.39181500000001	point	Toronto			Ontario	Canada
 Toronto;Ontario;Canada	43.72529	-79.387	admin2			Toronto	Ontario	Canada
 Torrance County;New Mexico;United States	34.6421596	-105.84702	admin2			Torrance County	New Mexico	United States
 Torres;Rio Grande do Sul;Brazil	-29.36571195	-49.78334716	admin2					
@@ -10400,8 +10376,6 @@ brisbane metro;queensland;australia	-27.465989999999977	153.0263900000001	point	
 xiuying district;hainan;china	20.000730000000033	110.29359000000005	point					China
 kauai;hawaii;united states	22.08250239800003	-159.72759647299998	point					United States
 oahu;hawaii;united states	21.43333000000007	-157.96666999999997	point					United States
-havana;;cuba	23.13211000000007	-82.36748999999998	point					Cuba
-san juan;san juan;puerto rico	18.466330000000028	-66.10472999999996	point					Puerto Rico
 st. bernard parish;louisiana;united states	29.85021000000006	-89.65005999999994	point					United States
 st. charles parish;louisiana;united states	29.93354000000005	-90.40007999999995	point					United States
 st. tammany parish;louisiana;united states	30.433530000000076	-89.96673999999996	point					United States
@@ -14392,7 +14366,7 @@ catmon;cebu province;philippines	11.550000000000068	124.86667000000011	point				
 ;ljubljana;slovenia	46.05062000000004	14.502820000000042	point					Slovenia
 ;chisinau;moldova	47.024590000000046	28.83242000000007	point					Moldova
 independencia;lima;peru	-11.992239999999981	-77.04676999999998	point					Peru
-lima;lima;peru	-12.04317999999995	-77.02823999999998	point					Peru
+lima;lima;peru	-12.04317999999995	-77.02823999999998	admin2			Lima	Lima	Peru
 paucarpata;arequipa;peru	-16.419519999999977	-71.47469999999998	point					Peru
 agrado;huila;colombia	2.25899000000004	-75.77212999999995	point					Colombia
 gigante;huila;colombia	2.3877200000000585	-75.54793999999998	point					Colombia
@@ -16217,3 +16191,19 @@ yatytay;itapua;paraguay	-26.67423999999994	-55.086959999999976	point					Paragua
 domingo martinez de irala;alto parana;paraguay	-25.910079999999937	-54.62769999999995	point					Paraguay
 dr raul peña;alto parana;paraguay	-26.14627429199993	-55.263214999999946	point					Paraguay
 villa ygatimi;canindeyu;paraguay	-24.124859999999956	-55.64313999999996	point					Paraguay
+;istanbul;turkey	41.0055005	28.7319911	admin1				Istanbul	Turkey
+cancun;quintana roo;mexico	21.1214886	-86.919274	admin2			Cancun	Quitana Roo	Mexico
+;venice;Italy	45.66677	11.84727	admin1				Venice	Italy
+havana;la habana;cuba	23.0510717	-82.6131982	admin2			Havana	La Habana	Cuba
+;;netherlands antilles	14.9876121	-68.3555129	admin0					Netherlands Antilles
+;doha;qatar	25.2842534	51.3719109	admin1				Doha	Watar
+;puntland;somalia	9.1856032	46.5649757	admin1				Puntland	Somalia
+;marseille;france	43.280555	5.2404118	admin1				Marseille	France
+;montivideo;urugyay	-34.8195999	56.3676662	admin1				Montevideo	Uruguay
+orlando;florida;united states	28.4813989	81.5089248	admin2			Orlando	Florida	United States
+;taipei;taiwain	25.0175862	121.2261824	admin1				Taipei	Taiwan
+;minsk;belarus	53.8847608	27.4532854	admin1				Minsk	Belarus
+;johannesburg;south africa	-26.1713505	27.9699842	admin1				Johannesburg	South Africa
+miami, miami-dade county;florida;united states	25.7824806	-80.2644777	admin3		Miami	Miami-Dade County	Florida	United Stateshavana;;cuba	23.13211000000007	-82.36748999999998	point					Cuba
+havana;;cuba	23.13211000000007	-82.36748999999998	point					Cuba
+san juan;san juan;puerto rico	18.466330000000028	-66.10472999999996	point					Puerto Rico

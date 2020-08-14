@@ -1,0 +1,104 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,negative_tests,tests_units,source
+450684,184,Mozambique,22.07.2020,,,,,,
+450684,184,Mozambique,21.07.2020,1539,48653,,47117,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,20.07.2020,1507,47887,,46380,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,19.07.2020,1494,46556,,45065,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,18.07.2020,1435,45189,,43754,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,17.07.2020,1402,44222,,42820,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,16.07.2020,1383,43649,,42266,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,15.07.2020,1330,42551,,41221,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,14.07.2020,1268,41745,,40477,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,13.07.2020,1219,40861,,39642,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,12.07.2020,1157,39948,,38791,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,11.07.2020,1135,39091,,37956,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,10.07.2020,1111,38010,,36899,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,09.07.2020,1092,36698,,35606,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,08.07.2020,1071,35696,,34625,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,07.07.2020,1040,35140,,34100,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,06.07.2020,1012,34036,,33024,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,05.07.2020,987,33125,,32138,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,04.07.2020,969,32498,,31529,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,03.07.2020,939,31784,,30845,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,02.07.2020,918,30939,,30021,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,01.07.2020,,,,,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,30.06.2020,889,29516,,28627,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,29.06.2020,883,29343,,28460,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,28.06.2020,856,28586,,27727,,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,27.06.2020,839,27956,,27117,,https://www.facebook.com/MISAUMOCAMBIQUE/
+448285,184,Mozambique,26.06.2020,816,27123,,26307,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,25.06.2020,788,26204,,25416,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,24.06.2020,762,25446,,24684,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,23.06.2020,757,25042,,24285,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,22.06.2020,737,24348,,23611,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,21.06.2020,733,23760,,23027,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,20.06.2020,688,23104,,22416,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,19.06.2020,668,22263,,21595,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,18.06.2020,662,21780,,21118,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,17.06.2020,651,21014,,20363,individuals tested,https://covid19.ins.gov.mz/
+448285,184,Mozambique,16.06.2020,638,20263,,19625,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N91.pdf
+448285,184,Mozambique,15.06.2020,609,19581,,18972,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA90.pdf
+448285,184,Mozambique,14.06.2020,583,18620,,18037,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N89.pdf
+448285,184,Mozambique,13.06.2020,553,18061,,17508,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N88.pdf
+448285,184,Mozambique,12.06.2020,509,16919,,16410,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N87.pdf
+448285,184,Mozambique,11.06.2020,489,16035,,15546,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA81.pdf
+448285,184,Mozambique,10.06.2020,472,15544,,15072,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N85.pdf
+448285,184,Mozambique,09.06.2020,453,15190,,14737,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA81.pdf
+448285,184,Mozambique,08.06.2020,433,14580,,14147,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA81.pdf
+448285,184,Mozambique,07.06.2020,424,12010,,13586,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA81.pdf
+448285,184,Mozambique,06.06.2020,409,13398,,12989,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA81.pdf
+448285,184,Mozambique,05.06.2020,354,12343,,11989,individuals tested,https://covid19.ins.gov.mz/wp-content/uploads/2020/06/Boletim-Diario-Covid-N%C2%BA80.pdf
+448285,184,Mozambique,04.06.2020,352,12096,,11774,individuals tested,
+448285,184,Mozambique,03.06.2020,316,11563,,11256,individuals tested,
+448285,184,Mozambique,02.06.2020,307,11239,,10932,individuals tested,
+448285,184,Mozambique,01.06.2020,254,10970,,10716,individuals tested,
+448285,184,Mozambique,31.05.2020,254,10878,,10624,individuals tested,
+448285,184,Mozambique,30.05.2020,244,10261,,10017,individuals tested,
+448285,184,Mozambique,29.05.2020,234,10001,,9767,individuals tested,
+448285,184,Mozambique,28.05.2020,233,9818,,9585,individuals tested,
+448285,184,Mozambique,27.05.2020,227,9330,,9103,individuals tested,
+448285,184,Mozambique,26.05.2020,213,9036,,8823,individuals tested,
+448285,184,Mozambique,25.05.2020,209,8796,,8587,individuals tested,
+448285,184,Mozambique,24.05.2020,194,8463,,8269,individuals tested,
+448285,184,Mozambique,23.05.2020,168,7947,,7779,individuals tested,
+448285,184,Mozambique,22.05.2020,164,7480,,7316,individuals tested,
+448285,184,Mozambique,21.05.2020,162,7063,,6901,individuals tested,
+448285,184,Mozambique,20.05.2020,156,6769,,6613,individuals tested,
+448285,184,Mozambique,19.05.2020,146,6537,,6391,individuals tested,
+448285,184,Mozambique,18.05.2020,145,6272,,6127,individuals tested,
+448285,184,Mozambique,17.05.2020,137,6011,,5874,individuals tested,
+448285,184,Mozambique,16.05.2020,129,5735,,5606,individuals tested,
+448285,184,Mozambique,15.05.2020,119,5361,,5241,individuals tested,
+448285,184,Mozambique,14.05.2020,115,5119,,5004,individuals tested,
+448285,184,Mozambique,13.05.2020,107,4740,,4633,individuals tested,
+448285,184,Mozambique,12.05.2020,104,4365,,4261,individuals tested,
+448285,184,Mozambique,11.05.2020,103,4173,,4070,individuals tested,
+448285,184,Mozambique,10.05.2020,91,3923,,3832,individuals tested,
+448285,184,Mozambique,09.05.2020,87,3749,,3662,individuals tested,
+448285,184,Mozambique,08.05.2020,82,3356,,3274,individuals tested,
+448285,184,Mozambique,07.05.2020,81,3188,,3107,individuals tested,
+448285,184,Mozambique,06.05.2020,81,3041,,2960,individuals tested,
+448285,184,Mozambique,05.05.2020,81,2867,,2786,individuals tested,
+448285,184,Mozambique,04.05.2020,80,2598,,2518,individuals tested,
+448285,184,Mozambique,03.05.2020,80,2466,,2386,individuals tested,
+448285,184,Mozambique,02.05.2020,79,2337,,2258,individuals tested,
+448285,184,Mozambique,01.05.2020,79,2246,,2167,individuals tested,
+448285,184,Mozambique,30.04.2020,76,2076,,2000,individuals tested,
+448285,184,Mozambique,29.04.2020,76,1896,,1820,individuals tested,
+448285,184,Mozambique,28.04.2020,76,1772,,1696,individuals tested,
+448285,184,Mozambique,27.04.2020,76,1688,,1612,individuals tested,
+448285,184,Mozambique,26.04.2020,76,1644,,1568,individuals tested,
+448285,184,Mozambique,25.04.2020,70,1575,,1505,individuals tested,
+448285,184,Mozambique,24.04.2020,65,1439,,1374,individuals tested,
+448285,184,Mozambique,23.04.2020,46,1325,,1279,individuals tested,
+448285,184,Mozambique,22.04.2020,41,1247,,1206,individuals tested,
+448285,184,Mozambique,21.04.2020,39,1163,,1124,individuals tested,
+448285,184,Mozambique,20.04.2020,39,1110,,1071,individuals tested,
+448285,184,Mozambique,19.04.2020,39,1037,,998,individuals tested,
+448285,184,Mozambique,18.04.2020,35,952,,917,individuals tested,
+448285,184,Mozambique,17.04.2020,34,898,,864,individuals tested,
+448285,184,Mozambique,16.04.2020,31,855,,824,individuals tested,
+448285,184,Mozambique,15.04.2020,29,793,,764,individuals tested,
+448285,184,Mozambique,14.04.2020,28,762,,734,individuals tested,
+448285,184,Mozambique,13.04.2020,21,683,,662,individuals tested,
+448285,184,Mozambique,12.04.2020,21,679,,658,individuals tested,
+448285,184,Mozambique,11.04.2020,20,551,,531,individuals tested,

@@ -1,0 +1,112 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,notes,link
+448728;448731,203,Cape Verde,24.04.2020,,,60,tests performed,,https://covid19.cv/actualizacao-de-informacoes-covid19-25-de-abril-2020/
+448728;448731,203,Cape Verde,25.04.2020,90,,142,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,26.04.2020,106,,93,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,27.04.2020,109,,83,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,28.04.2020,114,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,29.04.2020,114,,93,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,30.04.2020,121,,149,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,01.05.2020,,,165,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,02.05.2020,,,,,not sure if this should be 165 or nothing,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,03.05.2020,152,,77,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,04.05.2020,,,61,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,05.05.2020,,,85,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,06.05.2020,,,86,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,07.05.2020,218,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,08.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,09.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,10.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,11.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,12.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,13.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,14.05.2020,,,81,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,15.05.2020,326,,101,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,16.05.2020,328,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,17.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,18.05.2020,328,,103,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,19.05.2020,335,,184,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,20.05.2020,349,,152,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,21.05.2020,356,,117,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,22.05.2020,362,,85,tests performed,total tests: 1307,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,23.05.2020,371,,104,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,24.05.2020,,,50,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,25.05.2020,,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,26.05.2020,390,,,,total tests: 1339,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,27.05.2020,390,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,28.05.2020,390,,231,tests performed,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,29.05.2020,405,,,,,https://covid19.cv/actualizacoes-de-informacoes-covid19/
+448728;448731,203,Cape Verde,30.05.2020,421,,117,tests performed,,https://covid19.cv/boletim-epidemiologico-31-de-maio-de-2020/
+448728;448731,203,Cape Verde,31.05.2020,435,,124,tests performed,total tests (imputed): 1429,https://covid19.cv/boletim-epidemiologico-01-de-junho-de-2020/
+448728;448731,203,Cape Verde,01.06.2020,458,,140,tests performed,total tests (imputed): 1450,https://covid19.cv/boletim-epidemiologico-02-de-junho-de-2020/
+448728;448731,203,Cape Verde,02.06.2020,466,,73,tests performed,,https://covid19.cv/boletim-epidemiologico-de-03-de-junho-de-2020/
+448728;448731,203,Cape Verde,03.06.2020,477,,122,tests performed,,https://covid19.cv/boletim-epidemiologico-04-de-junho-de-2020/
+448728;448731,203,Cape Verde,04.06.2020,502,,152,tests performed,,https://covid19.cv/boletim-epidemiologico-04-de-junho-de-2020/
+448728;448731,203,Cape Verde,05.06.2020,536,,216,tests performed,,https://covid19.cv/boletim-epidemiologico-de-06-de-junho-de-2020/
+448728;448731,203,Cape Verde,06.06.2020,542,,133,tests performed,,https://covid19.cv/boletim-epidemiologico-07-de-junho-2020/
+448728;448731,203,Cape Verde,07.06.2020,554,,141,tests performed,,https://covid19.cv/boletim-epidemiologico-de-08-de-junho-de-2020/
+448728;448731,203,Cape Verde,08.06.2020,567,,162,tests performed,,https://covid19.cv/boletim-epidemiologico-de-09-de-junho-de-2020/
+448728;448731,203,Cape Verde,09.06.2020,585,,162,tests performed,,https://covid19.cv/boletim-epidemiologico-de-10-de-junho-2020/
+448728;448731,203,Cape Verde,10.06.2020,615,,224,tests performed,,https://covid19.cv/boletim-epidemiologico-de-11-de-junho-de-2020/
+448728;448731,203,Cape Verde,11.06.2020,657,,321,tests performed,,https://covid19.cv/boletim-epidemiologico-de-12-de-junho-de-2020/
+448728;448731,203,Cape Verde,12.06.2020,697,,254,tests performed,,https://covid19.cv/boletim-epidemiologico-de-13-de-junho-de-2020/
+448728;448731,203,Cape Verde,13.06.2020,726,,179,tests performed,,https://covid19.cv/boletim-epidemiologico-de-14-de-junho-de-2020/
+448728;448731,203,Cape Verde,14.06.2020,750,,151,tests performed,,https://covid19.cv/boletim-epidemiologico-de-15-de-junho-de-2020/
+448728;448731,203,Cape Verde,15.06.2020,760,,136,tests performed,,https://covid19.cv/boletim-epidemiologico-de-16-de-junho-de-2020/
+448728;448731,203,Cape Verde,16.06.2020,781,,154,tests performed,,https://covid19.cv/boletim-epidemiologico-de-17-de-junho-de-2020/
+448728;448731,203,Cape Verde,17.06.2020,823,,242,tests performed,,https://covid19.cv/boletim-epidemiologico-de-18-de-junho-de-2020/
+448728;448731,203,Cape Verde,18.06.2020,849,,172,tests performed,,https://covid19.cv/boletim-epidemiologico-de-19-de-junho/
+448728;448731,203,Cape Verde,19.06.2020,848,,202,tests performed,,https://covid19.cv/boletim-epidemiologico-de-20-de-junho-de-2020/
+448728;448731,203,Cape Verde,20.06.2020,863,,123,tests performed,,https://covid19.cv/boletim-epidemiologico-de-21-de-junho-de-2020/
+448728;448731,203,Cape Verde,21.06.2020,890,,320,tests performed,,https://covid19.cv/boletim-epidemiologico-de-22-de-junho-de-2020/
+448728;448731,203,Cape Verde,22.06.2020,944,,,,,
+448728;448731,203,Cape Verde,23.06.2020,982,,253,tests performed,,https://covid19.cv/boletim-epidemiologico-de-23-de-junho-de-2020/
+448728;448731,203,Cape Verde,24.06.2020,999,,199,tests performed,,https://covid19.cv/boletim-epidemiologico-de-25-de-junho-de-2020/
+448728;448731,203,Cape Verde,25.06.2020,1003,,185,tests performed,,https://covid19.cv/boletim-epidemiologico-de-26-de-junho-de-2020/
+448728;448731,203,Cape Verde,26.06.2020,1027,,286,tests performed,,https://covid19.cv/boletim-epidemiologico-de-27-de-junho-de-2020/
+448728;448731,203,Cape Verde,27.06.2020,1091,,398,tests performed,,https://covid19.cv/boletim-epidemiologico-de-28-de-junho-de-2020/
+448728;448731,203,Cape Verde,28.06.2020,1155,,117,tests performed,,https://covid19.cv/boletim-epidemiologico-de-29-de-junho-de-2020/
+448728;448731,203,Cape Verde,29.06.2020,1165,,340,tests performed,,https://covid19.cv/boletim-epidemiologico-de-30-de-junho-de-2020/
+448728;448731,203,Cape Verde,30.06.2020,1227,,256,tests performed,,https://covid19.cv/boletim-epidemiologico-de-1-de-julho-de-2020/
+448728;448731,203,Cape Verde,01.07.2020,1267,,257,tests performed,,https://covid19.cv/boletim-epidemiologico-de-02-de-julho-de-2020/
+448728;448731,203,Cape Verde,02.07.2020,1301,,318,tests performed,,https://covid19.cv/7145-2/
+448728;448731,203,Cape Verde,03.07.2020,1382,,324,tests performed,,https://covid19.cv/7150-2/
+448728;448731,203,Cape Verde,04.07.2020,1420,,281,tests performed,,https://covid19.cv/boletim-epidemiologico-de-05-de-julho-de-2020/
+448728;448731,203,Cape Verde,05.07.2020,1451,,141,tests performed,,https://covid19.cv/boletim-epidemiologico-de-06-de-julho-de-2020/
+448728;448731,203,Cape Verde,06.07.2020,1463,,254,tests performed,,https://covid19.cv/boletim-epidemiologico-de-07-de-julho-de-2020/
+448728;448731,203,Cape Verde,07.07.2020,1499,,245,tests performed,,https://covid19.cv/boletim-epidemiologico-de-08-de-julho-de-2020/
+448728;448731,203,Cape Verde,08.07.2020,1542,,172,tests performed,,https://covid19.cv/boletim-epidemiologico-de-09-de-julho-de-2020/
+448728;448731,203,Cape Verde,09.07.2020,1553,,201,tests performed,,https://covid19.cv/boletim-epidemiologico-de-10-de-julho-de-2020/
+448728;448731,203,Cape Verde,10.07.2020,1591,,296,tests performed,,https://covid19.cv/boletim-epidemiologico-de-11-de-julho-de-2020/
+448728;448731,203,Cape Verde,11.07.2020,1623,,635,tests performed,,https://covid19.cv/boletim-epidemiologico-de-12-de-julho-de-2020/
+448728;448731,203,Cape Verde,12.07.2020,,,355,tests performed,,https://covid19.cv/boletim-epidemiologico-de-13-de-julho-2020/
+448728;448731,203,Cape Verde,13.07.2020,1719,,616,tests performed,,https://covid19.cv/boletim-epidemiologico-de-14-de-julho-de-2020/
+448728;448731,203,Cape Verde,14.07.2020,1780,,701,tests performed,,https://covid19.cv/boletim-epidemiologico-de-15-de-julho-de-2020/
+448728;448731,203,Cape Verde,15.07.2020,1837,,543,tests performed,,https://covid19.cv/boletim-epidemiologico-de-16-de-julho-de-2020/
+448728;448731,203,Cape Verde,16.07.2020,1894,,315,tests performed,,https://covid19.cv/boletim-epidemiologico-de-17-de-julho-de-2020/
+448728;448731,203,Cape Verde,17.07.2020,1939,,699,tests performed,,https://covid19.cv/boletim-epidemiologico-de-18-de-julho-de-2020/
+448728;448731,203,Cape Verde,18.07.2020,2014,,395,tests performed,,https://covid19.cv/boletim-epidemiologico-de-19-de-julho-de-2020/
+448728;448731,203,Cape Verde,19.07.2020,2043,,209,tests performed,,https://covid19.cv/boletim-epidemiologico-de-20-de-julho-de-2020/
+448728;448731,203,Cape Verde,20.07.2020,2071,,372,tests performed,,https://covid19.cv/boletim-epidemiologico-de-21-de-julho-de-2020/
+448728;448731,203,Cape Verde,21.07.2020,2107,,381,tests performed,,https://covid19.cv/boletim-epidemiologico-de-22-de-julho-de-2020/
+448728;448731,203,Cape Verde,22.07.2020,2154,,,,,
+448728;448731,203,Cape Verde,23.07.2020,2190,,301,tests performed,,https://covid19.cv/boletim-epidemiologico-de-23-de-julho-de-2020/
+448728;448731,203,Cape Verde,24.07.2020,2220,,359,tests performed,,https://covid19.cv/boletim-epidemiologico-de-24-de-julho-de-2020/
+448728;448731,203,Cape Verde,25.07.2020,2258,,336,tests performed,,https://covid19.cv/boletim-epidemiologico-de-25-de-julho-de-2020/
+448728;448731,203,Cape Verde,26.07.2020,2307,,328,tests performed,,https://covid19.cv/boletim-epidemiologico-de-26-de-julho-de-2020/
+448728;448731,203,Cape Verde,27.07.2020,2328,,186,tests performed,,https://covid19.cv/boletim-epidemiologico-de-27-de-julho-de-2020/
+448728;448731,203,Cape Verde,28.07.2020,2354,,298,tests performed,,https://covid19.cv/boletim-epidemiologico-de-28-de-julho-de-2020/
+448728;448731,203,Cape Verde,29.07.2020,2373,,361,tests performed,,https://covid19.cv/boletim-epidemiologico-de-29-de-julho-de-2020/
+448728;448731,203,Cape Verde,30.07.2020,2418,,263,tests performed,,https://covid19.cv/boletim-epidemiologico-de-30-de-julho-de-2020/
+448728;448731,203,Cape Verde,31.07.2020,2451,,265,tests performed,,https://covid19.cv/boletim-epidemiologico-de-31-de-julho-de-2020/
+448728;448731,203,Cape Verde,01.08.2020,2480,,416,tests performed,,https://covid19.cv/boletim-epidemiologico-de-01-de-agosto-de-2020/
+448728;448731,203,Cape Verde,02.08.2020,2547,,469,tests performed,,https://covid19.cv/boletim-epidemiologico-de-02-de-agosto-de-2020/
+448728;448731,203,Cape Verde,03.08.2020,2583,,220,tests performed,,https://covid19.cv/boletim-epidemiologico-de-03-de-agosto-de-2020/
+448728;448731,203,Cape Verde,04.08.2020,2631,,430,tests performed,,https://covid19.cv/boletim-epidemiologico-de-04-de-agosto-de-2020/
+448728;448731,203,Cape Verde,05.08.2020,2689,,298,tests performed,,https://covid19.cv/boletim-epidemiologico-de-05-de-agosto-de-2020/
+448728;448731,203,Cape Verde,06.08.2020,2734,,336,tests performed,,
+448728;448731,203,Cape Verde,07.08.2020,2780,,311,tests performed,,https://covid19.cv/boletim-epidemiologico-de-07-de-agosto-de-2020/
+448728;448731,203,Cape Verde,08.08.2020,2835,,519,tests performed,,https://covid19.cv/boletim-epidemiologico-de-08-de-agosto-de-2020/
+448728;448731,203,Cape Verde,09.08.2020,2858,,216,tests performed,,https://covid19.cv/boletim-epidemiologico-de-09-de-agosto-de-2020/
+448728;448731,203,Cape Verde,10.08.2020,2883,,167,tests performed,,https://covid19.cv/boletim-epidemiologico-de-10-de-agosto-de-2020/
+448728;448731,203,Cape Verde,11.08.2020,2920,,294,tests performed,,https://covid19.cv/boletim-epidemiologico-de-11-de-julho-de-2020-2/
+448728;448731,203,Cape Verde,12.08.2020,3000,,322,tests performed,,https://covid19.cv/boletim-epidemiologico-de-12-de-agosto-de-2020/

@@ -1,0 +1,76 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,positive_tests,tests_units
+448803,209,Guinea-Bissau,26.06.2020,1614,,,,
+448803,209,Guinea-Bissau,25.06.2020,,,,,
+448803,209,Guinea-Bissau,24.06.2020,,,,,
+448803,209,Guinea-Bissau,23.06.2020,,,,,
+448803,209,Guinea-Bissau,22.06.2020,1556,,,,
+448803,209,Guinea-Bissau,21.06.2020,,,,,
+448803,209,Guinea-Bissau,20.06.2020,,,,,
+448803,209,Guinea-Bissau,19.06.2020,1541,,174,49,tests processed
+448803,209,Guinea-Bissau,18.06.2020,,,,,
+448803,209,Guinea-Bissau,17.06.2020,,,,,
+448803,209,Guinea-Bissau,16.06.2020,,,,,
+448803,209,Guinea-Bissau,15.06.2020,1492,,34,32,tests processed
+448803,209,Guinea-Bissau,14.06.2020,,,,,
+448803,209,Guinea-Bissau,13.06.2020,,,,,
+448803,209,Guinea-Bissau,12.06.2020,1460,,107,71,tests processed
+448803,209,Guinea-Bissau,11.06.2020,,,,,
+448803,209,Guinea-Bissau,10.06.2020,,,,,
+448803,209,Guinea-Bissau,09.06.2020,,,,,
+448803,209,Guinea-Bissau,08.06.2020,1389,,69,21,tests processed
+448803,209,Guinea-Bissau,07.06.2020,,,,,
+448803,209,Guinea-Bissau,06.06.2020,,,,,
+448803,209,Guinea-Bissau,05.06.2020,1368,,148,29,tests processed
+448803,209,Guinea-Bissau,04.06.2020,,,,,
+448803,209,Guinea-Bissau,03.06.2020,,,,,
+448803,209,Guinea-Bissau,02.06.2020,,,,,
+448803,209,Guinea-Bissau,01.06.2020,1339,,304,83,tests processed
+448803,209,Guinea-Bissau,31.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,30.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,29.05.2020,1256,,,,tests processed
+448803,209,Guinea-Bissau,28.05.2020,1195,,,,tests processed
+448803,209,Guinea-Bissau,27.05.2020,1195,,50,17,tests processed
+448803,209,Guinea-Bissau,26.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,25.05.2020,1178,,0,,tests processed
+448803,209,Guinea-Bissau,24.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,23.05.2020,1114,,,,tests processed
+448803,209,Guinea-Bissau,22.05.2020,1114,,,,tests processed
+448803,209,Guinea-Bissau,21.05.2020,1109,,71,20,tests processed
+448803,209,Guinea-Bissau,20.05.2020,1089,,77,51,tests processed
+448803,209,Guinea-Bissau,19.05.2020,1038,,0,,tests processed
+448803,209,Guinea-Bissau,18.05.2020,1032,,82,42,tests processed
+448803,209,Guinea-Bissau,17.05.2020,990,,,21,tests processed
+448803,209,Guinea-Bissau,16.05.2020,969,,92,56,tests processed
+448803,209,Guinea-Bissau,15.05.2020,913,,,,tests processed
+448803,209,Guinea-Bissau,14.05.2020,913,,173,77,tests processed
+448803,209,Guinea-Bissau,13.05.2020,836,,94,16,tests processed
+448803,209,Guinea-Bissau,12.05.2020,820,,94,59,tests processed
+448803,209,Guinea-Bissau,11.05.2020,761,,94,35,tests processed
+448803,209,Guinea-Bissau,10.05.2020,726,,94,85,tests processed
+448803,209,Guinea-Bissau,09.05.2020,641,,,47,tests processed
+448803,209,Guinea-Bissau,08.05.2020,594,,,30,tests processed
+448803,209,Guinea-Bissau,07.05.2020,564,,,89,tests processed
+448803,209,Guinea-Bissau,06.05.2020,475,,,,tests processed
+448803,209,Guinea-Bissau,05.05.2020,475,,,,tests processed
+448803,209,Guinea-Bissau,04.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,03.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,02.05.2020,,,,,tests processed
+448803,209,Guinea-Bissau,01.05.2020,257,,94,52,tests processed
+448803,209,Guinea-Bissau,30.04.2020,,,,,tests processed
+448803,209,Guinea-Bissau,29.04.2020,,,,,tests processed
+448803,209,Guinea-Bissau,28.04.2020,74,,,,tests processed
+448803,209,Guinea-Bissau,27.04.2020,73,,94,20,tests processed
+448803,209,Guinea-Bissau,26.04.2020,53,,,,tests processed
+448803,209,Guinea-Bissau,25.04.2020,,,,,tests processed
+448803,209,Guinea-Bissau,24.04.2020,52,,,0,tests processed
+448803,209,Guinea-Bissau,23.04.2020,52,,,0,tests processed
+448803,209,Guinea-Bissau,22.04.2020,52,,,,tests processed
+448803,209,Guinea-Bissau,21.04.2020,50,,56,2,tests processed
+448803,209,Guinea-Bissau,20.04.2020,,,,,tests processed
+448803,209,Guinea-Bissau,19.04.2020,50,,,,tests processed
+448803,209,Guinea-Bissau,18.04.2020,50,,,0,tests processed
+448803,209,Guinea-Bissau,17.04.2020,50,,,4,tests processed
+448803,209,Guinea-Bissau,16.04.2020,46,,,0,tests processed
+448803,209,Guinea-Bissau,15.04.2020,46,,,,tests processed
+448803,209,Guinea-Bissau,14.04.2020,43,,,3,tests processed
+448803,209,Guinea-Bissau,13.04.2020,40,,,,tests processed

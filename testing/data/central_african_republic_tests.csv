@@ -1,0 +1,101 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,notes,link
+,169,Central African Republic,03.05.2020,92,3736,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,04.05.2020,,,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,05.05.2020,118,4546,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,06.05.2020,,,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,07.05.2020,143,4839,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,08.05.2020,162,,,,cases imputed ,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,09.05.2020,179,5721,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,10.05.2020,187,5915,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,11.05.2020,,,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,12.05.2020,,,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,13.05.2020,260,7823,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,14.05.2020,301,8042,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,15.05.2020,327,9549,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N19_%20du_15_05_2020.pdf
+,169,Central African Republic,16.05.2020,336,10009,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep%20N%C2%B020%20du_16_05_2020.pdf
+,169,Central African Republic,17.05.2020,366,10469,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N21_du_17_05_2020.pdf
+,169,Central African Republic,18.05.2020,411,10745,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B022_du_18_05_2020.pdf
+,169,Central African Republic,19.05.2020,418,10837,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B023_du_19_05_2020.pdf
+,169,Central African Republic,20.05.2020,436,11294,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B024_du_21_05_2020.pdf
+,169,Central African Republic,21.05.2020,479,11570,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B025_21_05_2020.pdf
+,169,Central African Republic,22.05.2020,552,12062,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B026_du_22_05_2020.pdf
+,169,Central African Republic,23.05.2020,604,12710,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B027_du_23_05_2020.pdf
+,169,Central African Republic,24.05.2020,652,13165,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B028_du_24_05_2020.pdf
+,169,Central African Republic,25.05.2020,671,13349,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B029_du_25_05_2020.pdf
+,169,Central African Republic,26.05.2020,702,13629,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B030_du_26_05_2020.pdf
+,169,Central African Republic,27.05.2020,755,13909,,,,http://www.msp-centrafrique.net/covid/bulletins/Sitrep_N%C2%B031_du_27%20_05_2020.pdf
+,169,Central African Republic,28.05.2020,874,14557,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B032_du_28_05_2020.pdf
+,169,Central African Republic,29.05.2020,962,15021,,,,msp-centrafrique.net/covid/bulletins/SitRep_N¡33_du_29_05_2020.pdf
+,169,Central African Republic,30.05.2020,1011,15208,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B034_du_31_05_2020.pdf
+,169,Central African Republic,31.05.2020,1069,15593,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B035_du_31_05_2020.pdf
+,169,Central African Republic,01.06.2020,1173,15881,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B036_du_01_06_2020.pdf
+,169,Central African Republic,02.06.2020,1189,15881,,,,http://www.msp-centrafrique.net/covid/bulletins/SITREP_N%C2%B037_02_06_2020.pdf
+,169,Central African Republic,03.06.2020,,,,,,
+,169,Central African Republic,04.06.2020,1451,17043,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,05.06.2020,1570,17465,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,06.06.2020,1634,17657,,,,http://www.msp-centrafrique.net/index.php?query=covid&id=home
+,169,Central African Republic,07.06.2020,1850,17939,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B042_du_07_06_2020.pdf
+,169,Central African Republic,08.06.2020,1888,18161,,,,http://www.msp-centrafrique.net/covid/bulletins/SitRep_N%C2%B043_du_08_06_2020.pdf
+,169,Central African Republic,09.06.2020,1952,18596,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,10.06.2020,2044,18921,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,11.06.2020,2057,19006,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,12.06.2020,2106,19100,,,,
+,169,Central African Republic,13.06.2020,,,,,,
+,169,Central African Republic,14.06.2020,2289,19723,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,15.06.2020,2410,20006,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,16.06.2020,2564,20300,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,17.06.2020,2605,20521,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,18.06.2020,2686,20901,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,19.06.2020,2808,21235,,,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,20.06.2020,,,,,,
+,169,Central African Republic,21.06.2020,,,,,,
+,169,Central African Republic,22.06.2020,,,,people tested,,
+,169,Central African Republic,23.06.2020,3099,22267,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,24.06.2020,,,,people tested,,
+,169,Central African Republic,25.06.2020,3340,22884,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,26.06.2020,3429,23208,,people tested,,https://twitter.com/MSPCentrafrique/status/1276944275884965890/photo/1
+,169,Central African Republic,27.06.2020,3531,23605,,people tested,,https://twitter.com/MSPCentrafrique/status/1277667745983860736/photo/2
+,169,Central African Republic,28.06.2020,3613,23904,,people tested,,https://twitter.com/MSPCentrafrique/status/1277668542268268546/photo/1
+,169,Central African Republic,29.06.2020,3745,24158,,people tested,,https://twitter.com/MSPCentrafrique/status/1278026172648095753/photo/1
+,169,Central African Republic,30.06.2020,3788,24362,,people tested,,https://twitter.com/MSPCentrafrique/status/1278607024335577090/photo/1
+,169,Central African Republic,01.07.2020,3823,24632,,people tested,,https://twitter.com/MSPCentrafrique/status/1278766184570204161/photo/1
+,169,Central African Republic,02.07.2020,3918,25031,,people tested,,https://twitter.com/MSPCentrafrique/status/1279116452776366082/photo/1
+,169,Central African Republic,03.07.2020,3969,25185,,people tested,,https://twitter.com/MSPCentrafrique/status/1279437475899899909/photo/1
+,169,Central African Republic,04.07.2020,4009,25439,,people tested,,https://twitter.com/MSPCentrafrique/status/1280190622750715905/photo/1
+,169,Central African Republic,05.07.2020,4033,25701,,people tested,,https://twitter.com/MSPCentrafrique/status/1280192364187922435/photo/2
+,169,Central African Republic,06.07.2020,4071,25872,,people tested,,https://twitter.com/MSPCentrafrique/status/1280573364093026305/photo/1
+,169,Central African Republic,07.07.2020,4109,25172,,people tested,,https://twitter.com/MSPCentrafrique/status/1280925430908944389/photo/1
+,169,Central African Republic,08.07.2020,4200,26532,,people tested,,https://twitter.com/MSPCentrafrique/status/1281282830849445895/photo/1
+,169,Central African Republic,09.07.2020,4259,26806,,people tested,,https://twitter.com/MSPCentrafrique/status/1281673166755115016/photo/1
+,169,Central African Republic,10.07.2020,4288,26949,,people tested,,https://twitter.com/MSPCentrafrique/status/1281982826808836098/photo/1
+,169,Central African Republic,11.07.2020,4300,27174,,people tested,,https://twitter.com/MSPCentrafrique/status/1282724734803881985/photo/1
+,169,Central African Republic,12.07.2020,4321,27385,,people tested,,https://twitter.com/MSPCentrafrique/status/1282724998193373184/photo/1
+,169,Central African Republic,13.07.2020,4356,27561,,people tested,,https://twitter.com/MSPCentrafrique/status/1283141833997066240/photo/1
+,169,Central African Republic,14.07.2020,4362,27679,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/1
+,169,Central African Republic,15.07.2020,4373,27763,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/2
+,169,Central African Republic,16.07.2020,4389,27864,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/3
+,169,Central African Republic,17.07.2020,4485,28211,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/4
+,169,Central African Republic,18.07.2020,4507,28561,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/5
+,169,Central African Republic,19.07.2020,4548,28751,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/6
+,169,Central African Republic,20.07.2020,4561,28916,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/7
+,169,Central African Republic,21.07.2020,4574,29068,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/8
+,169,Central African Republic,22.07.2020,4590,29162,,people tested,,https://twitter.com/MSPCentrafrique/status/1283462007413518336/photo/9
+,169,Central African Republic,23.07.2020,4593,29202,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,24.07.2020,4598,29265,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,25.07.2020,4599,29353,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,26.07.2020,4599,29361,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,27.07.2020,4599,29379,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,28.07.2020,4605,29431,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,29.07.2020,4605,29431,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,30.07.2020,4608,29499,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,31.07.2020,4614,29533,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,01.08.2020,4614,29545,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,02.08.2020,4614,29545,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,03.08.2020,4618,29567,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,04.08.2020,4618,29567,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,05.08.2020,4622,29659,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,06.08.2020,4085,29816,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,07.08.2020,4641,29817,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,08.08.2020,4645,29829,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,09.08.2020,4645,29829,,people tested,,https://twitter.com/mspcentrafrique?lang=en
+,169,Central African Republic,10.08.2020,4647,29890,,people tested,,https://twitter.com/mspcentrafrique?lang=en

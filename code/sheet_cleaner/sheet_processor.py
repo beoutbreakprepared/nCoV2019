@@ -129,14 +129,10 @@ class SheetProcessor:
                 tar.extract("latestdata.csv", os.path.join(self.git_repo_path, 'latest_data'))
             old_num_lines = sum(1 for line in open(latest_csv_name))
             line_diff = len(all_data) - old_num_lines
-            if line_diff >= 0:
-                logging.info(f"Check passed, {line_diff} new lines")
-                logging.info("removing old .tar.gz file")
-                os.remove(latest_targz_name)
-                os.remove(latest_csv_name)
-            else:
-                logging.error(f"Check failed line_diff={line_diff}")
-                return
+            logging.info(f"{line_diff} new lines")
+            logging.info("removing old .tar.gz file")
+            os.remove(latest_targz_name)
+            os.remove(latest_csv_name)
         else:
             logging.info(f"{latest_targz_name} does not exist, creating it.")
 
@@ -160,7 +156,6 @@ class SheetProcessor:
                 f.write(s+"\n")
         self.for_github.append(sources_file)
         logging.info("Wrote %s, %s, %s", file_name, latest_csv_name, latest_targz_name)
-        self.for_github.append(file_name)
 
     def push_to_github(self):
         """Pushes csv files created by Process to Github."""
@@ -168,7 +163,6 @@ class SheetProcessor:
         # Create script for uploading to github
         script  = 'set -e\n'
         script += 'cd {}\n'.format(self.git_repo_path)
-        script += 'git pull origin master\n'
         
         for g in self.for_github:
             script += f'git add {g}\n'
