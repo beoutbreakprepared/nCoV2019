@@ -1,35 +1,88 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
+454327,191,Zambia,13.08.2020,8663,96610,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,12.08.2020,8501,95593,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,11.08.2020,8275,94811,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,10.08.2020,8210,94449,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,09.08.2020,8085,93995,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,08.08.2020,7903,93344,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,07.08.2020,7487,92341,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,06.08.2020,7164,90307,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,05.08.2020,7022,89583,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,04.08.2020,6793,88471,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,03.08.2020,6580,87380,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,02.08.2020,6347,85560,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,01.08.2020,6228,85001,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,31.07.2020,5963,83093,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,30.07.2020,5555,81482,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,29.07.2020,5249,80239,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,28.07.2020,5002,79269,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,27.07.2020,4552,76727,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,26.07.2020,4481,76518,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,25.07.2020,4328,76072,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,24.07.2020,3856,74231,,total tests,https://twitter.com/ZMPublicHealth
+454327,191,Zambia,23.07.2020,3702,73396,,total tests,https://twitter.com/ZMPublicHealth
+450671,191,Zambia,22.07.2020,3583,72820,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,21.07.2020,,,,total tests,
+450671,191,Zambia,20.07.2020,3326,71607,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,19.07.2020,,,,total tests,
+450671,191,Zambia,18.07.2020,2980,69296,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,17.07.2020,2810,67944,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,16.07.2020,2620,67096,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,15.07.2020,2501,66376,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,14.07.2020,2363,65808,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,13.07.2020,2283,64870,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,12.07.2020,2205,64139,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,11.07.2020,2134,63624,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,10.07.2020,2035,62463,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,09.07.2020,2006,62161,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,08.07.2020,1937,61638,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,07.07.2020,1895,61304,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,06.07.2020,1827,60630,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,05.07.2020,1822,60250,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,04.07.2020,1782,59622,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,03.07.2020,1727,57672,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,02.07.2020,1640,57155,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,01.07.2020,1632,56825,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,30.06.2020,1594,54890,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,29.06.2027,1568,54663,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,28.06.2028,1557,,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,27.06.2029,1545,54023,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,26.06.2030,,,,total tests,
+450671,191,Zambia,25.06.2031,1497,52195,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,24.06.2032,1489,51626,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,23.06.2033,1477,50771,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,22.06.2034,1452,49514,,total tests,https://www.facebook.com/pg/mohzambia/posts/
 447580,191,Zambia,21.06.2020,1452,49393,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,20.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,19.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,18.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,17.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,16.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+450671,191,Zambia,20.06.2020,1438,48772,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,19.06.2020,1430,47968,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,18.06.2020,1416,46549,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,17.06.2020,1412,46174,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,16.06.2020,1405,45425,,total tests,https://www.facebook.com/pg/mohzambia/posts/
 447580,191,Zambia,15.06.2020,1382,45248,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,14.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+450671,191,Zambia,14.06.2020,1358,44428,,total tests,https://www.facebook.com/pg/mohzambia/posts/
 447580,191,Zambia,13.06.2020,1357,44126,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,12.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,11.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,10.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,09.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,08.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,07.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+,191,Zambia,12.06.2020,,,,total tests,
+,191,Zambia,11.06.2020,,,,total tests,
+450671,191,Zambia,10.06.2020,1252,38990,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+450671,191,Zambia,09.06.2020,1235,38448,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,08.06.2020,,,,total tests,
+,191,Zambia,07.06.2020,,,,total tests,
 447580,191,Zambia,06.06.2020,1181,34987,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,05.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,04.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,03.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,02.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,01.06.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,31.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,30.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,29.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,28.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,27.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,26.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,25.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,24.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,23.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,22.05.2020,,,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
+,191,Zambia,05.06.2020,,,,total tests,
+,191,Zambia,04.06.2020,,,,total tests,
+,191,Zambia,03.06.2020,,,,total tests,
+,191,Zambia,02.06.2020,,,,total tests,
+450671,191,Zambia,01.06.2020,1089,28236,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,31.05.2020,,,,total tests,
+,191,Zambia,30.05.2020,,,,total tests,
+,191,Zambia,29.05.2020,,,,total tests,
+,191,Zambia,28.05.2020,,,,total tests,
+450671,191,Zambia,27.05.2020,1057,24275,,total tests,https://www.facebook.com/pg/mohzambia/posts/
+,191,Zambia,26.05.2020,,,,total tests,
+,191,Zambia,25.05.2020,,,,total tests,
+,191,Zambia,24.05.2020,,,,total tests,
+,191,Zambia,23.05.2020,,,,total tests,
+,191,Zambia,22.05.2020,,,,total tests,
 447580,191,Zambia,21.05.2020,866,19432,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,20.05.2020,832,19014,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,19.05.2020,772,18519,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
@@ -94,40 +147,40 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,so
 447580,191,Zambia,21.03.2020,2,58,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,20.03.2020,2,33,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
 447580,191,Zambia,19.03.2020,2,28,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,18.03.2020,,,,,
-447580,191,Zambia,17.03.2020,,,,,
-447580,191,Zambia,16.03.2020,,,,,
-447580,191,Zambia,15.03.2020,,,,,
-447580,191,Zambia,14.03.2020,,,,,
-447580,191,Zambia,13.03.2020,,,,,
-447580,191,Zambia,12.03.2020,,,,,
-447580,191,Zambia,11.03.2020,,,,,
+,191,Zambia,18.03.2020,,,,,
+,191,Zambia,17.03.2020,,,,,
+,191,Zambia,16.03.2020,,,,,
+,191,Zambia,15.03.2020,,,,,
+,191,Zambia,14.03.2020,,,,,
+,191,Zambia,13.03.2020,,,,,
+,191,Zambia,12.03.2020,,,,,
+,191,Zambia,11.03.2020,,,,,
 447580,191,Zambia,10.03.2020,,25,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
-447580,191,Zambia,09.03.2020,,,,,
-447580,191,Zambia,08.03.2020,,,,,
-447580,191,Zambia,07.03.2020,,,,,
-447580,191,Zambia,06.03.2020,,,,,
-447580,191,Zambia,05.03.2020,,,,,
-447580,191,Zambia,04.03.2020,,,,,
-447580,191,Zambia,03.03.2020,,,,,
-447580,191,Zambia,02.03.2020,,,,,
-447580,191,Zambia,01.03.2020,,,,,
-447580,191,Zambia,29.02.2020,,,,,
-447580,191,Zambia,28.02.2020,,,,,
-447580,191,Zambia,27.02.2020,,,,,
-447580,191,Zambia,26.02.2020,,,,,
-447580,191,Zambia,25.02.2020,,,,,
-447580,191,Zambia,24.02.2020,,,,,
-447580,191,Zambia,23.02.2020,,,,,
-447580,191,Zambia,22.02.2020,,,,,
-447580,191,Zambia,21.02.2020,,,,,
-447580,191,Zambia,20.02.2020,,,,,
-447580,191,Zambia,19.02.2020,,,,,
-447580,191,Zambia,18.02.2020,,,,,
-447580,191,Zambia,17.02.2020,,,,,
-447580,191,Zambia,16.02.2020,,,,,
-447580,191,Zambia,15.02.2020,,,,,
-447580,191,Zambia,14.02.2020,,,,,
-447580,191,Zambia,13.02.2020,,,,,
-447580,191,Zambia,12.02.2020,,,,,
+,191,Zambia,09.03.2020,,,,,
+,191,Zambia,08.03.2020,,,,,
+,191,Zambia,07.03.2020,,,,,
+,191,Zambia,06.03.2020,,,,,
+,191,Zambia,05.03.2020,,,,,
+,191,Zambia,04.03.2020,,,,,
+,191,Zambia,03.03.2020,,,,,
+,191,Zambia,02.03.2020,,,,,
+,191,Zambia,01.03.2020,,,,,
+,191,Zambia,29.02.2020,,,,,
+,191,Zambia,28.02.2020,,,,,
+,191,Zambia,27.02.2020,,,,,
+,191,Zambia,26.02.2020,,,,,
+,191,Zambia,25.02.2020,,,,,
+,191,Zambia,24.02.2020,,,,,
+,191,Zambia,23.02.2020,,,,,
+,191,Zambia,22.02.2020,,,,,
+,191,Zambia,21.02.2020,,,,,
+,191,Zambia,20.02.2020,,,,,
+,191,Zambia,19.02.2020,,,,,
+,191,Zambia,18.02.2020,,,,,
+,191,Zambia,17.02.2020,,,,,
+,191,Zambia,16.02.2020,,,,,
+,191,Zambia,15.02.2020,,,,,
+,191,Zambia,14.02.2020,,,,,
+,191,Zambia,13.02.2020,,,,,
+,191,Zambia,12.02.2020,,,,,
 447580,191,Zambia,11.02.2020,,5,,total tests,http://znphi.co.zm/news/situation-reports-new-coronavirus-covid-19-sitreps/
