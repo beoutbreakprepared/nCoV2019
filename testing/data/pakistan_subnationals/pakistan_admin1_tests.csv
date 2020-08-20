@@ -107,6 +107,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447502,53618,Islamabad,23.06.2020,11483,,2663,tests performed
 447502,53618,Islamabad,24.06.2020,11710,,2510,tests performed
 447502,53618,Islamabad,25.06.2020,11981,,2678,tests performed
+447502,53618,Islamabad,26.06.2020,12206,,2463,tests performed
+447502,53618,Islamabad,27.06.2020,12395,,2388,tests performed
+447502,53618,Islamabad,28.06.2020,12643,,2007,tests performed
+447502,53618,Islamabad,29.06.2020,12775,,2180,tests performed
+447502,53618,Islamabad,30.06.2020,12912,,1736,tests performed
+447502,53618,Islamabad,01.07.2020,13082,,2408,tests performed
+447502,53618,Islamabad,02.07.2020,13195,,2324,tests performed
+447502,53618,Islamabad,03.07.2020,13292,,2327,tests performed
+447502,53618,Islamabad,04.07.2020,13409,,3631,tests performed
+447502,53618,Islamabad,05.07.2020,13494,,1795,tests performed
+447502,53618,Islamabad,06.07.2020,13557,,959,tests performed
+447502,53618,Islamabad,07.07.2020,13650,,2078,tests performed
+447502,53618,Islamabad,08.07.2020,13731,,1973,tests performed
+447502,53618,Islamabad,09.07.2020,13829,,2070,tests performed
+447502,53618,Islamabad,10.07.2020,13927,,2049,tests performed
+447502,53618,Islamabad,11.07.2020,14023,,1917,tests performed
+447502,53618,Islamabad,12.07.2020,14108,,2093,tests performed
+447502,53618,Islamabad,13.07.2020,14202,,2015,tests performed
+447502,53618,Islamabad,14.07.2020,14315,,2333,tests performed
+447502,53618,Islamabad,15.07.2020,14402,,2710,tests performed
+447502,53618,Islamabad,16.07.2020,14454,,2861,tests performed
+447502,53618,Islamabad,17.07.2020,14504,,2112,tests performed
+447502,53618,Islamabad,18.07.2020,14576,,2634,tests performed
+447502,53618,Islamabad,19.07.2020,14599,,1259,tests performed
+447502,53618,Islamabad,20.07.2020,14625,,1452,tests performed
+447502,53618,Islamabad,21.07.2020,14701,,2527,tests performed
+447502,53618,Islamabad,22.07.2020,14722,,2355,tests performed
+447502,53618,Islamabad,23.07.2020,14766,,2351,tests performed
+447502,53618,Islamabad,24.07.2020,14821,,2171,tests performed
+447502,53618,Islamabad,25.07.2020,14841,,1915,tests performed
+447502,53618,Islamabad,26.07.2020,14884,,1644,tests performed
+447502,53618,Islamabad,27.07.2020,14938,,1266,tests performed
+447502,53618,Islamabad,28.07.2020,14963,,1840,tests performed
+447502,53618,Islamabad,29.07.2020,14987,,2113,tests performed
+447502,53618,Islamabad,30.07.2020,15014,,1724,tests performed
+447502,53618,Islamabad,31.07.2020,15033,,1456,tests performed
+447502,53618,Islamabad,01.08.2020,15052,,1781,tests performed
+447502,53618,Islamabad,02.08.2020,15076,,1271,tests performed
+447502,53618,Islamabad,03.08.2020,15095,,766,tests performed
+447502,53618,Islamabad,04.08.2020,15122,,1362,tests performed
+447502,53618,Islamabad,05.08.2020,15141,,2404,tests performed
+447502,53618,Islamabad,06.08.2020,15182,,1980,tests performed
+447502,53618,Islamabad,07.08.2020,15214,,2165,tests performed
+447502,53618,Islamabad,08.08.2020,15241,,2931,tests performed
+447502,53618,Islamabad,09.08.2020,15261,,2140,tests performed
+447502,53618,Islamabad,10.08.2020,15281,,2436,tests performed
+447502,53618,Islamabad,11.08.2020,15296,,2133,tests performed
+447502,53618,Islamabad,12.08.2020,15323,,2169,tests performed
+447502,53618,Islamabad,13.08.2020,15342,,3134,tests performed
+447502,53618,Islamabad,14.08.2020,15346,,2620,tests performed
+447502,53618,Islamabad,15.08.2020,15378,,2873,tests performed
+447502,53618,Islamabad,16.08.2020,15390,,2025,tests performed
+447502,53618,Islamabad,17.08.2020,15401,,2698,tests performed
+447502,53618,Islamabad,18.08.2020,15412,,2800,tests performed
+447502,53618,Islamabad,19.08.2020,15425,,3685,tests performed
 447508,53620,Punjab,10.03.2020,0,,,
 447508,53620,Punjab,11.03.2020,0,,105,tests performed
 447508,53620,Punjab,12.03.2020,0,,5,tests performed
@@ -215,6 +270,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447508,53620,Punjab,23.06.2020,69536,,10152,tests performed
 447508,53620,Punjab,24.06.2020,71191,,7731,tests performed
 447508,53620,Punjab,25.06.2020,71987,,8084,tests performed
+447508,53620,Punjab,26.06.2020,72880,,9353,tests performed
+447508,53620,Punjab,27.06.2020,74202,,6600,tests performed
+447508,53620,Punjab,28.06.2020,74778,,8389,tests performed
+447508,53620,Punjab,29.06.2020,75501,,7729,tests performed
+447508,53620,Punjab,30.06.2020,76262,,8284,tests performed
+447508,53620,Punjab,01.07.2020,77740,,7996,tests performed
+447508,53620,Punjab,02.07.2020,78956,,8521,tests performed
+447508,53620,Punjab,03.07.2020,80297,,7196,tests performed
+447508,53620,Punjab,04.07.2020,81317,,7818,tests performed
+447508,53620,Punjab,05.07.2020,81963,,7325,tests performed
+447508,53620,Punjab,06.07.2020,82669,,7116,tests performed
+447508,53620,Punjab,07.07.2020,83599,,7659,tests performed
+447502,53620,Punjab,08.07.2020,84587,,9587,tests performed
+447502,53620,Punjab,09.07.2020,85261,,8055,tests performed
+447502,53620,Punjab,10.07.2020,85991,,8283,tests performed
+447502,53620,Punjab,11.07.2020,86556,,8292,tests performed
+447502,53620,Punjab,12.07.2020,87043,,7451,tests performed
+447502,53620,Punjab,13.07.2020,87492,,7375,tests performed
+447502,53620,Punjab,14.07.2020,88045,,7175,tests performed
+447508,53620,Punjab,15.07.2020,88539,,7493,tests performed
+447508,53620,Punjab,16.07.2020,89023,,7368,tests performed
+447508,53620,Punjab,17.07.2020,89465,,7879,tests performed
+447508,53620,Punjab,18.07.2020,89793,,7831,tests performed
+447508,53620,Punjab,19.07.2020,90191,,7024,tests performed
+447508,53620,Punjab,20.07.2020,90444,,7003,tests performed
+447508,53620,Punjab,21.07.2020,90816,,7435,tests performed
+447508,53620,Punjab,22.07.2020,91129,,7085,tests performed
+447508,53620,Punjab,23.07.2020,91423,,7386,tests performed
+447508,53620,Punjab,24.07.2020,91691,,7218,tests performed
+447508,53620,Punjab,25.07.2020,91901,,7385,tests performed
+447508,53620,Punjab,26.07.2020,92073,,7023,tests performed
+447508,53620,Punjab,27.07.2020,92279,,7014,tests performed
+447508,53620,Punjab,28.07.2020,92452,,7038,tests performed
+447508,53620,Punjab,29.07.2020,92655,,7100,tests performed
+447508,53620,Punjab,30.07.2020,92873,,5301,tests performed
+447508,53620,Punjab,31.07.2020,93057,,7276,tests performed
+447508,53620,Punjab,01.08.2020,93173,,2334,tests performed
+447508,53620,Punjab,02.08.2020,93197,,3554,tests performed
+447508,53620,Punjab,03.08.2020,93336,,4280,tests performed
+447508,53620,Punjab,04.08.2020,93571,,5602,tests performed
+447508,53620,Punjab,05.08.2020,93847,,5424,tests performed
+447508,53620,Punjab,06.08.2020,94040,,7022,tests performed
+447508,53620,Punjab,07.08.2020,94223,,7274,tests performed
+447508,53620,Punjab,08.08.2020,94360,,7114,tests performed
+447508,53620,Punjab,09.08.2020,94477,,7711,tests performed
+447508,53620,Punjab,10.08.2020,94586,,5180,tests performed
+447508,53620,Punjab,11.08.2020,94715,,5798,tests performed
+447508,53620,Punjab,12.08.2020,94865,,6640,tests performed
+447508,53620,Punjab,13.08.2020,94993,,6961,tests performed
+447508,53620,Punjab,14.08.2020,95203,,7867,tests performed
+447508,53620,Punjab,15.08.2020,95391,,8124,tests performed
+447508,53620,Punjab,16.08.2020,95447,,8046,tests performed
+447508,53620,Punjab,17.08.2020,95611,,5641,tests performed
+447508,53620,Punjab,18.08.2020,95742,,8933,tests performed
+447508,53620,Punjab,19.08.2020,95800,,7550,tests performed
 447510,53619,Khyber Pakhtunkhwa,10.03.2020,0,,0,tests performed
 447510,53619,Khyber Pakhtunkhwa,11.03.2020,0,,29,tests performed
 447510,53619,Khyber Pakhtunkhwa,12.03.2020,0,,1,tests performed
@@ -323,6 +433,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447510,53619,Khyber Pakhtunkhwa,23.06.2020,23388,,3076,tests performed
 447510,53619,Khyber Pakhtunkhwa,24.06.2020,23887,,2687,tests performed
 447510,53619,Khyber Pakhtunkhwa,25.06.2020,24303,,2687,tests performed
+447510,53619,Khyber Pakhtunkhwa,26.06.2020,24943,,2913,tests performed
+447510,53619,Khyber Pakhtunkhwa,27.06.2020,25380,,2852,tests performed
+447510,53619,Khyber Pakhtunkhwa,28.06.2020,25778,,2645,tests performed
+447510,53619,Khyber Pakhtunkhwa,29.06.2020,26115,,1877,tests performed
+447510,53619,Khyber Pakhtunkhwa,30.06.2020,26598,,2211,tests performed
+447510,53619,Khyber Pakhtunkhwa,01.07.2020,26938,,2397,tests performed
+447510,53619,Khyber Pakhtunkhwa,02.07.2020,27170,,1867,tests performed
+447510,53619,Khyber Pakhtunkhwa,03.07.2020,27506,,1845,tests performed
+447510,53619,Khyber Pakhtunkhwa,04.07.2020,27843,,2738,tests performed
+447510,53619,Khyber Pakhtunkhwa,05.07.2020,28116,,1845,tests performed
+447510,53619,Khyber Pakhtunkhwa,06.07.2020,28236,,3559,tests performed
+447510,53619,Khyber Pakhtunkhwa,07.07.2020,28681,,2017,tests performed
+447510,53619,Khyber Pakhtunkhwa,08.07.2020,29052,,2411,tests performed
+447510,53619,Khyber Pakhtunkhwa,09.07.2020,29406,,2366,tests performed
+447510,53619,Khyber Pakhtunkhwa,10.07.2020,29775,,2267,tests performed
+447510,53619,Khyber Pakhtunkhwa,11.07.2020,30078,,2392,tests performed
+447510,53619,Khyber Pakhtunkhwa,12.07.2020,30486,,1931,tests performed
+447510,53619,Khyber Pakhtunkhwa,13.07.2020,30747,,2098,tests performed
+447510,53619,Khyber Pakhtunkhwa,14.07.2020,31001,,1575,tests performed
+447510,53619,Khyber Pakhtunkhwa,15.07.2020,31217,,1875,tests performed
+447510,53619,Khyber Pakhtunkhwa,16.07.2020,31486,,2303,tests performed
+447510,53619,Khyber Pakhtunkhwa,17.07.2020,31669,,2127,tests performed
+447510,53619,Khyber Pakhtunkhwa,18.07.2020,31890,,2046,tests performed
+447510,53619,Khyber Pakhtunkhwa,19.07.2020,32086,,2275,tests performed
+447510,53619,Khyber Pakhtunkhwa,20.07.2020,32243,,1845,tests performed
+447510,53619,Khyber Pakhtunkhwa,21.07.2020,32523,,1307,tests performed
+447510,53619,Khyber Pakhtunkhwa,22.07.2020,32753,,2108,tests performed
+447510,53619,Khyber Pakhtunkhwa,23.07.2020,32898,,1977,tests performed
+447510,53619,Khyber Pakhtunkhwa,24.07.2020,33071,,1722,tests performed
+447510,53619,Khyber Pakhtunkhwa,25.07.2020,33220,,2040,tests performed
+447510,53619,Khyber Pakhtunkhwa,26.07.2020,33397,,1732,tests performed
+447510,53619,Khyber Pakhtunkhwa,27.07.2020,33510,,1730,tests performed
+447510,53619,Khyber Pakhtunkhwa,28.07.2020,33724,,1131,tests performed
+447510,53619,Khyber Pakhtunkhwa,29.07.2020,33845,,1552,tests performed
+447510,53619,Khyber Pakhtunkhwa,30.07.2020,33958,,1633,tests performed
+447510,53619,Khyber Pakhtunkhwa,31.07.2020,34056,,1545,tests performed
+447510,53619,Khyber Pakhtunkhwa,01.08.2020,34160,,1384,tests performed
+447510,53619,Khyber Pakhtunkhwa,02.08.2020,34223,,648,tests performed
+447510,53619,Khyber Pakhtunkhwa,03.08.2020,34253,,625,tests performed
+447510,53619,Khyber Pakhtunkhwa,04.08.2020,34324,,513,tests performed
+447510,53619,Khyber Pakhtunkhwa,05.08.2020,34359,,1140,tests performed
+447510,53619,Khyber Pakhtunkhwa,06.08.2020,34432,,1829,tests performed
+447510,53619,Khyber Pakhtunkhwa,07.08.2020,34539,,1738,tests performed
+447510,53619,Khyber Pakhtunkhwa,08.08.2020,34635,,2314,tests performed
+447510,53619,Khyber Pakhtunkhwa,09.08.2020,34692,,1659,tests performed
+447510,53619,Khyber Pakhtunkhwa,10.08.2020,34775,,1597,tests performed
+447510,53619,Khyber Pakhtunkhwa,11.08.2020,34859,,1579,tests performed
+447510,53619,Khyber Pakhtunkhwa,12.08.2020,34947,,1382,tests performed
+447510,53619,Khyber Pakhtunkhwa,13.08.2020,35021,,1921,tests performed
+447510,53619,Khyber Pakhtunkhwa,14.08.2020,35153,,2128,tests performed
+447510,53619,Khyber Pakhtunkhwa,15.08.2020,35215,,1876,tests performed
+447510,53619,Khyber Pakhtunkhwa,16.08.2020,35215,,2226,tests performed
+447510,53619,Khyber Pakhtunkhwa,17.08.2020,35337,,1779,tests performed
+447510,53619,Khyber Pakhtunkhwa,18.08.2020,35401,,2162,tests performed
+447510,53619,Khyber Pakhtunkhwa,19.08.2020,35468,,2814,tests performed
 447511,53616,Balochistan,10.03.2020,1,,,tests performed
 447511,53616,Balochistan,11.03.2020,1,,18,tests performed
 447511,53616,Balochistan,12.03.2020,1,,0,tests performed
@@ -431,6 +596,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447511,53616,Balochistan,23.06.2020,9634,,580,tests performed
 447511,53616,Balochistan,24.06.2020,9817,,948,tests performed
 447511,53616,Balochistan,25.06.2020,9946,,601,tests performed
+447511,53616,Balochistan,26.06.2020,10116,,881,tests performed
+447511,53616,Balochistan,27.06.2020,10261,,831,tests performed
+447511,53616,Balochistan,28.06.2020,10355,,459,tests performed
+447511,53616,Balochistan,29.06.2020,10426,,328,tests performed
+447511,53616,Balochistan,30.06.2020,10476,,392,tests performed
+447511,53616,Balochistan,01.07.2020,10608,,780,tests performed
+447511,53616,Balochistan,02.07.2020,10666,,459,tests performed
+447511,53616,Balochistan,03.07.2020,10717,,325,tests performed
+447511,53616,Balochistan,04.07.2020,10766,,243,tests performed
+447511,53616,Balochistan,05.07.2020,10814,,295,tests performed
+447511,53616,Balochistan,06.07.2020,10841,,188,tests performed
+447511,53616,Balochistan,07.07.2020,10919,,505,tests performed
+447511,53616,Balochistan,08.07.2020,11052,,534,tests performed
+447511,53616,Balochistan,09.07.2020,11099,,417,tests performed
+447511,53616,Balochistan,10.07.2020,11128,,275,tests performed
+447511,53616,Balochistan,11.07.2020,11157,,323,tests performed
+447511,53616,Balochistan,12.07.2020,11185,,402,tests performed
+447511,53616,Balochistan,13.07.2020,11192,,204,tests performed
+447511,53616,Balochistan,14.07.2020,11239,,305,tests performed
+447511,53616,Balochistan,15.07.2020,11322,,499,tests performed
+447511,53616,Balochistan,16.07.2020,11385,,289,tests performed
+447511,53616,Balochistan,17.07.2020,11405,,185,tests performed
+447511,53616,Balochistan,18.07.2020,11424,,333,tests performed
+447511,53616,Balochistan,19.07.2020,11436,,194,tests performed
+447511,53616,Balochistan,20.07.2020,11441,,104,tests performed
+447511,53616,Balochistan,21.07.2020,11469,,135,tests performed
+447511,53616,Balochistan,22.07.2020,11517,,231,tests performed
+447511,53616,Balochistan,23.07.2020,11523,,76,tests performed
+447511,53616,Balochistan,24.07.2020,11550,,187,tests performed
+447511,53616,Balochistan,25.07.2020,11578,,494,tests performed
+447511,53616,Balochistan,26.07.2020,11601,,639,tests performed
+447511,53616,Balochistan,27.07.2020,11624,,543,tests performed
+447511,53616,Balochistan,28.07.2020,11654,,1302,tests performed
+447511,53616,Balochistan,29.07.2020,11708,,906,tests performed
+447511,53616,Balochistan,30.07.2020,11732,,495,tests performed
+447511,53616,Balochistan,31.07.2020,11743,,378,tests performed
+447511,53616,Balochistan,01.08.2020,11762,,274,tests performed
+447511,53616,Balochistan,02.08.2020,11774,,105,tests performed
+447511,53616,Balochistan,03.08.2020,11777,,246,tests performed
+447511,53616,Balochistan,04.08.2020,11780,,235,tests performed
+447511,53616,Balochistan,05.08.2020,11793,,221,tests performed
+447511,53616,Balochistan,06.08.2020,11821,,478,tests performed
+447511,53616,Balochistan,07.08.2020,11835,,475,tests performed
+447511,53616,Balochistan,08.08.2020,11884,,697,tests performed
+447511,53616,Balochistan,09.08.2020,11906,,402,tests performed
+447511,53616,Balochistan,10.08.2020,11921,,355,tests performed
+447511,53616,Balochistan,11.08.2020,11956,,605,tests performed
+447511,53616,Balochistan,12.08.2020,12044,,786,tests performed
+447511,53616,Balochistan,13.08.2020,12062,,528,tests performed
+447511,53616,Balochistan,14.08.2020,12144,,1238,tests performed
+447511,53616,Balochistan,15.08.2020,12234,,987,tests performed
+447511,53616,Balochistan,16.08.2020,12295,,726,tests performed
+447511,53616,Balochistan,17.08.2020,12321,,368,tests performed
+447511,53616,Balochistan,18.08.2020,12370,,471,tests performed
+447511,53616,Balochistan,19.08.2020,12403,,522,tests performed
 447512,53617,Gilgit-Baltistan,10.03.2020,2,,,tests performed
 447512,53617,Gilgit-Baltistan,11.03.2020,3,,28,tests performed
 447512,53617,Gilgit-Baltistan,12.03.2020,3,,4,tests performed
@@ -539,6 +759,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447512,53617,Gilgit-Baltistan,23.06.2020,1337,,53,tests performed
 447512,53617,Gilgit-Baltistan,24.06.2020,1365,,162,tests performed
 447512,53617,Gilgit-Baltistan,25.06.2020,1398,,168,tests performed
+447512,53617,Gilgit-Baltistan,26.06.2020,1417,,34,tests performed
+447512,53617,Gilgit-Baltistan,27.06.2020,1423,,106,tests performed
+447512,53617,Gilgit-Baltistan,28.06.2020,1442,,95,tests performed
+447512,53617,Gilgit-Baltistan,29.06.2020,1470,,94,tests performed
+447512,53617,Gilgit-Baltistan,30.06.2020,1489,,99,tests performed
+447512,53617,Gilgit-Baltistan,01.07.2020,1511,,46,tests performed
+447512,53617,Gilgit-Baltistan,02.07.2020,1524,,101,tests performed
+447512,53617,Gilgit-Baltistan,03.07.2020,1536,,70,tests performed
+447512,53617,Gilgit-Baltistan,04.07.2020,1545,,53,tests performed
+447512,53617,Gilgit-Baltistan,05.07.2020,1561,,45,tests performed
+447512,53617,Gilgit-Baltistan,06.07.2020,1587,,74,tests performed
+447512,53617,Gilgit-Baltistan,07.07.2020,1595,,82,tests performed
+447512,53617,Gilgit-Baltistan,08.07.2020,1605,,50,tests performed
+447512,53617,Gilgit-Baltistan,09.07.2020,1619,,72,tests performed
+447512,53617,Gilgit-Baltistan,10.07.2020,1630,,48,tests performed
+447512,53617,Gilgit-Baltistan,11.07.2020,1658,,97,tests performed
+447512,53617,Gilgit-Baltistan,12.07.2020,1671,,47,tests performed
+447512,53617,Gilgit-Baltistan,13.07.2020,1694,,62,tests performed
+447512,53617,Gilgit-Baltistan,14.07.2020,1708,,69,tests performed
+447512,53617,Gilgit-Baltistan,15.07.2020,1750,,131,tests performed
+447512,53617,Gilgit-Baltistan,16.07.2020,1775,,124,tests performed
+447512,53617,Gilgit-Baltistan,17.07.2020,1796,,79,tests performed
+447512,53617,Gilgit-Baltistan,18.07.2020,1807,,66,tests performed
+447512,53617,Gilgit-Baltistan,19.07.2020,1849,,102,tests performed
+447512,53617,Gilgit-Baltistan,20.07.2020,1868,,63,tests performed
+447512,53617,Gilgit-Baltistan,21.07.2020,1878,,60,tests performed
+447512,53617,Gilgit-Baltistan,22.07.2020,1896,,54,tests performed
+447512,53617,Gilgit-Baltistan,23.07.2020,1918,,71,tests performed
+447512,53617,Gilgit-Baltistan,24.07.2020,1942,,90,tests performed
+447512,53617,Gilgit-Baltistan,25.07.2020,1952,,75,tests performed
+447512,53617,Gilgit-Baltistan,26.07.2020,1989,,102,tests performed
+447512,53617,Gilgit-Baltistan,27.07.2020,2010,,107,tests performed
+447512,53617,Gilgit-Baltistan,28.07.2020,2042,,106,tests performed
+447512,53617,Gilgit-Baltistan,29.07.2020,2090,,116,tests performed
+447512,53617,Gilgit-Baltistan,30.07.2020,2105,,103,tests performed
+447512,53617,Gilgit-Baltistan,31.07.2020,2134,,100,tests performed
+447512,53617,Gilgit-Baltistan,01.08.2020,2157,,95,tests performed
+447512,53617,Gilgit-Baltistan,02.08.2020,2180,,84,tests performed
+447512,53617,Gilgit-Baltistan,03.08.2020,2198,,85,tests performed
+447512,53617,Gilgit-Baltistan,04.08.2020,2218,,77,tests performed
+447512,53617,Gilgit-Baltistan,05.08.2020,2234,,74,tests performed
+447512,53617,Gilgit-Baltistan,06.08.2020,2287,,143,tests performed
+447512,53617,Gilgit-Baltistan,07.08.2020,2301,,89,tests performed
+447512,53617,Gilgit-Baltistan,08.08.2020,2321,,117,tests performed
+447512,53617,Gilgit-Baltistan,09.08.2020,2334,,80,tests performed
+447512,53617,Gilgit-Baltistan,10.08.2020,2371,,114,tests performed
+447512,53617,Gilgit-Baltistan,11.08.2020,2382,,286,tests performed
+447512,53617,Gilgit-Baltistan,12.08.2020,2402,,170,tests performed
+447512,53617,Gilgit-Baltistan,13.08.2020,2426,,227,tests performed
+447512,53617,Gilgit-Baltistan,14.08.2020,2452,,156,tests performed
+447512,53617,Gilgit-Baltistan,15.08.2020,2486,,223,tests performed
+447512,53617,Gilgit-Baltistan,16.08.2020,2502,,140,tests performed
+447512,53617,Gilgit-Baltistan,17.08.2020,2538,,202,tests performed
+447512,53617,Gilgit-Baltistan,18.08.2020,2565,,209,tests performed
+447512,53617,Gilgit-Baltistan,19.08.2020,2583,,364,tests performed
 447513,53615,Azad Jammu & Kashmir,10.03.2020,0,,,tests performed
 447513,53615,Azad Jammu & Kashmir,11.03.2020,0,,8,tests performed
 447513,53615,Azad Jammu & Kashmir,12.03.2020,0,,1,tests performed
@@ -647,6 +922,61 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447513,53615,Azad Jammu & Kashmir,23.06.2020,892,,259,tests performed
 447513,53615,Azad Jammu & Kashmir,24.06.2020,930,,397,tests performed
 447513,53615,Azad Jammu & Kashmir,25.06.2020,962,,365,tests performed
+447513,53615,Azad Jammu & Kashmir,26.06.2020,1003,,286,tests performed
+447513,53615,Azad Jammu & Kashmir,27.06.2020,1027,,335,tests performed
+447513,53615,Azad Jammu & Kashmir,28.06.2020,1049,,270,tests performed
+447513,53615,Azad Jammu & Kashmir,29.06.2020,1065,,258,tests performed
+447513,53615,Azad Jammu & Kashmir,30.06.2020,1093,,261,tests performed
+447513,53615,Azad Jammu & Kashmir,01.07.2020,1135,,300,tests performed
+447513,53615,Azad Jammu & Kashmir,02.07.2020,1160,,233,tests performed
+447513,53615,Azad Jammu & Kashmir,03.07.2020,1214,,260,tests performed
+447513,53615,Azad Jammu & Kashmir,04.07.2020,1288,,326,tests performed
+447513,53615,Azad Jammu & Kashmir,05.07.2020,1342,,261,tests performed
+447513,53615,Azad Jammu & Kashmir,06.07.2020,1383,,202,tests performed
+447513,53615,Azad Jammu & Kashmir,07.07.2020,1419,,293,tests performed
+447513,53615,Azad Jammu & Kashmir,08.07.2020,1459,,460,tests performed
+447513,53615,Azad Jammu & Kashmir,09.07.2020,1485,,415,tests performed
+447513,53615,Azad Jammu & Kashmir,10.07.2020,1532,,371,tests performed
+447513,53615,Azad Jammu & Kashmir,11.07.2020,1564,,375,tests performed
+447513,53615,Azad Jammu & Kashmir,12.07.2020,1599,,332,tests performed
+447513,53615,Azad Jammu & Kashmir,13.07.2020,1655,,337,tests performed
+447513,53615,Azad Jammu & Kashmir,14.07.2020,1688,,320,tests performed
+447513,53615,Azad Jammu & Kashmir,15.07.2020,1771,,494,tests performed
+447513,53615,Azad Jammu & Kashmir,16.07.2020,1808,,388,tests performed
+447513,53615,Azad Jammu & Kashmir,17.07.2020,1840,,330,tests performed
+447513,53615,Azad Jammu & Kashmir,18.07.2020,1888,,379,tests performed
+447513,53615,Azad Jammu & Kashmir,19.07.2020,1915,,277,tests performed
+447513,53615,Azad Jammu & Kashmir,20.07.2020,1922,,247,tests performed
+447513,53615,Azad Jammu & Kashmir,21.07.2020,1937,,191,tests performed
+447513,53615,Azad Jammu & Kashmir,22.07.2020,1961,,467,tests performed
+447513,53615,Azad Jammu & Kashmir,23.07.2020,1989,,341,tests performed
+447513,53615,Azad Jammu & Kashmir,24.07.2020,2012,,380,tests performed
+447513,53615,Azad Jammu & Kashmir,25.07.2020,2023,,336,tests performed
+447513,53615,Azad Jammu & Kashmir,26.07.2020,2034,,436,tests performed
+447513,53615,Azad Jammu & Kashmir,27.07.2020,2040,,208,tests performed
+447513,53615,Azad Jammu & Kashmir,28.07.2020,2055,,268,tests performed
+447513,53615,Azad Jammu & Kashmir,29.07.2020,2065,,321,tests performed
+447513,53615,Azad Jammu & Kashmir,30.07.2020,2073,,409,tests performed
+447513,53615,Azad Jammu & Kashmir,31.07.2020,2084,,620,tests performed
+447513,53615,Azad Jammu & Kashmir,01.08.2020,2086,,459,tests performed
+447513,53615,Azad Jammu & Kashmir,02.08.2020,2093,,92,tests performed
+447513,53615,Azad Jammu & Kashmir,03.08.2020,2097,,204,tests performed
+447513,53615,Azad Jammu & Kashmir,04.08.2020,2105,,204,tests performed
+447513,53615,Azad Jammu & Kashmir,05.08.2020,2116,,302,tests performed
+447513,53615,Azad Jammu & Kashmir,06.08.2020,2124,,286,tests performed
+447513,53615,Azad Jammu & Kashmir,07.08.2020,2129,,205,tests performed
+447513,53615,Azad Jammu & Kashmir,08.08.2020,2134,,216,tests performed
+447513,53615,Azad Jammu & Kashmir,09.08.2020,2141,,215,tests performed
+447513,53615,Azad Jammu & Kashmir,10.08.2020,2150,,148,tests performed
+447513,53615,Azad Jammu & Kashmir,11.08.2020,2157,,180,tests performed
+447513,53615,Azad Jammu & Kashmir,12.08.2020,2164,,204,tests performed
+447513,53615,Azad Jammu & Kashmir,13.08.2020,2167,,220,tests performed
+447513,53615,Azad Jammu & Kashmir,14.08.2020,2179,,330,tests performed
+447513,53615,Azad Jammu & Kashmir,15.08.2020,2181,,165,tests performed
+447513,53615,Azad Jammu & Kashmir,16.08.2020,2184,,241,tests performed
+447513,53615,Azad Jammu & Kashmir,17.08.2020,2199,,235,tests performed
+447513,53615,Azad Jammu & Kashmir,18.08.2020,2212,,190,tests performed
+447513,53615,Azad Jammu & Kashmir,19.08.2020,2219,,174,tests performed
 447509,53621,Sindh,10.03.2020,,,,tests performed
 447509,53621,Sindh,11.03.2020,,,198,tests performed
 447509,53621,Sindh,12.03.2020,,,42,tests performed
@@ -755,3 +1085,58 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 447509,53621,Sindh,23.06.2020,72656,,6597,tests performed
 447509,53621,Sindh,24.06.2020,74070,,7400,tests performed
 447509,53621,Sindh,25.06.2020,75168,,6458,tests performed
+447509,53621,Sindh,26.06.2020,78318,,5103,tests performed
+447509,53621,Sindh,27.06.2020,78267,,11901,tests performed
+447509,53621,Sindh,28.06.2020,80446,,9144,tests performed
+447509,53621,Sindh,29.06.2020,81985,,8464,tests performed
+447509,53621,Sindh,30.06.2020,84640,,9435,tests performed
+447509,53621,Sindh,01.07.2020,86795,,8201,tests performed
+447509,53621,Sindh,02.07.2020,89225,,9436,tests performed
+447509,53621,Sindh,03.07.2020,90721,,10027,tests performed
+447509,53621,Sindh,04.07.2020,92306,,10718,tests performed
+447509,53621,Sindh,05.07.2020,94528,,10705,tests performed
+447509,53621,Sindh,06.07.2020,96236,,12479,tests performed
+447509,53621,Sindh,07.07.2020,97626,,9317,tests performed
+447509,53621,Sindh,08.07.2020,99362,,9318,tests performed
+447509,53621,Sindh,09.07.2020,100900,,9860,tests performed
+447509,53621,Sindh,10.07.2020,102368,,10276,tests performed
+447509,53621,Sindh,11.07.2020,103836,,10815,tests performed
+447509,53621,Sindh,12.07.2020,105533,,10276,tests performed
+447509,53621,Sindh,13.07.2020,106622,,8929,tests performed
+447509,53621,Sindh,14.07.2020,107773,,9972,tests performed
+447509,53621,Sindh,15.07.2020,108913,,11060,tests performed
+447509,53621,Sindh,16.07.2020,110068,,10574,tests performed
+447509,53621,Sindh,17.07.2020,111238,,10299,tests performed
+447509,53621,Sindh,18.07.2020,112118,,9270,tests performed
+447509,53621,Sindh,19.07.2020,113007,,7977,tests performed
+447509,53621,Sindh,20.07.2020,113553,,7069,tests performed
+447509,53621,Sindh,21.07.2020,114104,,6676,tests performed
+447509,53621,Sindh,22.07.2020,115213,,10108,tests performed
+447509,53621,Sindh,23.07.2020,115883,,9804,tests performed
+447509,53621,Sindh,24.07.2020,116800,,11812,tests performed
+447509,53621,Sindh,25.07.2020,117598,,11009,tests performed
+447509,53621,Sindh,26.07.2020,118311,,10480,tests performed
+447509,53621,Sindh,27.07.2020,118824,,8742,tests performed
+447509,53621,Sindh,28.07.2020,119398,,9571,tests performed
+447509,53621,Sindh,29.07.2020,120052,,9520,tests performed
+447509,53621,Sindh,30.07.2020,120550,,10842,tests performed
+447509,53621,Sindh,31.07.2020,121039,,11555,tests performed
+447509,53621,Sindh,01.08.2020,121309,,7676,tests performed
+447509,53621,Sindh,02.08.2020,121486,,5272,tests performed
+447509,53621,Sindh,03.08.2020,121705,,4484,tests performed
+447509,53621,Sindh,04.08.2020,122016,,3922,tests performed
+447509,53621,Sindh,05.08.2020,122373,,5436,tests performed
+447509,53621,Sindh,06.08.2020,122759,,8723,tests performed
+447509,53621,Sindh,07.08.2020,123246,,12420,tests performed
+447509,53621,Sindh,08.08.2020,123546,,10001,tests performed
+447509,53621,Sindh,09.08.2020,123849,,8288,tests performed
+447509,53621,Sindh,10.08.2020,124127,,8397,tests performed
+447509,53621,Sindh,11.08.2020,124556,,10050,tests performed
+447509,53621,Sindh,12.08.2020,124929,,7870,tests performed
+447509,53621,Sindh,13.08.2020,125289,,10754,tests performed
+447509,53621,Sindh,14.08.2020,125632,,9383,tests performed
+447509,53621,Sindh,15.08.2020,125904,,9774,tests performed
+447509,53621,Sindh,16.08.2020,126182,,9044,tests performed
+447509,53621,Sindh,17.08.2020,126425,,6689,tests performed
+447509,53621,Sindh,18.08.2020,126743,,8094,tests performed
+447509,53621,Sindh,19.08.2020,127060,,8561,tests performed
