@@ -1,5 +1,12 @@
 nid,location_id,location,date,total_cases,pcr_cases,total_tests,tests_pcr,tests_antibody,daily_tests,tests_units,notes,link
-450084;450082,123,Peru,10.08.2020,489680,125298,2612599,,,,,,
+450084;450082,123,Peru,17.08.2020,549321,139813,2818943,,,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,16.08.2020,541493,137904,2793614,,,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,15.08.2020,535946,136366,2773412,,,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,14.08.2020,525803,133770,2738229,472683,2265546,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,13.08.2020,516296,131649,2705122,464195,2240927,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,12.08.2020,507996,129564,2677014,456459,2220555,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,11.08.2020,498555,127202,2643464,447137,2196327,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,10.08.2020,489680,125298,2612599,439104,2173495,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,09.08.2020,483133,124415,2590078,435376,2154702,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,08.08.2020,478024,123141,2573691,430370,2143321,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,07.08.2020,471012,121912,2548439,424250,2124189,,individuals tested,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
