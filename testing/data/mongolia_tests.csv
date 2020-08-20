@@ -1,4 +1,12 @@
 nid,location,location_id,date,total_cases,deaths,total_tests,daily_tests,tests_units,link
+,Mongolia,38,19.08.2020,298,,46796,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,18.08.2020,298,,46046,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,17.08.2020,,,,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,16.08.2020,,,,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,15.08.2020,298,,44224,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,14.08.2020,297,,43600,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,13.08.2020,297,,43138,,tests processed,https://covid19.mohs.mn/
+,Mongolia,38,12.08.2020,293,,42358,,tests processed,https://covid19.mohs.mn/
 ,Mongolia,38,11.08.2020,293,,41974,,tests processed,https://covid19.mohs.mn/
 ,Mongolia,38,10.08.2020,293,,41468,,tests processed,https://covid19.mohs.mn/
 ,Mongolia,38,09.08.2020,,,,,,
