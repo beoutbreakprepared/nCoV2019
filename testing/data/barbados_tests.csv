@@ -1,5 +1,11 @@
 nid,location_id,location,date,total_cases,cases_confirmed,deaths,total_tests,daily_tests,tests_units,source
-450029,107,Barbados,13.08.2020,,,,,,,
+450029,107,Barbados,19.08.2020,155,155,7,14879,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,18.08.2020,153,153,7,14674,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,17.08.2020,152,152,7,14542,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,16.08.2020,151,151,7,14423,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,15.08.2020,150,150,7,14217,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,14.08.2020,148,148,7,14037,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,13.08.2020,144,144,7,13657,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,12.08.2020,144,144,7,13489,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,11.08.2020,143,143,7,13313,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,10.08.2020,143,143,7,13143,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
