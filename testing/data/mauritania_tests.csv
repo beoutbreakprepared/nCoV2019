@@ -1,0 +1,117 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,source
+448784,212,Mauritania,23.04.2020,7,1032,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,24.04.2020,7,1209,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,25.04.2020,7,1302,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,26.04.2020,7,1415,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,27.04.2020,7,1560,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,28.04.2020,7,1608,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,29.04.2020,8,1616,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,30.04.2020,8,1693,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,01.05.2020,8,1714,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,02.05.2020,8,1720,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,03.05.2020,8,1748,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,04.05.2020,8,1759,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,05.05.2020,8,1842,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,06.05.2020,8,1842,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,07.05.2020,8,1903,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,08.05.2020,8,1903,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,09.05.2020,8,1954,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,10.05.2020,8,2009,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,11.05.2020,8,2015,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,12.05.2020,8,2027,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,13.05.2020,9,2032,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,14.05.2020,,,,,
+448784,212,Mauritania,15.05.2020,29,2217,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,16.05.2020,40,2289,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,17.05.2020,62,2583,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,18.05.2020,81,2728,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,19.05.2020,131,2898,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,20.05.2020,,,,,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,21.05.2020,173,3825,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/05/200521-Mauritanie-Sitrep-COVID-19_FR.pdf
+448784,212,Mauritania,22.05.2020,,,,,
+448784,212,Mauritania,23.05.2020,227,4723,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/05/200521-Mauritanie-Sitrep-COVID-19_FR.pdf
+448784,212,Mauritania,24.05.2020,237,4886,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,25.05.2020,262,5504,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,26.05.2020,,,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,27.05.2020,292,6335,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,28.05.2020,346,6622,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,29.05.2020,423,7654,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,30.05.2020,,,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,31.05.2020,,,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,01.06.2020,,,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,02.06.2020,668,9536,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,03.06.2020,,,,,
+448784,212,Mauritania,04.06.2020,,,,,
+448784,212,Mauritania,05.06.2020,883,10427,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/06/200605-Mauritanie-Sitrep-COVID-19_FR-1.pdf
+448784,212,Mauritania,06.06.2020,,,,,
+448784,212,Mauritania,07.06.2020,,,,,
+448784,212,Mauritania,08.06.2020,,,,,
+448784,212,Mauritania,09.06.2020,1162,12353,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/06/200609-Mauritanie-Sitrep-COVID-19_FR.pdf
+448784,212,Mauritania,10.06.2020,1283,12851,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/06/200610-Mauritanie-Sitrep-COVID-19_FR.pdf
+448784,212,Mauritania,11.06.2020,1439,13842,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,12.06.2020,,,,,
+448784,212,Mauritania,13.06.2020,,,,,
+448784,212,Mauritania,14.06.2020,1783,16651,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,15.06.2020,1887,17282,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,16.06.2020,2057,18350,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,17.06.2020,,,,,
+448784,212,Mauritania,18.06.2020,,,,,
+448784,212,Mauritania,19.06.2020,2621,24407,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,20.06.2020,2813,25959,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,21.06.2020,,,,,
+448784,212,Mauritania,22.06.2020,,,,,
+448784,212,Mauritania,23.06.2020,3292,31467,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,24.06.2020,,,,,
+448784,212,Mauritania,25.06.2020,3739,35765,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,26.06.2020,,,,,
+448784,212,Mauritania,27.06.2020,,,,,
+448784,212,Mauritania,28.06.2020,4149,39398,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,29.06.2020,,,,,
+448784,212,Mauritania,30.06.2020,,,,,
+448784,212,Mauritania,01.07.2020,4472,41862,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,02.07.2020,,,,,
+448784,212,Mauritania,03.07.2020,4705,43602,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,04.07.2020,4827,44350,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,05.07.2020,4879,44713,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,06.07.2020,,,,,
+448784,212,Mauritania,07.07.2020,5024,46505,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,08.07.2020,5087,47355,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,09.07.2020,5126,48037,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,10.07.2020,,,,,
+448784,212,Mauritania,11.07.2020,,,,,
+448784,212,Mauritania,12.07.2020,5355,50529,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,13.07.2020,5446,51295,,tests processed,http://www.sante.gov.mr/?cat=4
+448784,212,Mauritania,14.07.2020,,,,,
+448784,212,Mauritania,15.07.2020,,,,,
+448784,212,Mauritania,16.07.2020,,,,,
+448784,212,Mauritania,17.07.2020,,,,,
+448784,212,Mauritania,18.07.2020,,,,,
+448784,212,Mauritania,19.07.2020,5873,55873,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200719-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,20.07.2020,5923,56615,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200720-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,21.07.2020,,,,,
+448784,212,Mauritania,22.07.2020,6027,57847,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200722-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,23.07.2020,6067,58285,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200723-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,24.07.2020,,,,,
+448784,212,Mauritania,25.07.2020,6151,59172,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200725-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,26.07.2020,6171,59566,,tests processed,http://www.sante.gov.mr/wp-content/uploads/2020/07/200726-Mauritanie-Sitrep-COVID-19_FR-.pdf
+448784,212,Mauritania,27.07.2020,6249,61293,,tests processed,
+448784,212,Mauritania,28.07.2020,,,,,
+448784,212,Mauritania,29.07.2020,,,,,
+448784,212,Mauritania,30.07.2020,6295,62650,,tests processed,
+448784,212,Mauritania,31.07.2020,,,,,
+448784,212,Mauritania,01.08.2020,,,,,
+448784,212,Mauritania,02.08.2020,6323,63494,,tests processed,
+448784,212,Mauritania,03.08.2020,6382,63874,,tests processed,
+448784,212,Mauritania,04.08.2020,,,,,
+448784,212,Mauritania,05.08.2020,6444,64723,,tests processed,
+448784,212,Mauritania,06.08.2020,6473,65238,,tests processed,
+448784,212,Mauritania,07.08.2020,6498,65578,,tests processed,
+448784,212,Mauritania,08.08.2020,6510,65798,,tests processed,
+448784,212,Mauritania,09.08.2020,6518,65952,,tests processed,
+448784,212,Mauritania,10.08.2020,6550,66169,,tests processed,
+448784,212,Mauritania,11.08.2020,6598,66540,,tests processed,
+448784,212,Mauritania,12.08.2020,6622,67083,,tests processed,
+448784,212,Mauritania,13.08.2020,6653,67415,,tests processed,
+448784,212,Mauritania,14.08.2020,6676,67832,,tests processed,
+448784,212,Mauritania,15.08.2020,6693,67962,,tests processed,
+448784,212,Mauritania,16.08.2020,6701,68086,,tests processed,

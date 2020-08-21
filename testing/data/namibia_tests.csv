@@ -1,4 +1,12 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,notes,link
+,195,Namibia,20.08.2020,4912,45744,,samples tested,,
+,195,Namibia,19.08.2020,4665,43990,,samples tested,,
+,195,Namibia,18.08.2020,4464,42945,,samples tested,,
+,195,Namibia,17.08.2020,4344,41867,,samples tested,,
+,195,Namibia,16.08.2020,4154,41146,,samples tested,,
+,195,Namibia,15.08.2020,3907,40397,,samples tested,,
+,195,Namibia,14.08.2020,3726,38743,,samples tested,,
+,195,Namibia,13.08.2020,3544,37797,,samples tested,,
 ,195,Namibia,12.08.2020,3406,36743,,samples tested,,
 ,195,Namibia,11.08.2020,3229,36287,,samples tested,,
 ,195,Namibia,10.08.2020,3101,35175,,samples tested,,
@@ -70,27 +78,57 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,no
 ,195,Namibia,05.06.2020,25,4395,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
 ,195,Namibia,04.06.2020,25,4217,,,,https://namibiacovid19.gov.na/app-statistics
 ,195,Namibia,03.06.2020,,,,,,No report found via Facebook
-,195,Namibia,25.06.2020,102,8014,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,24.06.2020,76,7740,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,23.06.2020,,,,,,
-,195,Namibia,22.06.2020,63,7331,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,21.06.2020,55,7009,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,20.06.2020,,,,,,
-,195,Namibia,19.06.2020,46,6837,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,18.06.2020,29,6355,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,17.06.2020,34,6109,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,16.06.2020,,,,,,
-,195,Namibia,15.06.2020,,,,,,
-,195,Namibia,14.06.2020,32,5849,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,13.06.2020,,,,,,
-,195,Namibia,12.06.2020,31,5514,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,11.06.2020,,,,,,
-,195,Namibia,10.06.2020,31,5084,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,09.06.2020,31,4970,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,08.06.2020,31,4943,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,07.06.2020,,,,,,
-,195,Namibia,06.06.2020,29,4588,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,05.06.2020,,,,,,
-,195,Namibia,04.06.2020,25,4217,,,,https://namibiacovid19.gov.na/app-statistics
-,195,Namibia,03.06.2020,,,,,,
 ,195,Namibia,02.06.2020,25,4005,,,,https://namibiacovid19.gov.na/app-statistics
+,195,Namibia,01.06.2020,25,3970,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,31.05.2020,24,3680,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,30.05.2020,23,3545,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,29.05.2020,23,3412,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,28.05.2020,22,3370,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,27.05.2020,22,3201,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,26.05.2020,21,3186,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,25.05.2020,21,3117,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,24.05.2020,21,3027,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,23.05.2020,20,2847,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,22.05.2020,19,2681,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,21.05.2020,18,2681,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,20.05.2020,16,2586,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,19.05.2020,16,2434,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,18.05.2020,,,,,,No report found via Facebook
+,195,Namibia,17.05.2020,16,2381,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,16.05.2020,,,,,,No report found via Facebook
+,195,Namibia,15.05.2020,16,2074,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,14.05.2020,16,2011,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,13.05.2020,16,1768,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,12.05.2020,16,1604,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,11.05.2020,,,,,,No report found via Facebook
+,195,Namibia,10.05.2020,16,1543,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,09.05.2020,16,1511,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,08.05.2020,,,,,,No report found via Facebook
+,195,Namibia,07.05.2020,16,1283,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,06.05.2020,16,1181,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,05.05.2020,16,1163,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,04.05.2020,,,,,,No report found via Facebook
+,195,Namibia,03.05.2020,16,1122,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,02.05.2020,16,1060,,samples tested,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,01.05.2020,16,928,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,30.04.2020,16,872,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,29.04.2020,16,882,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,28.04.2020,16,765,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,27.04.2020,16,704,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,26.04.2020,16,704,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,25.04.2020,16,675,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,24.04.2020,16,621,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,23.04.2020,16,590,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,22.04.2020,,,,,,No report found via Facebook
+,195,Namibia,21.04.2020,16,546,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,20.04.2020,16,524,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,19.04.2020,16,524,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,18.04.2020,16,499,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,17.04.2020,,,,,,No report found via Facebook
+,195,Namibia,16.04.2020,16,454,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,15.04.2020,16,454,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,14.04.2020,,,,,,No report found via Facebook
+,195,Namibia,13.04.2020,16,,,,,https://www.facebook.com/MoHSSNamibia/?ref=page_internal
+,195,Namibia,12.04.2020,,,,,,No report found via Facebook
+,195,Namibia,11.04.2020,,,,,,No report found via Facebook
+,195,Namibia,10.04.2020,,,,,,No report found via Facebook
