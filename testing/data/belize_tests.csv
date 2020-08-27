@@ -1,4 +1,11 @@
 nid,location,location_id,date,total_cases,deaths,total_tests,negative_tests,under_investigation,daily_tests,tests_units,notes
+450098,Belize,108,25.08.2020,730,10,6768,5931,454,,tests done,
+450098,Belize,108,24.08.2020,713,10,6639,5826,382,,tests done,
+450098,Belize,108,23.08.2020,686,6,6458,5676,505,,tests done,
+450098,Belize,108,22.08.2020,668,6,6293,5543,584,,tests done,
+450098,Belize,108,21.08.2020,648,5,6128,5399,434,,tests done,
+450098,Belize,108,20.08.2020,,,,,,,tests done,
+450098,Belize,108,19.08.2020,605,5,5855,5186,412,,tests done,
 450098,Belize,108,18.08.2020,553,4,5592,4994,451,,tests done,
 450098,Belize,108,17.08.2020,475,4,5281,4761,481,,tests done,
 450098,Belize,108,16.08.2020,,,,,,,,
