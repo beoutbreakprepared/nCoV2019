@@ -1,4 +1,10 @@
-nid,location,location_id,date,total_cases,deaths,total_tests,daily_tests,tests_units,notes
+nid,location,location_id,date,total_cases,deaths,total_tests,daily_tests,tests_units,link
+454589,Lesotho,194,25.08.2020,1051,31,15023,,tests conducted,https://twitter.com/nacosec
+454589,Lesotho,194,24.08.2020,,,,,,
+454589,Lesotho,194,23.08.2020,,,,,,
+454589,Lesotho,194,22.08.2020,,,,,,
+454589,Lesotho,194,21.08.2020,,,,,,
+454589,Lesotho,194,20.08.2020,,,,,,
 454589,Lesotho,194,19.08.2020,996,30,12682,,tests conducted,https://twitter.com/nacosec
 454589,Lesotho,194,18.08.2020,,,,,,
 454589,Lesotho,194,17.08.2020,,,,,,
