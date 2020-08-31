@@ -138,6 +138,9 @@ Reporting begins on the 1st April, with the cumulative total persons tested stan
 [Niger](data/niger_tests.csv)
 * Source [Ministère de la santé publique du Niger](https://twitter.com/minsanteniger?lang=en)
 
+[Oman](data/oman_tests.csv)
+* Source [Ministry of Health](https://twitter.com/OmaniMOH?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AOmaniMOH&ref_url=https%3A%2F%2Fcovid19.moh.gov.om%2F%23%2Fhome)
+
 [Saint Kitts and Nevis](data/saint_kitts_tests.csv)
 * Source [Government of St Kitts and Nevis](https://www.covid19.gov.kn/daily-reports/)
 
