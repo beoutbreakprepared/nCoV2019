@@ -100,3 +100,15 @@ nid,location_id,location,date,cases,deaths,hospitalizations,icu,ventilators,deat
 450681,182,Malawi,25.08.2020,5423,170,,,,cumulative,,,,5423,42902,,tests_processed,https://www.facebook.com/malawimoh/
 450681,182,Malawi,26.08.2020,5474,173,,,,cumulative,,,,5474,43503,,tests_processed,https://www.facebook.com/malawimoh/
 450681,182,Malawi,27.08.2020,5496,173,,,,cumulative,,,,5496,43798,,tests_processed,https://www.facebook.com/malawimoh/
+448202,182,Malawi,28.08.2020,5523,174,,,,cumulative,,,,5523,44219,,test_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,29.08.2020,5528,174,,,,cumulative,,,,5528,44296,,test_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,30.08.2020,5536,174,,,,cumulative,,,,5536,44511,,test_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,31.08.2020,5566,175,,,,cumulative,,,,5566,45505,,test_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,01.09.2020,5576,175,,,,cumulative,,,,5576,45622,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,02.09.2020,5579,175,,,,cumulative,,,,5579,45789,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,03.09.2020,5593,175,,,,cumulative,,,,5593,46036,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,04.09.2020,5608,175,,,,cumulative,,,,5608,46411,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,05.09.2020,5611,175,,,,cumulative,,,,5611,46484,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,06.09.2020,5614,175,,,,cumulative,,,,5614,46636,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,07.09.2020,5621,176,,,,cumulative,,,,5621,46750,,tests_processed,https://covid19.health.gov.mw/
+448202,182,Malawi,08.09.2020,5630,176,,,,cumulative,,,,5630,46857,,tests_processed,https://covid19.health.gov.mw/
