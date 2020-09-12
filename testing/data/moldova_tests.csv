@@ -23,10 +23,10 @@ nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units
 ,61,Moldova,19.08.2020,31937,190054,3242,tests processed
 ,61,Moldova,18.08.2020,31415,186812,2889,tests processed
 ,61,Moldova,17.08.2020,30789,183923,2579,tests processed
-,61,Moldova,16.08.2020,30377,181344,1155,tests processed
-,61,Moldova,15.08.2020,30183,181428,1239,tests processed
+,61,Moldova,16.08.2020,30377,182583,1155,tests processed
+,61,Moldova,15.08.2020,30183,181428,1978,tests processed
 ,61,Moldova,14.08.2020,29905,179450,2684,tests processed
-,61,Moldova,13.08.2020,29483,176766,2359,tests processed
+,61,Moldova,13.08.2020,29483,176766,2859,tests processed
 ,61,Moldova,12.08.2020,29087,173907,2215,tests processed
 ,61,Moldova,11.08.2020,28697,171692,2564,tests processed
 ,61,Moldova,10.08.2020,28223,169128,2174,tests processed
