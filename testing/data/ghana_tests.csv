@@ -1,0 +1,198 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,total_contact_tracing,notes,source
+447474,207,Ghana,12.03.2020,2,,,,,,https://ghanahealthservice.org/covid19/downloads/covid_19_first_confirmed_GH.pdf
+447474,207,Ghana,13.03.2020,,,,,,,
+447474,207,Ghana,14.03.2020,,,,,,,
+447474,207,Ghana,15.03.2020,,,,,,,
+447474,207,Ghana,16.03.2020,,,,,,,
+447474,207,Ghana,17.03.2020,7,143,,tests processed,350,143 suspected cases have been tested ,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.03.2020,9,,19,tests processed,399,19 of the identified contacts developed some forms of symptoms and samples have taken for laboratory testing,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.03.2020,11,,,,399,Contact identification and tracking for the newly confirmed cases have just started.,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,20.03.2020,16,,,,,Contact tracing has been initiated in all these confirmed cases.,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.03.2020,21,,,,,Contact tracing has started in all these confirmed cases.,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.03.2020,24,315,,tests processed,575,24 of the cases have been confirmed at the laboratory as COVID-19,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.03.2020,27,521,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.03.2020,53,,510,tests processed,,"As of 24 March, total of 1,030 are under mandatory quarantine; 844 have had their samples taken; 510 have had the samples tested; and out these twenty-six (26) tested positive for COVID-19.",https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,25.03.2020,75,863,,tests processed,829,sum of national (68) and traveler (7) cases,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.03.2020,132,,,,970,sum of national (54) and traveler (78) cases. The sudden spike in case incidence is as a result of the mandatory quarantine and compulsory testing for all travelers entering Ghana,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,27.03.2020,137,,,,1006,sum of national (59) and traveler (78) cases,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.03.2020,141,2519,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.03.2020,152,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,30.03.2020,152,,17,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,31.03.2020,161,,77,tests processed,1185,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,01.04.2020,195,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.04.2020,204,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.04.2020,205,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,04.04.2020,214,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.04.2020,214,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,06.04.2020,287,,,,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,07.04.2020,313,11016,,tests processed,,"With regards to enhanced contact tracing and testing, as at 7th April 2020, a total of 11,016 samples from contacts have been processed and 37 (0.34%) have been confirmed positive for COVID-19.",https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.04.2020,,,,,,,
+447474,207,Ghana,09.04.2020,378,14611,,tests processed,,"As of 09 April 2020, 22:00 HRS, a total of 37,405 samples (from routine and enhanced surveillance) have been collected. Out of these, 14,611 have been tested with 378 being positive for COVID-19. ",https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,10.04.2020,408,27346,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.04.2020,566,37954,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.04.2020,,,,,,,
+447474,207,Ghana,13.04.2020,,,,,,,
+447474,207,Ghana,14.04.2020,,,,,,,
+447474,207,Ghana,15.04.2020,641,50719,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,16.04.2020,,,,,,,
+447474,207,Ghana,17.04.2020,,,,,,,
+447474,207,Ghana,18.04.2020,834,60916,,tests processed,,"Ghana Health Service is supervising the completion of a backlog of laboratory samples. Total samples tested so far now stands at 60,916 with 1.37 % testing positive. The results of these backlog of samples when released does not mean the number of new cases recorded on the day of the report.",https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.04.2020,1042,68591,,tests processed,49699,,
+447474,207,Ghana,20.04.2020,,,,,,,
+447474,207,Ghana,21.04.2020,,,,,,,
+447474,207,Ghana,22.04.2020,1279,88188,,tests processed,68330,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.04.2020,,,,,,,
+447474,207,Ghana,24.04.2020,,,,,,,
+447474,207,Ghana,25.04.2020,1550,100622,,tests processed,77553,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.04.2020,,,,,,,
+447474,207,Ghana,27.04.2020,1671,106090,,tests processed,82014,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.04.2020,2074,113497,,tests processed,85313,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.04.2020,,,,,,,
+447474,207,Ghana,30.04.2020,,,,,,,
+447474,207,Ghana,01.05.2020,2169,117049,,tests processed,88064,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.05.2020,2604,129461,,tests processed,98622,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.05.2020,,,,,,,
+447474,207,Ghana,04.05.2020,2976,135902,,tests processed,102833,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.05.2020,,,,,,,
+447474,207,Ghana,06.05.2020,,,,,,,
+447474,207,Ghana,07.05.2020,4012,149948,,tests processed,111968,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.05.2020,4263,155201,,tests processed,115683,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,09.05.2020,,,,,,,
+447474,207,Ghana,10.05.2020,4700,160501,,tests processed,117672,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.05.2020,5127,162184,,tests processed,119115,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.05.2020,,,,,,,
+447474,207,Ghana,13.05.2020,5530,168685,,tests processed,122793,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,14.05.2020,5638,172623,,tests processed,125520,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,15.05.2020,5735,174077,,tests processed,126845,,https://ghanahealthservice.org/covid19/
+447474,207,Ghana,16.05.2020,,,,,,,
+447474,207,Ghana,17.05.2020,5918,180567,,tests processed,132237,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.05.2020,6096,184343,,tests processed,134717,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.05.2020,6269,187929,,tests processed,136246,live dashboard does not contain testing data,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,20.05.2020,6486,192194,,tests processed,139424,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.05.2020,6617,193705,,tests processed,139946,live dashboard does not contain testing data,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.05.2020,6683,194763,,tests processed,140553,live dashboard does not contain testing data,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.05.2020,6808,198175,,tests processed,142483,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.05.2020,6964,202130,,tests processed,144098,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,25.05.2020,7117,203383,,tests processed,144451,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.05.2020,7303,205890,,tests processed,146416,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,27.05.2020,7616,208328,,tests processed,149524,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.05.2020,7768,211622,,tests processed,150330,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.05.2020,7881,214956,,tests processed,151026,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,30.05.2020,8070,218425,,tests processed,152610,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,31.05.2020,8297,219825,,tests processed,153056,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,01.06.2020,8548,220153,,tests processed,152465,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.06.2020,8885,223065,,tests processed,154332,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.06.2020,9168,226741,,tests processed,157043,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,04.06.2020,9462,229093,,tests processed,157931,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.06.2020,9638,233734,,tests processed,160075,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,06.06.2020,9910,235443,,tests processed,160526,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,07.06.2020,10201,239395,,tests processed,163698,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.06.2020,10358,240204,,tests processed,164187,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,09.06.2020,10865,242218,,tests processed,165040,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,10.06.2020,11118,245448,,tests processed,165431,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.06.2020,11422,247592,,tests processed,168967,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.06.2020,11717,250894,,tests processed,170088,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,13.06.2020,11964,254331,,tests processed,171179,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,14.06.2020,12193,255971,,tests processed,171769,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,15.06.2020,12590,258010,,tests processed,172705,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,16.06.2020,12929,261319,,tests processed,174075,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,17.06.2020,13203,263725,,tests processed,175054,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.06.2020,13717,267286,,tests processed,176301,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.06.2020,14007,,,,,,
+447474,207,Ghana,20.06.2020,14154,270300,,tests processed,177593,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.06.2020,14568,277550,,tests processed,179611,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.06.2020,15013,280116,,tests processed,181294,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.06.2020,15473,283124,,tests processed,183076,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.06.2020,15834,286453,,tests processed,184778,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,25.06.2020,16431,288465,,tests processed,185840,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.06.2020,16742,290365,,tests processed,186840,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,27.06.2020,17351,294867,,tests processed,189042,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.06.2020,17741,297591,,tests processed,190309,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.06.2020,18134,300520,,tests processed,191888,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,30.06.2020,,,,,,,
+447474,207,Ghana,01.07.2020,19388,307133,,tests processed,194940,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.07.2020,20085,310159,,tests processed,196964,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.07.2020,21077,313457,,tests processed,199131,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,04.07.2020,21968,316798,,tests processed,201251,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.07.2020,22822,320071,,tests processed,203743,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,06.07.2020,23463,322910,,tests processed,205377,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,07.07.2020,23834,325450,,tests processed,206928,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.07.2020,24248,327009,,tests processed,207546,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,09.07.2020,24518,328383,,tests processed,208410,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,10.07.2020,24988,331366,,tests processed,210304,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.07.2020,25252,334101,,tests processed,212120,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.07.2020,25430,336093,,tests processed,213324,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,13.07.2020,26125,339491,,tests processed,215372,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,14.07.2020,26572,341919,,tests processed,217011,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,15.07.2020,27060,344137,,tests processed,218411,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,16.07.2020,27667,346990,,tests processed,220144,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,17.07.2020,28430,349752,,tests processed,221890,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.07.2020,28989,353752,,tests processed,224290,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.07.2020,29672,357220,,tests processed,226290,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,20.07.2020,30366,361542,,tests processed,228990,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.07.2020,31057,365281,,tests processed,231429,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.07.2020,31851,369180,,tests processed,233908,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.07.2020,32437,372573,,tests processed,236301,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.07.2020,32969,374612,,tests processed,237501,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,25.07.2020,33624,378735,,tests processed,240370,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.07.2020,34406,382752,,tests processed,243170,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,27.07.2020,35142,387336,,tests processed,246183,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.07.2020,35501,391378,,tests processed,248906,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.07.2020,,,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,30.07.2020,37014,396731,,tests processed,252627,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,31.07.2020,37812,399446,,tests processed,254342,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,01.08.2020,38501,402564,,tests processed,256257,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.08.2020,39075,405817,,tests processed,257302,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.08.2020,39642,407588,,tests processed,259330,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,04.08.2020,40097,409373,,tests processed,260653,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.08.2020,40533,411539,,tests processed,261867,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,06.08.2020,41003,413835,,tests processed,263167,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,07.08.2020,41212,415671,,tests processed,264191,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.08.2020,41404,416988,,tests processed,265093,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,09.08.2020,41572,418328,,tests processed,265328,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,10.08.2020,41725,419590,,tests processed,266726,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.08.2020,41847,421588,,tests processed,268019,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.08.2020,42063,423008,,tests processed,268832,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,13.08.2020,42210,424315,,tests processed,269617,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,14.08.2020,42532,425969,,tests processed,270633,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,15.08.2020,42653,427121,,tests processed,271337,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,16.08.2020,42993,428695,,tests processed,272450,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,17.08.2020,43094,429773,,tests processed,273128,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.08.2020,43260,431272,,tests processed,273989,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.08.2020,43325,432372,,tests processed,274727,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,20.08.2020,43505,433503,,tests processed,275453,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.08.2020,43622,435109,,tests processed,276321,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.08.2020,43717,436253,,tests processed,276900,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.08.2020,43769,437001,,tests processed,277290,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.08.2020,43841,437750,,tests processed,277709,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,25.08.2020,43949,439246,,tests processed,278586,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,26.08.2020,44118,440984,,tests processed,279436,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,27.08.2020,44205,442185,,tests processed,280043,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,28.08.2020,44298,443092,,tests processed,280500,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,29.08.2020,44460,444081,,tests processed,280988,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,30.08.2020,44617,444797,,tests processed,281354,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,31.08.2020,44658,445653,,tests processed,281754,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,01.09.2020,44713,446208,,tests processed,281954,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,02.09.2020,44777,446867,,tests processed,282204,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,03.09.2020,44869,447901,,tests processed,282604,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,04.09.2020,45012,448820,,tests processed,282923,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,05.09.2020,45188,449688,,tests processed,283283,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,06.09.2020,45313,450872,,tests processed,283727,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,07.09.2020,45388,451590,,tests processed,284077,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,08.09.2020,45434,452184,,tests processed,284371,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,09.09.2020,45493,453250,,tests processed,284870,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,10.09.2020,45572,454102,,tests processed,285273,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,11.09.2020,45601,454912,,tests processed,285673,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,12.09.2020,45655,456049,,tests processed,286258,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,13.09.2020,45714,457092,,tests processed,286761,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,14.09.2020,45760,464420,,tests processed,287240,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,15.09.2020,45857,466845,,tests processed,287840,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,16.09.2020,45877,467428,,tests processed,288099,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,17.09.2020,46004,469176,,tests processed,288714,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,18.09.2020,46062,470730,,tests processed,289066,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,19.09.2020,46116,472289,,tests processed,289366,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,20.09.2020,46153,474120,,tests processed,289726,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,21.09.2020,,,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,22.09.2020,,,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,23.09.2020,,,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
+447474,207,Ghana,24.09.2020,,,,tests processed,,,https://ghanahealthservice.org/covid19/archive.php
