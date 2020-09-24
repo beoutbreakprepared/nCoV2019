@@ -1,205 +1,218 @@
-CCAA,nid,location,date,location_id,cases,cases_pcr,cases_antibody,hospitalizations,hospitalizations_measure,icu,icu_measure,ventilators,ventilators_measure,deaths,deaths_antibody,deaths_other,deaths_measure,link,notes,total_cases,total_tests,daily_tests,antibody_tests,tests_unit
-MC,443101,Murcia,20.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,21.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,22.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,23.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,24.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,25.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,26.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,27.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,28.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,29.02.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,01.03.2020,60366,,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,02.03.2020,60366,0,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,03.03.2020,60366,0,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,04.03.2020,60366,0,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,05.03.2020,60366,0,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,06.03.2020,60366,0,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,07.03.2020,60366,1,,,,,,,,,,,,,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,08.03.2020,60366,4,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,09.03.2020,60366,9,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,10.03.2020,60366,11,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,11.03.2020,60366,26,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,12.03.2020,60366,35,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,13.03.2020,60366,47,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,14.03.2020,60366,71,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,15.03.2020,60366,77,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,16.03.2020,60366,97,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,17.03.2020,60366,122,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,18.03.2020,60366,167,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,19.03.2020,60366,204,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,20.03.2020,60366,240,,,,,,,,,1,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,21.03.2020,60366,296,,,,,,,,,1,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,22.03.2020,60366,345,,,,,,,,,2,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,23.03.2020,60366,385,,,,,,,,,3,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,24.03.2020,60366,477,,,,,,,,,5,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,25.03.2020,60366,596,,,,,,,,,8,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,26.03.2020,60366,714,,,,,,,,,15,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,27.03.2020,60366,802,,,,,,,,,17,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,28.03.2020,60366,872,,,,,,,,,20,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,29.03.2020,60366,939,,,,,,,,,25,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,30.03.2020,60366,974,,,,,,,,,34,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,31.03.2020,60366,1041,,,,,,,,,37,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,01.04.2020,60366,1084,,,,,,,,,42,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,02.04.2020,60366,1145,,,,,,,,,46,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,03.04.2020,60366,1188,,,,,,,,,51,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,04.04.2020,60366,1235,,,,,,,,,59,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,05.04.2020,60366,1259,,,,,,,,,68,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,06.04.2020,60366,1283,,,,,,,,,78,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,07.04.2020,60366,1326,,,,,,,,,85,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,08.04.2020,60366,1356,,,,,,,,,88,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,09.04.2020,60366,1383,,,,,,,,,90,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,10.04.2020,60366,1413,,,,,,,,,94,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,11.04.2020,60366,1449,,,,,,,,,97,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,12.04.2020,60366,1463,,,,,,,,,101,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,13.04.2020,60366,1487,,,,,,,,,106,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,14.04.2020,60366,1520,,,,,,,,,109,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,15.04.2020,60366,1598,1424,174,,,,,,,111,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,16.04.2020,60366,1625,1423,202,,,,,,,112,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,17.04.2020,60366,1647,1430,217,,,,,,,115,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,18.04.2020,60366,1653,1438,215,,,,,,,116,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,19.04.2020,60366,1659,1440,219,,,,,,,117,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,20.04.2020,60366,1696,1445,251,,,,,,,120,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,21.04.2020,60366,1717,1455,262,,,,,,,123,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,22.04.2020,60366,1721,1460,261,,,,,,,124,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,23.04.2020,60366,1741,1468,273,,,,,,,125,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,24.04.2020,60366,1756,1468,288,,,,,,,126,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,25.04.2020,60366,1771,1474,297,,,,,,,127,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,26.04.2020,60366,1771,1474,297,,,,,,,128,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,27.04.2020,60366,1793,1475,318,,,,,,,130,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,28.04.2020,60366,1840,1480,360,,,,,,,130,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,29.04.2020,60366,1894,1486,408,,,,,,,130,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,30.04.2020,60366,1960,1488,472,,,,,,,132,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,01.05.2020,60366,1966,1491,475,,,,,,,132,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,02.05.2020,60366,1974,1492,482,,,,,,,134,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,03.05.2020,60366,1974,1492,482,,,,,,,134,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,04.05.2020,60366,2051,1496,555,,,,,,,136,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,05.05.2020,60366,2133,1498,635,,,,,,,136,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,443101,Murcia,06.05.2020,60366,2192,1501,691,,,,,,,137,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,,Murcia,07.05.2020,60366,2252,1504,748,,,,,,,137,,,cumulative,https://covid19.isciii.es/,,,,,,
-MC,,Murcia,08.05.2020,60366,2263,1506,757,51,population,13,population,,,138,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,09.05.2020,60366,2329,1508,821,45,population,13,population,,,139,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,10.05.2020,60366,2332,1517,815,41,population,12,population,,,139,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,11.05.2020,60366,2333,1517,816,39,population,12,population,,,139,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,12.05.2020,60366,2398,1525,873,35,population,12,population,,,142,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,13.05.2020,60366,2437,1532,905,32,population,12,population,,,142,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,14.05.2020,60366,2477,1534,943,37,population,12,population,,,143,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,15.05.2020,60366,2546,1542,1004,36,population,9,population,,,144,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,16.05.2020,60366,2566,1551,1015,32,population,9,population,,,144,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,17.05.2020,60366,2595,1556,1039,32,population,9,population,,,145,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,18.05.2020,60366,2619,1558,1061,37,population,7,population,,,145,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,19.05.2020,60366,2676,1560,1116,35,population,7,population,,,148,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,20.05.2020,60366,2721,1570,1151,33,population,6,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,21.05.2020,60366,2749,1572,1177,30,population,6,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,22.05.2020,60366,2825,1575,1250,31,population,7,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,23.05.2020,60366,2829,1579,1250,21,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,24.05.2020,60366,2839,1587,1252,25,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,25.05.2020,60366,2863,1587,1276,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,26.05.2020,60366,2892,1588,1304,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,27.05.2020,60366,2924,1594,1330,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,28.05.2020,60366,2962,1597,1365,21,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,29.05.2020,60366,2999,1599,1400,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,30.05.2020,60366,3001,1599,1402,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,31.05.2020,60366,3021,1599,1422,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,01.06.2020,60366,3056,1603,1453,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,02.06.2020,60366,3063,1606,1457,27,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,03.06.2020,60366,3084,1613,1471,27,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,04.06.2020,60366,3104,1617,1487,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,05.06.2020,60366,3117,1622,1495,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,06.06.2020,60366,3118,1623,1495,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,07.06.2020,60366,3118,1623,1495,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,08.06.2020,60366,3131,1625,1506,23,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,09.06.2020,60366,3133,1627,1506,23,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,10.06.2020,60366,3149,1629,1520,18,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,11.06.2020,60366,3155,1631,1524,12,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,12.06.2020,60366,3187,1631,1556,12,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,13.06.2020,60366,3190,1632,1558,10,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,
-MC,,Murcia,14.06.2020,60366,3190,1632,1558,10,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,3190,55639,,,PCR tests
-MC,,Murcia,15.06.2020,60366,3190,1632,1558,8,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6577,,3190,56463,,,PCR tests
-MC,,Murcia,16.06.2020,60366,3192,1634,1558,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6576,,3192,57564,,,PCR tests
-MC,,Murcia,17.06.2020,60366,3202,1638,1564,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,,3202,58617,,,PCR tests
-MC,,Murcia,18.06.2020,60366,3205,1641,1564,6,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,PCR tests
-MC,,Murcia,19.06.2020,60366,3211,1647,1567,7,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,PCR tests
-MC,,Murcia,20.06.2020,60366,3219,1652,1567,7,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,PCR tests
-MC,,Murcia,21.06.2020,60366,3269,1656,1613,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200622-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3269,59413,,,PCR tests
-MC,,Murcia,22.06.2020,60366,3274,1656,1618,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200623-ACTUALIZACION-EPIDEMIOLOGICA_23_06.pdf,,3274,60224,,,PCR tests
-MC,,Murcia,23.06.2020,60366,3278,1658,1620,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459151-INFORME-COVID-19_REGION-DE-MURCIA-20200624.pdf,,,,,,PCR tests
-MC,,Murcia,24.06.2020,60366,3289,1660,1629,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200623-ACTUALIZACION-EPIDEMIOLOGICA_23_06.pdf,,3289,61222,,,PCR tests
-MC,,Murcia,25.06.2020,60366,3300,1661,1639,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,3300,61565,,,PCR tests
-MC,,Murcia,26.06.2020,60366,3310,1671,1639,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,3341,62299,,,PCR tests
-MC,,Murcia,27.06.2020,60366,3321,1677,1645,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,,,,,,PCR tests
-MC,,Murcia,28.06.2020,60366,3326,1682,1644,9,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200629-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,,,,,PCR tests
-MC,,Murcia,29.06.2020,60366,3341,1687,1654,9,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200630-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,,,,,PCR tests
-MC,,Murcia,30.06.2020,60366,3352,1693,1659,14,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200630-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3352,62971,,,PCR tests
-MC,,Murcia,01.07.2020,60366,3359,1696,1663,13,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3359,64038,,,PCR tests
-MC,,Murcia,02.07.2020,60366,3368,1701,1667,13,population,1,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,,3368,,,,PCR tests
-MC,,Murcia,03.07.2020,60366,3373,1703,1670,14,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3373,65560,,,PCR tests
-MC,,Murcia,04.07.2020,60366,3377,1707,1670,14,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3377,66336,,,PCR tests
-MC,,Murcia,05.07.2020,60366,3379,1709,1670,13,population,2,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,,3379,67282,,,PCR tests
-MC,,Murcia,06.07.2020,60366,3385,1711,1674,12,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3385,68272,,,PCR tests
-MC,,Murcia,07.07.2020,60366,3395,1717,1678,17,population,3,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,,3395,61303,,,PCR tests
-MC,,Murcia,08.07.2020,60366,3409,1727,1682,18,population,3,population,,,151,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200709-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3409,70209,,,PCR tests
-MC,,Murcia,09.07.2020,60366,3417,1733,1684,18,population,2,population,,,151,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200710-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3417,71141,,,PCR tests
-MC,,Murcia,10.07.2020,60366,3426,1741,1685,18,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3426,71967,,,PCR tests
-MC,,Murcia,11.07.2020,60366,3447,1762,1685,22,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,,3447,72810,,,PCR tests
-MC,,Murcia,12.07.2020,60366,3454,1769,1685,21,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200713-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3454,73529,,,PCR tests
-MC,,Murcia,13.07.2020,60366,3465,1774,1691,20,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200714-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3465,,,,PCR tests
-MC,,Murcia,14.07.2020,60366,3475,1781,1694,20,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200715-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3475,75774,,,PCR tests
-MC,,Murcia,15.07.2020,60366,3487,1789,1698,19,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200716-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3487,76885,,,PCR tests
-MC,,Murcia,16.07.2020,60366,3508,1808,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3508,,,,PCR tests
-MC,,Murcia,17.07.2020,60366,3531,1831,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3531,,,,PCR tests
-MC,,Murcia,18.07.2020,60366,3549,1849,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3549,,,,PCR tests
-MC,,Murcia,19.07.2020,60366,3570,1870,1700,20,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200720-ACTUALIZACION-EPIDEMIOLOGICA.pdf,,3570,79203,,,PCR tests
-MC,,Murcia,20.07.2020,60366,3589,1884,1705,20,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia,,3589,,,,PCR tests
-MC,,Murcia,21.07.2020,60366,3621,1915,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1285911121761886209/photo/1,,3621,82937,,,PCR tests
-MC,,Murcia,22.07.2020,60366,3688,1982,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1286295563961536515/photo/1,,3688,84257,,,PCR tests
-MC,,Murcia,23.07.2020,60366,3741,2035,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia,,3741,85735,,,PCR tests
-MC,,Murcia,24.07.2020,60366,3801,2095,1706,18,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1286996015011135489?s=20,,3801,87162,,,PCR tests
-MC,,Murcia,25.07.2020,60366,3854,2148,1706,19,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1287369097861365760?s=20,,3854,88628,,,PCR tests
-MC,,Murcia,26.07.2020,60366,3898,2192,1706,25,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1287711353634004997?s=20,,3898,89667,,,PCR tests
-MC,,Murcia,27.07.2020,60366,3922,2216,1706,35,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288106607415443458?s=20,,3922,90754,,,PCR tests
-MC,,Murcia,28.07.2020,60366,3963,2257,1706,52,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288460429635850241?s=20,,3963,92040,,,PCR tests
-MC,,Murcia,29.07.2020,60366,4038,2332,1706,56,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288792743435698176?s=20,,4038,,,,PCR tests
-MC,,Murcia,30.07.2020,60366,4115,2409,1706,54,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289165368586465286?s=20,,4115,95573,,,PCR tests
-MC,,Murcia,31.07.2020,60366,4163,2457,1706,60,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289523354144133120?s=20,,4163,96888,,,PCR tests
-MC,,Murcia,01.08.2020,60366,4246,2540,1706,60,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289903709238042630?s=20,,4246,98655,,,PCR tests
-MC,,Murcia,02.08.2020,60366,4288,2582,1706,64,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1290264945079197697?s=20,,4288,99400,,,PCR tests
-MC,,Murcia,03.08.2020,60366,4318,2612,1706,53,population,5,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1290631255181099008?s=20,,4318,100366,,,PCR tests
-MC,,Murcia,04.08.2020,60366,4383,2677,1706,76,population,4,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291019107224125441?s=20,,4383,101572,,,PCR tests
-MC,,Murcia,05.08.2020,60366,4454,2748,1706,72,population,6,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291380846847557636?s=20,,4454,103291,,,PCR tests
-MC,,Murcia,06.08.2020,60366,4553,2847,1706,79,population,8,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291713527338733581?s=20,,4553,104994,,,PCR tests
-MC,,Murcia,07.08.2020,60366,4634,2928,1706,49,population,10,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292050500284809217?s=20,,4634,106684,,,PCR tests
-MC,,Murcia,08.08.2020,60366,4725,3019,1706,58,population,10,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292426578203475974?s=20,,4725,108443,,,PCR tests
-MC,,Murcia,09.08.2020,60366,4765,3059,1706,66,population,11,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292813270009761792?s=20,,4765,109028,,,PCR tests
-MC,,Murcia,10.08.2020,60366,4799,3093,1706,63,population,9,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1293158732600418306?s=20,,4799,110133,,,PCR tests
-MC,,Murcia,11.08.2020,60366,4917,3211,1706,52,population,10,population,,,152,,,cumulative,https://twitter.com/regiondemurcia/status/1293511566189629441?s=20,,4917,112036,,,PCR tests
-MC,,Murcia,12.08.2020,60366,5042,3336,1706,52,population,10,population,,,152,,,cumulative,https://twitter.com/regiondemurcia/status/1293855968435019776?s=20,,5042,113610,,,PCR tests
-MC,,Murcia,13.08.2020,60366,5175,3469,,64,,13,,,,,,,,,,5175,115599,,,PCR tests
-MC,,Murcia,14.08.2020,60366,,,,,,,,,,,,,,,,5295,117739,,,PCR tests
-MC,,Murcia,15.08.2020,60366,,,,,,,,,,,,,,,,5435,119804,,,PCR tests
-MC,,Murcia,16.08.2020,60366,,,,,,,,,,,,,,,,,,,,PCR tests
-MC,,Murcia,17.08.2020,60366,,,,,,,,,,,,,,,,,,,,PCR tests
-MC,,Murcia,18.08.2020,60366,5599,3893,,98,,15,,,,,,,,,,5599,122667,,,PCR tests
-MC,,Murcia,19.08.2020,60366,5734,4028,,100,,17,,,,,,,,,,5831,126447,,,PCR tests
-MC,,Murcia,20.08.2020,60366,,,,,,,,,,,,,,,,5986,128570,,,PCR tests
-MC,,Murcia,21.08.2020,60366,,,,,,,,,,,,,,,,6130,130882,,,PCR tests
-MC,,Murcia,22.08.2020,60366,,,,,,,,,,,,,,,,6389,133206,,,PCR tests
-MC,,Murcia,23.08.2020,60366,6610,,,120,,16,,,,156,,,,,,6610,135158,,,PCR tests
-MC,,Murcia,24.08.2020,60366,,,,,,,,,,,,,,,,6797,136695,,,PCR tests
-MC,,Murcia,25.08.2020,60366,,,,,,,,,,,,,,,,7137,139425,,,PCR tests
-MC,,Murcia,26.08.2020,60366,,,,,,,,,,,,,,,,7369,140941,,,PCR tests
-MC,,Murcia,27.08.2020,60366,,,,,,,,,,,,,,,,7661,143746,,,PCR tests
-MC,,Murcia,28.08.2020,60366,,,,,,,,,,,,,,,,8005,146702,,,PCR tests
-MC,,Murcia,29.08.2020,60366,,,,,,,,,,,,,,,,3317,148916,,,PCR tests
-MC,,Murcia,30.08.2020,60366,,,,,,,,,,,,,,,,3523,151734,,,PCR tests
-MC,,Murcia,31.08.2020,60366,,,,,,,,,,,,,,,,3692,154312,,,PCR tests
-MC,,Murcia,01.09.2020,60366,,,,,,,,,,,,,,,,3903,157299,,,PCR tests
-MC,,Murcia,02.09.2020,60366,,,,,,,,,,,,,,,,4202,160152,,,PCR tests
-MC,,Murcia,03.09.2020,60366,,,,,,,,,,,,,,,,4432,162699,,65334,PCR tests
-MC,,Murcia,04.09.2020,60366,,,,,,,,,,,,,,,,4637,165684,,,PCR tests
-MC,,Murcia,05.09.2020,60366,,,,,,,,,,,,,,,,4827,167902,,,PCR tests
-MC,,Murcia,06.09.2020,60366,,,,,,,,,,,,,,,,4913,170080,,,PCR tests
-MC,,Murcia,07.09.2020,60366,,,,,,,,,,,,,,,,5008,172204,,,PCR tests
-MC,,Murcia,08.09.2020,60366,,,,,,,,,,,,,,,,5191,175223,,,PCR tests
-MC,,Murcia,09.09.2020,60366,,,,,,,,,,,,,,,,5452,178222,,,PCR tests
-MC,,Murcia,10.09.2020,60366,,,,,,,,,,,,,,,,5669,181664,,65705,PCR tests
+CCAA,nid,location,date,location_id,total_cases,total_tests,daily_tests,antibody_tests,tests_unit,cases,cases_pcr,cases_antibody,hospitalizations,hospitalizations_measure,icu,icu_measure,ventilators,ventilators_measure,deaths,deaths_antibody,deaths_other,deaths_measure,link,notes
+MC,443101,Murcia,20.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,21.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,22.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,23.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,24.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,25.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,26.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,27.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,28.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,29.02.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,01.03.2020,60366,,,,,,,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,02.03.2020,60366,,,,,,0,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,03.03.2020,60366,,,,,,0,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,04.03.2020,60366,,,,,,0,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,05.03.2020,60366,,,,,,0,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,06.03.2020,60366,,,,,,0,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,07.03.2020,60366,,,,,,1,,,,,,,,,,,,,https://covid19.isciii.es/,
+MC,443101,Murcia,08.03.2020,60366,,,,,,4,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,09.03.2020,60366,,,,,,9,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,10.03.2020,60366,,,,,,11,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,11.03.2020,60366,,,,,,26,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,12.03.2020,60366,,,,,,35,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,13.03.2020,60366,,,,,,47,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,14.03.2020,60366,,,,,,71,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,15.03.2020,60366,,,,,,77,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,16.03.2020,60366,,,,,,97,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,17.03.2020,60366,,,,,,122,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,18.03.2020,60366,,,,,,167,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,19.03.2020,60366,,,,,,204,,,,,,,,,0,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,20.03.2020,60366,,,,,,240,,,,,,,,,1,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,21.03.2020,60366,,,,,,296,,,,,,,,,1,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,22.03.2020,60366,,,,,,345,,,,,,,,,2,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,23.03.2020,60366,,,,,,385,,,,,,,,,3,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,24.03.2020,60366,,,,,,477,,,,,,,,,5,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,25.03.2020,60366,,,,,,596,,,,,,,,,8,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,26.03.2020,60366,,,,,,714,,,,,,,,,15,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,27.03.2020,60366,,,,,,802,,,,,,,,,17,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,28.03.2020,60366,,,,,,872,,,,,,,,,20,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,29.03.2020,60366,,,,,,939,,,,,,,,,25,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,30.03.2020,60366,,,,,,974,,,,,,,,,34,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,31.03.2020,60366,,,,,,1041,,,,,,,,,37,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,01.04.2020,60366,,,,,,1084,,,,,,,,,42,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,02.04.2020,60366,,,,,,1145,,,,,,,,,46,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,03.04.2020,60366,,,,,,1188,,,,,,,,,51,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,04.04.2020,60366,,,,,,1235,,,,,,,,,59,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,05.04.2020,60366,,,,,,1259,,,,,,,,,68,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,06.04.2020,60366,,,,,,1283,,,,,,,,,78,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,07.04.2020,60366,,,,,,1326,,,,,,,,,85,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,08.04.2020,60366,,,,,,1356,,,,,,,,,88,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,09.04.2020,60366,,,,,,1383,,,,,,,,,90,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,10.04.2020,60366,,,,,,1413,,,,,,,,,94,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,11.04.2020,60366,,,,,,1449,,,,,,,,,97,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,12.04.2020,60366,,,,,,1463,,,,,,,,,101,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,13.04.2020,60366,,,,,,1487,,,,,,,,,106,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,14.04.2020,60366,,,,,,1520,,,,,,,,,109,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,15.04.2020,60366,,,,,,1598,1424,174,,,,,,,111,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,16.04.2020,60366,,,,,,1625,1423,202,,,,,,,112,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,17.04.2020,60366,,,,,,1647,1430,217,,,,,,,115,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,18.04.2020,60366,,,,,,1653,1438,215,,,,,,,116,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,19.04.2020,60366,,,,,,1659,1440,219,,,,,,,117,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,20.04.2020,60366,,,,,,1696,1445,251,,,,,,,120,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,21.04.2020,60366,,,,,,1717,1455,262,,,,,,,123,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,22.04.2020,60366,,,,,,1721,1460,261,,,,,,,124,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,23.04.2020,60366,,,,,,1741,1468,273,,,,,,,125,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,24.04.2020,60366,,,,,,1756,1468,288,,,,,,,126,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,25.04.2020,60366,,,,,,1771,1474,297,,,,,,,127,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,26.04.2020,60366,,,,,,1771,1474,297,,,,,,,128,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,27.04.2020,60366,,,,,,1793,1475,318,,,,,,,130,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,28.04.2020,60366,,,,,,1840,1480,360,,,,,,,130,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,29.04.2020,60366,,,,,,1894,1486,408,,,,,,,130,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,30.04.2020,60366,,,,,,1960,1488,472,,,,,,,132,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,01.05.2020,60366,,,,,,1966,1491,475,,,,,,,132,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,02.05.2020,60366,,,,,,1974,1492,482,,,,,,,134,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,03.05.2020,60366,,,,,,1974,1492,482,,,,,,,134,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,04.05.2020,60366,,,,,,2051,1496,555,,,,,,,136,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,05.05.2020,60366,,,,,,2133,1498,635,,,,,,,136,,,cumulative,https://covid19.isciii.es/,
+MC,443101,Murcia,06.05.2020,60366,,,,,,2192,1501,691,,,,,,,137,,,cumulative,https://covid19.isciii.es/,
+MC,,Murcia,07.05.2020,60366,,,,,,2252,1504,748,,,,,,,137,,,cumulative,https://covid19.isciii.es/,
+MC,,Murcia,08.05.2020,60366,,,,,,2263,1506,757,51,population,13,population,,,138,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,09.05.2020,60366,,,,,,2329,1508,821,45,population,13,population,,,139,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,10.05.2020,60366,,,,,,2332,1517,815,41,population,12,population,,,139,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,11.05.2020,60366,,,,,,2333,1517,816,39,population,12,population,,,139,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,12.05.2020,60366,,,,,,2398,1525,873,35,population,12,population,,,142,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,13.05.2020,60366,,,,,,2437,1532,905,32,population,12,population,,,142,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,14.05.2020,60366,,,,,,2477,1534,943,37,population,12,population,,,143,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,15.05.2020,60366,,,,,,2546,1542,1004,36,population,9,population,,,144,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,16.05.2020,60366,,,,,,2566,1551,1015,32,population,9,population,,,144,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,17.05.2020,60366,,,,,,2595,1556,1039,32,population,9,population,,,145,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,18.05.2020,60366,,,,,,2619,1558,1061,37,population,7,population,,,145,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,19.05.2020,60366,,,,,,2676,1560,1116,35,population,7,population,,,148,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,20.05.2020,60366,,,,,,2721,1570,1151,33,population,6,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,21.05.2020,60366,,,,,,2749,1572,1177,30,population,6,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,22.05.2020,60366,,,,,,2825,1575,1250,31,population,7,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,23.05.2020,60366,,,,,,2829,1579,1250,21,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,24.05.2020,60366,,,,,,2839,1587,1252,25,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,25.05.2020,60366,,,,,,2863,1587,1276,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,26.05.2020,60366,,,,,,2892,1588,1304,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,27.05.2020,60366,,,,,,2924,1594,1330,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,28.05.2020,60366,,,,,,2962,1597,1365,21,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,29.05.2020,60366,,,,,,2999,1599,1400,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,30.05.2020,60366,,,,,,3001,1599,1402,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,31.05.2020,60366,,,,,,3021,1599,1422,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,01.06.2020,60366,,,,,,3056,1603,1453,23,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,02.06.2020,60366,,,,,,3063,1606,1457,27,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,03.06.2020,60366,,,,,,3084,1613,1471,27,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,04.06.2020,60366,,,,,,3104,1617,1487,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,05.06.2020,60366,,,,,,3117,1622,1495,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,06.06.2020,60366,,,,,,3118,1623,1495,26,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,07.06.2020,60366,,,,,,3118,1623,1495,24,population,4,population,,,149,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,08.06.2020,60366,,,,,,3131,1625,1506,23,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,09.06.2020,60366,,,,,,3133,1627,1506,23,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,10.06.2020,60366,,,,,,3149,1629,1520,18,population,4,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,11.06.2020,60366,,,,,,3155,1631,1524,12,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,12.06.2020,60366,,,,,,3187,1631,1556,12,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,13.06.2020,60366,,,,,,3190,1632,1558,10,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,14.06.2020,60366,3190,55639,,,PCR tests,3190,1632,1558,10,population,3,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,15.06.2020,60366,3190,56463,,,PCR tests,3190,1632,1558,8,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6577,
+MC,,Murcia,16.06.2020,60366,3192,57564,,,PCR tests,3192,1634,1558,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6576,
+MC,,Murcia,17.06.2020,60366,3202,58617,,,PCR tests,3202,1638,1564,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,
+MC,,Murcia,18.06.2020,60366,,,,,PCR tests,3205,1641,1564,6,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,19.06.2020,60366,,,,,PCR tests,3211,1647,1567,7,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,20.06.2020,60366,,,,,PCR tests,3219,1652,1567,7,population,2,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,21.06.2020,60366,3269,59413,,,PCR tests,3269,1656,1613,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200622-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,22.06.2020,60366,3274,60224,,,PCR tests,3274,1656,1618,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200623-ACTUALIZACION-EPIDEMIOLOGICA_23_06.pdf,
+MC,,Murcia,23.06.2020,60366,,,,,PCR tests,3278,1658,1620,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459151-INFORME-COVID-19_REGION-DE-MURCIA-20200624.pdf,
+MC,,Murcia,24.06.2020,60366,3289,61222,,,PCR tests,3289,1660,1629,7,population,2,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200623-ACTUALIZACION-EPIDEMIOLOGICA_23_06.pdf,
+MC,,Murcia,25.06.2020,60366,3300,61565,,,PCR tests,3300,1661,1639,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,26.06.2020,60366,3341,62299,,,PCR tests,3310,1671,1639,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,27.06.2020,60366,,,,,PCR tests,3321,1677,1645,9,population,1,population,,,150,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,28.06.2020,60366,,,,,PCR tests,3326,1682,1644,9,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200629-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,29.06.2020,60366,,,,,PCR tests,3341,1687,1654,9,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200630-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,30.06.2020,60366,3352,62971,,,PCR tests,3352,1693,1659,14,population,1,population,,,150,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200630-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,01.07.2020,60366,3359,64038,,,PCR tests,3359,1696,1663,13,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,02.07.2020,60366,3368,,,,PCR tests,3368,1701,1667,13,population,1,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,
+MC,,Murcia,03.07.2020,60366,3373,65560,,,PCR tests,3373,1703,1670,14,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,04.07.2020,60366,3377,66336,,,PCR tests,3377,1707,1670,14,population,1,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,05.07.2020,60366,3379,67282,,,PCR tests,3379,1709,1670,13,population,2,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,
+MC,,Murcia,06.07.2020,60366,3385,68272,,,PCR tests,3385,1711,1674,12,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,07.07.2020,60366,3395,61303,,,PCR tests,3395,1717,1678,17,population,3,population,,,151,,,cumulative,https://www.murciasalud.es/pagina.php?id=458869&idsec=6575,
+MC,,Murcia,08.07.2020,60366,3409,70209,,,PCR tests,3409,1727,1682,18,population,3,population,,,151,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200709-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,09.07.2020,60366,3417,71141,,,PCR tests,3417,1733,1684,18,population,2,population,,,151,,,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200710-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,10.07.2020,60366,3426,71967,,,PCR tests,3426,1741,1685,18,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,11.07.2020,60366,3447,72810,,,PCR tests,3447,1762,1685,22,population,2,population,,,151,,,cumulative,https://twitter.com/Murciasalud,
+MC,,Murcia,12.07.2020,60366,3454,73529,,,PCR tests,3454,1769,1685,21,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200713-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,13.07.2020,60366,3465,,,,PCR tests,3465,1774,1691,20,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200714-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,14.07.2020,60366,3475,75774,,,PCR tests,3475,1781,1694,20,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200715-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,15.07.2020,60366,3487,76885,,,PCR tests,3487,1789,1698,19,population,0,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200716-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,16.07.2020,60366,3508,,,,PCR tests,3508,1808,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,17.07.2020,60366,3531,,,,PCR tests,3531,1831,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,18.07.2020,60366,3549,,,,PCR tests,3549,1849,1700,21,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200717-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,19.07.2020,60366,3570,79203,,,PCR tests,3570,1870,1700,20,population,1,population,,,151,3,148,cumulative,https://www.murciasalud.es/recursos/ficheros/459100-20200720-ACTUALIZACION-EPIDEMIOLOGICA.pdf,
+MC,,Murcia,20.07.2020,60366,3589,,,,PCR tests,3589,1884,1705,20,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia,
+MC,,Murcia,21.07.2020,60366,3621,82937,,,PCR tests,3621,1915,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1285911121761886209/photo/1,
+MC,,Murcia,22.07.2020,60366,3688,84257,,,PCR tests,3688,1982,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1286295563961536515/photo/1,
+MC,,Murcia,23.07.2020,60366,3741,85735,,,PCR tests,3741,2035,1706,16,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia,
+MC,,Murcia,24.07.2020,60366,3801,87162,,,PCR tests,3801,2095,1706,18,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1286996015011135489?s=20,
+MC,,Murcia,25.07.2020,60366,3854,88628,,,PCR tests,3854,2148,1706,19,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1287369097861365760?s=20,
+MC,,Murcia,26.07.2020,60366,3898,89667,,,PCR tests,3898,2192,1706,25,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1287711353634004997?s=20,
+MC,,Murcia,27.07.2020,60366,3922,90754,,,PCR tests,3922,2216,1706,35,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288106607415443458?s=20,
+MC,,Murcia,28.07.2020,60366,3963,92040,,,PCR tests,3963,2257,1706,52,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288460429635850241?s=20,
+MC,,Murcia,29.07.2020,60366,4038,,,,PCR tests,4038,2332,1706,56,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1288792743435698176?s=20,
+MC,,Murcia,30.07.2020,60366,4115,95573,,,PCR tests,4115,2409,1706,54,population,1,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289165368586465286?s=20,
+MC,,Murcia,31.07.2020,60366,4163,96888,,,PCR tests,4163,2457,1706,60,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289523354144133120?s=20,
+MC,,Murcia,01.08.2020,60366,4246,98655,,,PCR tests,4246,2540,1706,60,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1289903709238042630?s=20,
+MC,,Murcia,02.08.2020,60366,4288,99400,,,PCR tests,4288,2582,1706,64,population,2,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1290264945079197697?s=20,
+MC,,Murcia,03.08.2020,60366,4318,100366,,,PCR tests,4318,2612,1706,53,population,5,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1290631255181099008?s=20,
+MC,,Murcia,04.08.2020,60366,4383,101572,,,PCR tests,4383,2677,1706,76,population,4,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291019107224125441?s=20,
+MC,,Murcia,05.08.2020,60366,4454,103291,,,PCR tests,4454,2748,1706,72,population,6,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291380846847557636?s=20,
+MC,,Murcia,06.08.2020,60366,4553,104994,,,PCR tests,4553,2847,1706,79,population,8,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1291713527338733581?s=20,
+MC,,Murcia,07.08.2020,60366,4634,106684,,,PCR tests,4634,2928,1706,49,population,10,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292050500284809217?s=20,
+MC,,Murcia,08.08.2020,60366,4725,108443,,,PCR tests,4725,3019,1706,58,population,10,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292426578203475974?s=20,
+MC,,Murcia,09.08.2020,60366,4765,109028,,,PCR tests,4765,3059,1706,66,population,11,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1292813270009761792?s=20,
+MC,,Murcia,10.08.2020,60366,4799,110133,,,PCR tests,4799,3093,1706,63,population,9,population,,,151,,,cumulative,https://twitter.com/regiondemurcia/status/1293158732600418306?s=20,
+MC,,Murcia,11.08.2020,60366,4917,112036,,,PCR tests,4917,3211,1706,52,population,10,population,,,152,,,cumulative,https://twitter.com/regiondemurcia/status/1293511566189629441?s=20,
+MC,,Murcia,12.08.2020,60366,5042,113610,,,PCR tests,5042,3336,1706,52,population,10,population,,,152,,,cumulative,https://twitter.com/regiondemurcia/status/1293855968435019776?s=20,
+MC,,Murcia,13.08.2020,60366,5175,115599,,,PCR tests,5175,3469,,64,,13,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=21,
+MC,,Murcia,14.08.2020,60366,5295,117739,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=22,
+MC,,Murcia,15.08.2020,60366,5435,119804,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=23,
+MC,,Murcia,16.08.2020,60366,,,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=24,
+MC,,Murcia,17.08.2020,60366,,,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=25,
+MC,,Murcia,18.08.2020,60366,5599,122667,,,PCR tests,5599,3893,,98,,15,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=26,
+MC,,Murcia,19.08.2020,60366,5831,126447,,,PCR tests,5734,4028,,100,,17,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=27,
+MC,,Murcia,20.08.2020,60366,5986,128570,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=28,
+MC,,Murcia,21.08.2020,60366,6130,130882,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=29,
+MC,,Murcia,22.08.2020,60366,6389,133206,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=30,
+MC,,Murcia,23.08.2020,60366,6610,135158,,,PCR tests,6610,,,120,,16,,,,156,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=31,
+MC,,Murcia,24.08.2020,60366,6797,136695,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=32,
+MC,,Murcia,25.08.2020,60366,7137,139425,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=33,
+MC,,Murcia,26.08.2020,60366,7369,140941,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=34,
+MC,,Murcia,27.08.2020,60366,7661,143746,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=35,
+MC,,Murcia,28.08.2020,60366,8005,146702,,,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=36,
+MC,,Murcia,29.08.2020,60366,8250,148916,,64890,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=37,
+MC,,Murcia,30.08.2020,60366,8553,151734,,64890,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=38,
+MC,,Murcia,31.08.2020,60366,8834,154312,,65055,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=39,
+MC,,Murcia,01.09.2020,60366,9135,157299,,65132,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=40,
+MC,,Murcia,02.09.2020,60366,9565,160152,,65230,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=41,
+MC,,Murcia,03.09.2020,60366,9948,162699,,65334,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=42,
+MC,,Murcia,04.09.2020,60366,10338,165684,,65334,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=43,
+MC,,Murcia,05.09.2020,60366,10703,167902,,65334,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=44,
+MC,,Murcia,06.09.2020,60366,10969,170080,,65334,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=45,
+MC,,Murcia,07.09.2020,60366,11212,172204,,65337,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=46,
+MC,,Murcia,08.09.2020,60366,11584,175223,,65465,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=47,
+MC,,Murcia,09.09.2020,60366,12040,178222,,65575,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=48,
+MC,,Murcia,10.09.2020,60366,12478,181664,,65705,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=49,
+MC,,Murcia,11.09.2020,60366,12927,185186,,65865,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=50,
+MC,,Murcia,12.09.2020,60366,13358,188288,,65884,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=51,
+MC,,Murcia,13.09.2020,60366,13815,190420,,65918,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=52,
+MC,,Murcia,14.09.2020,60366,14314,193761,,66005,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=53,
+MC,,Murcia,15.09.2020,60366,14684,197048,,66199,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=54,
+MC,,Murcia,16.09.2020,60366,15131,200545,,66441,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=55,
+MC,,Murcia,17.09.2020,60366,15806,204765,,67019,PCR tests,,,,,,,,,,,,,,https://twitter.com/regiondemurcia/status/1293855968435019776?s=56,
+MC,,Murcia,18.09.2020,60366,16361,208349,,67299,PCR tests,,,,,,,,,,,,,,,
+MC,,Murcia,19.09.2020,60366,16927,212381,,67314,PCR tests,,,,,,,,,,,,,,,
+MC,,Murcia,20.09.2020,60366,17161,214628,,67351,PCR tests,,,,,,,,,,,,,,,
+MC,,Murcia,21.09.2020,60366,17496,217175,,67597,PCR tests,,,,,,,,,,,,,,,
+MC,,Murcia,22.09.2020,60366,17910,221328,,67845,PCR tests,,,,,,,,,,,,,,,
+MC,,Murcia,23.09.2020,60366,18355,225101,,68120,PCR tests,,,,,,,,,,,,,,,
