@@ -1,4 +1,32 @@
 nid,location_id,location,date,total_cases,cases_confirmed,deaths,total_tests,daily_tests,tests_units,source
+450029,107,Barbados,23.09.2020,,,,,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,22.09.2020,189,189,7,21735,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,21.09.2020,189,189,7,21578,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,20.09.2020,189,189,7,21475,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,19.09.2020,185,185,7,21230,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,18.09.2020,185,185,7,21069,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,17.09.2020,185,185,7,20768,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,16.09.2020,185,185,7,20546,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,15.09.2020,184,184,7,20322,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,14.09.2020,183,183,7,20121,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,13.09.2020,181,181,7,20016,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,12.09.2020,181,181,7,19790,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,11.09.2020,180,180,7,19444,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,10.09.2020,180,180,7,19140,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,09.09.2020,,,,,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,08.09.2020,180,180,7,18762,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,07.09.2020,,,,,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,06.09.2020,179,179,7,18464,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,05.09.2020,178,178,7,18205,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,04.09.2020,178,178,7,17979,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,03.09.2020,177,177,7,17677,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,02.09.2020,176,176,7,17492,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,01.09.2020,176,176,7,17332,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,31.08.2020,174,174,7,17180,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,30.08.2020,173,173,7,17057,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,29.08.2020,170,170,7,16780,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,28.08.2020,166,166,7,16538,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,27.08.2020,165,165,7,16356,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,26.08.2020,165,165,7,16162,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,25.08.2020,164,164,7,15990,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,24.08.2020,161,161,7,15811,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
@@ -62,7 +90,7 @@ nid,location_id,location,date,total_cases,cases_confirmed,deaths,total_tests,dai
 450029,107,Barbados,27.06.2020,,,,,,,
 450029,107,Barbados,26.06.2020,,,,,,,
 450029,107,Barbados,25.06.2020,,,,,,,
-450029,107,Barbados,24.06.2002,97,97,7,7685,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
+450029,107,Barbados,24.06.2020,97,97,7,7685,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,23.06.2020,97,97,7,7530,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,22.06.2020,97,97,7,7474,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
 450029,107,Barbados,21.06.2020,97,97,7,7450,,total tests completed,https://gisbarbados.gov.bb/blog/tag/covid-19/
