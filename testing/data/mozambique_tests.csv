@@ -1,4 +1,25 @@
 nid,location_id,location,date,deaths,deaths_measure,cases,cases_measure,hospitalizations,hospitalizations_measure,icu,icu_measure,ventilators,ventilators_measure,total_cases,total_tests,daily_tests,negative_tests,tests_units,link
+450684,184,Mozambique,24.09.2020,51,cumulative,7399,cumulative,,,,,,,7399,130060,,122661,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,23.09.2020,49,cumulative,7262,cumulative,,,,,,,7262,128805,,121543,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,22.09.2020,45,cumulative,7114,cumulative,,,,,,,7114,127378,,120264,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,21.09.2020,44,cumulative,6912,cumulative,,,,,,,6912,125633,,118721,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,20.09.2020,43,cumulative,6771,cumulative,,,,,,,6771,124785,,118014,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,19.09.2020,41,cumulative,6537,cumulative,,,,,,,6537,123212,,116675,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,18.09.2020,40,cumulative,6264,cumulative,,,,,,,6264,121398,,115134,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,17.09.2020,39,cumulative,6161,cumulative,,,,,,,6161,119689,,113528,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,16.09.2020,39,cumulative,5994,cumulative,,,,,,,5994,118657,,112663,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,15.09.2020,37,cumulative,5713,cumulative,,,,,,,5713,117029,,111316,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,14.09.2020,35,cumulative,5482,cumulative,,,,,,,5482,115588,,110106,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,13.09.2020,35,cumulative,5269,cumulative,,,,,,,5269,114333,,109064,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,12.09.2020,,cumulative,,cumulative,,,,,,,0,0,,0,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,11.09.2020,31,cumulative,4918,cumulative,,,,,,,4918,110310,,105392,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,10.09.2020,31,cumulative,4832,cumulative,,,,,,,4832,108745,,103913,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,09.09.2020,28,cumulative,4764,cumulative,,,,,,,4764,107758,,102994,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,08.09.2020,28,cumulative,4647,cumulative,,,,,,,4647,107083,,102436,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,07.09.2020,27,cumulative,4557,cumulative,,,,,,,4557,106382,,101825,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,06.09.2020,27,cumulative,4444,cumulative,,,,,,,4444,104376,,99932,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,05.09.2020,26,cumulative,4341,cumulative,,,,,,,4341,102456,,98115,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
+450684,184,Mozambique,04.09.2020,26,cumulative,4265,cumulative,,,,,,,4265,101888,,97623,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
 450684,184,Mozambique,03.09.2020,26,cumulative,4207,cumulative,,,,,,,4207,100873,,96666,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
 450684,184,Mozambique,02.09.2020,25,cumulative,4117,cumulative,,,,,,,4117,99365,,95248,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
 450684,184,Mozambique,01.09.2020,23,cumulative,4039,cumulative,,,,,,,4039,98455,,94416,individuals tested,https://www.facebook.com/MISAUMOCAMBIQUE/
