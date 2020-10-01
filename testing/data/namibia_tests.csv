@@ -1,4 +1,17 @@
 nid,location_id,location,date,cases,hospitalizations,deaths,,hospitalizations_measure,icu,icu_measure,link,deaths_measure,ventilators,ventilators_measure,,total_cases,total_tests,daily_tests,tests_units
+450697,195,Namibia,23.09.2020,10663,,117,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10663,91902,,samples tested 
+450697,195,Namibia,22.09.2020,10607,,116,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10607,90977,,samples tested
+450697,195,Namibia,21.09.2020,10526,,113,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10526,89831,,samples tested
+450697,195,Namibia,20.09.2020,10377,,112,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10377,88686,,samples tested
+450697,195,Namibia,19.09.2020,10292,,111,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10292,87639,,samples tested
+450697,195,Namibia,18.09.2020,10207,,108,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10207,86092,,samples tested
+450697,195,Namibia,17.09.2020,10078,,108,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,10078,84688,,samples tested
+450697,195,Namibia,16.09.2020,9964,,108,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9964,83424,,samples tested
+450697,195,Namibia,15.09.2020,9901,,106,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9901,82317,,samples tested
+450697,195,Namibia,14.09.2020,9818,,103,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9818,81307,,samples tested
+450697,195,Namibia,13.09.2020,9719,,101,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9719,80352,,samples tested
+450697,195,Namibia,12.09.2020,9604,,98,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9604,79122,,samples tested
+450697,195,Namibia,11.09.2020,9437,,98,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9437,77421,,samples tested
 450697,195,Namibia,10.09.2020,9256,,96,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9256,75511,,samples tested
 450697,195,Namibia,09.09.2020,9108,,93,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,9108,74093,,samples tested
 450697,195,Namibia,08.09.2020,8928,,91,,,,,https://www.facebook.com/MoHSSNamibia/?__tn__=%2Cd%2CP-R&eid=ARDcEWFk8kRZ4Kd9KiYTjMunAmaTIMc1mV_mbOSpldgZPVJ6BJzUUcMI0Vm_AoOPUP_qPxoRdhm7f2F_,cumulative,,,,8928,72186,,samples tested
@@ -167,6 +180,3 @@ nid,location_id,location,date,cases,hospitalizations,deaths,,hospitalizations_me
 450697,195,Namibia,29.03.2020,,,,,,,,,,,,,,,,
 450697,195,Namibia,28.03.2020,11,,0,,,,,https://namibiacovid19.gov.na/app-statistics,cumulative,,,,,,,
 450697,195,Namibia,27.03.2020,8,,0,,,,,https://namibiacovid19.gov.na/app-statistics,cumulative,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,

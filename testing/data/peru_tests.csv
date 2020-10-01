@@ -1,23 +1,40 @@
 nid,location_id,location,date,total_cases,pcr_cases,total_tests,tests_pcr,tests_antibody,daily_tests,tests_units,deaths,deaths_measure,cases,hospitalizations,hospitalizations_measure,ventilators,ventilators_measure,icu,icu_measure,notes,link
-450084;450082,123,Peru,06.09.2020,691575,166454,3386625,,,,,29976,cumulative,,11242,population,9754,population,,,,
-450084;450082,123,Peru,05.09.2020,689977,,3379580,,,,,29838,cumulative,,11327,population,,,,,,
-450084;450082,123,Peru,04.09.2020,683702,,3353435,,,,,29687,cumulative,,11362,population,,,,,,
-450084;450082,123,Peru,03.09.2020,676848,,3320012,,,,,29554,cumulative,,11411,population,,,,,,
-450084;450082,123,Peru,02.09.2020,670145,,3286526,,,,,29405,cumulative,,11699,population,,,,,,
-450084;450082,123,Peru,01.09.2020,657129,160580,3233034,,,,,29068,cumulative,,12162,population,1493,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=670
-450084;450082,123,Peru,31.08.2020,652037,,3215842,,,,,28944,cumulative,,12374,population,,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=671
-450084;450082,123,Peru,30.08.2020,647166,158517,3191850,,,,,28788,cumulative,,12364,population,1514,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=672
-450084;450082,123,Peru,29.08.2020,647166,158517,3191850,584232,2607618,,,28788,cumulative,,12364,population,1514,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=673
-450084;450082,123,Peru,28.08.2020,639435,157251,3156679,576561,2580118,,,28607,cumulative,,12573,population,1524,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=674
-450084;450082,123,Peru,27.08.2020,629961,155479,3124076,568104,2555972,,,28471,cumulative,,12595,population,1517,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=675
-450084;450082,123,Peru,26.08.2020,621997,154197,3089459,560705,2528754,,,28277,cumulative,,12871,population,1526,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=676
-450084;450082,123,Peru,25.08.2020,613378,152517,3055850,552929,2502921,,,28124,cumulative,,13051,population,1512,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=677
+450084;450082,123,Peru,23.09.2020,,,,,,,,,,,,,,,,,,
+450084;450082,123,Peru,22.09.2020,,,,,,,,,,,,,,,,,,
+450084;450082,123,Peru,21.09.2020,776546,,3724872,,,,,31586,cumulative,776546,8520,population,,,,,,
+450084;450082,123,Peru,20.09.2020,772896,,3710694,,,,,31474,cumulative,772896,9087,population,,,,,,
+450084;450082,123,Peru,19.09.2020,768895,,3693813,,,,,,,768895,9156,population,,,,,,
+450084;450082,123,Peru,18.09.2020,762865,,3667968,,,,,31369,cumulative,762865,9269,population,,,,,,
+450084;450082,123,Peru,17.09.2020,756412,,3640863,,,,,31283,cumulative,756412,9400,population,,,,,,
+450084;450082,123,Peru,16.09.2020,750098,,3614738,,,,,31146,cumulative,750098,9524,population,,,,,,
+450084;450082,123,Peru,15.09.2020,744400,,3592221,,,,,31051,cumulative,744400,9749,population,,,,,,
+450084;450082,123,Peru,14.09.2020,738020,,3567927,,,,,30927,cumulative,738020,9962,population,,,,,,
+450084;450082,123,Peru,13.09.2020,733860,,3552710,,,,,30812,cumulative,733860,10002,population,,,,,,
+450084;450082,123,Peru,12.09.2020,729619,172774,3534937,,,,,30710,cumulative,729619,10122,population,1448,population,,,,
+450084;450082,123,Peru,11.09.2020,722832,,3509997,,,,,30593,cumulative,722832,10251,population,,,,,,
+450084;450082,123,Peru,10.09.2020,716670,,3482894,,,,,30470,cumulative,716670,10490,population,,,,,,
+450084;450082,123,Peru,09.09.2020,710067,,3457205,,,,,30344,cumulative,710067,10641,population,,,,,,
+450084;450082,123,Peru,08.09.2020,702776,,3428910,,,,,30236,cumulative,702776,10727,population,,,,,,
+450084;450082,123,Peru,07.09.2020,696190,,3403397,,,,,30123,cumulative,696190,11087,population,,,,,,
+450084;450082,123,Peru,06.09.2020,691575,166454,3386625,,,,,29976,cumulative,691575,11242,population,,,,,,
+450084;450082,123,Peru,05.09.2020,689977,166085,3379580,630521,2749059,,,29838,cumulative,689977,11327,population,1500,population,,,,
+450084;450082,123,Peru,04.09.2020,683702,165111,3353435,623996,2729439,,,29687,cumulative,683702,11362,population,1492,population,,,,
+450084;450082,123,Peru,03.09.2020,676848,163791,3320012,615740,2704272,,,29554,cumulative,676848,11411,population,1497,population,,,,
+450084;450082,123,Peru,02.09.2020,670145,162764,3286526,607992,2678534,,,29405,cumulative,670145,11699,population,1506,population,,,,
+450084;450082,123,Peru,01.09.2020,657129,161455,3233034,600526,2656185,,,29068,cumulative,657129,12162,population,1500,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=670
+450084;450082,123,Peru,31.08.2020,652037,160580,3215842,595226,2637808,,,28944,cumulative,652037,12374,population,1493,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=671
+450084;450082,123,Peru,30.08.2020,647166,159506,3191850,589891,2625951,,,28788,cumulative,647166,12364,population,1514,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=672
+450084;450082,123,Peru,29.08.2020,647166,158517,3191850,584232,2607618,,,28788,cumulative,647166,12364,population,1514,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=673
+450084;450082,123,Peru,28.08.2020,639435,157251,3156679,576561,2580118,,,28607,cumulative,639435,12573,population,1524,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=674
+450084;450082,123,Peru,27.08.2020,629961,155479,3124076,568104,2555972,,,28471,cumulative,629961,12595,population,1517,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=675
+450084;450082,123,Peru,26.08.2020,621997,154197,3089459,560705,2528754,,,28277,cumulative,621997,12871,population,1526,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=676
+450084;450082,123,Peru,25.08.2020,613378,152517,3055850,552929,2502921,,,28124,cumulative,613378,13051,population,1512,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=677
 450084;450082,123,Peru,24.08.2020,607382,151772,3032744,,,,individuals tested,28001,cumulative,607382,12950,population,1522,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,23.08.2020,600438,150440,3006993,,,,individuals tested,27813,cumulative,600438,13367,population,1525,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,22.08.2020,594326,149448,2985782,,,,individuals tested,27663,cumulative,594326,13363,population,1515,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,21.08.2020,585236,147991,2950589,,,,individuals tested,27453,cumulative,585236,13661,population,,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,20.08.2020,576067,146233,2915372,,,,individuals tested,27245,cumulative,576067,13773,population,,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
-450084;450082,123,Peru,19.08.2020,567059,144230,2883862,,,,individuals tested,27034,cumulative,567059,13779,population,,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
+450084;450082,123,Peru,19.08.2020,567059,144230,2883862,515360,2368502,,individuals tested,27034,cumulative,567059,13779,population,,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,18.08.2020,558420,142012,2852011,506901,2345110,,individuals tested,26834,cumulative,558420,13888,population,1516,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,17.08.2020,549321,139813,2818943,497857,2321086,,individuals tested,26658,cumulative,549321,14092,population,1527,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678
 450084;450082,123,Peru,16.08.2020,541493,137904,2793614,489641,2303973,,individuals tested,26481,cumulative,541493,14181,population,1524,population,,,,https://www.dge.gob.pe/portal/index.php?option=com_content&view=article&id=678

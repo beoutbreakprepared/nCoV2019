@@ -1,101 +1,119 @@
 nid,location_id,location,date,cases,cases_suspected,hospitalizations,deaths,hospitalizations_measure,icu,icu_measure,ventilators,ventilators_measure,deaths_measure,total_cases,total_tests,daily_tests,tests_units,link
-,522,Sudan,05.09.2020,13437,,,833,,,,,,cumulative ,13437,,803,,
-,522,Sudan,04.09.2020,13407,,,832,,,,,,cumulative ,13407,,218,,
-,522,Sudan,03.09.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,02.09.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,01.09.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,31.08.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,30.08.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,29.08.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,28.08.2020,,,,,,,,,,cumulative ,,,,,
-,522,Sudan,27.08.2020,13189,,,823,,,,,,cumulative ,13189,,1335,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,26.08.2020,13082,,,823,,,,,,cumulative ,13082,,693,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,25.08.2020,13045,,,823,,,,,,cumulative ,13045,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,24.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,23.08.2020,12974,,,819,,,,,,cumulative ,12974,,683,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,22.08.2020,12903,,,818,,,,,,cumulative ,12903,,1235,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,21.08.2020,12836,,,815,,,,,,cumulative ,12836,,2724,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,20.08.2020,,,,,,,,,,,,,623,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,19.08.2020,,,,,,,,,,,,,1368,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,18.08.2020,,,,,,,,,,,,,264,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,17.08.2020,,,,,,,,,,,,,500,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,16.08.2020,,,,,,,,,,,,,494,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,15.08.2020,,,,,,,,,,,,,389,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,14.08.2020,,,,,,,,,,,,,1144,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,13.08.2020,,,,,,,,,,,,,548,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,12.08.2020,,,,,,,,,,,,,120,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,11.08.2020,12115,,,792,,,,,,cumulative ,12115,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,10.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,09.08.2020,,,,,,,,,,,,,271,,
-,522,Sudan,08.08.2020,11956,,,781,,,,,,cumulative ,11956,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,07.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,06.08.2020,11894,,,773,,,,,,cumulative ,11894,,311,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,05.08.2020,,,,,,,,,,,,,422,,
-,522,Sudan,04.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,03.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,02.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,01.08.2020,,,,,,,,,,,,,,,
-,522,Sudan,31.07.2020,,,,,,,,,,,,,,,
-,522,Sudan,30.07.2020,,,,,,,,,,,,,,,
-,522,Sudan,29.07.2020,11644,,,746,,,,,,cumulative,11644,,385,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,28.07.2020,11579,,,731,,,,,,cumulative,11579,,345,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,27.07.2020,,,,,,,,,,,,,,,
-,522,Sudan,26.07.2020,,,,,,,,,,,,,,,
-,522,Sudan,25.07.2020,11424,,,720,,,,,,cumulative,11424,,394,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,24.07.2020,11385,,,717,,,,,,cumulative,11385,,609,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,23.07.2020,11302,,,715,,,,,,cumulative,11302,,291,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,22.07.2020,11237,,,708,,,,,,cumulative,11237,,335,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,21.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,20.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,19.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,18.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,17.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,16.07.2020,10992,,,693,,,,,,cumulative,10992,,429,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,15.07.2020,10825,,,685,,,,,,cumulative,10825,,404,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,14.07.2020,10762,,,680,,,,,,cumulative,10762,,213,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,13.07.2020,10682,,,673,,,,,,cumulative,10682,,297,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,12.07.2020,10599,,,671,,,,,,cumulative,10599,,268,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,11.07.2020,10527,,,668,,,,,,cumulative,10527,,452,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,10.07.2020,10417,,,659,,,,,,cumulative,10417,,346,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,09.07.2020,10316,,,657,,,,,,cumulative,10316,,343,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,08.07.2020,10250,,,650,,,,,,cumulative,10250,,179,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,07.07.2020,10204,,,649,,,,,,cumulative,10204,,176,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,06.07.2020,10158,,,641,,,,,,cumulative,10158,,192,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,05.07.2020,10084,,,636,,,,,,cumulative,10084,,266,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,04.07.2020,9997,,,622,,,,,,cumulative,9997,,242,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,03.07.2020,9894,,,616,,,,,,cumulative,9894,,375,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,02.07.2020,9767,,,410,,,,,,cumulative,9767,,241,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,01.07.2020,9689,,,409,,,,,,cumulative,9689,,157,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,30.06.2020,9663,,,604,,,,,,cumulative,9663,,155,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,29.06.2020,9573,,,602,,,,,,cumulative,9573,,138,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,28.06.2020,9500,,,592,,,,,,cumulative,9500,,182,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,27.06.2020,9372,,,587,,,,,,cumulative,9372,,148,,https://www.facebook.com/FMOH.SUDAN/
-,522,Sudan,26.06.2020,9320,,,584,,,,,,cumulative,9320,,,,http://www.sho.gov.sd/corona/
-,522,Sudan,25.06.2020,9314,,,576,,,,,,cumulative,9314,,121,,http://www.sho.gov.sd/corona/
-,522,Sudan,24.06.2020,9257,,,572,,,,,,cumulative,9257,,368,,http://www.sho.gov.sd/corona/
-,522,Sudan,23.06.2020,9084,,,559,,,,,,cumulative,9084,,270,,
-,522,Sudan,22.06.2020,8984,,,556,,,,,,cumulative,8984,,279,,http://www.sho.gov.sd/corona/
-,522,Sudan,21.06.2020,8889,,,548,,,,,,cumulative,8889,,259,,http://www.sho.gov.sd/corona/
-,522,Sudan,20.06.2020,8796,,,541,,,,,,cumulative,8796,,255,,http://www.sho.gov.sd/corona/
-,522,Sudan,19.06.2020,8698,,,533,,,,,,cumulative,8698,,225,,http://www.sho.gov.sd/corona/
-,522,Sudan,18.06.2020,8580,,,521,,,,,,cumulative,8580,,279,,http://www.sho.gov.sd/corona/
-,522,Sudan,17.06.2020,8416,,,513,,,,,,cumulative,8416,,150,,http://www.sho.gov.sd/corona/
-,522,Sudan,16.06.2020,8316,,,506,,,,,,cumulative,8316,,388,,http://www.sho.gov.sd/corona/
-,522,Sudan,15.06.2020,8020,,,487,,,,,,cumulative,8020,,362,,http://www.sho.gov.sd/corona/
-,522,Sudan,14.06.2020,7740,,,477,,,,,,cumulative,7740,,409,,http://www.sho.gov.sd/corona/
-,522,Sudan,13.06.2020,7435,,,468,,,,,,cumulative,7435,,333,,http://www.sho.gov.sd/controller/
-,522,Sudan,12.06.2020,7220,,,459,,,,,,cumulative,7220,,386,,http://www.sho.gov.sd/corona/
-,522,Sudan,11.06.2020,7007,,,447,,,,,,cumulative,7007,,301,,http://www.sho.gov.sd/corona/
-,522,Sudan,10.06.2020,6879,,,433,,,,,,cumulative,6879,,290,,http://www.sho.gov.sd/controller/
-,522,Sudan,09.06.2020,6730,,,413,,,,,,cumulative,6730,,378,,http://www.sho.gov.sd/controller/
-,522,Sudan,08.06.2020,6582,,,401,,,,,,cumulative,6582,,278,,
-,522,Sudan,07.06.2020,6427,,,389,,,,,,cumulative,6427,,412,,http://www.sho.gov.sd/controller/
-,522,Sudan,06.06.2020,6242,,,372,,,,,,cumulative,6242,,571,,http://www.sho.gov.sd/controller/index.php?mid=107&lid=1
-,522,Sudan,05.06.2020,6081,,,359,,,,,,cumulative,6081,,674,,http://www.sho.gov.sd/corona/
-,522,Sudan,04.06.2020,5865,,,347,,,,,,cumulative,5865,,297,,http://www.sho.gov.sd/corona/
-,522,Sudan,03.06.2020,5714,,,333,,,,,,cumulative,5714,,530,,http://www.sho.gov.sd/corona/
-,522,Sudan,02.06.2020,5499,,,314,,,,,,cumulative,5499,,451,,http://www.sho.gov.sd/corona/
-,522,Sudan,01.06.2020,5310,,,307,,,,,,cumulative,5310,,263,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,23.09.2020,13592,,,836,,,,,,cumulative ,13592,,515,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,22.09.2020,13578,,,836,,,,,,cumulative ,13578,,595,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,21.09.2020,13578,,,836,,,,,,cumulative ,13578,,749,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,20.09.2020,13576,,,836,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,19.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,18.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,17.09.2020,13555,,,836,,,,,,cumulative ,13555,,2325,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,16.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,15.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,14.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,13.09.2020,13535,,,836,,,,,,cumulative ,13535,,255,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,12.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,11.09.2020,13532,,,836,,,,,,cumulative ,13532,,453,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,10.09.2020,13516,,,835,,,,,,cumulative ,13516,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,09.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,08.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,07.09.2020,13470,,,834,,,,,,cumulative ,13470,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,06.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,05.09.2020,13437,,,833,,,,,,cumulative ,13437,,803,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,04.09.2020,13407,,,832,,,,,,cumulative ,13407,,218,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,03.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,02.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,01.09.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,31.08.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,30.08.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,29.08.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,28.08.2020,,,,,,,,,,cumulative ,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,27.08.2020,13189,,,823,,,,,,cumulative ,13189,,1335,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,26.08.2020,13082,,,823,,,,,,cumulative ,13082,,693,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,25.08.2020,13045,,,823,,,,,,cumulative ,13045,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,24.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,23.08.2020,12974,,,819,,,,,,cumulative ,12974,,683,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,22.08.2020,12903,,,818,,,,,,cumulative ,12903,,1235,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,21.08.2020,12836,,,815,,,,,,cumulative ,12836,,2724,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,20.08.2020,,,,,,,,,,,,,623,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,19.08.2020,,,,,,,,,,,,,1368,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,18.08.2020,,,,,,,,,,,,,264,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,17.08.2020,,,,,,,,,,,,,500,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,16.08.2020,,,,,,,,,,,,,494,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,15.08.2020,,,,,,,,,,,,,389,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,14.08.2020,,,,,,,,,,,,,1144,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,13.08.2020,,,,,,,,,,,,,548,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,12.08.2020,,,,,,,,,,,,,120,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,11.08.2020,12115,,,792,,,,,,cumulative ,12115,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,10.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,09.08.2020,,,,,,,,,,,,,271,,
+449501,522,Sudan,08.08.2020,11956,,,781,,,,,,cumulative ,11956,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,07.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,06.08.2020,11894,,,773,,,,,,cumulative ,11894,,311,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,05.08.2020,,,,,,,,,,,,,422,,
+449501,522,Sudan,04.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,03.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,02.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,01.08.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,31.07.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,30.07.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,29.07.2020,11644,,,746,,,,,,cumulative,11644,,385,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,28.07.2020,11579,,,731,,,,,,cumulative,11579,,345,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,27.07.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,26.07.2020,,,,,,,,,,,,,,,
+449501,522,Sudan,25.07.2020,11424,,,720,,,,,,cumulative,11424,,394,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,24.07.2020,11385,,,717,,,,,,cumulative,11385,,609,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,23.07.2020,11302,,,715,,,,,,cumulative,11302,,291,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,22.07.2020,11237,,,708,,,,,,cumulative,11237,,335,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,21.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,20.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,19.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,18.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,17.07.2020,,,,,,,,,,,,,,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,16.07.2020,10992,,,693,,,,,,cumulative,10992,,429,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,15.07.2020,10825,,,685,,,,,,cumulative,10825,,404,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,14.07.2020,10762,,,680,,,,,,cumulative,10762,,213,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,13.07.2020,10682,,,673,,,,,,cumulative,10682,,297,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,12.07.2020,10599,,,671,,,,,,cumulative,10599,,268,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,11.07.2020,10527,,,668,,,,,,cumulative,10527,,452,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,10.07.2020,10417,,,659,,,,,,cumulative,10417,,346,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,09.07.2020,10316,,,657,,,,,,cumulative,10316,,343,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,08.07.2020,10250,,,650,,,,,,cumulative,10250,,179,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,07.07.2020,10204,,,649,,,,,,cumulative,10204,,176,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,06.07.2020,10158,,,641,,,,,,cumulative,10158,,192,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,05.07.2020,10084,,,636,,,,,,cumulative,10084,,266,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,04.07.2020,9997,,,622,,,,,,cumulative,9997,,242,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,03.07.2020,9894,,,616,,,,,,cumulative,9894,,375,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,02.07.2020,9767,,,410,,,,,,cumulative,9767,,241,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,01.07.2020,9689,,,409,,,,,,cumulative,9689,,157,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,30.06.2020,9663,,,604,,,,,,cumulative,9663,,155,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,29.06.2020,9573,,,602,,,,,,cumulative,9573,,138,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,28.06.2020,9500,,,592,,,,,,cumulative,9500,,182,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,27.06.2020,9372,,,587,,,,,,cumulative,9372,,148,,https://www.facebook.com/FMOH.SUDAN/
+449501,522,Sudan,26.06.2020,9320,,,584,,,,,,cumulative,9320,,,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,25.06.2020,9314,,,576,,,,,,cumulative,9314,,121,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,24.06.2020,9257,,,572,,,,,,cumulative,9257,,368,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,23.06.2020,9084,,,559,,,,,,cumulative,9084,,270,,
+449501,522,Sudan,22.06.2020,8984,,,556,,,,,,cumulative,8984,,279,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,21.06.2020,8889,,,548,,,,,,cumulative,8889,,259,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,20.06.2020,8796,,,541,,,,,,cumulative,8796,,255,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,19.06.2020,8698,,,533,,,,,,cumulative,8698,,225,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,18.06.2020,8580,,,521,,,,,,cumulative,8580,,279,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,17.06.2020,8416,,,513,,,,,,cumulative,8416,,150,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,16.06.2020,8316,,,506,,,,,,cumulative,8316,,388,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,15.06.2020,8020,,,487,,,,,,cumulative,8020,,362,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,14.06.2020,7740,,,477,,,,,,cumulative,7740,,409,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,13.06.2020,7435,,,468,,,,,,cumulative,7435,,333,,http://www.sho.gov.sd/controller/
+449501,522,Sudan,12.06.2020,7220,,,459,,,,,,cumulative,7220,,386,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,11.06.2020,7007,,,447,,,,,,cumulative,7007,,301,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,10.06.2020,6879,,,433,,,,,,cumulative,6879,,290,,http://www.sho.gov.sd/controller/
+449501,522,Sudan,09.06.2020,6730,,,413,,,,,,cumulative,6730,,378,,http://www.sho.gov.sd/controller/
+449501,522,Sudan,08.06.2020,6582,,,401,,,,,,cumulative,6582,,278,,
+449501,522,Sudan,07.06.2020,6427,,,389,,,,,,cumulative,6427,,412,,http://www.sho.gov.sd/controller/
+449501,522,Sudan,06.06.2020,6242,,,372,,,,,,cumulative,6242,,571,,http://www.sho.gov.sd/controller/index.php?mid=107&lid=1
+449501,522,Sudan,05.06.2020,6081,,,359,,,,,,cumulative,6081,,674,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,04.06.2020,5865,,,347,,,,,,cumulative,5865,,297,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,03.06.2020,5714,,,333,,,,,,cumulative,5714,,530,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,02.06.2020,5499,,,314,,,,,,cumulative,5499,,451,,http://www.sho.gov.sd/corona/
+449501,522,Sudan,01.06.2020,5310,,,307,,,,,,cumulative,5310,,263,,http://www.sho.gov.sd/corona/
 ,522,Sudan,31.05.2020,5173,,,298,,,,,,cumulative,5173,,436,,http://www.sho.gov.sd/corona/
 ,522,Sudan,30.05.2020,5026,,,286,,,,,,cumulative,5026,,501,,http://www.sho.gov.sd/corona/
 ,522,Sudan,29.05.2020,,,,,,,,,,,,,,,http://www.sho.gov.sd/corona/
