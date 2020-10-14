@@ -1,20 +1,34 @@
 nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,deaths,deaths_measure,cases,hospitalizations,hospitalizations_measure,icu,icu_measure,ventilators,ventilators_measure,link
-454359,204,Chad,11.09.2020,,,,,,,,,,,,,,
-454359,204,Chad,10.09.2020,,,,,,,,,,,,,,
-454359,204,Chad,09.09.2020,,,,,,,,,,,,,,
-454359,204,Chad,08.09.2020,,,,,,,,,,,,,,
+454359,204,Chad,25.09.2020,1175,,375,tests processed,83,cumulative,1175,88,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,24.09.2020,1171,,386,tests processed,82,cumulative,1171,87,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,23.09.2020,1164,,614,tests processed,82,cumulative,1164,86,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,22.09.2020,1155,,454,tests processed,81,cumulative,1155,107,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,21.09.2020,1153,,452,tests processed,81,cumulative,1153,105,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,20.09.2020,1151,,469,tests processed,81,cumulative,1151,103,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,19.09.2020,1149,,715,tests processed,81,cumulative,1149,102,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,18.09.2020,1147,,893,tests processed,81,cumulative,1147,100,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,17.09.2020,1115,,579,tests processed,81,cumulative,1115,72,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,16.09.2020,1090,,528,tests processed,81,cumulative,1090,49,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,15.09.2020,1087,,506,tests processed,81,cumulative,1087,62,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,14.09.2020,1085,,213,tests processed,81,cumulative,1085,64,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,13.09.2020,1084,,316,tests processed,80,cumulative,1084,66,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,12.09.2020,1083,,654,tests processed,80,cumulative,1083,65,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,11.09.2020,1081,,551,tests processed,79,cumulative,1081,68,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,10.09.2020,1051,,487,tests processed,79,cumulative,1051,40,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,09.09.2020,1048,,558,tests processed,79,cumulative,1048,38,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,08.09.2020,1045,,511,tests processed,79,cumulative,1045,39,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,07.09.2020,1040,,124,tests processed,79,cumulative,1040,42,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,06.09.2020,1039,,374,tests processed,79,cumulative,1039,42,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,05.09.2020,1034,,675,tests processed,77,cumulative,1034,43,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,04.09.2020,1023,,412,tests processed,77,cumulative,1023,32,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,03.09.2020,1018,,440,tests processed,77,cumulative,1018,33,population,,,,,https://sante-tchad.org/communique-de-presse/
-454359,204,Chad,02.09.2020,,,,,,,,,,,,,,
+454359,204,Chad,02.09.2020,1017,,603,tests processed,77,cumulative,1017,36,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,01.09.2020,1017,,479,tests processed,77,cumulative,1017,56,population,,,,,https://sante-tchad.org/communique-de-presse/
-454359,204,Chad,31.08.2020,,,,,,,,,,,,,,
-454359,204,Chad,30.08.2020,,,,,,,,,,,,,,
-454359,204,Chad,29.08.2020,,,,,,,,,,,,,,
+454359,204,Chad,31.08.2020,1013,,263,tests processed,77,cumulative,1013,56,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,30.08.2020,1012,,352,tests processed,77,cumulative,1012,57,population,,,,,https://sante-tchad.org/communique-de-presse/
+454359,204,Chad,29.08.2020,1008,,413,tests processed,77,cumulative,1008,53,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,28.08.2020,1008,,499,tests processed,77,cumulative,1008,53,population,,,,,https://sante-tchad.org/communique-de-presse/
-454359,204,Chad,27.08.2020,,,,,,,,,,,,,,
+454359,204,Chad,27.08.2020,1004,,451,tests processed,77,cumulative,1004,52,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,26.08.2020,998,,479,tests processed,77,cumulative,998,48,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,25.08.2020,995,,536,tests processed,77,cumulative,995,47,population,,,,,https://sante-tchad.org/communique-de-presse/
 454359,204,Chad,24.08.2020,987,,140,tests processed,76,cumulative,987,41,population,,,,,https://sante-tchad.org/communique-de-presse/
