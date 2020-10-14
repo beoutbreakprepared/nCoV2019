@@ -1,76 +1,76 @@
 nid,location_id,location,date,deaths,cases,hospitalizations,hospitalizations_measure,total_cases,total_tests,daily_tests,tests_units,icu,icu_measure,ventilators,ventilators_measure,link
-448696,200,Benin,20.04.2020,1,54,26,population,54,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,20.04.2020,1,54,,,54,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
 448696,200,Benin,21.04.2020,,,,,,,,,,,,,
 448696,200,Benin,22.04.2020,,,,,,,,,,,,,
 448696,200,Benin,23.04.2020,,,,,,,,,,,,,
 448696,200,Benin,24.04.2020,,,,,,,,,,,,,
 448696,200,Benin,25.04.2020,,,,,,,,,,,,,
-448696,200,Benin,26.04.2020,1,64,30,population,64,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,26.04.2020,1,64,,,64,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
 448696,200,Benin,27.04.2020,,,,,,,,,,,,,
 448696,200,Benin,28.04.2020,,,,,,,,,,,,,
 448696,200,Benin,29.04.2020,,,,,,,,,,,,,
 448696,200,Benin,30.04.2020,,,,,,,,,,,,,
-448696,200,Benin,01.05.2020,2,90,46,population,90,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,01.05.2020,2,90,,,90,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
 448696,200,Benin,02.05.2020,,,,,,,,,,,,,
-448696,200,Benin,03.05.2020,2,96,44,population,96,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,03.05.2020,2,96,,,96,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
 448696,200,Benin,04.05.2020,,,,,,,,,,,,,
 448696,200,Benin,05.05.2020,,,,,,,,,,,,,
-448696,200,Benin,06.05.2020,2,140,85,population,140,6087,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
-448696,200,Benin,07.05.2020,2,242,178,population,242,7290,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
-448696,200,Benin,08.05.2020,2,284,220,population,284,10020,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
-448696,200,Benin,09.05.2020,2,319,255,population,319,11573,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,06.05.2020,2,140,,,140,6087,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,07.05.2020,2,242,,,242,7290,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,08.05.2020,2,284,,,284,10020,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+448696,200,Benin,09.05.2020,2,319,,,319,11573,,tests processed,,,,,https://www.gouv.bj/coronavirus/flashinfos/
 448696,200,Benin,10.05.2020,,,,,,,,,,,,,
 448696,200,Benin,11.05.2020,,,,,,,,,,,,,
 448696,200,Benin,12.05.2020,,,,,,,,,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,13.05.2020,,,,,,,,,,,,,
 448696,200,Benin,14.05.2020,,,,,,,,,,,,,
 448696,200,Benin,15.05.2020,,,,,,,,,,,,,
-448696,200,Benin,16.05.2020,2,339,254,population,339,13046,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,17.05.2020,,,,population,,,,,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,18.05.2020,,,,population,,,,,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,16.05.2020,2,339,,,339,13046,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,17.05.2020,,,,,,,,,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,18.05.2020,,,,,,,,,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,19.05.2020,,,,,,,,tests processed,,,,,
 448696,200,Benin,20.05.2020,,,,,,,,,,,,,
-448696,200,Benin,21.05.2020,3,135,71,population,135,13346,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,21.05.2020,3,135,,,135,13346,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,22.05.2020,,,,,,,,,,,,,
 448696,200,Benin,23.05.2020,,,,,,,,,,,,,
-448696,200,Benin,24.05.2020,3,191,106,population,191,13932,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,25.05.2020,3,191,104,population,191,13958,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,26.05.2020,3,208,87,population,208,14028,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,27.05.2020,3,210,73,population,210,14123,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,28.05.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,29.05.2020,3,224,85,population,224,14224,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,30.05.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,31.05.2020,3,232,86,population,232,14286,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,01.06.2020,3,243,93,population,243,14398,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,02.06.2020,3,244,93,population,244,14569,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,03.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,04.06.2020,3,261,107,population,261,14762,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,05.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,06.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,07.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,08.06.2020,4,305,113,population,305,15374,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,09.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,10.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,11.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,12.06.2020,5,388,,population,388,15911,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,13.06.2020,,,,population,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,14.06.2020,7,470,235,population,470,16377,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,15.06.2020,9,483,242,population,483,16421,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,16.06.2020,9,532,287,population,532,16575,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,17.06.2020,9,572,326,population,572,16896,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,18.06.2020,11,597,348,population,597,17128,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,19.06.2020,11,650,392,population,650,17433,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,24.05.2020,3,191,,,191,13932,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,25.05.2020,3,191,,,191,13958,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,26.05.2020,3,208,,,208,14028,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,27.05.2020,3,210,,,210,14123,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,28.05.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,29.05.2020,3,224,,,224,14224,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,30.05.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,31.05.2020,3,232,,,232,14286,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,01.06.2020,3,243,,,243,14398,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,02.06.2020,3,244,,,244,14569,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,03.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,04.06.2020,3,261,,,261,14762,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,05.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,06.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,07.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,08.06.2020,4,305,,,305,15374,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,09.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,10.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,11.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,12.06.2020,5,388,,,388,15911,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,13.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,14.06.2020,7,470,,,470,16377,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,15.06.2020,9,483,,,483,16421,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,16.06.2020,9,532,,,532,16575,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,17.06.2020,9,572,,,572,16896,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,18.06.2020,11,597,,,597,17128,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,19.06.2020,11,650,,,650,17433,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,20.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,21.06.2020,13,765,499,population,765,18034,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,22.06.2020,13,807,541,population,807,18128,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,23.06.2020,13,850,565,population,850,18377,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,24.06.2020,13,902,612,population,902,18573,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,25.06.2020,14,1017,715,population,1017,19052,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,26.06.2020,14,1053,747,population,1053,19202,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,21.06.2020,13,765,,,765,18034,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,22.06.2020,13,807,,,807,18128,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,23.06.2020,13,850,,,850,18377,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,24.06.2020,13,902,,,902,18573,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,25.06.2020,14,1017,,,1017,19052,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,26.06.2020,14,1053,,,1053,19202,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,27.06.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,28.06.2020,16,1149,827,population,1149,19818,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,29.06.2020,19,1187,845,population,1187,20014,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,30.06.2020,21,1199,845,population,1199,20337,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,28.06.2020,16,1149,,,1149,19818,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,29.06.2020,19,1187,,,1187,20014,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,30.06.2020,21,1199,,,1199,20337,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,01.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,02.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,03.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
@@ -78,61 +78,61 @@ nid,location_id,location,date,deaths,cases,hospitalizations,hospitalizations_mea
 448696,200,Benin,05.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,06.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,07.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,08.07.2020,21,1199,845,population,1199,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,08.07.2020,21,1199,,,1199,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,09.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,10.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,11.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,12.07.2020,26,1378,821,population,1378,31346,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,13.07.2020,26,1378,795,population,1378,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,12.07.2020,26,1378,,,1378,31346,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,13.07.2020,26,1378,,,1378,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,14.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,15.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,16.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,17.07.2020,31,1602,789,population,1602,36556,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,17.07.2020,31,1602,,,1602,36556,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,18.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,19.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,20.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,21.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,22.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,23.07.2020,34,1694,742,population,1694,44251,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,23.07.2020,34,1694,,,1694,44251,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,24.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,25.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,26.07.2020,35,1770,699,population,1770,49587,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,26.07.2020,35,1770,,,1770,49587,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,27.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,28.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,29.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,30.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,31.07.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,01.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,02.08.2020,38,1914,276,population,1914,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,02.08.2020,38,1914,,,1914,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,03.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,04.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,05.08.2020,,,,,,57401,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,06.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,07.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,08.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,09.08.2020,38,2001,282,population,2001,65711,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,09.08.2020,38,2001,,,2001,65711,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,10.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,11.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,12.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,13.08.2020,39,2063,334,population,2063,70781,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,13.08.2020,39,2063,,,2063,70781,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,14.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,15.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,16.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,17.08.2020,39,2095,351,population,2095,70781,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,17.08.2020,39,2095,,,2095,70781,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,18.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,19.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,20.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,21.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,22.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,23.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,24.08.2020,40,2145,407,population,2145,81930,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,24.08.2020,40,2145,,,2145,81930,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,25.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,26.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,27.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,28.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,29.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,30.08.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,31.08.2020,40,2194,401,population,2194,94797,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,31.08.2020,40,2194,,,2194,94797,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,01.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,02.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,03.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
@@ -142,17 +142,22 @@ nid,location_id,location,date,deaths,cases,hospitalizations,hospitalizations_mea
 448696,200,Benin,07.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,08.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,09.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,10.09.2020,40,2267,285,population,2267,122605,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,10.09.2020,40,2267,,,2267,122605,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,11.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,12.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,13.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,14.09.2020,40,2280,290,population,2280,132727,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,14.09.2020,40,2280,,,2280,132727,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,15.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,16.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,17.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,18.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,19.09.2020,40,2294,300,population,2294,144210,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,19.09.2020,40,2294,,,2294,144210,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,20.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
-448696,200,Benin,21.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,21.09.2020,40,2325,,,2325,149769,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,22.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
 448696,200,Benin,23.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,24.09.2020,40,2340,,,2340,157959,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,25.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,26.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,27.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
+448696,200,Benin,28.09.2020,,,,,,,,tests processed,,,,,https://www.gouv.bj/coronavirus/
