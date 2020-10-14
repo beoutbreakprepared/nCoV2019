@@ -1,4 +1,18 @@
 nid,location_id,location,date,cases,deaths,hospitalizations,icu,ventilators,deaths_measure,hospitalizations_measure,icu_measure,ventilators_measure,total_cases,total_tests,daily_tests,tests_units,link
+447566;455757,205,Côte d'Ivoire,07.10.2020,19935,120,,,,cumulative,,,,19935,19935,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,06.10.2020,19903,120,,,,cumulative,,,,19903,19903,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,05.10.2020,19885,120,,,,cumulative,,,,19885,19885,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,04.10.2020,19882,120,,,,cumulative,,,,19882,19882,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,03.10.2020,19849,120,,,,cumulative,,,,19849,19849,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,02.10.2020,19793,120,,,,cumulative,,,,19793,19793,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,01.10.2020,19755,120,,,,cumulative,,,,19755,19755,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,30.09.2020,19724,120,,,,cumulative,,,,19724,19724,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,29.09.2020,19669,120,,,,cumulative,,,,19669,19669,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,28.09.2020,19641,120,,,,cumulative,,,,19641,19641,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,27.09.2020,19629,120,,,,cumulative,,,,19629,19629,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,26.09.2020,19600,120,,,,cumulative,,,,19600,19600,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,25.09.2020,19556,120,,,,cumulative,,,,19556,19556,,tests_processed,https://www.facebook.com/mophguyana/
+447566;455757,205,Côte d'Ivoire,24.09.2020,19501,120,,,,cumulative,,,,19501,19501,,tests_processed,https://www.facebook.com/mophguyana/
 447566;455757,205,Côte d'Ivoire,23.09.2020,19430,120,,,,cumulative,,,,19430,154970,,tests_processed,https://www.facebook.com/mophguyana/
 447566;455757,205,Côte d'Ivoire,22.09.2020,19343,120,,,,cumulative,,,,19343,153228,,tests_processed,https://www.facebook.com/mophguyana/
 447566;455757,205,Côte d'Ivoire,21.09.2020,19327,120,,,,cumulative,,,,19327,152682,,tests_processed,https://www.facebook.com/mophguyana/

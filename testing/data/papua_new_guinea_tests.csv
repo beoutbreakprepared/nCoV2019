@@ -1,212 +1,226 @@
-nid,location,location_id,date,total_cases,deaths,total_tests,daily_tests,tests_units
-,Papua New Guinea,26,11.09.2020,,,,,
-,Papua New Guinea,26,10.09.2020,,,,,
-,Papua New Guinea,26,09.09.2020,,,,,
-,Papua New Guinea,26,08.09.2020,,,,,
-,Papua New Guinea,26,07.09.2020,,,,,
-,Papua New Guinea,26,06.09.2020,497,5,16518,,NAT tests
-,Papua New Guinea,26,05.09.2020,,,,,
-,Papua New Guinea,26,04.09.2020,,,,,
-,Papua New Guinea,26,03.09.2020,,,,,
-,Papua New Guinea,26,02.09.2020,,,,,
-,Papua New Guinea,26,01.09.2020,,,,,
-,Papua New Guinea,26,31.08.2020,,,,,
-,Papua New Guinea,26,30.08.2020,459,5,15592,,NAT tests
-,Papua New Guinea,26,29.08.2020,,,,,
-,Papua New Guinea,26,28.08.2020,,,,,
-,Papua New Guinea,26,27.08.2020,,,,,
-,Papua New Guinea,26,26.08.2020,,,,,
-,Papua New Guinea,26,25.08.2020,,,,,
-,Papua New Guinea,26,24.08.2020,,,,,
-,Papua New Guinea,26,23.08.2020,401,4,14676,,NAT tests
-,Papua New Guinea,26,22.08.2020,,,,,
-,Papua New Guinea,26,21.08.2020,,,,,
-,Papua New Guinea,26,20.08.2020,,,,,
-,Papua New Guinea,26,19.08.2020,,,,,
-,Papua New Guinea,26,18.08.2020,,,,,
-,Papua New Guinea,26,17.08.2020,,,,,
-,Papua New Guinea,26,16.08.2020,323,3,13361,,NAT tests
-,Papua New Guinea,26,15.08.2020,,,,,
-,Papua New Guinea,26,14.08.2020,,,,,
-,Papua New Guinea,26,13.08.2020,,,,,
-,Papua New Guinea,26,12.08.2020,,,,,
-,Papua New Guinea,26,11.08.2020,,,,,
-,Papua New Guinea,26,10.08.2020,,,,,
-,Papua New Guinea,26,09.08.2020,214,3,11439,,NAT tests
-,Papua New Guinea,26,08.08.2020,,,,,
-,Papua New Guinea,26,07.08.2020,,,,,
-,Papua New Guinea,26,06.08.2020,,,,,
-,Papua New Guinea,26,05.08.2020,,,,,
-,Papua New Guinea,26,04.08.2020,,,,,
-,Papua New Guinea,26,03.08.2020,,,,,
-,Papua New Guinea,26,02.08.2020,110,2,10471,,NAT tests
-,Papua New Guinea,26,01.08.2020,,,,,
-,Papua New Guinea,26,31.07.2020,,,,,
-,Papua New Guinea,26,30.07.2020,,,,,
-,Papua New Guinea,26,29.07.2020,,,,,
-,Papua New Guinea,26,28.07.2020,,,,,
-,Papua New Guinea,26,27.07.2020,,,,,
-,Papua New Guinea,26,26.07.2020,46,0,9943,,NAT tests
-,Papua New Guinea,26,25.07.2020,,,,,
-,Papua New Guinea,26,24.07.2020,,,,,
-,Papua New Guinea,26,23.07.2020,,,,,
-,Papua New Guinea,26,22.07.2020,,,,,
-,Papua New Guinea,26,21.07.2020,,,,,
-,Papua New Guinea,26,20.07.2020,,,,,
-,Papua New Guinea,26,19.07.2020,,,,,
-,Papua New Guinea,26,18.07.2020,,,,,
-,Papua New Guinea,26,17.07.2020,,,,,
-,Papua New Guinea,26,16.07.2020,16,0,7690,,NAT tests
-,Papua New Guinea,26,15.07.2020,,,,,
-,Papua New Guinea,26,14.07.2020,,,,,
-,Papua New Guinea,26,13.07.2020,,,,,
-,Papua New Guinea,26,12.07.2020,,,,,
-,Papua New Guinea,26,11.07.2020,,,,,
-,Papua New Guinea,26,10.07.2020,,,,,
-,Papua New Guinea,26,09.07.2020,11,0,6849,,NAT tests
-,Papua New Guinea,26,08.07.2020,,,,,
-,Papua New Guinea,26,07.07.2020,,,,,
-,Papua New Guinea,26,06.07.2020,,,,,
-,Papua New Guinea,26,05.07.2020,,,,,
-,Papua New Guinea,26,04.07.2020,,,,,
-,Papua New Guinea,26,03.07.2020,,,,,
-,Papua New Guinea,26,02.07.2020,11,0,6273,,NAT tests
-,Papua New Guinea,26,01.07.2020,,,,,
-,Papua New Guinea,26,30.06.2020,,,,,
-,Papua New Guinea,26,29.06.2020,,,,,
-,Papua New Guinea,26,28.06.2020,,,,,
-,Papua New Guinea,26,27.06.2020,,,,,
-,Papua New Guinea,26,26.06.2020,,,,,
-,Papua New Guinea,26,25.06.2020,11,0,5617,,persons tested
-,Papua New Guinea,26,24.06.2020,,,,,
-,Papua New Guinea,26,23.06.2020,,,,,
-,Papua New Guinea,26,22.06.2020,,,,,
-,Papua New Guinea,26,21.06.2020,,,,,
-,Papua New Guinea,26,20.06.2020,,,,,
-,Papua New Guinea,26,19.06.2020,,,5389,,persons tested
-,Papua New Guinea,26,18.06.2020,,,,,
-,Papua New Guinea,26,17.06.2020,,,,,
-,Papua New Guinea,26,16.06.2020,,,,,
-,Papua New Guinea,26,15.06.2020,,,,,
-,Papua New Guinea,26,14.06.2020,,,,,
-,Papua New Guinea,26,13.06.2020,,,,,
-,Papua New Guinea,26,12.06.2020,8,,5236,,persons tested
-,Papua New Guinea,26,11.06.2020,,,,,
-,Papua New Guinea,26,10.06.2020,,,,,
-,Papua New Guinea,26,09.06.2020,,,,,
-,Papua New Guinea,26,08.06.2020,,,,,
-,Papua New Guinea,26,07.06.2020,,,,,
-,Papua New Guinea,26,06.06.2020,,,,,
-,Papua New Guinea,26,05.06.2020,,,,,
-,Papua New Guinea,26,04.06.2020,,,,,
-,Papua New Guinea,26,03.06.2020,,,,,
-,Papua New Guinea,26,02.06.2020,,,,,
-,Papua New Guinea,26,01.06.2020,,,,,
-,Papua New Guinea,26,31.05.2020,,,,,
-,Papua New Guinea,26,30.05.2020,8,,4418,,persons tested
-,Papua New Guinea,26,29.05.2020,,,,,
-,Papua New Guinea,26,28.05.2020,,,,,
-,Papua New Guinea,26,27.05.2020,,,,,
-,Papua New Guinea,26,26.05.2020,,,,,
-,Papua New Guinea,26,25.05.2020,,,,,
-,Papua New Guinea,26,24.05.2020,,,,,
-,Papua New Guinea,26,23.05.2020,,,,,
-,Papua New Guinea,26,22.05.2020,8,,3799,,persons tested
-,Papua New Guinea,26,21.05.2020,,,,,
-,Papua New Guinea,26,20.05.2020,,,,,
-,Papua New Guinea,26,19.05.2020,,,,,
-,Papua New Guinea,26,18.05.2020,,,,,
-,Papua New Guinea,26,17.05.2020,,,,,
-,Papua New Guinea,26,16.05.2020,,,,,
-,Papua New Guinea,26,15.05.2020,8,,2930,,persons tested
-,Papua New Guinea,26,14.05.2020,,,,,
-,Papua New Guinea,26,13.05.2020,,,,,
-,Papua New Guinea,26,12.05.2020,,,,,
-,Papua New Guinea,26,11.05.2020,,,,,
-,Papua New Guinea,26,10.05.2020,,,,,
-,Papua New Guinea,26,09.05.2020,,,,,
-,Papua New Guinea,26,08.05.2020,,,,,
-,Papua New Guinea,26,07.05.2020,,,,,
-,Papua New Guinea,26,06.05.2020,,,,,
-,Papua New Guinea,26,05.05.2020,,,,,
-,Papua New Guinea,26,04.05.2020,,,,,
-,Papua New Guinea,26,03.05.2020,,,,,
-,Papua New Guinea,26,02.05.2020,,,,,
-,Papua New Guinea,26,01.05.2020,8,,2110,,persons tested
-,Papua New Guinea,26,30.04.2020,,,,,
-,Papua New Guinea,26,29.04.2020,,,,,
-,Papua New Guinea,26,28.04.2020,,,,,
-,Papua New Guinea,26,27.04.2020,,,,,
-,Papua New Guinea,26,26.04.2020,,,,,
-,Papua New Guinea,26,25.04.2020,,,,,
-,Papua New Guinea,26,24.04.2020,,,,,
-,Papua New Guinea,26,23.04.2020,,,,,
-,Papua New Guinea,26,22.04.2020,,,,,
-,Papua New Guinea,26,21.04.2020,,,,,
-,Papua New Guinea,26,20.04.2020,,,,,
-,Papua New Guinea,26,19.04.2020,7,,559,,persons tested
-,Papua New Guinea,26,18.04.2020,,,,,
-,Papua New Guinea,26,17.04.2020,,,,,
-,Papua New Guinea,26,16.04.2020,,,,,
-,Papua New Guinea,26,15.04.2020,,,,,
-,Papua New Guinea,26,14.04.2020,,,,,
-,Papua New Guinea,26,13.04.2020,,,,,
-,Papua New Guinea,26,12.04.2020,,,,,
-,Papua New Guinea,26,11.04.2020,2,,375,,persons tested
-,Papua New Guinea,26,10.04.2020,,,,,
-,Papua New Guinea,26,09.04.2020,,,,,
-,Papua New Guinea,26,08.04.2020,,,,,
-,Papua New Guinea,26,07.04.2020,,,,,
-,Papua New Guinea,26,06.04.2020,,,,,
-,Papua New Guinea,26,05.04.2020,,,,,
-,Papua New Guinea,26,04.04.2020,,,,,
-,Papua New Guinea,26,03.04.2020,1,,73,,persons tested
-,Papua New Guinea,26,02.04.2020,,,,,
-,Papua New Guinea,26,01.04.2020,,,,,
-,Papua New Guinea,26,31.03.2020,,,,,
-,Papua New Guinea,26,30.03.2020,,,,,
-,Papua New Guinea,26,29.03.2020,,,,,
-,Papua New Guinea,26,28.03.2020,,,,,
-,Papua New Guinea,26,27.03.2020,,,,,
-,Papua New Guinea,26,26.03.2020,,,,,
-,Papua New Guinea,26,25.03.2020,,,,,
-,Papua New Guinea,26,24.03.2020,,,,,
-,Papua New Guinea,26,23.03.2020,,,,,
-,Papua New Guinea,26,22.03.2020,,,,,
-,Papua New Guinea,26,21.03.2020,,,,,
-,Papua New Guinea,26,20.03.2020,,,,,
-,Papua New Guinea,26,19.03.2020,,,,,
-,Papua New Guinea,26,18.03.2020,,,,,
-,Papua New Guinea,26,17.03.2020,,,,,
-,Papua New Guinea,26,16.03.2020,,,,,
-,Papua New Guinea,26,15.03.2020,,,,,
-,Papua New Guinea,26,14.03.2020,,,,,
-,Papua New Guinea,26,13.03.2020,,,,,
-,Papua New Guinea,26,12.03.2020,0,,12,,persons tested
-,Papua New Guinea,26,11.03.2020,,,,,
-,Papua New Guinea,26,10.03.2020,,,,,
-,Papua New Guinea,26,09.03.2020,,,,,
-,Papua New Guinea,26,08.03.2020,,,,,
-,Papua New Guinea,26,07.03.2020,,,,,
-,Papua New Guinea,26,06.03.2020,,,,,
-,Papua New Guinea,26,05.03.2020,0,,7,,persons tested
-,Papua New Guinea,26,04.03.2020,,,,,
-,Papua New Guinea,26,03.03.2020,,,,,
-,Papua New Guinea,26,02.03.2020,,,,,
-,Papua New Guinea,26,01.03.2020,,,,,
-,Papua New Guinea,26,29.02.2020,,,,,
-,Papua New Guinea,26,28.02.2020,,,,,
-,Papua New Guinea,26,27.02.2020,0,,7,,persons tested
-,Papua New Guinea,26,26.02.2020,,,,,
-,Papua New Guinea,26,25.02.2020,,,,,
-,Papua New Guinea,26,24.02.2020,0,,5,,persons tested
-,Papua New Guinea,26,23.02.2020,,,,,
-,Papua New Guinea,26,22.02.2020,,,,,
-,Papua New Guinea,26,21.02.2020,,,,,
-,Papua New Guinea,26,20.02.2020,,,,,
-,Papua New Guinea,26,19.02.2020,,,,,
-,Papua New Guinea,26,18.02.2020,,,,,
-,Papua New Guinea,26,17.02.2020,0,,5,,persons tested
-,Papua New Guinea,26,16.02.2020,,,,,
-,Papua New Guinea,26,15.02.2020,,,,,
-,Papua New Guinea,26,14.02.2020,0,,5,,persons tested
+nid,location,location_id,date,total_cases,deaths,total_tests,daily_tests,tests_units,source
+456571,Papua New Guinea,26,25.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.09.2020,526,7,23630,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.09.2020,511,6,20726,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.09.2020,497,5,16518,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.09.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,31.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.08.2020,459,5,15592,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.08.2020,401,4,14676,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.08.2020,323,3,13361,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.08.2020,214,3,11439,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.08.2020,110,2,10471,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.08.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,31.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.07.2020,46,0,9943,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.07.2020,16,0,7690,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.07.2020,11,0,6849,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.07.2020,11,0,6273,,NAT tests,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.07.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.06.2020,11,0,5617,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.06.2020,,,5389,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.06.2020,8,,5236,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.06.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,31.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.05.2020,8,,4418,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.05.2020,8,,3799,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.05.2020,8,,2930,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.05.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.05.2020,8,,2110,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.04.2020,7,,559,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.04.2020,2,,375,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.04.2020,1,,73,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.04.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,31.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,30.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,13.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,12.03.2020,0,,12,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,11.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,10.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,09.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,08.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,07.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,06.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,05.03.2020,0,,7,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,04.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,03.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,02.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,01.03.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,29.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,28.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,27.02.2020,0,,7,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,26.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,25.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,24.02.2020,0,,5,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,23.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,22.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,21.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,20.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,19.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,18.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,17.02.2020,0,,5,,persons tested,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,16.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,15.02.2020,,,,,,https://www.health.gov.pg/subindex.php?news=1
+456571,Papua New Guinea,26,14.02.2020,0,,5,,persons tested,https://www.health.gov.pg/subindex.php?news=1
