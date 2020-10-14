@@ -216,7 +216,7 @@ nid,date,location_id,location,cases,deaths,deaths_measure,hospitalizations,hospi
 452045,01.10.2020,60364,Islas Canarias,13890,237,cumulative,,,,,,,,,,13890,,,,,,,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
 452045,02.10.2020,60364,Islas Canarias,14013,238,cumulative,,,,,,,,,,14013,,374083,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
 452045,03.10.2020,60364,Islas Canarias,14154,238,cumulative,,,,,,,,,,14154,,377324,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
-452045,04.10.2020,60364,Islas Canarias,14279,238,cumulative,,,,,,,,,,14279,,380917,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
+452045,04.10.2020,60364,Islas Canarias,14279,238,cumulative,,,,,,,,,,14279,,380317,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
 452045,05.10.2020,60364,Islas Canarias,14354,240,cumulative,,,,,,,,,,14354,,383722,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
 452045,06.10.2020,60364,Islas Canarias,14464,240,cumulative,,,,,,,,,,14464,,387966,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
 452045,07.10.2020,60364,Islas Canarias,14593,241,cumulative,,,,,,,,,,14593,,391672,,,,tests_processed,https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb37,
