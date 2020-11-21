@@ -1,0 +1,214 @@
+nid,location_id,location,date,total_cases,total_tests,daily_tests,tests_units,notes,source
+449728,177,Djibouti,25.03.2020,11,187,33,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,26.03.2020,11,220,18,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,27.03.2020,12,238,20,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,28.03.2020,14,281,43,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,29.03.2020,18,476,195,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,30.03.2020,25,620,144,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,31.03.2020,30,815,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,01.04.2020,33,1033,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,02.04.2020,40,1237,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,03.04.2020,49,1399,162,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,04.04.2020,50,1464,65,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,05.04.2020,59,1716,252,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,06.04.2020,90,2229,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,07.04.2020,121,2679,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,08.04.2020,135,3106,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,09.04.2020,140,3399,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,10.04.2020,150,3740,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,11.04.2020,187,4017,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,12.04.2020,214,4451,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,13.04.2020,298,4949,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,14.04.2020,363,5356,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,15.04.2020,435,5936,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,16.04.2020,591,6430,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,17.04.2020,732,7486,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,18.04.2020,,,,,,
+449728,177,Djibouti,19.04.2020,846,8144,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,20.04.2020,,,,,,
+449728,177,Djibouti,21.04.2020,945,8955,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,22.04.2020,974,10272,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,23.04.2020,986,10619,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,24.04.2020,999,11090,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,25.04.2020,1008,11431,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,26.04.2020,1023,11741,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,27.04.2020,1035,12250,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,28.04.2020,1072,12571,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,29.04.2020,1077,12985,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,30.04.2020,1089,13421,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,01.05.2020,1097,13751,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,02.05.2020,1112,13856,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,03.05.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,04.05.2020,1116,14222,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,05.05.2020,1120,14378,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,06.05.2020,1124,14538,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,07.05.2020,1133,14751,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,08.05.2020,1135,14857,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,09.05.2020,1189,15056,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,10.05.2020,1210,15304,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,11.05.2020,1227,15790,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,12.05.2020,1256,16093,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,13.05.2020,1268,16424,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,14.05.2020,1284,16647,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,15.05.2020,1309,16878,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,16.05.2020,1331,17106,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,17.05.2020,1401,17532,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,18.05.2020,1518,18345,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,19.05.2020,1618,18933,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,20.05.2020,1828,20056,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,21.05.2020,2047,21156,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,22.05.2020,2270,22097,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,23.05.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,24.05.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,25.05.2020,2468,23140,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,26.05.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,27.05.2020,2697,24129,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,28.05.2020,2914,25257,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,29.05.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,30.05.2020,3194,26366,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,31.05.2020,3354,26913,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,01.06.2020,3569,28260,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,02.06.2020,3779,30394,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,03.06.2020,3935,32218,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,04.06.2020,4054,33492,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,05.06.2020,4123,34551,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,06.06.2020,4169,35165,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,07.06.2020,4207,35604,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,08.06.2020,4278,36497,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,09.06.2020,4331,37495,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,10.06.2020,4373,38240,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,11.06.2020,4398,39299,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,12.06.2020,4441,40356,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,13.06.2020,4449,40855,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,14.06.2020,4465,41380,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,15.06.2020,4501,42173,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,16.06.2020,4539,42914,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,17.06.2020,4545,43336,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,18.06.2020,4557,43871,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,19.06.2020,4565,44200,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,20.06.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,21.06.2020,4582,44604,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,22.06.2020,4599,44883,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,23.06.2020,4617,45213,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,24.06.2020,4630,45560,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,25.06.2020,4635,45810,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,26.06.2020,4643,45998,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,27.06.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,28.06.2020,,,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,29.06.2020,4656,46108,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,30.06.2020,4682,46500,,total tests,,https://covid19.gouv.dj/test
+449728,177,Djibouti,01.07.2020,4704,46779,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,02.07.2020,4715,47171,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,03.07.2020,4736,47491,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,04.07.2020,,,,,,No report on twitter
+449728,177,Djibouti,05.07.2020,4792,47922,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,06.07.2020,4822,48170,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,07.07.2020,4878,48411,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,08.07.2020,4889,48636,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,09.07.2020,4955,49742,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,10.07.2020,4968,50542,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,11.07.2020,,,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,12.07.2020,4972,50713,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,13.07.2020,4977,51543,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,14.07.2020,4979,51843,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,15.07.2020,4985,52257,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,16.07.2020,4993,52899,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,17.07.2020,5003,53305,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,18.07.2020,,,,,,
+449728,177,Djibouti,21.07.2020,5011,53687,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,22.07.2020,5020,54235,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,23.07.2020,5027,54671,,total tests,,https://twitter.com/MinSantedj/status/1285581367867252736/photo/1
+449728,177,Djibouti,24.07.2020,5030,55048,,total tests,,https://twitter.com/MinSantedj/status/1285894342494900226/photo/1
+449728,177,Djibouti,25.07.2020,5031,55441,,total tests,,https://twitter.com/MinSantedj/status/1286329464343994368/photo/1
+449728,177,Djibouti,26.07.2020,,,,,,
+449728,177,Djibouti,27.07.2020,,,,,,
+449728,177,Djibouti,26.07.2020,5050,55983,,total tests,,https://twitter.com/MinSantedj/status/1287380203342356480/photo/1
+449728,177,Djibouti,27.07.2020,5059,56366,,total tests,,https://twitter.com/MinSantedj/status/1287825493144805377/photo/1
+449728,177,Djibouti,28.07.2020,5068,56721,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,29.07.2020,5081,57018,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,30.07.2020,5126,57259,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,31.07.2020,,,,,,
+449728,177,Djibouti,01.08.2020,,,,,,
+449728,177,Djibouti,02.08.2020,,,,,,
+449728,177,Djibouti,03.08.2020,5240,57088,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,04.08.2020,5248,58445,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,05.08.2020,5330,59909,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,06.08.2020,,,,,,
+449728,177,Djibouti,07.08.2020,5338,59905,,total tests,,https://twitter.com/MinSantedj/status/1291731190194606080/photo/1
+449728,177,Djibouti,08.08.2020,,,,,,
+449728,177,Djibouti,09.08.2020,5344,60247,,total tests,,
+449728,177,Djibouti,10.08.2020,5347,60665,,total tests,,https://twitter.com/MinSantedj/status/1292859047151120386/photo/1
+449728,177,Djibouti,11.08.2020,5348,61199,,total tests,,https://twitter.com/MinSantedj/status/1293178467136049162/photo/1
+449728,177,Djibouti,12.08.2020,5358,61903,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,13.08.2020,5358,62341,,,,https://twitter.com/MinSantedj/status/1293917163812782080/photo/1
+449728,177,Djibouti,14.08.2020,,,,,,
+449728,177,Djibouti,15.08.2020,,,,,,
+449728,177,Djibouti,16.08.2020,5369,63001,,total tests,,https://twitter.com/MinSantedj/status/1294990813978669056/photo/1
+449728,177,Djibouti,17.08.2020,5372,63299,,total tests,,https://twitter.com/MinSantedj/status/1295367167270100993/photo/1
+449728,177,Djibouti,18.08.2020,5374,63471,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,19.08.2020,,,,,,
+449728,177,Djibouti,20.08.2020,,,,,,
+449728,177,Djibouti,21.08.2020,5382,64206,,total tests,,https://twitter.com/MinSantedj/status/1294990813978669056/photo/1
+449728,177,Djibouti,22.08.2020,,,,,,
+449728,177,Djibouti,23.08.2020,5382,64670,,total tests,,https://twitter.com/MinSantedj/status/1294990813978669056/photo/1
+449728,177,Djibouti,24.08.2020,5383,64979,,total tests,,https://twitter.com/MinSantedj/status/1295367167270100993/photo/1
+449728,177,Djibouti,25.08.2020,5383,65651,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,26.08.2020,5383,66035,,total tests,,https://twitter.com/MinSantedj/status/1295367167270100993/photo/1
+449728,177,Djibouti,27.08.2020,5383,66447,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,28.08.2020,,,,,,
+449728,177,Djibouti,29.08.2020,5385,66859,,total tests,,https://twitter.com/MinSantedj/status/1294990813978669056/photo/1
+449728,177,Djibouti,30.08.2020,5385,67083,,total tests,,https://twitter.com/MinSantedj/status/1295367167270100993/photo/1
+449728,177,Djibouti,31.08.2020,5387,67370,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,01.09.2020,5387,67780,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,02.09.2020,5387,68142,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,03.09.2020,,,,,,
+449728,177,Djibouti,04.09.2020,,,,,,
+449728,177,Djibouti,05.09.2020,,,,,,
+449728,177,Djibouti,06.09.2020,5388,69405,,total tests,,https://twitter.com/MinSantedj/status/1295367167270100993/photo/1
+449728,177,Djibouti,07.09.2020,5388,69768,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,08.09.2020,5388,70111,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,09.09.2020,5391,70111,,total tests,,https://twitter.com/MinSantedj/status/1295988106747936768/photo/1
+449728,177,Djibouti,10.09.2020,5394,70635,,total tests,,https://twitter.com/MinSantedj/status/1304218274255831042/photo/1
+449728,177,Djibouti,11.09.2020,5394,70954,,total tests,,https://twitter.com/MinSantedj/status/1304478015678799873/photo/1
+449728,177,Djibouti,12.09.2020,,,,,,
+449728,177,Djibouti,13.09.2020,5395,71757,,total tests,,https://twitter.com/MinSantedj/status/1305156309780660227/photo/1
+449728,177,Djibouti,14.09.2020,5396,72143,,total tests,,https://twitter.com/MinSantedj/status/1305501255545036807/photo/1
+449728,177,Djibouti,15.09.2020,5396,72411,,total tests,,https://twitter.com/MinSantedj/status/1306085889869852674/photo/1
+449728,177,Djibouti,16.09.2020,5399,72799,,total tests,,https://twitter.com/MinSantedj/status/1306280659946799113/photo/1
+449728,177,Djibouti,17.09.2020,5399,73416,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,18.09.2020,5403,73695,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,19.09.2020,5403,73804,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,20.09.2020,5403,74078,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,21.09.2020,5404,74456,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,22.09.2020,5407,74837,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,23.09.2020,5407,75166,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,24.09.2020,5407,75534,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,25.09.2020,,,,,,
+449728,177,Djibouti,26.09.2020,5409,75899,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,27.09.2020,5409,76076,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,28.09.2020,5410,76292,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,29.09.2020,5416,76498,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,30.09.2020,5416,76791,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,01.10.2020,5417,77126,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,02.10.2020,5417,77365,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,03.10.2020,5418,77519,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,04.10.2020,5419,77743,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,05.10.2020,5421,78079,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,06.10.2020,5423,78533,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,07.10.2020,5423,78860,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,08.10.2020,5423,79257,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,09.10.2020,,,,,,
+449728,177,Djibouti,10.10.2020,,,,,,
+449728,177,Djibouti,11.10.2020,,,,,,
+449728,177,Djibouti,12.10.2020,5426,80269,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,13.10.2020,5428,80689,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,14.10.2020,5440,81070,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,15.10.2020,,,,,,
+449728,177,Djibouti,16.10.2020,5449,81778,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,17.10.2020,5452,81932,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,18.10.2020,5459,82166,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,19.10.2020,5496,82449,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,20.10.2020,5499,82739,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,21.10.2020,5512,82995,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,22.10.2020,5522,83382,,total tests,,https://twitter.com/minsantedj?lang=en
+449728,177,Djibouti,23.10.2020,5528,83626,,total tests,,https://twitter.com/minsantedj?lang=en

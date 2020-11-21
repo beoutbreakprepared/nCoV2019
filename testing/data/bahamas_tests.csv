@@ -1,0 +1,240 @@
+nid,location_id,location,date,total_cases,deaths,noncovid_related_deaths,deaths_measure,hospitalizations,hospitalizations_measure,icu,icu_measure,total_tests,daily_tests,tests_units
+,106,Bahamas,27.02.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,28.02.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,29.02.2020,,,,,,,,,,,
+,106,Bahamas,01.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,02.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,03.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,04.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,05.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,06.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,07.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,09.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,10.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,11.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,12.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,13.03.2020,0,0,,cumulative,,population,,,,,
+,106,Bahamas,14.03.2020,,,,,,,,,,,
+,106,Bahamas,15.03.2020,,,,,,,,,,,
+,106,Bahamas,16.03.2020,1,0,,cumulative,,population,,,,,
+,106,Bahamas,17.03.2020,1,0,,cumulative,,population,,,,,
+,106,Bahamas,18.03.2020,3,0,,cumulative,,population,,,,,
+,106,Bahamas,19.03.2020,3,0,,cumulative,,population,,,,,
+,106,Bahamas,20.03.2020,4,0,,cumulative,,population,,,,,
+,106,Bahamas,21.03.2020,4,0,,cumulative,,population,,,,,
+,106,Bahamas,22.03.2020,4,0,,cumulative,,population,,,,,
+,106,Bahamas,23.03.2020,4,0,,cumulative,,population,,,,,
+,106,Bahamas,24.03.2020,,,,,,,,,,,
+,106,Bahamas,25.03.2020,,,,,,,,,,,
+,106,Bahamas,26.03.2020,9,0,,cumulative,,population,,,,,
+,106,Bahamas,27.03.2020,,,,,,,,,,,
+,106,Bahamas,28.03.2020,11,0,,cumulative,,population,,,,,
+,106,Bahamas,29.03.2020,,,,,,,,,,,
+,106,Bahamas,30.03.2020,,,,,,,,,,,
+,106,Bahamas,31.03.2020,,,,,,,,,,,
+,106,Bahamas,01.04.2020,,,,,,,,,,,
+,106,Bahamas,02.04.2020,,,,,,,,,,,
+,106,Bahamas,03.04.2020,,,,,,,,,,,
+,106,Bahamas,04.04.2020,,,,,,,,,,,
+,106,Bahamas,05.04.2020,,,,,,,,,,,
+,106,Bahamas,06.04.2020,,,,,,,,,,,
+,106,Bahamas,07.04.2020,,,,,,,,,,,
+,106,Bahamas,08.04.2020,,,,,,,,,,,
+,106,Bahamas,09.04.2020,,,,,,,,,,,
+,106,Bahamas,10.04.2020,,,,,,,,,,,
+,106,Bahamas,11.04.2020,,,,,,,,,,,
+,106,Bahamas,12.04.2020,47,8,,cumulative,,population,,,,,
+,106,Bahamas,13.04.2020,,,,,,,,,,,
+,106,Bahamas,14.04.2020,,,,,,,,,,,
+,106,Bahamas,15.04.2020,,,,,,,,,,,
+,106,Bahamas,16.04.2020,,,,,,,,,,,
+,106,Bahamas,17.04.2020,,,,,,,,,,,
+,106,Bahamas,18.04.2020,,,,,,,,,,,
+,106,Bahamas,19.04.2020,,,,,,,,,,,
+,106,Bahamas,20.04.2020,,,,,,,,,,,
+,106,Bahamas,21.04.2020,65,9,,cumulative,,population,,,,,
+,106,Bahamas,22.04.2020,,,,,,,,,,,
+,106,Bahamas,23.04.2020,72,14,,cumulative,,population,,,,,
+,106,Bahamas,24.04.2020,73,11,,cumulative,,population,,,,,
+,106,Bahamas,25.04.2020,,,,,,,,,,,
+,106,Bahamas,26.04.2020,80,11,,cumulative,,population,,,,,
+,106,Bahamas,27.04.2020,80,11,,cumulative,,population,,,,,
+,106,Bahamas,28.04.2020,80,11,,cumulative,,population,,,,,
+,106,Bahamas,29.04.2020,80,11,,cumulative,,population,,,,,
+,106,Bahamas,30.04.2020,81,11,,cumulative,8,population,,,1284,,tests completed
+,106,Bahamas,01.05.2020,82,11,,cumulative,9,population,,,1313,,tests completed
+,106,Bahamas,02.05.2020,83,11,,cumulative,9,population,,,1353,,tests completed
+,106,Bahamas,03.05.2020,83,11,,cumulative,8,population,,,1391,,tests completed
+,106,Bahamas,04.05.2020,84,11,,cumulative,8,population,,,1446,,tests completed
+,106,Bahamas,05.05.2020,89,11,,cumulative,8,population,,,1485,,tests completed
+,106,Bahamas,06.05.2020,92,11,,cumulative,8,population,,,1500,,tests completed
+,106,Bahamas,07.05.2020,92,11,,cumulative,8,population,,,1539,,tests completed
+,106,Bahamas,08.05.2020,92,11,,cumulative,8,population,,,1548,,tests completed
+,106,Bahamas,09.05.2020,92,11,,cumulative,7,population,,,1587,,tests completed
+,106,Bahamas,10.05.2020,92,11,,cumulative,8,population,,,1626,,tests completed
+,106,Bahamas,11.05.2020,93,11,,cumulative,6,population,,,1634,,tests completed
+,106,Bahamas,12.05.2020,,,,,,,,,,,
+,106,Bahamas,13.05.2020,94,11,,cumulative,6,population,,,1670,,tests completed
+,106,Bahamas,14.05.2020,96,11,,cumulative,7,population,,,1700,,tests completed
+,106,Bahamas,15.05.2020,96,11,,cumulative,7,population,,,1747,,tests completed
+,106,Bahamas,16.05.2020,96,11,,cumulative,7,population,,,1794,,tests completed
+,106,Bahamas,17.05.2020,96,11,,cumulative,7,population,,,1814,,tests completed
+,106,Bahamas,18.05.2020,96,11,,cumulative,7,population,,,1826,,tests completed
+,106,Bahamas,19.05.2020,96,11,,cumulative,7,population,,,1838,,tests completed
+,106,Bahamas,20.05.2020,97,11,,cumulative,6,population,,,1872,,tests completed
+,106,Bahamas,21.05.2020,97,11,,cumulative,6,population,,,1910,,tests completed
+,106,Bahamas,22.05.2020,97,11,,cumulative,6,population,,,1940,,tests completed
+,106,Bahamas,23.05.2020,100,11,,cumulative,6,population,,,1955,,tests completed
+,106,Bahamas,24.05.2020,100,11,,cumulative,6,population,,,1972,,tests completed
+,106,Bahamas,25.05.2020,100,11,,cumulative,6,population,,,1977,,tests completed
+,106,Bahamas,26.05.2020,100,11,,cumulative,6,population,,,2026,,tests completed
+,106,Bahamas,27.05.2020,100,11,,cumulative,6,population,,,2043,,tests completed
+,106,Bahamas,28.05.2020,101,11,,cumulative,4,population,,,2050,,tests completed
+,106,Bahamas,29.05.2020,102,11,,cumulative,4,population,,,2087,,tests completed
+,106,Bahamas,30.05.2020,102,11,,cumulative,3,population,,,2091,,tests completed
+,106,Bahamas,31.05.2020,102,11,,cumulative,2,population,,,2101,,tests completed
+,106,Bahamas,01.06.2020,102,11,,cumulative,2,population,,,2115,,tests completed
+,106,Bahamas,02.06.2020,,,,,,,,,,,
+,106,Bahamas,03.06.2020,102,11,,cumulative,2,population,,,2134,,tests completed
+,106,Bahamas,04.06.2020,102,11,,cumulative,2,population,,,2142,,tests completed
+,106,Bahamas,05.06.2020,102,11,,cumulative,1,population,,,2156,,tests completed
+,106,Bahamas,06.06.2020,103,11,,cumulative,1,population,,,2194,,tests completed
+,106,Bahamas,07.06.2020,103,11,,cumulative,1,population,,,2203,,tests completed
+,106,Bahamas,08.06.2020,103,11,,cumulative,1,population,,,2225,,tests completed
+,106,Bahamas,09.06.2020,103,11,,cumulative,1,population,,,2231,,tests completed
+,106,Bahamas,10.06.2020,103,11,,cumulative,1,population,,,2237,,tests completed
+,106,Bahamas,11.06.2020,103,11,,cumulative,1,population,,,2252,,tests completed
+,106,Bahamas,12.06.2020,103,11,,cumulative,1,population,,,2261,,tests completed
+,106,Bahamas,13.06.2020,104,11,,cumulative,2,population,,,2271,,tests completed
+,106,Bahamas,14.06.2020,104,11,,cumulative,2,population,,,2285,,tests completed
+,106,Bahamas,15.06.2020,104,11,,cumulative,2,population,,,2285,,tests completed
+,106,Bahamas,16.06.2020,104,11,,cumulative,2,population,,,2299,,tests completed
+,106,Bahamas,17.06.2020,104,11,,cumulative,1,population,,,2321,,tests completed
+,106,Bahamas,18.06.2020,104,11,,cumulative,1,population,,,2326,,tests completed
+,106,Bahamas,19.06.2020,104,11,,cumulative,1,population,,,2326,,tests completed
+,106,Bahamas,20.06.2020,104,11,,cumulative,1,population,,,2339,,tests completed
+,106,Bahamas,21.06.2020,104,11,,cumulative,1,population,,,2347,,tests completed
+,106,Bahamas,22.06.2020,104,11,,cumulative,1,population,,,2347,,tests completed
+,106,Bahamas,23.06.2020,104,11,,cumulative,1,population,,,2360,,tests completed
+,106,Bahamas,24.06.2020,104,11,,cumulative,1,population,,,2366,,tests completed
+,106,Bahamas,25.06.2020,104,11,,cumulative,0,population,,,2373,,tests completed
+,106,Bahamas,26.06.2020,104,11,,cumulative,0,population,,,2377,,tests completed
+,106,Bahamas,27.06.2020,104,11,,cumulative,0,population,,,2388,,tests completed
+,106,Bahamas,28.06.2020,104,11,,cumulative,0,population,,,2393,,tests completed
+,106,Bahamas,29.06.2020,104,11,,cumulative,0,population,,,2393,,tests completed
+,106,Bahamas,30.06.2020,104,11,,cumulative,0,population,,,2404,,tests completed
+,106,Bahamas,01.07.2020,104,11,,cumulative,0,population,,,2424,,tests completed
+,106,Bahamas,02.07.2020,104,11,,cumulative,0,population,,,2428,,tests completed
+,106,Bahamas,03.07.2020,,,,,,,,,,,
+,106,Bahamas,04.07.2020,,,,,,,,,,,
+,106,Bahamas,05.07.2020,,,,,,,,,,,
+,106,Bahamas,06.07.2020,,,,,,,,,,,
+,106,Bahamas,07.07.2020,,,,,,,,,,,
+,106,Bahamas,08.07.2020,,,,,,,,,,,
+,106,Bahamas,09.07.2020,,,,,,,,,,,
+,106,Bahamas,10.07.2020,,,,,,,,,,,
+,106,Bahamas,11.07.2020,,,,,,,,,,,
+,106,Bahamas,12.07.2020,,,,,,,,,,,
+,106,Bahamas,13.07.2020,,,,,,,,,,,
+,106,Bahamas,14.07.2020,,,,,,,,,,,
+,106,Bahamas,15.07.2020,,,,,,,,,,,
+,106,Bahamas,16.07.2020,,,,,,,,,,,
+,106,Bahamas,17.07.2020,,,,,,,,,,,
+,106,Bahamas,18.07.2020,,,,,,,,,,,
+,106,Bahamas,19.07.2020,,,,,,,,,,,
+,106,Bahamas,20.07.2020,,,,,,,,,,,
+,106,Bahamas,21.07.2020,,,,,,,,,,,
+,106,Bahamas,22.07.2020,,,,,,,,,,,
+,106,Bahamas,23.07.2020,,,,,,,,,,,
+,106,Bahamas,24.07.2020,,,,,,,,,,,
+,106,Bahamas,25.07.2020,,,,,,,,,,,
+,106,Bahamas,26.07.2020,,,,,,,,,,,
+,106,Bahamas,27.07.2020,,,,,,,,,,,
+,106,Bahamas,28.07.2020,,,,,,,,,,,
+,106,Bahamas,29.07.2020,,,,,,,,,,,
+,106,Bahamas,30.07.2020,,,,,,,,,,,
+,106,Bahamas,31.07.2020,,,,,,,,,,,
+,106,Bahamas,01.08.2020,599,14,2,cumulative,19,population,,,,,tests completed
+,106,Bahamas,02.08.2020,648,14,2,cumulative,22,population,,,,,tests completed
+,106,Bahamas,03.08.2020,679,14,2,cumulative,22,population,,,,,tests completed
+,106,Bahamas,04.08.2020,715,14,2,cumulative,22,population,,,,,tests completed
+,106,Bahamas,05.08.2020,751,14,2,cumulative,18,population,,,,,tests completed
+,106,Bahamas,06.08.2020,761,14,2,cumulative,19,population,,,,,tests completed
+,106,Bahamas,07.08.2020,830,14,2,cumulative,30,population,,,,,tests completed
+,106,Bahamas,08.08.2020,878,14,2,cumulative,29,population,,,,,tests completed
+,106,Bahamas,09.08.2020,898,15,2,cumulative,35,population,,,,,tests completed
+,106,Bahamas,10.08.2020,945,15,2,cumulative,31,population,,,6557,,tests completed
+,106,Bahamas,11.08.2020,989,15,2,cumulative,30,population,,,6938,,tests completed
+,106,Bahamas,12.08.2020,1036,15,2,cumulative,30,population,,,7096,,tests completed
+,106,Bahamas,13.08.2020,1089,15,2,cumulative,31,population,,,7242,,tests completed
+,106,Bahamas,14.08.2020,1119,17,3,cumulative,35,population,,,7322,,tests completed
+,106,Bahamas,15.08.2020,1252,17,3,cumulative,37,population,,,7533,,tests completed
+,106,Bahamas,16.08.2020,1315,18,3,cumulative,34,population,,,7639,,tests completed
+,106,Bahamas,17.08.2020,1329,19,3,cumulative,32,population,,,7690,,tests completed
+,106,Bahamas,18.08.2020,1424,20,3,cumulative,78,population,,,7971,,tests completed
+,106,Bahamas,19.08.2020,1531,22,4,cumulative,61,population,,,8320,,tests completed
+,106,Bahamas,20.08.2020,1610,23,4,cumulative,62,population,,,8449,,tests completed
+,106,Bahamas,21.08.2020,1703,27,5,cumulative,77,population,,,8778,,tests completed
+,106,Bahamas,22.08.2020,1765,29,5,cumulative,83,population,,,9068,,tests completed
+,106,Bahamas,23.08.2020,1784,44,5,cumulative,87,population,,,9821,,tests completed
+,106,Bahamas,24.08.2020,1789,46,5,cumulative,90,population,,,10170,,tests completed
+,106,Bahamas,25.08.2020,1813,48,6,cumulative,79,population,,,10192,,tests completed
+,106,Bahamas,26.08.2020,1923,48,7,cumulative,79,population,,,10484,,tests completed
+,106,Bahamas,27.08.2020,2020,50,7,cumulative,82,population,,,10625,,tests completed
+,106,Bahamas,28.08.2020,2057,40,7,cumulative,80,population,,,10917,,tests completed
+,106,Bahamas,29.08.2020,2135,43,7,cumulative,77,population,,,11037,,tests completed
+,106,Bahamas,30.08.2020,2167,43,7,cumulative,86,population,,,11093,,tests completed
+,106,Bahamas,31.08.2020,2217,44,7,cumulative,66,population,,,11165,,tests completed
+,106,Bahamas,01.09.2020,2276,46,7,cumulative,68,population,,,11445,,tests completed
+,106,Bahamas,02.09.2020,2337,47,7,cumulative,67,population,,,11871,,tests completed
+,106,Bahamas,03.09.2020,2386,50,7,cumulative,77,population,,,12117,,tests completed
+,106,Bahamas,04.09.2020,2476,55,7,cumulative,76,population,,,12541,,tests completed
+,106,Bahamas,05.09.2020,2506,56,7,cumulative,83,population,,,12640,,tests completed
+,106,Bahamas,06.09.2020,2546,58,7,cumulative,75,population,,,12833,,tests completed
+,106,Bahamas,07.09.2020,2585,59,7,cumulative,54,population,,,13010,,tests completed
+,106,Bahamas,08.09.2020,2657,63,8,cumulative,69,population,,,13593,,tests completed
+,106,Bahamas,09.09.2020,2721,63,8,cumulative,69,population,,,13971,,tests completed
+,106,Bahamas,10.09.2020,2814,65,8,cumulative,70,population,,,14383,,tests completed
+,106,Bahamas,11.09.2020,2874,67,8,cumulative,65,population,,,14700,,tests completed
+,106,Bahamas,12.09.2020,2928,67,8,cumulative,71,population,,,15083,,tests completed
+,106,Bahamas,13.09.2020,2974,67,9,cumulative,72,population,,,15196,,tests completed
+,106,Bahamas,14.09.2020,3008,66,8,cumulative,66,population,,,15418,,tests completed
+,106,Bahamas,15.09.2020,3032,66,9,cumulative,69,population,,,15510,,tests completed
+,106,Bahamas,16.09.2020,3087,69,9,cumulative,74,population,,,15840,,tests completed
+,106,Bahamas,17.09.2020,3177,69,9,cumulative,72,population,,,16386,,tests completed
+,106,Bahamas,18.09.2020,3214,73,9,cumulative,72,population,,,16517,,tests completed
+,106,Bahamas,19.09.2020,3315,74,9,cumulative,77,population,,,17009,,tests completed
+,106,Bahamas,20.09.2020,3370,74,9,cumulative,79,population,,,17102,,tests completed
+,106,Bahamas,21.09.2020,3418,75,9,cumulative,90,population,,,17213,,tests completed
+,106,Bahamas,22.09.2020,3467,77,10,cumulative,89,population,,,17341,,tests completed
+,106,Bahamas,23.09.2020,3618,80,10,cumulative,89,population,,,18263,,tests completed
+,106,Bahamas,24.09.2020,3699,86,13,cumulative,90,population,,,18604,,tests completed
+,106,Bahamas,25.09.2020,3790,89,13,cumulative,87,population,,,18959,,tests completed
+,106,Bahamas,26.09.2020,3838,89,13,cumulative,93,population,,,19026,,tests completed
+,106,Bahamas,27.09.2020,,,,,,,,,,,
+,106,Bahamas,28.09.2020,3903,91,14,cumulative,92,population,,,19161,,tests completed
+,106,Bahamas,29.09.2020,4022,95,15,cumulative,100,population,,,19776,,tests completed
+,106,Bahamas,30.09.2020,4123,96,15,cumulative,92,population,,,20261,,tests completed
+,106,Bahamas,01.10.2020,4220,96,16,cumulative,93,population,,,20835,,tests completed
+,106,Bahamas,02.10.2020,4332,96,17,cumulative,102,population,,,21173,,tests completed
+,106,Bahamas,03.10.2020,4409,96,17,cumulative,96,population,,,21445,,tests completed
+,106,Bahamas,04.10.2020,4452,96,17,cumulative,109,population,,,21592,,tests completed
+,106,Bahamas,05.10.2020,4559,100,19,cumulative,112,population,,,22324,,tests completed
+,106,Bahamas,06.10.2020,,,,,,,,,,,
+,106,Bahamas,07.10.2020,4713,102,19,cumulative,109,population,,,23039,,tests completed
+,106,Bahamas,08.10.2020,,,,,,,,,,,
+,106,Bahamas,09.10.2020,4955,106,18,cumulative,112,population,,,24251,,tests completed
+,106,Bahamas,10.10.2020,5023,106,18,cumulative,112,population,,,24423,,tests completed
+,106,Bahamas,11.10.2020,5078,107,18,cumulative,110,population,,,24502,,tests completed
+,106,Bahamas,12.10.2020,5163,108,20,cumulative,104,population,,,24694,,tests completed
+,106,Bahamas,13.10.2020,5191,109,22,cumulative,106,population,,,24758,,tests completed
+,106,Bahamas,14.10.2020,5385,112,22,cumulative,112,population,,,25585,,tests completed
+,106,Bahamas,15.10.2020,5517,114,23,cumulative,107,population,,,26150,,tests completed
+,106,Bahamas,16.10.2020,5628,116,23,cumulative,105,population,,,26869,,tests completed
+,106,Bahamas,17.10.2020,5703,122,23,cumulative,109,population,,,27100,,tests completed
+,106,Bahamas,18.10.2020,5773,123,24,cumulative,113,population,,,31007,,tests completed
+,106,Bahamas,19.10.2020,5923,124,24,cumulative,119,population,11,population,31801,,tests completed
+,106,Bahamas,20.10.2020,6051,127,24,cumulative,119,population,11,population,32242,,tests completed
+,106,Bahamas,21.10.2020,6135,130,24,cumulative,102,population,11,population,32666,,tests completed
+,106,Bahamas,22.10.2020,6268,130,24,cumulative,122,population,10,population,33300,,tests completed
+,106,Bahamas,23.10.2020,,,,,,,,,,,
