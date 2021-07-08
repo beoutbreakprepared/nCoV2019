@@ -1,0 +1,17 @@
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - /latest_data/latestdata.tar.gz
+
+jobs:
+  dispatch-data-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch case data update repository event
+        run: |
+          curl -X POST https://api.github.com/repos/open-covid-data/healthmap-gdo-temp/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.ACCESS_TOKEN }} \
+          --data '{"event_type": "latest-data-push"}'
